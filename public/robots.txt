@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /*?*
 
-Sitemap: https://fr-caces.example/sitemap-index.xml
+Sitemap: https://testcaces.fr/sitemap-index.xml

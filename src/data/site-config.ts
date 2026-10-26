@@ -1,6 +1,6 @@
 /** Configuration centrale du site (générée par new-site.py). */
-export const SITE_URL = "https://fr-caces.example";
-export const SITE_NAMES: Record<string, string> = {"fr": "FR CACES", "en": "FR CACES"};
+export const SITE_URL = "https://testcaces.fr";
+export const SITE_NAMES: Record<string, string> = {"fr": "Test CACES", "en": "Test CACES"};
 // Partie du nom affichée en couleur dans l'en-tête (RECETTE §10.3), « » pour aucune.
 export const BRAND_ACCENT = "CACES";
 export const LANG_TAGS: Record<string, string> = {"fr": "fr-FR", "en": "en-FR"};
@@ -18,7 +18,7 @@ export const AUTHOR_DESC: Record<string, string> = {"fr": "Radif Partners lit le
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
 export const KNOWS_ABOUT: Record<string, string[]> = {"fr": ["CACES R.489 chariots de manutention à conducteur porté", "CACES R.482 engins de chantier", "CACES R.486 plates-formes élévatrices mobiles de personnes", "CACES R.490 grues de chargement", "CACES R.485 gerbeurs à conducteur accompagnant", "Autorisation de conduite (article R.4323-56 du Code du travail)"], "en": ["CACES R.489 ride-on industrial trucks", "CACES R.482 construction machinery", "CACES R.486 mobile elevating work platforms", "CACES R.490 loader cranes", "CACES R.485 pedestrian-controlled stackers", "French operating authorisation (Labour Code article R.4323-56)"]};
-export const CONTACT_EMAIL = "contact@fr-caces.example";
+export const CONTACT_EMAIL = "contact@testcaces.fr";
 export const THEME_COLOR = '#0B4F8A';
 export const LOGO_SYMBOL = 'C';
 export const BING_VERIFY_CODE = '';

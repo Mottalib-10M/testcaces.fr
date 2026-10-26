@@ -8,7 +8,7 @@ const h = helpers(lang);
 const P = h.P;
 const c = h.count;
 ---
-<PageLayout title="CACES mock test method: draw, marking scheme and dates" description="How FR CACES draws a mock test from each recommendation's assessment sheet, marks it at 70 out of 100 with half of each theme, and works out prices and dates." lang={lang} jsonLd={[articleSchema({ title: 'Method: draw, marking and calculations', description: 'FR CACES method', path: route('method', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Method', path: route('method', lang) }])]} breadcrumbs={[{ label: 'Method' }]}>
+<PageLayout title="CACES mock test method: draw, marking scheme and dates" description="How Test CACES draws a mock test from each recommendation's assessment sheet, marks it at 70 out of 100 with half of each theme, and works out prices and dates." lang={lang} jsonLd={[articleSchema({ title: 'Method: draw, marking and calculations', description: 'Test CACES method', path: route('method', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Method', path: route('method', lang) }])]} breadcrumbs={[{ label: 'Method' }]}>
   <header class="mb-6"><p class="kicker">Method</p><h1 class="mt-0 text-3xl font-bold text-navy-900 md:text-4xl">Draw, marking, prices and dates</h1></header>
   <div class="prose prose-slate max-w-none">
     <p>Every page and every tool reads the same files: the question bank, the assessment grids, a parameter file holding the rules checked on {h.retrieved}, and the Mon Compte Formation catalogue prices as of {h.cpfDate}. No rule, pass mark or price is typed into a page: when a text changes, the file changes and every page follows.</p>
