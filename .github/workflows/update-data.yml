@@ -1,0 +1,28 @@
+# Mise à jour hebdomadaire : prix et durées des formations CACES du catalogue Mon Compte Formation
+# (open data Caisse des Dépôts, Licence Ouverte v2.0). Reconstruction et tests ensuite ; on ne commite
+# que si les chiffres ont changé, ce qui relance deploy.yml (workflow_run).
+# Les règles (recommandations CNAM, Code du travail, CPF) sont dans src/data/params-2026.json et se
+# vérifient à la main contre le texte officiel : un changement de texte n'est pas un cas pour un automate.
+name: update-data
+on:
+  schedule:
+    - cron: '0 6 * * 1'    # chaque lundi, 6:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - run: node scripts/update-data.mjs
+      - run: npm ci --legacy-peer-deps
+      - run: npm run build && npx vitest run
+      - name: Commit si les données ont changé
+        run: |
+          git config user.name 'Radif Partners'
+          git config user.email 'amradif@gmail.com'
+          git add src/data/cpf-caces.json
+          git diff --cached --quiet || (git commit -m 'Données : catalogue CPF des formations CACES' && git push)

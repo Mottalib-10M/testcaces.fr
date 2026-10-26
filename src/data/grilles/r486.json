@@ -1,0 +1,281 @@
+{
+ "reco": "r486",
+ "titre": {
+  "fr": "Plates-formes élévatrices mobiles de personnel (PEMP)",
+  "en": "Mobile elevating work platforms (MEWPs)"
+ },
+ "themes": [
+  {
+   "key": "cg",
+   "fr": "Connaissances générales",
+   "en": "General knowledge",
+   "points": 14,
+   "items": [
+    {
+     "key": "cg-roles-employeur",
+     "fr": "Rôles du constructeur, de l’employeur et du chef de chantier",
+     "en": "Duties of manufacturer, employer and site manager",
+     "n": 4
+    },
+    {
+     "key": "cg-roles-conducteur",
+     "fr": "Rôles du conducteur et de l’accompagnateur",
+     "en": "Duties of the operator and the ground person",
+     "n": 5
+    },
+    {
+     "key": "cg-acteurs",
+     "fr": "Acteurs de la prévention et leurs missions",
+     "en": "Occupational safety bodies and their missions",
+     "n": 2
+    },
+    {
+     "key": "cg-categories",
+     "fr": "PEMP concernées ou exclues et catégories CACES",
+     "en": "MEWPs covered or excluded and CACES categories",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "fr": "Technologie et stabilité",
+   "en": "MEWP technology and stability",
+   "points": 26,
+   "items": [
+    {
+     "key": "tech-terminologie",
+     "fr": "Vocabulaire technique des PEMP",
+     "en": "MEWP technical vocabulary",
+     "n": 2
+    },
+    {
+     "key": "tech-caracteristiques",
+     "fr": "Caractéristiques générales d’une nacelle",
+     "en": "General characteristics of a MEWP",
+     "n": 2
+    },
+    {
+     "key": "tech-composants",
+     "fr": "Composants et mécanismes : rôle et fonctionnement",
+     "en": "Components and mechanisms: role and operation",
+     "n": 2
+    },
+    {
+     "key": "tech-postes",
+     "fr": "Poste principal, postes de dépannage et de secours",
+     "en": "Main, recovery and emergency control stations",
+     "n": 2
+    },
+    {
+     "key": "tech-organes",
+     "fr": "Organes de service de la PEMP",
+     "en": "MEWP operating controls",
+     "n": 2
+    },
+    {
+     "key": "tech-securite",
+     "fr": "Dispositifs de sécurité et leur utilité",
+     "en": "Safety devices and what they do",
+     "n": 3
+    },
+    {
+     "key": "tech-energie",
+     "fr": "Sources d’énergie et leurs particularités",
+     "en": "Power sources and their features",
+     "n": 1
+    },
+    {
+     "key": "tech-masse-vent",
+     "fr": "Masse, prise au vent et centre de gravité",
+     "en": "Mass, wind area and centre of gravity",
+     "n": 2
+    },
+    {
+     "key": "tech-equilibre",
+     "fr": "Équilibre : polygone de sustentation et moments",
+     "en": "Balance: support polygon and moments",
+     "n": 2
+    },
+    {
+     "key": "tech-conditions",
+     "fr": "Conditions à réunir pour rester stable",
+     "en": "Conditions for staying stable",
+     "n": 2
+    },
+    {
+     "key": "tech-courbes",
+     "fr": "Lire une courbe de charge",
+     "en": "Reading a load chart",
+     "n": 4
+    },
+    {
+     "key": "tech-sol",
+     "fr": "Nature et état du sol d’appui",
+     "en": "Type and condition of the ground",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "key": "expl",
+   "fr": "Exploitation",
+   "en": "Operating MEWPs",
+   "points": 54,
+   "items": [
+    {
+     "key": "expl-renversement",
+     "fr": "Prévenir le renversement de la nacelle",
+     "en": "Preventing MEWP overturning",
+     "n": 3
+    },
+    {
+     "key": "expl-chute-hauteur",
+     "fr": "Prévenir la chute de hauteur",
+     "en": "Preventing falls from height",
+     "n": 3
+    },
+    {
+     "key": "expl-heurts",
+     "fr": "Heurts et écrasement de personnes",
+     "en": "Striking and crushing people",
+     "n": 3
+    },
+    {
+     "key": "expl-interdites",
+     "fr": "Manœuvres et usages interdits",
+     "en": "Prohibited operations and uses",
+     "n": 3
+    },
+    {
+     "key": "expl-chute-objets",
+     "fr": "Chute d’objets depuis la plate-forme",
+     "en": "Objects falling from the platform",
+     "n": 3
+    },
+    {
+     "key": "expl-collisions",
+     "fr": "Collisions avec engins, véhicules et obstacles",
+     "en": "Collisions with machines, vehicles and obstacles",
+     "n": 3
+    },
+    {
+     "key": "expl-environnement",
+     "fr": "Lignes aériennes, tranchées, circulation alentour",
+     "en": "Overhead lines, trenches and nearby traffic",
+     "n": 3
+    },
+    {
+     "key": "expl-visibilite",
+     "fr": "Visibilité réduite autour de la nacelle",
+     "en": "Poor visibility around the MEWP",
+     "n": 3
+    },
+    {
+     "key": "expl-travaux",
+     "fr": "Risques du travail fait en hauteur",
+     "en": "Hazards of the work done at height",
+     "n": 3
+    },
+    {
+     "key": "expl-climat",
+     "fr": "Vent, orage, neige et gel",
+     "en": "Wind, storms, snow and frost",
+     "n": 3
+    },
+    {
+     "key": "expl-secours",
+     "fr": "Utiliser les postes de dépannage et de secours",
+     "en": "Using recovery and emergency controls",
+     "n": 2
+    },
+    {
+     "key": "expl-interference",
+     "fr": "Coactivité avec d’autres appareils de levage",
+     "en": "Interference with other lifting equipment",
+     "n": 2
+    },
+    {
+     "key": "expl-aeration",
+     "fr": "Locaux mal ventilés et gaz d’échappement",
+     "en": "Poorly ventilated areas and exhaust fumes",
+     "n": 2
+    },
+    {
+     "key": "expl-energies",
+     "fr": "Risques des énergies : batterie, hydraulique, mécanique",
+     "en": "Energy hazards: battery, hydraulic, mechanical",
+     "n": 2
+    },
+    {
+     "key": "expl-carburant",
+     "fr": "Risques liés au carburant",
+     "en": "Fuel-related hazards",
+     "n": 2
+    },
+    {
+     "key": "expl-substances",
+     "fr": "Alcool, drogues, médicaments et conduite",
+     "en": "Alcohol, drugs, medicines and operating",
+     "n": 1
+    },
+    {
+     "key": "expl-attention",
+     "fr": "Perte d’attention et téléphone",
+     "en": "Distraction and phone use",
+     "n": 1
+    },
+    {
+     "key": "expl-limites",
+     "fr": "Rester dans les limites d’emploi",
+     "en": "Staying within the operating limits",
+     "n": 3
+    },
+    {
+     "key": "expl-epi",
+     "fr": "Harnais et protections contre la chute",
+     "en": "Harnesses and fall protection",
+     "n": 2
+    },
+    {
+     "key": "expl-balisage",
+     "fr": "Pourquoi baliser la zone de travail",
+     "en": "Why the work area is cordoned off",
+     "n": 3
+    },
+    {
+     "key": "expl-pictos",
+     "fr": "Panneaux et pictogrammes de signalisation",
+     "en": "Safety signs and pictograms",
+     "n": 4
+    }
+   ]
+  },
+  {
+   "key": "maint",
+   "fr": "Entretien",
+   "en": "Maintenance",
+   "points": 6,
+   "items": [
+    {
+     "key": "maint-hydraulique",
+     "fr": "Anomalies des flexibles et du circuit hydraulique",
+     "en": "Faults in hoses and the hydraulic system",
+     "n": 2
+    },
+    {
+     "key": "maint-chassis",
+     "fr": "Anomalies du châssis et des stabilisateurs",
+     "en": "Faults in the chassis and outriggers",
+     "n": 2
+    },
+    {
+     "key": "maint-structure",
+     "fr": "Anomalies de la structure extensible",
+     "en": "Faults in the extending structure",
+     "n": 2
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { LAST_UPDATED, AUTHOR_NAME, CONTACT_EMAIL, AUTHOR_ROLE } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { organizationSchema, breadcrumbSchema, profilePageSchema } from '../../lib/seo';
+import { displayDate } from '../../lib/format';
+import { helpers } from '../../lib/helpers';
+const lang = 'en';
+const h = helpers(lang);
+---
+<PageLayout title="FR CACES, who writes the mock test questions and why" description="Who publishes FR CACES, where the CACES mock test questions and explanations come from, where the rules are read, and what the site never sells or advises." lang={lang} jsonLd={[organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path: route('about', lang) }])]} breadcrumbs={[{ label: 'About' }]}>
+  <header class="mb-6"><p class="kicker">About</p><h1 class="mt-0 text-3xl font-bold text-navy-900 md:text-4xl">Who publishes FR CACES</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <div class="not-prose mb-6"><p class="text-lg font-semibold text-navy-900">{AUTHOR_NAME}</p><p class="text-navy-700">{AUTHOR_ROLE[lang]}</p></div>
+    <p>FR CACES is published by Radif Partners, a company that builds free tools from public texts and data. It is for forklift drivers, plant operators, agency workers and anyone about to sit the theory part of a CACES in France, the safe operation certificate, as well as the people who supervise them. The English version is written for English speakers who live and work in France.</p>
+    <h2>What the site does</h2>
+    <p>For five French Health Insurance recommendations (R489, R482, R486, R490 and R485) it offers a {h.P.test.questions}-question theory mock test drawn from the official assessment sheet weighting, timed over one hour and marked with the two official rules; practice by theme with instant marking; a review of your mistakes; and the full question list with explained answers. It also tells you which CACES matches which machine, works out the expiry and refresher dates, and gives the real course prices by category and region from the Mon Compte Formation catalogue.</p>
+    <p>Everything is free, with no account and no email. Nothing you type leaves your browser; your progress (missed questions, scores) is kept in your browser only.</p>
+    <h2>Where the questions come from</h2>
+    <p>All {h.num(h.count.all)} questions are written by us, from the knowledge syllabus and assessment sheets that the French Health Insurance publishes in each recommendation. Each question is tied to the syllabus point it trains and has an explanation saying why. No question is taken from a testing body’s bank, a manual, an app or a prep site: these are not the official test questions, which testing bodies draw from grids they do not publish. The real test is in French; the English version is here to help you understand the rules.</p>
+    <h2>What we are not</h2>
+    <p>We are not the French Health Insurance (Assurance Maladie), the INRS, a certified testing body or a training centre. We issue no CACES, book no test, take no funding request and recommend no provider. The site uses no official logo.</p>
+    <h2>How the site is funded</h2>
+    <p>The site sells no course, book or app, earns no commission and passes no contact details to any provider. If advertising is ever added, it will never sit above a test.</p>
+    <h2>Report a mistake</h2>
+    <p>Write to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> quoting the first words of the question or the rule concerned. The <a href={route('editorial', lang)}>editorial policy</a> explains how a correction is made, and the <a href={route('method', lang)}>Method page</a> details the draw, the marking and the calculations.</p>
+    <p class="text-sm text-navy-600">Rules and prices checked on <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-GB')}</time>.</p>
+  </div>
+</PageLayout>

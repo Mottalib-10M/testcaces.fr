@@ -1,0 +1,2043 @@
+[
+ {
+  "id": "r485-001",
+  "points": {
+   "r485": "cg-categories"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous détenez le CACES R485 catégorie 2. Pouvez-vous être autorisé sur un gerbeur accompagnant de catégorie 1 ?",
+   "o": [
+    "Non, chaque catégorie exige son propre CACES, même la plus basse",
+    "Oui, mais seulement pour la maintenance",
+    "Oui, la catégorie 2 dispense de la catégorie 1",
+    "Non, la catégorie 1 relève de la R489"
+   ],
+   "x": "La R485 prévoit que le CACES de catégorie 2 (levée au-delà de 2,50 m) permet d’autoriser la conduite des gerbeurs de catégorie 1. L’inverse n’est pas vrai : la catégorie 1 ne couvre pas les gerbeurs qui lèvent plus haut."
+  },
+  "en": {
+   "q": "You hold the R485 category 2 CACES. Can you be authorised on a category 1 pedestrian stacker?",
+   "o": [
+    "No, each category needs its own CACES, even the lowest",
+    "Yes, but only for maintenance",
+    "Yes, category 2 covers category 1",
+    "No, category 1 falls under R489"
+   ],
+   "x": "R485 states that the category 2 CACES (lift above 2.50 m) allows authorisation on category 1 stackers. The reverse is not true: category 1 does not cover stackers that lift higher."
+  }
+ },
+ {
+  "id": "r485-002",
+  "points": {
+   "r485": "cg-categories"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Comment se mesure la hauteur de levée qui sert à classer un gerbeur dans sa catégorie ?",
+   "o": [
+    "Du sol au sommet du mât replié",
+    "Du sol à la tête de timon",
+    "Du sol au-dessous des bras de fourche, fourches au plus bas",
+    "Du sol au-dessus des bras de fourche, fourches au plus haut"
+   ],
+   "x": "On mesure depuis le sol jusqu’à la face supérieure des fourches, montées au maximum. C’est elle qui sépare la catégorie 1 (jusqu’à 2,50 m) de la catégorie 2 (au-delà)."
+  },
+  "en": {
+   "q": "How is the lift height used to classify a stacker measured?",
+   "o": [
+    "From the floor to the top of the lowered mast",
+    "From the floor to the tiller head",
+    "From the floor to the underside of the forks, fully lowered",
+    "From the floor to the top of the forks, forks fully raised"
+   ],
+   "x": "Lift height is measured from the floor to the top surface of the forks in their highest position. It is what separates category 1 (up to 2.50 m) from category 2 (above)."
+  }
+ },
+ {
+  "id": "r485-003",
+  "points": {
+   "r485": "cg-categories"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Votre entreprise achète un gerbeur accompagnant à mât rétractable. Que faut-il en plus du CACES R485 adapté ?",
+   "o": [
+    "Une formation complémentaire propre à cet engin, évaluée par l’employeur",
+    "Un CACES R489 catégorie 5",
+    "Rien de plus : le CACES R485 couvre tous les gerbeurs accompagnants, quel que soit leur mât",
+    "Un permis poids lourd"
+   ],
+   "x": "Les gerbeurs accompagnants à mât rétractable, articulés ou à double fourche demandent, en plus du CACES R485 de la bonne catégorie, une formation adaptée à l’engin. L’employeur en tient compte avant de délivrer l’autorisation de conduite."
+  },
+  "en": {
+   "q": "Your company buys a pedestrian reach stacker. What is needed besides the appropriate R485 CACES?",
+   "o": [
+    "Additional training specific to that machine, assessed by the employer",
+    "An R489 category 5 CACES",
+    "Nothing more: the R485 CACES covers all pedestrian stackers, whatever their mast",
+    "A heavy goods vehicle licence"
+   ],
+   "x": "Pedestrian reach, articulated or double-fork stackers require, on top of the right R485 CACES category, training suited to the machine. The employer takes this into account before issuing the operating authorisation (autorisation de conduite)."
+  }
+ },
+ {
+  "id": "r485-004",
+  "points": {
+   "r485": "tech-batteries"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Avec quoi complète-t-on le niveau d’une batterie au plomb ouverte ?",
+   "o": [
+    "De l’eau du robinet, filtrée si possible au préalable",
+    "De l’eau déminéralisée, selon la notice",
+    "De l’acide pur",
+    "De l’huile hydraulique"
+   ],
+   "x": "L’eau de la batterie s’évapore et se décompose pendant la charge. On complète avec de l’eau déminéralisée, aux moments indiqués par la notice. L’eau du robinet contient des minéraux qui abîment les plaques."
+  },
+  "en": {
+   "q": "What do you top up a vented lead-acid battery with?",
+   "o": [
+    "Tap water, filtered beforehand if possible",
+    "Demineralised water, as per the manual",
+    "Pure acid",
+    "Hydraulic oil"
+   ],
+   "x": "Battery water evaporates and breaks down during charging. Top up with demineralised water at the times stated in the manual. Tap water contains minerals that damage the plates."
+  }
+ },
+ {
+  "id": "r485-005",
+  "points": {
+   "r485": "tech-batteries"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Quel avantage de sécurité offrent les batteries au gel ou au lithium par rapport aux batteries au plomb ouvertes ?",
+   "o": [
+    "Elles ne s’usent jamais",
+    "Elles se chargent sans chargeur",
+    "Pas d’appoint ni de manipulation d’acide liquide",
+    "Elles permettent de lever plus lourd que la capacité nominale"
+   ],
+   "x": "Ces batteries ne demandent pas d’ajout d’eau et ne laissent pas d’électrolyte liquide s’échapper en usage normal. Les risques de brûlure acide et de dégagement gazeux lors de l’entretien sont fortement réduits."
+  },
+  "en": {
+   "q": "What safety advantage do gel or lithium batteries offer over vented lead-acid batteries?",
+   "o": [
+    "They never wear out",
+    "They charge without a charger",
+    "No topping up and no handling of liquid acid",
+    "They let you lift more than the rated capacity"
+   ],
+   "x": "These batteries need no water topping up and do not release liquid electrolyte in normal use. The risks of acid burns and gas release during maintenance are greatly reduced."
+  }
+ },
+ {
+  "id": "r485-006",
+  "points": {
+   "r485": "tech-batteries"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous voulez recharger votre gerbeur sur un chargeur que vous ne connaissez pas. Que vérifiez-vous ?",
+   "o": [
+    "Que le chargeur est le plus puissant disponible",
+    "Que la prise est de la même couleur",
+    "Rien, tous les chargeurs se valent",
+    "Que le chargeur est compatible avec la batterie et installé dans la zone prévue"
+   ],
+   "x": "Un chargeur inadapté (tension, technologie de batterie) peut endommager la batterie, la faire chauffer ou provoquer un incendie. La charge se fait dans la zone dédiée, ventilée et sans source d’ignition."
+  },
+  "en": {
+   "q": "You want to charge your stacker on a charger you don't know. What do you check?",
+   "o": [
+    "That it is the most powerful charger available",
+    "That the plug is the same colour",
+    "Nothing, all chargers are the same",
+    "That the charger matches the battery and is in the designated area"
+   ],
+   "x": "An unsuitable charger (voltage, battery technology) can damage the battery, overheat it or cause a fire. Charging takes place in the designated, ventilated area with no ignition source."
+  }
+ },
+ {
+  "id": "r485-007",
+  "points": {
+   "r485": "tech-translation"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Sur un gerbeur à conducteur accompagnant, comment dirigez-vous l’engin ?",
+   "o": [
+    "En orientant le timon, qui fait pivoter la roue motrice",
+    "Avec un volant placé sur le mât",
+    "En poussant la charge avec la main dans la direction où vous voulez aller",
+    "Avec une pédale de direction"
+   ],
+   "x": "Le timon est relié à la roue motrice : en le tournant à gauche ou à droite, on oriente cette roue et donc l’engin. L’arrière du gerbeur, côté timon, décrit alors un arc qu’il faut surveiller."
+  },
+  "en": {
+   "q": "On a pedestrian stacker, how do you steer the machine?",
+   "o": [
+    "By swinging the tiller, which turns the drive wheel",
+    "With a steering wheel on the mast",
+    "By pushing the load by hand in the direction you want to go",
+    "With a steering pedal"
+   ],
+   "x": "The tiller is linked to the drive wheel: turning it left or right swivels that wheel and therefore the machine. The tiller end of the stacker then sweeps an arc that must be watched."
+  }
+ },
+ {
+  "id": "r485-008",
+  "points": {
+   "r485": "tech-translation"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "À quoi servent les galets placés sous les longerons (bras de support) d’un gerbeur ?",
+   "o": [
+    "À entraîner le gerbeur en marche avant",
+    "À porter la charge et à élargir la base d’appui du gerbeur",
+    "À freiner le gerbeur en pente",
+    "À faire pivoter le mât"
+   ],
+   "x": "Les longerons et leurs galets reprennent une partie du poids de la charge au sol et forment, avec la roue motrice, la base d’appui. Un galet usé ou bloqué déséquilibre l’engin et doit être signalé."
+  },
+  "en": {
+   "q": "What are the rollers under a stacker's support legs for?",
+   "o": [
+    "To drive the stacker forward",
+    "To carry the load and widen the stacker's support base",
+    "To brake the stacker on a slope",
+    "To swivel the mast"
+   ],
+   "x": "The support legs and their rollers take part of the load's weight to the floor and, with the drive wheel, form the support base. A worn or seized roller unbalances the machine and must be reported."
+  }
+ },
+ {
+  "id": "r485-009",
+  "points": {
+   "r485": "tech-levage"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Sur un gerbeur électrique, qu’est-ce qui fait monter les fourches ?",
+   "o": [
+    "Un ressort placé dans le timon",
+    "La roue motrice en tournant",
+    "Une pompe hydraulique qui alimente un vérin, avec des chaînes de levage",
+    "Un contrepoids qui descend dans le mât et qui tire les fourches par un câble"
+   ],
+   "x": "Un moteur électrique entraîne une pompe qui envoie l’huile dans le vérin de levage. Le vérin pousse le mât ou le tablier, souvent par l’intermédiaire de chaînes. Fuites d’huile et chaînes usées sont à surveiller."
+  },
+  "en": {
+   "q": "On an electric stacker, what raises the forks?",
+   "o": [
+    "A spring in the tiller",
+    "The drive wheel as it turns",
+    "A hydraulic pump feeding a cylinder, with lifting chains",
+    "A counterweight dropping inside the mast that pulls the forks up by a cable"
+   ],
+   "x": "An electric motor drives a pump that sends oil into the lift cylinder. The cylinder pushes the mast or carriage, often through chains. Oil leaks and worn chains must be watched for."
+  }
+ },
+ {
+  "id": "r485-010",
+  "points": {
+   "r485": "tech-levage"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Comment descendent les fourches d’un gerbeur quand vous actionnez la descente ?",
+   "o": [
+    "Grâce au moteur de traction qui tourne à l’envers et les ramène vers le bas en douceur",
+    "Par un ressort qui les tire vers le bas",
+    "Elles tombent librement",
+    "Sous leur propre poids, la vitesse étant réglée par une valve hydraulique"
+   ],
+   "x": "À la descente, l’huile du vérin retourne au réservoir à travers une valve qui en limite le débit : la charge descend par gravité, à vitesse contrôlée. Une descente anormalement rapide est une anomalie à signaler."
+  },
+  "en": {
+   "q": "How do the forks of a stacker come down when you operate lowering?",
+   "o": [
+    "The drive motor runs backwards and pulls them down smoothly",
+    "By a spring pulling them down",
+    "They drop freely",
+    "Under their own weight, with speed controlled by a hydraulic valve"
+   ],
+   "x": "When lowering, oil from the cylinder returns to the tank through a valve that limits the flow: the load comes down by gravity at a controlled speed. Unusually fast lowering is a fault to report."
+  }
+ },
+ {
+  "id": "r485-011",
+  "points": {
+   "r485": "tech-levage"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Les chaînes de levage d’un gerbeur sont détendues de façon inégale. Que faites-vous ?",
+   "o": [
+    "Vous signalez l’anomalie et n’utilisez pas le gerbeur",
+    "Vous les retendez vous-même avec une clé",
+    "Vous levez seulement des charges légères",
+    "Vous graissez abondamment et continuez"
+   ],
+   "x": "Une tension inégale peut indiquer une chaîne allongée, un maillon abîmé ou un mauvais réglage. Le tablier peut se mettre de travers ou la chaîne casser. Le réglage revient à une personne qualifiée."
+  },
+  "en": {
+   "q": "A stacker's lifting chains are unevenly slack. What do you do?",
+   "o": [
+    "You report the fault and do not use the stacker",
+    "You tighten them yourself with a spanner",
+    "You only lift light loads",
+    "You grease them heavily and carry on"
+   ],
+   "x": "Uneven tension may point to a stretched chain, a damaged link or bad adjustment. The carriage may skew or the chain may break. Adjustment is a job for a qualified person."
+  }
+ },
+ {
+  "id": "r485-012",
+  "points": {
+   "r485": "tech-securite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "À quoi sert le bouton placé au bout de la tête de timon, face au conducteur ?",
+   "o": [
+    "À klaxonner",
+    "À inverser le sens de marche s’il touche le conducteur",
+    "À lever les fourches jusqu’à la hauteur présélectionnée suivante",
+    "À allumer l’éclairage"
+   ],
+   "x": "C’est le dispositif anti-écrasement. Quand le gerbeur avance vers le conducteur et que le bouton entre en contact avec son corps, l’engin repart dans l’autre sens. On le teste à chaque prise de poste."
+  },
+  "en": {
+   "q": "What is the button at the end of the tiller head, facing the operator, for?",
+   "o": [
+    "To sound the horn",
+    "To reverse the direction of travel if it touches the operator",
+    "To raise the forks to the next preselected height",
+    "To switch on the lights"
+   ],
+   "x": "It is the anti-crush (belly) button. When the stacker moves towards the operator and the button touches their body, the machine moves off the other way. It is tested at every start of shift."
+  }
+ },
+ {
+  "id": "r485-013",
+  "points": {
+   "r485": "tech-securite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Quel est le rôle du bouton d’arrêt d’urgence du gerbeur ?",
+   "o": [
+    "Faire descendre les fourches plus vite en cas de charge instable",
+    "Passer en mode lent",
+    "Couper l’alimentation et arrêter tous les mouvements",
+    "Couper uniquement le klaxon"
+   ],
+   "x": "Le bouton « coup de poing » coupe le circuit électrique de puissance : translation et levage s’arrêtent. Il sert en cas de danger, par exemple si l’engin ne répond plus aux commandes."
+  },
+  "en": {
+   "q": "What is the stacker's emergency stop button for?",
+   "o": [
+    "To lower the forks faster if the load is unstable",
+    "To switch to slow mode",
+    "To cut the power and stop all movements",
+    "To switch off the horn only"
+   ],
+   "x": "The mushroom-head button cuts the main power circuit: travel and lifting stop. It is used in danger, for example if the machine no longer responds to the controls."
+  }
+ },
+ {
+  "id": "r485-014",
+  "points": {
+   "r485": "tech-securite"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Que se passe-t-il quand vous lâchez le timon d’un gerbeur ?",
+   "o": [
+    "Le gerbeur continue à vitesse réduite",
+    "Les fourches descendent seules",
+    "Le gerbeur passe en marche arrière",
+    "Il remonte et le frein s’applique"
+   ],
+   "x": "Le timon revient en position haute et le frein s’enclenche automatiquement ; il freine aussi en position basse. La translation n’est possible que dans la zone intermédiaire. On vérifie ce fonctionnement à la prise de poste."
+  },
+  "en": {
+   "q": "What happens when you let go of a stacker's tiller?",
+   "o": [
+    "The stacker carries on at low speed",
+    "The forks lower by themselves",
+    "The stacker goes into reverse",
+    "It returns upright and the brake applies"
+   ],
+   "x": "The tiller springs back to the upright position and the brake applies automatically; it also brakes when fully lowered. Travel is only possible in the middle zone. Check this at the start of the shift."
+  }
+ },
+ {
+  "id": "r485-015",
+  "points": {
+   "r485": "tech-securite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "À quoi sert la clé, le code ou le badge de mise en marche du gerbeur ?",
+   "o": [
+    "À empêcher l’utilisation par une personne non autorisée",
+    "À régler la vitesse maximale",
+    "À mesurer la charge de la batterie",
+    "À verrouiller les fourches en hauteur"
+   ],
+   "x": "Ce dispositif de condamnation réserve l’usage aux conducteurs autorisés. En fin de poste ou en cas d’absence, on retire la clé ou on se déconnecte pour qu’aucune personne non formée ne prenne l’engin."
+  },
+  "en": {
+   "q": "What is the start key, code or badge of the stacker for?",
+   "o": [
+    "To stop an unauthorised person from using it",
+    "To set the maximum speed",
+    "To measure the battery charge",
+    "To lock the forks up high"
+   ],
+   "x": "This locking device restricts use to authorised operators. At the end of the shift or when you leave it, remove the key or log out so that no untrained person takes the machine."
+  }
+ },
+ {
+  "id": "r485-016",
+  "points": {
+   "r485": "tech-securite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "À quoi sert la grille ou l’écran de protection placé sur le mât ?",
+   "o": [
+    "À protéger la charge de la poussière et des projections pendant le levage",
+    "À éviter que les mains soient happées par le mât en mouvement",
+    "À augmenter la hauteur de levée",
+    "À servir d’appui pour grimper"
+   ],
+   "x": "Les parties mobiles du mât (chaînes, sections, poulies) peuvent pincer ou cisailler. Le protecteur empêche d’y passer les mains. Il doit être en place et en bon état ; on ne grimpe jamais dessus."
+  },
+  "en": {
+   "q": "What is the guard or mesh screen on the mast for?",
+   "o": [
+    "To protect the load from dust and splashes during lifting",
+    "To stop hands being caught by the moving mast",
+    "To increase the lift height",
+    "To use as a foothold for climbing"
+   ],
+   "x": "The mast's moving parts (chains, sections, pulleys) can pinch or shear. The guard stops hands getting in. It must be in place and in good condition; never climb on it."
+  }
+ },
+ {
+  "id": "r485-017",
+  "points": {
+   "r485": "tech-securite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi tester l’avertisseur sonore à la prise de poste ?",
+   "o": [
+    "Pour vérifier la charge de la batterie avant de partir en tournée dans l’entrepôt",
+    "Pour vérifier le frein",
+    "Pour pouvoir prévenir les piétons aux croisements et sorties d’allées",
+    "Pour signaler la fin du poste"
+   ],
+   "x": "L’avertisseur sert à signaler sa présence là où la visibilité est réduite : croisements, portes, angles. S’il ne fonctionne pas, le conducteur ne peut plus prévenir : on signale le défaut avant d’utiliser l’engin."
+  },
+  "en": {
+   "q": "Why test the horn at the start of the shift?",
+   "o": [
+    "To check the battery charge before setting off round the warehouse",
+    "To check the brake",
+    "To be able to warn pedestrians at crossings and aisle ends",
+    "To signal the end of the shift"
+   ],
+   "x": "The horn signals your presence where visibility is poor: crossings, doors, corners. If it does not work you cannot warn anyone: report the fault before using the machine."
+  }
+ },
+ {
+  "id": "r485-018",
+  "points": {
+   "r485": "tech-organes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Sur la tête de timon, à quoi sert la commande rotative (papillon) ?",
+   "o": [
+    "À régler la hauteur du timon",
+    "À incliner les fourches",
+    "À recharger la batterie",
+    "À choisir le sens de marche et à doser la vitesse"
+   ],
+   "x": "En tournant le papillon dans un sens ou dans l’autre, on fait avancer ou reculer le gerbeur ; plus on le tourne, plus il va vite. Une action progressive évite les à-coups qui déstabilisent la charge."
+  },
+  "en": {
+   "q": "On the tiller head, what is the rotary control (butterfly) for?",
+   "o": [
+    "To set the tiller height",
+    "To tilt the forks",
+    "To charge the battery",
+    "To choose the direction of travel and control speed"
+   ],
+   "x": "Turning the butterfly one way or the other moves the stacker forward or back; the further you turn it, the faster it goes. Smooth use avoids jolts that unsettle the load."
+  }
+ },
+ {
+  "id": "r485-019",
+  "points": {
+   "r485": "tech-organes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Où se trouvent généralement les commandes de levage et de descente d’un gerbeur accompagnant ?",
+   "o": [
+    "Sur la tête de timon, à portée de main",
+    "Sur le mât, en hauteur",
+    "Sous les longerons",
+    "Sur le capot de batterie, à l’arrière"
+   ],
+   "x": "Les boutons de levée et de descente sont regroupés sur la tête de timon avec l’avertisseur et la commande de marche. Le conducteur reste ainsi à sa place, sans passer la main près du mât ou sous la charge."
+  },
+  "en": {
+   "q": "Where are the lift and lower controls of a pedestrian stacker usually located?",
+   "o": [
+    "On the tiller head, within easy reach",
+    "High up on the mast",
+    "Under the support legs",
+    "On the battery cover at the back"
+   ],
+   "x": "The lift and lower buttons are grouped on the tiller head with the horn and travel control. The operator thus stays in position, without reaching near the mast or under the load."
+  }
+ },
+ {
+  "id": "r485-020",
+  "points": {
+   "r485": "tech-parametres"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Qui peut modifier la vitesse maximale et les rampes d’accélération d’un gerbeur ?",
+   "o": [
+    "Chaque conducteur, à son goût",
+    "Un technicien spécialisé, selon les conditions d’utilisation",
+    "Le transporteur qui livre",
+    "Personne : ces réglages sont fixés en usine et ne peuvent jamais être changés"
+   ],
+   "x": "Ces paramètres sont réglables mais réservés à un technicien spécialisé. Le conducteur, lui, vérifie à la prise de poste qu’ils sont adaptés au lieu et au travail, et signale tout réglage inadapté."
+  },
+  "en": {
+   "q": "Who may change a stacker's maximum speed and acceleration ramps?",
+   "o": [
+    "Each operator, as they like",
+    "A specialist technician, according to the conditions of use",
+    "The delivering carrier",
+    "Nobody: these settings are fixed at the factory and can never be changed"
+   ],
+   "x": "These parameters can be adjusted but only by a specialist technician. The operator checks at the start of the shift that they suit the place and the job, and reports any unsuitable setting."
+  }
+ },
+ {
+  "id": "r485-021",
+  "points": {
+   "r485": "tech-parametres"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi limiter la vitesse maximale d’un gerbeur utilisé dans une zone très fréquentée par des piétons ?",
+   "o": [
+    "Pour économiser les pneus uniquement",
+    "Pour que la batterie se charge en roulant",
+    "Pour réduire le risque et la gravité des heurts",
+    "Pour augmenter la hauteur de levée"
+   ],
+   "x": "Une vitesse plus faible laisse plus de temps pour réagir et raccourcit la distance d’arrêt. En cas de choc, l’énergie est bien moindre. Le réglage s’adapte donc à la densité de circulation."
+  },
+  "en": {
+   "q": "Why limit the maximum speed of a stacker used in an area busy with pedestrians?",
+   "o": [
+    "Only to save the tyres",
+    "So the battery charges while driving",
+    "To reduce the risk and severity of collisions",
+    "To increase the lift height"
+   ],
+   "x": "A lower speed leaves more time to react and shortens stopping distance. If a collision happens, the energy involved is much lower. The setting is therefore matched to traffic density."
+  }
+ },
+ {
+  "id": "r485-022",
+  "points": {
+   "r485": "tech-parametres"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pour transporter des charges hautes et fragiles, quel réglage d’accélération convient le mieux ?",
+   "o": [
+    "Une accélération la plus vive possible",
+    "Une accélération variable au hasard",
+    "L’accélération n’a aucun effet sur la charge",
+    "Une accélération douce et progressive"
+   ],
+   "x": "Une accélération brutale fait osciller la charge, qui peut basculer ou glisser des fourches. Une rampe douce, réglée par un technicien, limite ces efforts sur une charge haute ou fragile."
+  },
+  "en": {
+   "q": "To carry tall, fragile loads, which acceleration setting is best?",
+   "o": [
+    "The sharpest possible acceleration",
+    "Randomly varying acceleration",
+    "Acceleration has no effect on the load",
+    "Smooth, gradual acceleration"
+   ],
+   "x": "Harsh acceleration makes the load sway, so it may topple or slide off the forks. A gentle ramp, set by a technician, limits these forces on a tall or fragile load."
+  }
+ },
+ {
+  "id": "r485-023",
+  "points": {
+   "r485": "tech-parametres"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "À la prise de poste, le gerbeur vous semble bien plus nerveux qu’à l’ordinaire. Que faites-vous ?",
+   "o": [
+    "Vous ne l’utilisez pas et signalez le réglage à votre responsable",
+    "Vous vous habituez en roulant plus vite",
+    "Vous modifiez vous-même les paramètres",
+    "Vous l’utilisez quand même en ne tournant le papillon qu’à moitié de sa course"
+   ],
+   "x": "Un changement de comportement peut venir d’un réglage modifié ou d’une panne. Il faut vérifier que les paramètres conviennent aux conditions d’utilisation ; sinon, l’engin est signalé et réglé par un technicien."
+  },
+  "en": {
+   "q": "At the start of the shift the stacker feels much jumpier than usual. What do you do?",
+   "o": [
+    "You do not use it and report the setting to your manager",
+    "You get used to it by driving faster",
+    "You change the parameters yourself",
+    "You use it anyway, only turning the butterfly halfway"
+   ],
+   "x": "A change in behaviour may come from altered settings or a fault. The parameters must suit the conditions of use; otherwise the machine is reported and adjusted by a technician."
+  }
+ },
+ {
+  "id": "r485-024",
+  "points": {
+   "r485": "tech-parametres"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Quel est l’effet d’un freinage réglé trop doux sur un gerbeur ?",
+   "o": [
+    "La charge devient plus stable en virage",
+    "La distance d’arrêt s’allonge",
+    "Le gerbeur lève plus vite",
+    "La batterie se décharge moins"
+   ],
+   "x": "Si la décélération est trop faible, le gerbeur met plus de distance à s’arrêter quand on relâche la commande ou le timon. Trop brutale, elle déstabilise la charge. Le réglage cherche l’équilibre selon l’usage."
+  },
+  "en": {
+   "q": "What is the effect of braking set too soft on a stacker?",
+   "o": [
+    "The load becomes more stable in bends",
+    "Stopping distance gets longer",
+    "The stacker lifts faster",
+    "The battery runs down less"
+   ],
+   "x": "If deceleration is too weak, the stacker needs more distance to stop when you release the control or tiller. Too harsh, it unsettles the load. The setting aims for a balance suited to the use."
+  }
+ },
+ {
+  "id": "r485-025",
+  "points": {
+   "r485": "tech-mise-hauteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Que fait la fonction de présélection automatique de hauteur des fourches ?",
+   "o": [
+    "Elle lève la charge sans limite de poids",
+    "Elle remplace la lecture de la plaque de charge en limitant seule la hauteur",
+    "Elle arrête les fourches au niveau présélectionné",
+    "Elle fait avancer le gerbeur automatiquement"
+   ],
+   "x": "Le conducteur choisit un niveau programmé ; les fourches montent ou descendent et s’arrêtent seules à cette hauteur. L’option aide à la précision mais ne vérifie pas que la charge est admissible à ce niveau."
+  },
+  "en": {
+   "q": "What does the automatic fork height preselection option do?",
+   "o": [
+    "It lifts the load with no weight limit",
+    "It replaces reading the load chart by limiting the height by itself",
+    "It stops the forks at the preselected level",
+    "It drives the stacker forward automatically"
+   ],
+   "x": "The operator picks a programmed level; the forks rise or lower and stop at that height by themselves. The option helps accuracy but does not check that the load is allowed at that level."
+  }
+ },
+ {
+  "id": "r485-026",
+  "points": {
+   "r485": "tech-mise-hauteur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "En préparation de commande, quel intérêt présente la mise à hauteur automatique de la palette ?",
+   "o": [
+    "Charger plus de colis que la capacité",
+    "Pouvoir monter sur la palette",
+    "Supprimer les vérifications de prise de poste",
+    "Travailler à bonne hauteur et limiter les douleurs du dos"
+   ],
+   "x": "Placer la palette à hauteur de travail évite de se pencher ou de lever les bras pour chaque colis. Cela réduit les troubles musculosquelettiques, comme les lombalgies, liés à la manutention manuelle."
+  },
+  "en": {
+   "q": "In order picking, what is the benefit of automatically bringing the pallet to height?",
+   "o": [
+    "Loading more boxes than the capacity",
+    "Being able to stand on the pallet",
+    "Doing away with start-of-shift checks",
+    "Working at the right height and limiting back pain"
+   ],
+   "x": "Putting the pallet at working height avoids bending or reaching up for each box. This reduces musculoskeletal disorders, such as lower back pain, linked to manual handling."
+  }
+ },
+ {
+  "id": "r485-027",
+  "points": {
+   "r485": "tech-mise-hauteur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Votre gerbeur dispose de la mise à hauteur automatique. Que devez-vous continuer à faire ?",
+   "o": [
+    "Surveiller la manœuvre et vérifier la capacité à ce niveau",
+    "Rien, le système gère tout",
+    "Lâcher le timon pendant la montée",
+    "Passer la main sous les fourches pour guider"
+   ],
+   "x": "L’automatisme ne voit pas les obstacles et ne contrôle pas la plaque de charge. Le conducteur garde les yeux sur les fourches et la charge et s’assure, avant de lever, que la masse est admissible à cette hauteur."
+  },
+  "en": {
+   "q": "Your stacker has automatic height preselection. What must you still do?",
+   "o": [
+    "Watch the manoeuvre and check the capacity at that level",
+    "Nothing, the system handles everything",
+    "Let go of the tiller while lifting",
+    "Put your hand under the forks to guide them"
+   ],
+   "x": "The automatic system cannot see obstacles and does not check the load chart. The operator keeps watching the forks and load and makes sure, before lifting, that the mass is allowed at that height."
+  }
+ },
+ {
+  "id": "r485-028",
+  "points": {
+   "r485": "expl-chute-quai"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Avant d’emprunter un pont de liaison avec votre gerbeur chargé, que vérifiez-vous ?",
+   "o": [
+    "Qu’il supporte la masse de la charge seule, le gerbeur étant compté à part",
+    "Qu’il supporte la masse du gerbeur plus celle de la charge",
+    "Qu’il est peint en jaune",
+    "Qu’il est plus large que la palette"
+   ],
+   "x": "Le pont de liaison reçoit tout le poids qui roule dessus : gerbeur, batterie et charge. Si sa capacité est dépassée, il peut céder ou se déformer et provoquer la chute de l’engin entre quai et camion."
+  },
+  "en": {
+   "q": "Before using a dock plate with your loaded stacker, what do you check?",
+   "o": [
+    "That it can take the load mass alone, the stacker being counted separately",
+    "That it can take the stacker's mass plus the load",
+    "That it is painted yellow",
+    "That it is wider than the pallet"
+   ],
+   "x": "The dock plate carries all the weight rolling over it: stacker, battery and load. If its capacity is exceeded it can give way or bend, and the machine may fall between dock and lorry."
+  }
+ },
+ {
+  "id": "r485-029",
+  "points": {
+   "r485": "expl-chute-quai"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Une porte de quai est ouverte alors qu’aucun camion n’est à quai. Quel est le danger ?",
+   "o": [
+    "Un courant d’air sur les colis",
+    "Une perte de chaleur dans l’entrepôt",
+    "La chute du gerbeur et du conducteur dans le vide",
+    "Aucun, tant qu’on ne regarde pas dehors"
+   ],
+   "x": "Sans véhicule, l’ouverture donne sur un vide d’environ un mètre ou plus. Un gerbeur qui recule ou un conducteur qui marche à reculons peut tomber. La porte se ferme ou l’accès est barré tant qu’aucun véhicule n’est en place."
+  },
+  "en": {
+   "q": "A dock door is open with no lorry at the dock. What is the danger?",
+   "o": [
+    "A draught on the packages",
+    "Heat loss from the warehouse",
+    "The stacker and operator falling over the edge",
+    "None, as long as you don't look outside"
+   ],
+   "x": "With no vehicle, the opening leads to a drop of about a metre or more. A reversing stacker or an operator walking backwards can fall. The door is closed or the access barred while no vehicle is in place."
+  }
+ },
+ {
+  "id": "r485-030",
+  "points": {
+   "r485": "expl-chute-quai"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Avant de monter sur un hayon élévateur avec votre gerbeur, que vérifiez-vous ?",
+   "o": [
+    "Que le hayon est plus long que le gerbeur, sans se soucier de sa capacité",
+    "Que le chauffeur a démarré le moteur",
+    "Que la charge est levée haut",
+    "Que la charge maximale du hayon couvre le gerbeur et la charge"
+   ],
+   "x": "Le hayon a une charge maximale d’utilisation. Elle doit être supérieure au total gerbeur plus charge, sinon le hayon peut céder ou basculer. On vérifie aussi son état, ses sécurités et son rapport de vérification."
+  },
+  "en": {
+   "q": "Before going onto a tail lift with your stacker, what do you check?",
+   "o": [
+    "That the tail lift is longer than the stacker, regardless of its capacity",
+    "That the driver has started the engine",
+    "That the load is raised high",
+    "That the tail lift's rated load covers the stacker and its load"
+   ],
+   "x": "A tail lift has a safe working load. It must exceed the total of stacker plus load, otherwise the tail lift can give way or tilt. Also check its condition, safety devices and inspection report."
+  }
+ },
+ {
+  "id": "r485-031",
+  "points": {
+   "r485": "expl-chute-quai"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Sur un hayon élévateur, à quoi servent les butées escamotables relevées ?",
+   "o": [
+    "À empêcher le gerbeur de rouler hors du hayon",
+    "À accrocher la charge",
+    "À accélérer la montée du hayon",
+    "À servir de marchepied"
+   ],
+   "x": "Une fois relevées, les butées bloquent les roues au bord du hayon pendant la montée et la descente. Si elles sont absentes ou défaillantes, le gerbeur peut glisser et tomber : on ne l’utilise pas."
+  },
+  "en": {
+   "q": "On a tail lift, what are the raised retractable stops for?",
+   "o": [
+    "To stop the stacker rolling off the tail lift",
+    "To hook the load on",
+    "To speed up the tail lift",
+    "To use as a step"
+   ],
+   "x": "Once raised, the stops block the wheels at the edge of the tail lift while it rises and lowers. If they are missing or faulty, the stacker can slide and fall: do not use it."
+  }
+ },
+ {
+  "id": "r485-032",
+  "points": {
+   "r485": "expl-chute-quai"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Le hayon élévateur ne s’est pas arrêté au niveau du plancher du camion. Que faites-vous ?",
+   "o": [
+    "Vous passez en forçant sur le timon",
+    "Vous attendez qu’il soit correctement aligné avant de passer",
+    "Vous levez la charge pour compenser",
+    "Vous passez en marche arrière plus vite"
+   ],
+   "x": "Une marche entre hayon et plancher peut bloquer une roue, faire basculer la charge ou le gerbeur. On ne roule d’un plan à l’autre que lorsqu’ils sont au même niveau et que le passage est sûr."
+  },
+  "en": {
+   "q": "The tail lift has not stopped level with the lorry floor. What do you do?",
+   "o": [
+    "You force your way across with the tiller",
+    "You wait until it is properly aligned before crossing",
+    "You raise the load to compensate",
+    "You reverse across faster"
+   ],
+   "x": "A step between tail lift and floor can jam a wheel or tip the load or stacker. Only roll from one surface to the other when they are level and the crossing is safe."
+  }
+ },
+ {
+  "id": "r485-033",
+  "points": {
+   "r485": "expl-chute-quai"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "À chaque passage du gerbeur, la remorque avance un peu et s’éloigne du quai. Que faites-vous ?",
+   "o": [
+    "Vous continuez en passant plus vite",
+    "Vous rapprochez la remorque du quai en la poussant avec le gerbeur",
+    "Vous arrêtez et faites immobiliser correctement le véhicule",
+    "Vous posez une palette dans l’espace"
+   ],
+   "x": "Les freinages et accélérations de l’engin peuvent faire glisser une remorque mal calée : l’espace grandit et le pont peut tomber. On cesse les passages et on fait mettre en place calage et immobilisation prévus par le protocole."
+  },
+  "en": {
+   "q": "Each time the stacker crosses, the trailer creeps forward away from the dock. What do you do?",
+   "o": [
+    "You carry on, crossing faster",
+    "You push the trailer back to the dock with the stacker",
+    "You stop and have the vehicle properly immobilised",
+    "You put a pallet in the gap"
+   ],
+   "x": "The machine's braking and accelerating can make a poorly chocked trailer creep: the gap widens and the plate can drop. Stop crossing and have the chocking and immobilisation set out in the protocol put in place."
+  }
+ },
+ {
+  "id": "r485-034",
+  "points": {
+   "r485": "expl-chute-quai"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous utilisez un niveleur de quai. Quand pouvez-vous le franchir ?",
+   "o": [
+    "Dès qu’il commence à se lever",
+    "Quand la lèvre est encore repliée",
+    "Quand le camion est en train de manœuvrer",
+    "Quand sa lèvre repose bien à plat sur le plancher du véhicule"
+   ],
+   "x": "La lèvre du niveleur doit être déployée et appuyée sur le plancher, sur une longueur suffisante. Si elle repose sur le bord ou dans le vide, elle peut glisser sous le poids du gerbeur."
+  },
+  "en": {
+   "q": "You are using a dock leveller. When may you cross it?",
+   "o": [
+    "As soon as it starts rising",
+    "When the lip is still folded",
+    "While the lorry is manoeuvring",
+    "When its lip rests flat on the vehicle floor"
+   ],
+   "x": "The leveller lip must be extended and resting on the floor, with enough overlap. If it sits on the very edge or over the gap, it can slip under the stacker's weight."
+  }
+ },
+ {
+  "id": "r485-035",
+  "points": {
+   "r485": "expl-chute-quai"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous manœuvrez près d’un bord de quai en tirant le gerbeur vers vous. Quel risque est le plus grave ?",
+   "o": [
+    "Tomber du quai en marchant à reculons",
+    "Abîmer les pneus du gerbeur",
+    "Salir vos chaussures",
+    "Faire du bruit"
+   ],
+   "x": "En marche arrière, le conducteur ne voit pas le bord et peut chuter d’un mètre ou plus, avec le risque que le gerbeur le suive. On évite de reculer vers un bord, on se place latéralement et on regarde où l’on va."
+  },
+  "en": {
+   "q": "You are manoeuvring near a dock edge, pulling the stacker towards you. Which risk is most serious?",
+   "o": [
+    "Falling off the dock while walking backwards",
+    "Damaging the stacker's tyres",
+    "Dirtying your shoes",
+    "Making noise"
+   ],
+   "x": "When moving backwards the operator cannot see the edge and may fall a metre or more, possibly followed by the stacker. Avoid backing towards an edge, stand to the side and look where you are going."
+  }
+ },
+ {
+  "id": "r485-036",
+  "points": {
+   "r485": "expl-chute-quai"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Avant d’utiliser le hayon élévateur d’un camion, quel document pouvez-vous demander ?",
+   "o": [
+    "La carte grise de la remorque uniquement",
+    "Son rapport de vérification périodique",
+    "Le bon de commande des marchandises",
+    "Le planning du chauffeur"
+   ],
+   "x": "Comme tout appareil de levage, le hayon doit être vérifié périodiquement. Le rapport indique s’il est en état et s’il existe des restrictions d’usage. Avec ses sécurités en bon état, c’est une condition pour l’emprunter."
+  },
+  "en": {
+   "q": "Before using a lorry's tail lift, which document may you ask for?",
+   "o": [
+    "Only the trailer registration document",
+    "Its periodic inspection report",
+    "The goods purchase order",
+    "The driver's schedule"
+   ],
+   "x": "Like any lifting appliance, a tail lift must be inspected periodically. The report shows whether it is in good order and whether there are restrictions on use. With working safety devices, this is a condition for using it."
+  }
+ },
+ {
+  "id": "r485-037",
+  "points": {
+   "r485": "expl-palettier"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous remarquez une lisse de rayonnage tordue après un choc. Que faites-vous ?",
+   "o": [
+    "Vous redressez la lisse avec les fourches",
+    "Vous continuez à charger ce niveau",
+    "Vous signalez le défaut et ne déposez plus rien sur ce niveau",
+    "Vous déposez des charges plus légères dessus en attendant la réparation"
+   ],
+   "x": "Une lisse ou une échelle endommagée a perdu une partie de sa résistance : le rayonnage peut s’effondrer. On signale immédiatement, on n’ajoute rien et la zone est déchargée et réparée par du personnel compétent."
+  },
+  "en": {
+   "q": "You notice a rack beam bent after an impact. What do you do?",
+   "o": [
+    "You straighten the beam with the forks",
+    "You keep loading that level",
+    "You report the damage and stop placing anything on that level",
+    "You put lighter loads on it while waiting for the repair"
+   ],
+   "x": "A damaged beam or upright has lost part of its strength: the rack may collapse. Report it at once, add nothing and the area is unloaded and repaired by competent staff."
+  }
+ },
+ {
+  "id": "r485-038",
+  "points": {
+   "r485": "expl-palettier"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "À quoi servent les goupilles de sécurité placées aux extrémités des lisses d’un palettier ?",
+   "o": [
+    "À indiquer le numéro de l’emplacement",
+    "À fixer les palettes sur la lisse",
+    "À protéger le pied des échelles",
+    "À empêcher la lisse de se soulever lors de la prise d’une palette"
+   ],
+   "x": "En sortant une palette, les fourches peuvent accrocher la lisse et la soulever hors de ses crochets. La goupille anti-soulèvement la garde en place. Sans elle, la lisse et les charges peuvent tomber."
+  },
+  "en": {
+   "q": "What are the safety pins at the ends of pallet rack beams for?",
+   "o": [
+    "To show the location number",
+    "To fix pallets to the beam",
+    "To protect the foot of the uprights",
+    "To stop the beam lifting out when a pallet is taken off"
+   ],
+   "x": "When taking out a pallet, the forks can catch the beam and lift it off its hooks. The anti-lift pin keeps it in place. Without it, the beam and the loads can fall."
+  }
+ },
+ {
+  "id": "r485-039",
+  "points": {
+   "r485": "expl-palettier"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une plaque fixée sur le rayonnage indique la charge maximale par niveau. Que devez-vous faire ?",
+   "o": [
+    "La respecter en tenant compte des charges déjà en place",
+    "La consulter seulement pour le dernier niveau",
+    "L’ignorer si les lisses semblent solides",
+    "Ajouter 10 % de tolérance"
+   ],
+   "x": "Le rayonnage a une capacité calculée par niveau et par travée. La dépasser, même progressivement, peut provoquer la ruine de la structure. La plaque s’applique à tous les niveaux et sans tolérance."
+  },
+  "en": {
+   "q": "A plate on the racking shows the maximum load per level. What must you do?",
+   "o": [
+    "Respect it, taking into account loads already in place",
+    "Check it only for the top level",
+    "Ignore it if the beams look strong",
+    "Add a 10% tolerance"
+   ],
+   "x": "Racking has a capacity calculated per level and per bay. Exceeding it, even bit by bit, can make the structure collapse. The plate applies to every level, with no tolerance."
+  }
+ },
+ {
+  "id": "r485-040",
+  "points": {
+   "r485": "expl-palettier"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Comment doit reposer une palette déposée dans une alvéole de palettier ?",
+   "o": [
+    "Sur une seule lisse pour gagner de la place",
+    "À plat sur les deux lisses, sans dépasser vers l’allée",
+    "En débord important vers l’allée",
+    "En appui sur l’échelle du rayonnage"
+   ],
+   "x": "Une palette mal posée sur les lisses peut tomber pendant ou après la dépose, ou gêner l’emplacement voisin. On contrôle sa position de face et on la pose à plat, bien appuyée sur les deux lisses."
+  },
+  "en": {
+   "q": "How should a pallet sit when placed in a rack location?",
+   "o": [
+    "On one beam only, to save space",
+    "Flat on both beams, not overhanging the aisle",
+    "Overhanging well into the aisle",
+    "Resting against the rack upright"
+   ],
+   "x": "A pallet badly placed on the beams can fall during or after set-down, or get in the way of the next location. Check its position from the front and set it down flat, resting on both beams."
+  }
+ },
+ {
+  "id": "r485-041",
+  "points": {
+   "r485": "expl-palettier"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous heurtez légèrement le pied d’une échelle de rayonnage. Que faites-vous ?",
+   "o": [
+    "Rien, s’il n’y a pas de bruit",
+    "Vous le redressez avec le gerbeur",
+    "Vous le signalez, même si le choc semble sans gravité",
+    "Vous le cachez avec un carton"
+   ],
+   "x": "Un pied d’échelle déformé affaiblit toute la travée, qui porte parfois plusieurs tonnes. Un choc anodin en apparence doit être signalé pour que le rayonnage soit inspecté et, si besoin, déchargé."
+  },
+  "en": {
+   "q": "You lightly hit the foot of a rack upright. What do you do?",
+   "o": [
+    "Nothing, if there was no noise",
+    "You straighten it with the stacker",
+    "You report it, even if the impact seems minor",
+    "You hide it behind a box"
+   ],
+   "x": "A bent upright weakens the whole bay, which may hold several tonnes. An impact that seems harmless must be reported so the racking is inspected and, if needed, unloaded."
+  }
+ },
+ {
+  "id": "r485-042",
+  "points": {
+   "r485": "expl-plain-pied"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous tirez le gerbeur en reculant dans une allée encombrée. Quel est le risque principal ?",
+   "o": [
+    "Abîmer le timon",
+    "Décharger la batterie",
+    "Faire tomber la charge vers l’avant en tirant trop fort sur le timon",
+    "Trébucher sur un obstacle et tomber, voire être percuté"
+   ],
+   "x": "En marchant à reculons, le conducteur ne voit pas les obstacles au sol. Une chute près du gerbeur peut se compliquer d’un écrasement. On dégage l’allée, on se place latéralement et on regarde dans le sens de la marche."
+  },
+  "en": {
+   "q": "You are pulling the stacker backwards along a cluttered aisle. What is the main risk?",
+   "o": [
+    "Damaging the tiller",
+    "Draining the battery",
+    "Making the load fall forward by pulling too hard on the tiller",
+    "Tripping on an obstacle and falling, possibly being run over"
+   ],
+   "x": "Walking backwards, the operator cannot see obstacles on the floor. A fall next to the stacker can turn into a crushing injury. Clear the aisle, stand to the side and look in the direction of travel."
+  }
+ },
+ {
+  "id": "r485-043",
+  "points": {
+   "r485": "expl-plain-pied"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Le sol de la zone de travail est mouillé. Quelle mesure limite le risque de glissade ?",
+   "o": [
+    "Faire nettoyer et sécher, porter des chaussures antidérapantes",
+    "Marcher plus vite pour sortir de la zone",
+    "Tenir le timon d’une seule main",
+    "Se pencher en avant en marchant"
+   ],
+   "x": "Un sol humide ou gras fait glisser le conducteur comme le gerbeur. On signale et on fait traiter la zone ; les chaussures de sécurité à semelle antidérapante réduisent les chutes. On adapte aussi l’allure."
+  },
+  "en": {
+   "q": "The floor of the work area is wet. Which measure reduces the risk of slipping?",
+   "o": [
+    "Have it cleaned and dried, wear non-slip shoes",
+    "Walk faster to leave the area",
+    "Hold the tiller with one hand",
+    "Lean forward while walking"
+   ],
+   "x": "A damp or greasy floor makes both the operator and the stacker slide. Report it and have the area dealt with; safety shoes with non-slip soles reduce falls. Also adapt your pace."
+  }
+ },
+ {
+  "id": "r485-044",
+  "points": {
+   "r485": "expl-plain-pied"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Des morceaux de film plastique et de feuillard traînent au sol près des palettes. Que faites-vous ?",
+   "o": [
+    "Vous les poussez sous le rayonnage",
+    "Vous les ramassez et les jetez dans le conteneur prévu",
+    "Vous roulez dessus avec le gerbeur",
+    "Vous les laissez pour l’équipe de ménage"
+   ],
+   "x": "Films et feuillards font glisser ou trébucher et peuvent s’enrouler autour des roues. Un poste rangé est une mesure simple contre les chutes de plain-pied, qui sont parmi les accidents les plus courants."
+  },
+  "en": {
+   "q": "Bits of plastic film and strapping are lying on the floor near the pallets. What do you do?",
+   "o": [
+    "You push them under the racking",
+    "You pick them up and put them in the right bin",
+    "You drive over them with the stacker",
+    "You leave them for the cleaning team"
+   ],
+   "x": "Film and strapping cause slips and trips and can wrap around wheels. A tidy workplace is a simple measure against slips and trips on the same level, which are among the most common accidents."
+  }
+ },
+ {
+  "id": "r485-045",
+  "points": {
+   "r485": "expl-ecrasement"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Comment éviter d’avoir le pied écrasé par le gerbeur ?",
+   "o": [
+    "Marcher très près du châssis",
+    "Tenir le timon bras plié contre le corps",
+    "Garder la distance du timon et porter des chaussures de sécurité",
+    "Pousser le gerbeur avec le pied"
+   ],
+   "x": "Le timon tenu bras tendu maintient les pieds hors de portée des roues et du châssis. Les chaussures à coque protègent en cas d’erreur. On ne guide jamais l’engin avec le pied."
+  },
+  "en": {
+   "q": "How do you avoid having your foot crushed by the stacker?",
+   "o": [
+    "Walk very close to the chassis",
+    "Hold the tiller with your arm bent against your body",
+    "Keep the tiller's distance and wear safety shoes",
+    "Push the stacker with your foot"
+   ],
+   "x": "Holding the tiller at arm's length keeps your feet away from the wheels and chassis. Toe-capped shoes protect if something goes wrong. Never guide the machine with your foot."
+  }
+ },
+ {
+  "id": "r485-046",
+  "points": {
+   "r485": "expl-ecrasement"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous manœuvrez entre le gerbeur et un mur. Quel est le danger ?",
+   "o": [
+    "Rayer la peinture du mur",
+    "Abîmer les fourches",
+    "Aucun si vous allez lentement",
+    "Être coincé entre l’engin et l’obstacle"
+   ],
+   "x": "Même lent, un gerbeur chargé pèse plusieurs centaines de kilos et peut coincer un corps contre un mur ou un rack. On ne se place jamais entre l’engin et un obstacle ; le bouton anti-écrasement est une sécurité, pas une méthode."
+  },
+  "en": {
+   "q": "You are manoeuvring between the stacker and a wall. What is the danger?",
+   "o": [
+    "Scratching the wall paint",
+    "Damaging the forks",
+    "None if you go slowly",
+    "Being trapped between the machine and the obstacle"
+   ],
+   "x": "Even slow, a loaded stacker weighs several hundred kilos and can trap a body against a wall or rack. Never stand between the machine and an obstacle; the anti-crush button is a safeguard, not a method."
+  }
+ },
+ {
+  "id": "r485-047",
+  "points": {
+   "r485": "expl-ecrasement"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une palette est mal placée sur les fourches. Comment la replacer ?",
+   "o": [
+    "Reposer la charge au sol, puis la reprendre correctement",
+    "La pousser à la main pendant que les fourches montent",
+    "Passer la main entre la charge et le mât",
+    "La caler avec le pied pendant la levée"
+   ],
+   "x": "Mettre les mains ou les pieds près du mât, des fourches ou d’une charge en mouvement expose à un coincement ou à un écrasement. On redescend la charge, on la repose et on refait la prise."
+  },
+  "en": {
+   "q": "A pallet is badly placed on the forks. How do you correct it?",
+   "o": [
+    "Put the load back down, then pick it up correctly",
+    "Push it by hand while the forks rise",
+    "Reach between the load and the mast",
+    "Wedge it with your foot during lifting"
+   ],
+   "x": "Putting hands or feet near the mast, forks or a moving load risks trapping or crushing. Lower the load, set it down and pick it up again properly."
+  }
+ },
+ {
+  "id": "r485-048",
+  "points": {
+   "r485": "expl-causes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Un conducteur court derrière son gerbeur pour aller plus vite et tombe. Quelle règle n’a-t-il pas suivie ?",
+   "o": [
+    "Toujours tenir le timon des deux mains",
+    "Accompagner le gerbeur en marchant, à une allure maîtrisée",
+    "Klaxonner à chaque mètre",
+    "Rouler fourches hautes"
+   ],
+   "x": "Un gerbeur accompagnant se conduit en marchant. En courant, le conducteur peut trébucher, perdre le contrôle ou se faire rattraper par l’engin. La vitesse s’adapte à l’allure de marche et aux conditions."
+  },
+  "en": {
+   "q": "An operator runs behind the stacker to go faster and falls. Which rule was not followed?",
+   "o": [
+    "Always hold the tiller with both hands",
+    "Walk with the stacker at a controlled pace",
+    "Sound the horn every metre",
+    "Travel with forks raised"
+   ],
+   "x": "A pedestrian stacker is operated while walking. When running, the operator can trip, lose control or be caught by the machine. Speed is matched to walking pace and conditions."
+  }
+ },
+ {
+  "id": "r485-049",
+  "points": {
+   "r485": "expl-causes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un hayon cède sous un gerbeur chargé. Quelle cause est la plus probable ?",
+   "o": [
+    "Le conducteur portait des gants",
+    "Le camion était trop propre",
+    "La masse cumulée dépassait la charge maximale du hayon",
+    "L’avertisseur avait été actionné"
+   ],
+   "x": "Le hayon doit supporter le gerbeur, sa batterie et la charge. Oublier la masse de l’engin est une erreur fréquente. On vérifie la charge maximale du hayon avant de s’y engager."
+  },
+  "en": {
+   "q": "A tail lift gives way under a loaded stacker. What is the most likely cause?",
+   "o": [
+    "The operator was wearing gloves",
+    "The lorry was too clean",
+    "The combined mass exceeded the tail lift's rated load",
+    "The horn had been sounded"
+   ],
+   "x": "The tail lift must carry the stacker, its battery and the load. Forgetting the machine's own mass is a common mistake. Check the tail lift's rated load before going onto it."
+  }
+ },
+ {
+  "id": "r485-050",
+  "points": {
+   "r485": "expl-causes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Un conducteur est coincé contre un rack parce que le gerbeur n’a pas inversé sa marche. Quelle vérification avait été oubliée ?",
+   "o": [
+    "Le contrôle de la pression des pneus",
+    "Le nettoyage du capot",
+    "La lecture du bon de livraison",
+    "Le test du bouton anti-écrasement à la prise de poste"
+   ],
+   "x": "Le dispositif anti-écrasement de la tête de timon doit être testé à chaque prise de poste. S’il ne fonctionne pas, l’engin est signalé et non utilisé. Cela ne dispense pas de se placer hors de la trajectoire."
+  },
+  "en": {
+   "q": "An operator is trapped against a rack because the stacker did not reverse. Which check had been missed?",
+   "o": [
+    "Checking tyre pressure",
+    "Cleaning the cover",
+    "Reading the delivery note",
+    "Testing the anti-crush button at the start of the shift"
+   ],
+   "x": "The anti-crush device on the tiller head must be tested at every start of shift. If it does not work, the machine is reported and not used. This does not remove the need to stay out of its path."
+  }
+ },
+ {
+  "id": "r485-051",
+  "points": {
+   "r485": "expl-causes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "« Ce n’est qu’un gerbeur, pas besoin de formation. » Pourquoi ce raisonnement est-il dangereux ?",
+   "o": [
+    "Les gerbeurs accompagnants causent de nombreux accidents graves",
+    "Les gerbeurs ne lèvent jamais plus de 1 m",
+    "Un gerbeur ne peut pas se renverser",
+    "La formation ne concerne que la voie publique"
+   ],
+   "x": "L’Assurance Maladie a créé la R485 justement parce que ces engins sont à l’origine de nombreux accidents : renversements, chutes de quai, écrasements. Une formation et une autorisation de conduite sont obligatoires."
+  },
+  "en": {
+   "q": "'It's only a stacker, no training needed.' Why is this reasoning dangerous?",
+   "o": [
+    "Pedestrian stackers cause many serious accidents",
+    "Stackers never lift more than 1 m",
+    "A stacker cannot tip over",
+    "Training only concerns public roads"
+   ],
+   "x": "The national health insurance (Assurance Maladie) created R485 precisely because these machines cause many accidents: tip-overs, falls from docks, crushing. Training and an operating authorisation are compulsory."
+  }
+ },
+ {
+  "id": "r485-052",
+  "points": {
+   "r485": "expl-position"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "En déplacement normal, où vous placez-vous par rapport au gerbeur ?",
+   "o": [
+    "Devant le gerbeur, face à lui",
+    "Sur le côté du timon, bras tendu",
+    "Juste derrière la tête de timon, contre elle",
+    "Sur les longerons"
+   ],
+   "x": "Placé latéralement, bras tendu, le conducteur voit la trajectoire, garde ses pieds hors de portée et n’est pas dans l’axe de l’engin. Il ne se met jamais devant le gerbeur ni sur une partie de celui-ci."
+  },
+  "en": {
+   "q": "During normal travel, where do you stand in relation to the stacker?",
+   "o": [
+    "In front of the stacker, facing it",
+    "To the side of the tiller, arm outstretched",
+    "Right behind the tiller head, against it",
+    "On the support legs"
+   ],
+   "x": "Standing to the side with arm outstretched, the operator sees the path, keeps their feet out of reach and is not in line with the machine. Never stand in front of the stacker or on any part of it."
+  }
+ },
+ {
+  "id": "r485-053",
+  "points": {
+   "r485": "expl-position"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pendant le déplacement, où regardez-vous ?",
+   "o": [
+    "Uniquement la charge sur les fourches",
+    "Uniquement la tête de timon",
+    "Dans le sens de la marche, en surveillant aussi la charge",
+    "Vos pieds"
+   ],
+   "x": "Le conducteur surveille le trajet pour repérer piétons, obstacles et croisements, tout en jetant un œil à la stabilité de la charge. En reculant, il se retourne pour vérifier l’absence d’obstacle au sol."
+  },
+  "en": {
+   "q": "While travelling, where do you look?",
+   "o": [
+    "Only at the load on the forks",
+    "Only at the tiller head",
+    "In the direction of travel, while also watching the load",
+    "At your feet"
+   ],
+   "x": "The operator watches the route to spot pedestrians, obstacles and crossings, while keeping an eye on load stability. When reversing, they turn round to check there are no obstacles on the floor."
+  }
+ },
+ {
+  "id": "r485-054",
+  "points": {
+   "r485": "expl-position"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pourquoi ne faut-il jamais se placer dans la trajectoire du gerbeur, entre lui et un obstacle ?",
+   "o": [
+    "Vous gênez la vue des autres caristes",
+    "Vous abîmez le bouton anti-écrasement",
+    "Vous faites décharger la batterie",
+    "Vous risquez d’être coincé ou écrasé"
+   ],
+   "x": "Une erreur de commande, un sol glissant ou une charge qui pousse peuvent faire avancer l’engin vers vous. Entre le gerbeur et un mur ou un rack, il n’y a aucune échappatoire. On reste sur le côté."
+  },
+  "en": {
+   "q": "Why must you never stand in the stacker's path, between it and an obstacle?",
+   "o": [
+    "You block other drivers' view",
+    "You damage the anti-crush button",
+    "You drain the battery",
+    "You risk being trapped or crushed"
+   ],
+   "x": "A control error, a slippery floor or a pushing load can make the machine move towards you. Between the stacker and a wall or rack there is no escape. Stay to the side."
+  }
+ },
+ {
+  "id": "r485-055",
+  "points": {
+   "r485": "expl-position"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous devez manœuvrer dans un espace très réduit. Comment utilisez-vous le gerbeur ?",
+   "o": [
+    "Timon presque vertical, en vitesse lente, en restant sur le côté",
+    "Timon à l’horizontale, à pleine vitesse",
+    "En vous plaçant devant les fourches",
+    "En poussant l’engin avec l’épaule"
+   ],
+   "x": "Beaucoup de gerbeurs ont un mode lent qui permet de rouler timon redressé : l’encombrement diminue et le conducteur garde ses distances. Il reste à côté de l’engin, jamais dans son axe ni contre un obstacle."
+  },
+  "en": {
+   "q": "You must manoeuvre in a very tight space. How do you use the stacker?",
+   "o": [
+    "Tiller nearly upright, in slow mode, staying to the side",
+    "Tiller horizontal, at full speed",
+    "Standing in front of the forks",
+    "Pushing the machine with your shoulder"
+   ],
+   "x": "Many stackers have a slow mode allowing travel with the tiller upright: the space needed is smaller and the operator keeps their distance. They stay beside the machine, never in line with it or against an obstacle."
+  }
+ },
+ {
+  "id": "r485-056",
+  "points": {
+   "r485": "expl-position"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pendant le gerbage d’une palette en hauteur, où vous tenez-vous ?",
+   "o": [
+    "Sous les fourches pour guider la palette",
+    "À côté du timon, hors de la zone où la charge pourrait tomber",
+    "Contre le mât pour mieux voir",
+    "Sur les longerons pour gagner en hauteur"
+   ],
+   "x": "Si la charge glisse ou si la palette casse, elle tombe devant et autour du mât. Le conducteur commande depuis la tête de timon, à distance, en surveillant les fourches, sans jamais passer sous la charge."
+  },
+  "en": {
+   "q": "While stacking a pallet up high, where do you stand?",
+   "o": [
+    "Under the forks to guide the pallet",
+    "Beside the tiller, outside the area where the load could fall",
+    "Against the mast to see better",
+    "On the support legs to gain height"
+   ],
+   "x": "If the load slides or the pallet breaks, it falls in front of and around the mast. The operator controls from the tiller head, at a distance, watching the forks, never going under the load."
+  }
+ },
+ {
+  "id": "r485-057",
+  "points": {
+   "r485": "expl-position"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Dans la caisse d’un camion, comment vous placez-vous pour manœuvrer le gerbeur ?",
+   "o": [
+    "Entre le gerbeur et la paroi pour guider",
+    "Assis sur la charge",
+    "Sur le côté du timon, jamais entre le gerbeur et les parois",
+    "Devant le gerbeur, en reculant vers le fond de la caisse pour le guider"
+   ],
+   "x": "L’espace est étroit et souvent sombre : le risque de coincement contre les parois ou les charges est élevé. Le conducteur reste latéral, roule lentement et garde toujours une issue derrière lui."
+  },
+  "en": {
+   "q": "Inside a lorry body, how do you position yourself to manoeuvre the stacker?",
+   "o": [
+    "Between the stacker and the wall to guide it",
+    "Sitting on the load",
+    "To the side of the tiller, never between the stacker and the walls",
+    "In front of the stacker, backing towards the end to guide it"
+   ],
+   "x": "The space is narrow and often dark: the risk of being trapped against walls or loads is high. The operator stays to the side, moves slowly and always keeps an escape route behind them."
+  }
+ },
+ {
+  "id": "r485-058",
+  "points": {
+   "r485": "expl-position"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pourquoi tenir le timon à bout de bras plutôt que tout près du corps ?",
+   "o": [
+    "Pour aller plus vite",
+    "Pour fatiguer moins la batterie",
+    "Pour lever plus haut",
+    "Pour garder une distance de sécurité avec le châssis et les roues"
+   ],
+   "x": "La longueur du timon crée une zone tampon entre le conducteur et l’engin. Bras tendu, les pieds restent loin des roues et l’on a le temps de réagir si l’engin change de direction."
+  },
+  "en": {
+   "q": "Why hold the tiller at arm's length rather than close to your body?",
+   "o": [
+    "To go faster",
+    "To put less strain on the battery",
+    "To lift higher",
+    "To keep a safe distance from the chassis and wheels"
+   ],
+   "x": "The tiller's length creates a buffer zone between operator and machine. With your arm outstretched, your feet stay away from the wheels and you have time to react if the machine changes direction."
+  }
+ },
+ {
+  "id": "r485-059",
+  "points": {
+   "r485": "expl-position"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous devez faire passer le gerbeur par une porte étroite. Que faites-vous ?",
+   "o": [
+    "Vous ralentissez, alignez l’engin et restez sur le côté, hors de l’encadrement",
+    "Vous poussez le gerbeur à pleine vitesse sans le regarder",
+    "Vous vous glissez entre l’engin et le montant",
+    "Vous accélérez pour passer d’un coup"
+   ],
+   "x": "Dans un passage étroit, le conducteur ne doit pas se retrouver coincé entre l’engin et le chambranle. Il aligne le gerbeur, roule lentement, timon redressé si besoin, et reste en position latérale."
+  },
+  "en": {
+   "q": "You need to take the stacker through a narrow door. What do you do?",
+   "o": [
+    "Slow down, line up the machine and stay to the side, clear of the frame",
+    "Push the stacker through at full speed without watching it",
+    "Squeeze between the machine and the door post",
+    "Speed up to get through in one go"
+   ],
+   "x": "In a narrow passage the operator must not end up trapped between the machine and the door frame. Line up the stacker, go slowly, tiller upright if needed, and stay to the side."
+  }
+ },
+ {
+  "id": "r485-060",
+  "points": {
+   "r485": "abaque-capacite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "D’après la plaque de ce gerbeur, quelle charge maximale pouvez-vous lever à 1,60 m avec un centre de gravité à 600 mm ?",
+   "o": [
+    "1 050 kg",
+    "1 200 kg",
+    "1 000 kg",
+    "800 kg"
+   ],
+   "x": "Ligne 1,6 m, colonne 600 mm : 1 200 kg. C’est la capacité nominale du gerbeur, valable seulement avec ce centre de gravité et jusqu’à cette hauteur."
+  },
+  "en": {
+   "q": "According to this stacker's chart, what maximum load can you lift to 1.60 m with a load centre of 600 mm?",
+   "o": [
+    "1,050 kg",
+    "1,200 kg",
+    "1,000 kg",
+    "800 kg"
+   ],
+   "x": "Row 1.6 m, column 600 mm: 1,200 kg. This is the stacker's rated capacity, valid only with that load centre and up to that height."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-061",
+  "points": {
+   "r485": "abaque-capacite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "D’après cette plaque, quelle est la capacité à 2,50 m pour un centre de gravité à 700 mm ?",
+   "o": [
+    "1 050 kg",
+    "800 kg",
+    "900 kg",
+    "700 kg"
+   ],
+   "x": "Ligne 2,5 m, colonne 700 mm : 900 kg. Monter plus haut ou éloigner le centre de gravité réduit toujours la charge admissible."
+  },
+  "en": {
+   "q": "According to this chart, what is the capacity at 2.50 m with a load centre of 700 mm?",
+   "o": [
+    "1,050 kg",
+    "800 kg",
+    "900 kg",
+    "700 kg"
+   ],
+   "x": "Row 2.5 m, column 700 mm: 900 kg. Going higher or moving the load centre further out always reduces the allowed load."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-062",
+  "points": {
+   "r485": "abaque-capacite"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "D’après cette plaque, quelle est la capacité à 3,60 m pour un centre de gravité à 800 mm ?",
+   "o": [
+    "700 kg",
+    "800 kg",
+    "900 kg",
+    "600 kg"
+   ],
+   "x": "Ligne 3,6 m, colonne 800 mm : 600 kg. C’est la plus faible valeur du tableau : charge haute et centre de gravité éloigné cumulent leurs effets sur la stabilité."
+  },
+  "en": {
+   "q": "According to this chart, what is the capacity at 3.60 m with a load centre of 800 mm?",
+   "o": [
+    "700 kg",
+    "800 kg",
+    "900 kg",
+    "600 kg"
+   ],
+   "x": "Row 3.6 m, column 800 mm: 600 kg. It is the lowest value in the chart: a high load and a distant load centre add up their effects on stability."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-063",
+  "points": {
+   "r485": "abaque-capacite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’après cette plaque, quelle charge maximale pouvez-vous déposer à 2 m avec un centre de gravité à 650 mm ?",
+   "o": [
+    "900 kg",
+    "1 050 kg",
+    "1 000 kg",
+    "1 200 kg"
+   ],
+   "x": "2 m n’est pas dans le tableau : on prend la ligne 2,5 m. 650 mm non plus : on prend la colonne 700 mm. On lit 900 kg. Si la valeur exacte n’est pas dans le tableau, on prend la hauteur et la distance immédiatement supérieures."
+  },
+  "en": {
+   "q": "According to this chart, what maximum load can you set down at 2 m with a load centre of 650 mm?",
+   "o": [
+    "900 kg",
+    "1,050 kg",
+    "1,000 kg",
+    "1,200 kg"
+   ],
+   "x": "2 m is not in the chart, so use the 2.5 m row. 650 mm is not either, so use the 700 mm column. It reads 900 kg. If the exact value is not in the chart, use the next higher height and distance."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-064",
+  "points": {
+   "r485": "abaque-capacite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "D’après cette plaque, quelle est la capacité à 3 m pour un centre de gravité à 600 mm ?",
+   "o": [
+    "1 000 kg",
+    "800 kg",
+    "1 200 kg",
+    "900 kg"
+   ],
+   "x": "3 m n’existe pas dans le tableau : on prend la ligne 3,6 m. Colonne 600 mm : 800 kg. Utiliser la ligne 2,5 m donnerait une valeur trop élevée. Si la valeur exacte n’est pas dans le tableau, on prend la hauteur et la distance immédiatement supérieures."
+  },
+  "en": {
+   "q": "According to this chart, what is the capacity at 3 m with a load centre of 600 mm?",
+   "o": [
+    "1,000 kg",
+    "800 kg",
+    "1,200 kg",
+    "900 kg"
+   ],
+   "x": "3 m is not in the chart, so use the 3.6 m row. Column 600 mm: 800 kg. Using the 2.5 m row would give a value that is too high. If the exact value is not in the chart, use the next higher height and distance."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-065",
+  "points": {
+   "r485": "abaque-capacite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "D’après cette plaque, pouvez-vous gerber à 2,50 m une palette de 950 kg dont le centre de gravité est à 700 mm ?",
+   "o": [
+    "Oui, la capacité nominale est de 1 200 kg",
+    "Oui, il reste 50 kg de marge",
+    "Non, la capacité y est de 900 kg",
+    "Oui, si vous levez lentement"
+   ],
+   "x": "Ligne 2,5 m, colonne 700 mm : 900 kg. La palette dépasse de 50 kg. La capacité nominale de 1 200 kg ne vaut qu’à 600 mm et jusqu’à 1,6 m ; la vitesse de levage ne change pas l’équilibre."
+  },
+  "en": {
+   "q": "According to this chart, can you stack a 950 kg pallet with its load centre at 700 mm at 2.50 m?",
+   "o": [
+    "Yes, the rated capacity is 1,200 kg",
+    "Yes, there are 50 kg to spare",
+    "No, capacity there is 900 kg",
+    "Yes, if you lift slowly"
+   ],
+   "x": "Row 2.5 m, column 700 mm: 900 kg. The pallet is 50 kg over. The 1,200 kg rated capacity only applies at 600 mm and up to 1.6 m; lifting speed does not change the balance."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-066",
+  "points": {
+   "r485": "abaque-capacite"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "D’après cette plaque, pouvez-vous gerber à 3,60 m une charge de 700 kg dont le centre de gravité est à 800 mm ?",
+   "o": [
+    "Oui, la capacité y est de 700 kg",
+    "Oui, la capacité y est de 800 kg",
+    "Oui, sans limite sous 1 200 kg",
+    "Non, la capacité y est de 600 kg"
+   ],
+   "x": "Ligne 3,6 m, colonne 800 mm : 600 kg. Les 700 kg ne sont admissibles à cette hauteur que si le centre de gravité est à 700 mm au plus. Ici, la manutention est interdite."
+  },
+  "en": {
+   "q": "According to this chart, can you stack a 700 kg load with its load centre at 800 mm at 3.60 m?",
+   "o": [
+    "Yes, capacity there is 700 kg",
+    "Yes, capacity there is 800 kg",
+    "Yes, with no limit under 1,200 kg",
+    "No, capacity there is 600 kg"
+   ],
+   "x": "Row 3.6 m, column 800 mm: 600 kg. 700 kg is only allowed at this height if the load centre is at most 700 mm. Here the lift is not allowed."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-067",
+  "points": {
+   "r485": "abaque-capacite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’après cette plaque, quelle est la capacité à 1,60 m pour un centre de gravité à 750 mm ?",
+   "o": [
+    "900 kg",
+    "1 050 kg",
+    "1 200 kg",
+    "800 kg"
+   ],
+   "x": "La ligne 1,6 m existe ; 750 mm n’existe pas : on prend la colonne 800 mm, soit 900 kg. La colonne 700 mm donnerait 1 050 kg, valeur trop optimiste. Si la valeur exacte n’est pas dans le tableau, on prend la hauteur et la distance immédiatement supérieures."
+  },
+  "en": {
+   "q": "According to this chart, what is the capacity at 1.60 m with a load centre of 750 mm?",
+   "o": [
+    "900 kg",
+    "1,050 kg",
+    "1,200 kg",
+    "800 kg"
+   ],
+   "x": "The 1.6 m row exists; 750 mm does not, so use the 800 mm column: 900 kg. The 700 mm column would give 1,050 kg, which is too optimistic. If the exact value is not in the chart, use the next higher height and distance."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-068",
+  "points": {
+   "r485": "abaque-hauteur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 1 000 kg avec un centre de gravité à 600 mm ?",
+   "o": [
+    "1,60 m",
+    "2,50 m",
+    "3,60 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 600 mm : 1 200 kg à 1,6 m et 1 000 kg à 2,5 m conviennent ; 800 kg à 3,6 m ne suffit pas. La hauteur maximale est donc 2,5 m."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 1,000 kg with a load centre of 600 mm?",
+   "o": [
+    "1.60 m",
+    "2.50 m",
+    "3.60 m",
+    "No height at all"
+   ],
+   "x": "Column 600 mm: 1,200 kg at 1.6 m and 1,000 kg at 2.5 m are enough; 800 kg at 3.6 m is not. The maximum height is therefore 2.5 m."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-069",
+  "points": {
+   "r485": "abaque-hauteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 800 kg avec un centre de gravité à 600 mm ?",
+   "o": [
+    "2,50 m",
+    "1,60 m",
+    "3,60 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 600 mm, ligne 3,6 m : 800 kg, égal à la masse de la charge. Elle peut donc monter jusqu’au niveau le plus haut du tableau, sans aucune marge supplémentaire."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 800 kg with a load centre of 600 mm?",
+   "o": [
+    "2.50 m",
+    "1.60 m",
+    "3.60 m",
+    "No height at all"
+   ],
+   "x": "Column 600 mm, row 3.6 m: 800 kg, equal to the load mass. It can therefore go up to the highest level in the chart, with no extra margin."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-070",
+  "points": {
+   "r485": "abaque-hauteur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 1 000 kg avec un centre de gravité à 700 mm ?",
+   "o": [
+    "2,50 m",
+    "3,60 m",
+    "Aucune hauteur",
+    "1,60 m"
+   ],
+   "x": "Colonne 700 mm : 1 050 kg à 1,6 m convient, mais 900 kg à 2,5 m est insuffisant. La charge ne doit pas dépasser 1,6 m."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 1,000 kg with a load centre of 700 mm?",
+   "o": [
+    "2.50 m",
+    "3.60 m",
+    "No height at all",
+    "1.60 m"
+   ],
+   "x": "Column 700 mm: 1,050 kg at 1.6 m is enough, but 900 kg at 2.5 m is not. The load must not go above 1.6 m."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-071",
+  "points": {
+   "r485": "abaque-hauteur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 850 kg avec un centre de gravité à 800 mm ?",
+   "o": [
+    "1,60 m",
+    "2,50 m",
+    "3,60 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 800 mm : 900 kg à 1,6 m convient ; 800 kg à 2,5 m est inférieur à 850 kg. On s’arrête à 1,6 m, même s’il ne manque que 50 kg."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 850 kg with a load centre of 800 mm?",
+   "o": [
+    "1.60 m",
+    "2.50 m",
+    "3.60 m",
+    "No height at all"
+   ],
+   "x": "Column 800 mm: 900 kg at 1.6 m is enough; 800 kg at 2.5 m is less than 850 kg. You stop at 1.6 m, even though only 50 kg is missing."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-072",
+  "points": {
+   "r485": "abaque-hauteur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 700 kg avec un centre de gravité à 700 mm ?",
+   "o": [
+    "2,50 m",
+    "3,60 m",
+    "1,60 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 700 mm, ligne 3,6 m : 700 kg, égal à la masse. La charge peut atteindre le niveau le plus haut du tableau."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 700 kg with a load centre of 700 mm?",
+   "o": [
+    "2.50 m",
+    "3.60 m",
+    "1.60 m",
+    "No height at all"
+   ],
+   "x": "Column 700 mm, row 3.6 m: 700 kg, equal to the mass. The load can reach the highest level in the chart."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-073",
+  "points": {
+   "r485": "abaque-hauteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 900 kg avec un centre de gravité à 700 mm ?",
+   "o": [
+    "3,60 m",
+    "1,60 m",
+    "2,50 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 700 mm : 900 kg à 2,5 m convient tout juste ; 700 kg à 3,6 m ne suffit pas. La hauteur maximale est 2,5 m."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 900 kg with a load centre of 700 mm?",
+   "o": [
+    "3.60 m",
+    "1.60 m",
+    "2.50 m",
+    "No height at all"
+   ],
+   "x": "Column 700 mm: 900 kg at 2.5 m is just enough; 700 kg at 3.6 m is not. The maximum height is 2.5 m."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-074",
+  "points": {
+   "r485": "abaque-hauteur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 1 100 kg avec un centre de gravité à 600 mm ?",
+   "o": [
+    "2,50 m",
+    "3,60 m",
+    "Aucune hauteur",
+    "1,60 m"
+   ],
+   "x": "Colonne 600 mm : 1 200 kg à 1,6 m convient, mais 1 000 kg à 2,5 m est insuffisant. La charge ne doit pas dépasser 1,6 m."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 1,100 kg with a load centre of 600 mm?",
+   "o": [
+    "2.50 m",
+    "3.60 m",
+    "No height at all",
+    "1.60 m"
+   ],
+   "x": "Column 600 mm: 1,200 kg at 1.6 m is enough, but 1,000 kg at 2.5 m is not. The load must not go above 1.6 m."
+  },
+  "plaque": "P3"
+ },
+ {
+  "id": "r485-075",
+  "points": {
+   "r485": "abaque-hauteur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’après cette plaque, à quelle hauteur pouvez-vous lever 1 000 kg avec un centre de gravité à 800 mm ?",
+   "o": [
+    "Aucune : la charge dépasse la capacité dès 1,60 m",
+    "1,60 m",
+    "2,50 m",
+    "3,60 m"
+   ],
+   "x": "Colonne 800 mm, la valeur la plus haute est 900 kg à 1,6 m. Avec 1 000 kg, la capacité est dépassée à toutes les hauteurs : la manutention est impossible tant que le centre de gravité n’est pas rapproché."
+  },
+  "en": {
+   "q": "According to this chart, to what height can you lift 1,000 kg with a load centre of 800 mm?",
+   "o": [
+    "None: the load exceeds capacity even at 1.60 m",
+    "1.60 m",
+    "2.50 m",
+    "3.60 m"
+   ],
+   "x": "In the 800 mm column, the highest value is 900 kg at 1.6 m. At 1,000 kg capacity is exceeded at every height: the lift is impossible unless the load centre is brought closer."
+  },
+  "plaque": "P3"
+ }
+]

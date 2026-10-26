@@ -1,0 +1,34 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { breadcrumbSchema, articleSchema } from '../../lib/seo';
+import { helpers } from '../../lib/helpers';
+const lang = 'fr';
+const h = helpers(lang);
+const P = h.P;
+const c = h.count;
+---
+<PageLayout title="Méthode du test CACES blanc : tirage, barème et calculs" description="Comment FR CACES tire un test théorique blanc selon la fiche d’évaluation de chaque recommandation, le note à 70 sur 100 par thème et calcule prix et échéances." lang={lang} jsonLd={[articleSchema({ title: 'Méthode : tirage, notation et calculs', description: 'Méthode de FR CACES', path: route('method', lang), lang }), breadcrumbSchema([{ name: 'Accueil', path: route('home', lang) }, { name: 'Méthode', path: route('method', lang) }])]} breadcrumbs={[{ label: 'Méthode' }]}>
+  <header class="mb-6"><p class="kicker">Méthode</p><h1 class="mt-0 text-3xl font-bold text-navy-900 md:text-4xl">Tirage, notation, prix et échéances</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <p>Toutes les pages et tous les outils lisent les mêmes fichiers : la banque de questions, les grilles d’évaluation, un fichier de paramètres où figurent les règles relues le {h.retrieved}, et les prix du catalogue Mon Compte Formation au {h.cpfDate}. Aucune règle, aucun seuil, aucun prix n’est tapé dans une page : quand un texte change, le fichier change et toutes les pages suivent.</p>
+    <h2>1. Les grilles d’évaluation</h2>
+    <p>Chaque recommandation de l’Assurance Maladie contient, en annexe 3, une fiche d’évaluation des connaissances théoriques : des thèmes (connaissances générales, technologie et stabilité, exploitation, et selon l’engin abaque de charges, circulation, entretien ou élingage), chacun découpé en points du référentiel avec un barème. Le total fait toujours 100 points. Nous avons repris ces grilles, thème par thème et point par point, en reformulant les libellés ; elles sont visibles sur chaque page de recommandation.</p>
+    <h2>2. La banque de questions</h2>
+    <p>Elle compte {h.num(c.all)} questions écrites par nous : {c.per.r489} pour la R489, {c.per.r482} pour la R482, {c.per.r486} pour la R486, {c.per.r490} pour la R490 et {c.per.r485} pour la R485, certaines questions générales servant à plusieurs recommandations. Chacune est rattachée à un point de grille, a trois ou quatre propositions dont une seule est juste, et un corrigé. La position de la bonne réponse est répartie entre les places. Il ne s’agit pas des questions officielles : les organismes testeurs utilisent des grilles de questions qu’ils ne publient pas.</p>
+    <h2>3. Le tirage de l’examen blanc</h2>
+    <p>Pour chaque point de grille de barème n, l’examen blanc tire n questions parmi celles qui travaillent ce point. Le test blanc a donc exactement le poids officiel de chaque thème : par exemple, en R489, 15 points de connaissances générales, 25 de technologie et stabilité, 10 d’abaque et 50 d’exploitation. Le tirage dépend d’un nombre (la graine) inscrit dans l’adresse quand vous relancez : la même adresse redonne le même test.</p>
+    <h2>4. La notation</h2>
+    <p>Une bonne réponse vaut 1 point, une erreur ou une absence de réponse 0. Le test est réussi à {P.test.passScore} points sur 100 ET avec au moins la moitié des points de chaque thème, comme dans les recommandations. Le chronomètre de {P.test.minutes} minutes (une unité de test, soit une heure à dix minutes près) démarre à la première réponse. En entraînement, la règle est ramenée au nombre de questions posées et le résultat n’est qu’indicatif.</p>
+    <h2>5. La progression et les erreurs</h2>
+    <p>Les questions manquées et les notes des examens blancs terminés sont gardées dans le stockage local de votre navigateur (localStorage), sur votre appareil seulement. Elles ne sont jamais envoyées. Une question sort de la liste des erreurs dès que vous y répondez juste. Le bouton « Effacer ma progression » vide ce stockage.</p>
+    <h2>6. Les échéances</h2>
+    <p>L’échéance d’un CACES est la date anniversaire des {h.years('r489')} ans ({h.years('r482')} ans en R482) comptés depuis la date d’obtention, c’est-à-dire la date de réussite de la seconde épreuve. L’attestation d’absence de contre-indications médicales vaut {P.medical.attestationYears} ans (article R4323-56 du Code du travail) ; un avis d’aptitude délivré avant le 1er octobre 2025 en tient lieu {P.medical.oldAvisUntilYears} ans après sa délivrance. Une partie réussie reste acquise {P.test.keepPassedPartMonths} mois. Les dates se calculent en jours calendaires ; un 29 février devient un 28 février.</p>
+    <h2>7. Les prix</h2>
+    <p>Le script de mise à jour lit le catalogue Mon Compte Formation publié en open data par la Caisse des Dépôts (Licence Ouverte), garde les offres rattachées aux certifications CACES du Répertoire spécifique (une par catégorie), compte chaque offre une fois et calcule la médiane et les quartiles du prix TTC moyen et de la durée, séparément pour la formation initiale et le recyclage (intitulé contenant « recyclage », « renouvellement » ou « actualisation »). Un prix régional n’est affiché qu’au-delà de 8 offres dans la région. Une offre peut regrouper plusieurs catégories : le prix est alors celui du stage entier. Aucun nom d’organisme n’est gardé.</p>
+    <h2>8. Le financement</h2>
+    <p>Le calcul du CPF applique les règles de service-public.gouv.fr : {h.eur(P.cpf.rsCap)} de droits au plus pour une certification du Répertoire spécifique comme le CACES, et une participation forfaitaire de {h.eur(P.cpf.participation)} pour une demande faite depuis le {h.date(P.cpf.participationSince)}, sauf pour un demandeur d’emploi ou en cas d’abondement de l’employeur.</p>
+    <h2>9. Mise à jour</h2>
+    <p>Les prix sont relus chaque semaine par un script automatique ({h.cpfDate} pour la version affichée). Les règles sont relues à la main dans les recommandations publiées par l’Assurance Maladie, sur code.travail.gouv.fr et service-public.gouv.fr. Si un texte change entre deux relectures, signalez-le par la <a href={route('contact', lang)}>page Contact</a>.</p>
+  </div>
+</PageLayout>

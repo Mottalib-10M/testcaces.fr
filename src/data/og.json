@@ -1,0 +1,20 @@
+{
+ "accent": "#0B4F8A",
+ "symbol": "C",
+ "variants": [
+  {
+   "file": "og-fr.png",
+   "title": "Test CACES 2026\nexamen blanc théorique gratuit",
+   "subtitle": "R489 · R482 · R486 · R490 · R485 · 100 questions · seuil 70/100",
+   "badge": "Site indépendant · questions écrites par Radif Partners",
+   "brand": "FR CACES"
+  },
+  {
+   "file": "og-en.png",
+   "title": "CACES test 2026\nfree theory mock exam",
+   "subtitle": "R489 · R482 · R486 · R490 · R485 · 100 questions · pass mark 70/100",
+   "badge": "Independent site · questions written by Radif Partners",
+   "brand": "FR CACES"
+  }
+ ]
+}

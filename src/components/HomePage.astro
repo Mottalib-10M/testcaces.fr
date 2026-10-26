@@ -1,0 +1,173 @@
+---
+/**
+ * Accueil d'une langue : le test théorique blanc (premier écran, R489 par défaut, cinq recommandations
+ * au choix), les cinq tests côte à côte dans un tableau, les règles du test, l'autorisation de conduite,
+ * le prix réel et toutes les pages. Chaque chiffre est lu dans params-2026.json, les grilles ou cpf-caces.json.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Tool from './Tool.astro';
+import Clamp from './Clamp.astro';
+import Sources from './Sources.astro';
+import { route, type Locale } from '../i18n/routes';
+import { PAGES } from '../lib/guides';
+import { groupLabel, GROUPS_ORDER } from '../i18n/nav';
+import { helpers } from '../lib/helpers';
+import { t } from '../i18n/ui';
+import { GRIDS, RECOS, type Reco } from '../lib/engine/exam';
+import { LAST_UPDATED, AUTHOR_NAME } from '../data/site-config';
+import { displayDate } from '../lib/format';
+import { faqSchema, webApplicationSchema, websiteSchema, organizationSchema } from '../lib/seo';
+interface Props { lang: Locale }
+const { lang } = Astro.props;
+const fr = lang === 'fr';
+const h = helpers(lang, true);
+const P = h.P;
+const a = h.a;
+const cards = (g: (typeof GROUPS_ORDER)[number]) => PAGES.filter((p) => p.group === g).map((p) => ({ href: route(p.id, lang), name: p[lang].nav, text: p[lang].card }));
+const r489 = h.price('r489', '3');
+const r486 = h.price('r486', 'A');
+
+const title = fr ? 'Test CACES gratuit : examen blanc théorique de 100 questions' : 'CACES test practice: free 100-question theory mock exam';
+const description = fr
+  ? `Test CACES gratuit : examen blanc théorique de 100 questions pour R489, R482, R486, R490 et R485, noté à 70 sur 100 et par thème, corrigé expliqué, sans compte.`
+  : `CACES test practice: free 100-question theory mock exam for R489, R482, R486, R490 and R485, marked at 70 and by theme, explained answers, no account.`;
+const faqs = fr ? [
+  { q: 'Comment se passe le test théorique du CACES ?', a: `C’est un questionnaire de ${P.test.questions} questions notées 1 ou 0, passé dans un organisme testeur certifié, en salle, avec ${P.test.maxCandidatesPerTester} candidats au plus par testeur. Il dure une unité de test, soit une heure à dix minutes près. Le test est rédigé en français ; les questions peuvent être lues à voix haute à un candidat qui lit mal. Le testeur ne peut pas être celui qui vous a formé.` },
+  { q: 'Quelle note faut-il pour réussir le test théorique ?', a: `Il faut au moins ${P.test.passScore} points sur 100 et, en plus, au moins la moitié des points de chaque thème de la fiche d’évaluation. Un candidat qui a 85 sur 100 mais seulement 4 points sur 10 au thème de l’abaque de charges échoue. Le simulateur de note de ce site applique les deux règles, thème par thème, pour chaque recommandation.` },
+  { q: 'Les questions de ce site sont-elles celles du vrai test ?', a: 'Non. Les organismes testeurs tirent leurs questions dans des grilles qu’ils ne publient pas. Nos questions sont écrites par nous à partir du référentiel de connaissances de chaque recommandation, point par point, avec le même poids que la fiche d’évaluation officielle. Elles entraînent sur les mêmes notions ; elles ne donnent pas les énoncés du jour du test.' },
+  { q: 'Le test théorique est-il le même pour toutes les catégories ?', a: 'Oui, dans chaque recommandation, le test théorique est commun à toutes les catégories : un cariste qui passe le R489 catégorie 1A et un autre qui passe la catégorie 5 répondent sur le même barème. Seule l’épreuve pratique change avec l’engin. Après un premier CACES, la théorie reste acquise 12 mois pour une autre catégorie de la même recommandation.' },
+  { q: 'Combien de temps un CACES est-il valable ?', a: `Cinq ans pour les recommandations R489, R485, R486 et R490, dix ans pour la R482 des engins de chantier, à compter de la date d’obtention, qui est celle de la réussite à la seconde épreuve. Il faut ensuite repasser le test complet, théorie et pratique, après une formation de recyclage. Le calculateur de validité donne la date exacte et le moment de réserver.` },
+  { q: 'Le CACES est-il obligatoire pour conduire un chariot ?', a: 'La loi impose une formation adéquate et une autorisation de conduite écrite délivrée par l’employeur. Le CACES est le moyen recommandé par l’Assurance Maladie pour évaluer les connaissances et le savoir-faire avant cette autorisation, et la plupart des employeurs et des agences d’intérim l’exigent. Sans autorisation de conduite valable, vous ne devez pas conduire, même avec un CACES en poche.' },
+  { q: 'Combien coûte un CACES ?', a: `Il n’existe pas de tarif national. Dans le catalogue Mon Compte Formation au ${h.cpfDate}, la formation initiale R489 catégorie 3 coûte ${r489?.prix ? h.eur(r489.prix.med) : '–'} en valeur médiane, la moitié des offres se situant entre ${r489?.prix ? h.eur(r489.prix.q1) : '–'} et ${r489?.prix ? h.eur(r489.prix.q3) : '–'}. Une nacelle R486 catégorie A coûte ${r486?.prix ? h.eur(r486.prix.med) : '–'} en médiane. Le CPF en prend en charge ${h.eur(P.cpf.rsCap)} au plus.` },
+  { q: 'Mes réponses sont-elles enregistrées quelque part ?', a: 'Non. Le test tourne dans votre navigateur : rien de ce que vous répondez n’est envoyé. Les questions manquées et vos notes sont gardées dans le stockage local de votre navigateur, sur votre appareil seulement, pour la révision des erreurs. Un bouton efface cette progression à tout moment, et la navigation privée ne garde rien.' },
+] : [
+  { q: 'How does the CACES theory test work?', a: `It is a ${P.test.questions}-question paper, each question scoring 1 or 0, sat at a certified testing body, in a room with at most ${P.test.maxCandidatesPerTester} candidates per tester. It lasts one test unit, one hour give or take ten minutes. The paper is in French; the questions can be read aloud to a candidate who struggles to read. The tester cannot be the person who trained you.` },
+  { q: 'What score do I need to pass the theory test?', a: `You need at least ${P.test.passScore} points out of 100 and, on top of that, at least half the points of each theme on the assessment sheet. A candidate with 85 out of 100 but only 4 points out of 10 on the load chart theme fails. The score simulator on this site applies both rules, theme by theme, for each recommendation.` },
+  { q: 'Are these the real test questions?', a: 'No. Testing bodies draw their questions from grids they do not publish. Our questions are written by us from each recommendation’s knowledge syllabus, point by point, with the same weight as the official assessment sheet. They train you on the same notions; they do not give you the wording used on test day, which is in French.' },
+  { q: 'Is the theory test the same for every category?', a: 'Yes, within a recommendation the theory test is shared by all categories: someone taking R489 category 1A and someone taking category 5 answer on the same marking scheme. Only the practical test changes with the machine. After a first CACES, the theory part stays valid for 12 months for another category of the same recommendation.' },
+  { q: 'How long is a CACES valid?', a: `Five years for R489, R485, R486 and R490, ten years for R482 construction machinery, counted from the date it was obtained, which is the date the second part was passed. You then sit the full test again, theory and practical, after a refresher course. The validity calculator gives the exact date and when to book.` },
+  { q: 'Do I need a CACES to drive a forklift in France?', a: 'The law requires suitable training and a written operating authorisation (autorisation de conduite) issued by the employer. The CACES is the method the French Health Insurance recommends to assess knowledge and skills before that authorisation, and most employers and staffing agencies ask for it. Without a valid authorisation you must not drive, even with a CACES.' },
+  { q: 'How much does a CACES cost?', a: `There is no national price. In the Mon Compte Formation catalogue on ${h.cpfDate}, the initial R489 category 3 course has a median price of ${r489?.prix ? h.eur(r489.prix.med) : '–'}, with half the offers between ${r489?.prix ? h.eur(r489.prix.q1) : '–'} and ${r489?.prix ? h.eur(r489.prix.q3) : '–'}. An R486 category A aerial lift course has a median of ${r486?.prix ? h.eur(r486.prix.med) : '–'}. The CPF pays at most ${h.eur(P.cpf.rsCap)}.` },
+  { q: 'Are my answers saved anywhere?', a: 'No. The test runs in your browser: nothing you answer is sent. Missed questions and your scores are kept in your browser’s local storage, on your device only, for the mistakes review. A button clears this progress at any time, and a private window keeps nothing at all.' },
+];
+const jsonLd = [websiteSchema(lang), organizationSchema(lang), webApplicationSchema({ name: fr ? 'Test CACES blanc' : 'CACES mock test', description, path: route('home', lang), lang }), faqSchema(faqs, lang)];
+const g489 = GRIDS.r489.themes;
+const resume = fr
+  ? `Le CACES, certificat d’aptitude à la conduite en sécurité, se compose d’un test théorique et d’un test pratique passés dans un organisme testeur certifié, selon une recommandation de l’Assurance Maladie propre à chaque famille d’engins : R489 pour les chariots à conducteur porté, R482 pour les engins de chantier, R486 pour les nacelles, R490 pour les grues de chargement, R485 pour les gerbeurs à conducteur accompagnant. Le test théorique compte ${P.test.questions} questions notées 1 ou 0, dure une heure à dix minutes près, et se réussit avec ${P.test.passScore} points sur 100 et au moins la moitié des points de chaque thème. En R489, les thèmes pèsent ${g489.map((x) => `${x.points} points (${x.fr.toLowerCase()})`).join(', ')}. Le test blanc ci-dessus tire ses questions dans notre banque de ${h.num(h.count.all)} questions selon ce barème exact, point du référentiel par point du référentiel, et le note avec les deux règles. Le CACES vaut ${h.years('r489')} ans (${h.years('r482')} ans en R482) ; il ne suffit pas pour conduire : l’employeur délivre une autorisation de conduite écrite, qui exige aussi une attestation médicale valable ${P.medical.attestationYears} ans depuis le 1er octobre 2025.`
+  : `The CACES (certificat d’aptitude à la conduite en sécurité, the French safe operation certificate) consists of a theory test and a practical test sat at a certified testing body, under a French Health Insurance recommendation specific to each machine family: R489 for ride-on industrial trucks, R482 for construction machinery, R486 for aerial work platforms, R490 for lorry loader cranes and R485 for pedestrian stackers. The theory test has ${P.test.questions} questions scoring 1 or 0, lasts one hour give or take ten minutes, and is passed with ${P.test.passScore} points out of 100 and at least half the points in every theme. In R489 the themes weigh ${g489.map((x) => `${x.points} points (${x.en.toLowerCase()})`).join(', ')}. The mock test above draws from our bank of ${h.num(h.count.all)} questions using that exact weighting, syllabus point by syllabus point, and marks it with both rules. A CACES lasts ${h.years('r489')} years (${h.years('r482')} for R482); it is not enough to drive on its own: the employer issues a written operating authorisation, which since 1 October 2025 also requires a medical certificate valid for ${P.medical.attestationYears} years. The real test is in French; questions appear here in English to help you learn.`;
+const RN: Record<Reco, { fr: string; en: string; engins: { fr: string; en: string } }> = {
+  r489: { fr: 'Chariots à conducteur porté', en: 'Ride-on industrial trucks', engins: { fr: 'transpalettes, gerbeurs, chariots frontaux, mât rétractable', en: 'pallet trucks, stackers, counterbalance, reach trucks' } },
+  r482: { fr: 'Engins de chantier', en: 'Construction machinery', engins: { fr: 'pelles, chargeuses, tombereaux, compacteurs, télescopiques', en: 'excavators, loaders, dump trucks, compactors, telehandlers' } },
+  r486: { fr: 'Plates-formes élévatrices (nacelles)', en: 'Mobile elevating work platforms', engins: { fr: 'nacelles ciseaux, articulées, télescopiques', en: 'scissor, articulated and telescopic lifts' } },
+  r490: { fr: 'Grues de chargement', en: 'Lorry loader cranes', engins: { fr: 'grue sur camion, option télécommande', en: 'truck-mounted crane, remote-control option' } },
+  r485: { fr: 'Gerbeurs à conducteur accompagnant', en: 'Pedestrian stackers', engins: { fr: 'gerbeurs à timon, levée au-delà de 1,20 m', en: 'walk-behind stackers lifting above 1.20 m' } },
+};
+const recoRows = RECOS.map((r) => {
+  const cats = P.recos[r].cats;
+  const pr = h.price(r, r === 'r489' ? '3' : r === 'r482' ? 'A' : cats[0]);
+  return { r, name: RN[r][lang], engins: RN[r].engins[lang], cats: cats.length === 1 ? (fr ? 'une seule' : 'one') : cats.join(', '), years: h.years(r), themes: GRIDS[r].themes.length, price: pr?.prix ? h.eur(pr.prix.med) : '–', link: `caces-${r}` };
+});
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={jsonLd} faqs={faqs} breadcrumbs={[]}>
+  <header class="mb-3">
+    <h1 class="mt-0 text-[1.75rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">{fr ? 'Test CACES gratuit : examen blanc théorique de 100 questions corrigées' : 'Free CACES test: 100-question theory mock exam with answers'}</h1>
+    <p class="mt-2 text-base text-navy-700 sm:text-lg">{fr ? `${P.test.questions} questions, une heure, ${P.test.passScore} sur 100 et la moitié de chaque thème. R489 par défaut, quatre autres au choix. Sans compte.` : `${P.test.questions} questions, one hour, ${P.test.passScore} out of 100 and half of every theme. R489 by default, four others to choose from. No account.`}</p>
+    <p data-chrome data-independant class="mt-1 text-xs text-navy-600">{t(lang).independent}</p>
+  </header>
+  <div data-outil class="mb-4"><Tool tool={{ kind: 'quiz', props: { reco: 'r489', mode: 'exam', recoSelect: true } }} lang={lang} primary={true} seedKey="home" /></div>
+  <Clamp text={resume} id="clamp-home" lang={lang} class="mb-3" />
+  <p class="mb-8 text-sm text-navy-600">{fr ? 'Mis à jour le' : 'Updated'} <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, fr ? 'fr-FR' : 'en-GB')}</time> · {AUTHOR_NAME} · <a href={route('method', lang)} class="underline hover:text-navy-900">{fr ? 'Méthode' : 'Method'}</a> · <a href={route('about', lang)} class="underline hover:text-navy-900">{fr ? 'À propos' : 'About this site'}</a></p>
+
+  <section class="mb-10" aria-labelledby="cinq">
+    <h2 id="cinq" class="mb-3 text-2xl font-bold text-navy-900">{fr ? 'Cinq CACES, cinq tests théoriques' : 'Five CACES, five theory tests'}</h2>
+    <div class="not-prose overflow-x-auto">
+      <table class="w-full text-sm">
+        <thead><tr class="border-b border-navy-300 text-left text-xs uppercase tracking-wide text-navy-700">
+          <th scope="col" class="px-3 py-2">{fr ? 'Recommandation' : 'Recommendation'}</th><th scope="col" class="px-3 py-2">{fr ? 'Engins' : 'Machines'}</th><th scope="col" class="px-3 py-2">{fr ? 'Catégories' : 'Categories'}</th><th scope="col" class="px-3 py-2 text-right">{fr ? 'Validité' : 'Valid for'}</th><th scope="col" class="px-3 py-2 text-right">{fr ? 'Thèmes' : 'Themes'}</th><th scope="col" class="px-3 py-2 text-right">{fr ? 'Prix médian' : 'Median price'}</th>
+        </tr></thead>
+        <tbody>{recoRows.map((x) => (
+          <tr class="border-b border-navy-100 align-top">
+            <th scope="row" class="px-3 py-2 text-left font-semibold"><a href={route(x.link, lang)} class="text-accent-700 underline">{x.r.toUpperCase()}</a><span class="block text-xs font-normal text-navy-700">{x.name}</span></th>
+            <td class="px-3 py-2 text-navy-800">{x.engins}</td><td class="px-3 py-2 text-navy-800">{x.cats}</td>
+            <td class="tabular-nums px-3 py-2 text-right text-navy-900">{fr ? `${x.years} ans` : `${x.years} years`}</td><td class="tabular-nums px-3 py-2 text-right text-navy-900">{x.themes}</td><td class="tabular-nums px-3 py-2 text-right text-navy-900">{x.price}</td>
+          </tr>))}
+        </tbody>
+      </table>
+      <p class="mt-2 text-xs text-navy-600">{fr ? `Prix médian de la formation initiale d’une catégorie courante (R489 cat. 3, R482 cat. A, R486 cat. A…), catalogue Mon Compte Formation au ${h.cpfDate}.` : `Median initial course price for a common category (R489 cat. 3, R482 cat. A, R486 cat. A…), Mon Compte Formation catalogue on ${h.cpfDate}.`}</p>
+    </div>
+  </section>
+
+  {fr ? (
+  <div class="prose prose-slate max-w-none">
+    <h2>Le test théorique, règle par règle</h2>
+    <p>Les cinq recommandations décrivent le test théorique de la même façon. Il compte {P.test.questions} questions, chacune notée 1 si la réponse est juste et 0 sinon, sans point négatif. Il se passe en salle, dans un organisme testeur certifié (OTC), devant un testeur qui ne peut pas être celui qui vous a formé, avec {P.test.maxCandidatesPerTester} candidats au plus par testeur. Sa durée est fixée en unités de test : la théorie vaut une unité, c’est-à-dire une heure à dix minutes près. Un candidat ne peut pas enchaîner plus de {P.test.maxUtPerDay} unités de test dans la même journée, épreuves pratiques comprises.</p>
+    <p>Le questionnaire est rédigé en français. Si vous lisez difficilement, les questions peuvent vous être lues à voix haute, toujours en français ; il n’existe pas de version traduite. Les questions sont tirées dans des grilles mises à disposition des organismes testeurs, qui changent d’un candidat à l’autre. L’ordre des épreuves, théorie d’abord ou pratique d’abord, est laissé au choix de l’organisme.</p>
+    <p>La réussite tient à deux conditions cumulées : {P.test.passScore} points sur 100 au total, et au moins la moitié des points de chaque thème. La seconde règle surprend souvent. Un thème de 10 points comme l’abaque de charges en R489 exige 5 bonnes réponses : en avoir 4 fait échouer, même avec 90 au total. Le mini-outil ci-dessous montre la marge que laisse une note globale ; le <Fragment set:html={a('test-theorique', 'simulateur de note par thème')} /> applique les deux règles.</p>
+  </div>
+  ) : (
+  <div class="prose prose-slate max-w-none">
+    <h2>The theory test, rule by rule</h2>
+    <p>All five recommendations describe the theory test the same way. It has {P.test.questions} questions, each scoring 1 if correct and 0 otherwise, with no negative marking. You sit it in a room at a certified testing body (organisme testeur certifié, OTC), in front of a tester who cannot be the person who trained you, with at most {P.test.maxCandidatesPerTester} candidates per tester. Its length is set in test units: the theory counts as one unit, one hour give or take ten minutes. A candidate cannot sit more than {P.test.maxUtPerDay} test units in a single day, practical tests included.</p>
+    <p>The paper is written in French. If you struggle to read, the questions can be read aloud to you, still in French; there is no translated version. Questions are drawn from grids made available to testing bodies, and they change from one candidate to the next. Whether you sit the theory or the practical first is up to the testing body.</p>
+    <p>Passing takes two conditions together: {P.test.passScore} points out of 100 overall, and at least half the points of each theme. The second rule often surprises people. A 10-point theme such as the R489 load chart needs 5 correct answers: 4 is a fail, even with 90 overall. The small tool below shows the margin an overall score leaves; the <Fragment set:html={a('test-theorique', 'score simulator by theme')} /> applies both rules.</p>
+  </div>
+  )}
+  <div class="mb-8"><Tool tool={{ kind: 'mini:pass' }} lang={lang} idPrefix="h1" /></div>
+
+  {fr ? (
+  <div class="prose prose-slate max-w-none">
+    <h2>Ce que le test R489 évalue</h2>
+    <p>La fiche d’évaluation de la R489 répartit les 100 points en quatre thèmes. Les connaissances générales couvrent les rôles de l’employeur, du constructeur et du conducteur, les acteurs de la prévention et les catégories de chariots. La technologie et la stabilité couvrent les énergies, les dispositifs de sécurité, le centre de gravité et les causes de renversement. L’abaque de charges demande de lire une plaque : charge admissible à une hauteur donnée, hauteur accessible avec une charge donnée. L’exploitation, qui pèse la moitié du test, couvre les causes d’accident, les risques et leur prévention, le freinage, la circulation, le chargement des camions, les produits dangereux et les vérifications de fin de poste.</p>
+  </div>
+  ) : (
+  <div class="prose prose-slate max-w-none">
+    <h2>What the R489 test assesses</h2>
+    <p>The R489 assessment sheet splits the 100 points into four themes. General knowledge covers the roles of the employer, the manufacturer and the driver, the prevention bodies and the truck categories. Technology and stability cover power sources, safety devices, the centre of gravity and the causes of overturning. The load chart theme asks you to read a capacity plate: the load allowed at a given height, the height reachable with a given load. Operation, worth half the test, covers the causes of accidents, the risks and how to prevent them, braking, traffic rules, loading lorries, hazardous products and end-of-shift checks.</p>
+  </div>
+  )}
+  <Fragment set:html={h.grid('r489')} />
+  {fr ? (
+  <div class="prose prose-slate max-w-none">
+    <p>Les autres recommandations suivent le même principe avec leurs propres thèmes : la R482 ajoute un thème circulation et un thème fin de poste, la R486 un thème entretien, la R490 des thèmes élingage et entretien. Chaque page de recommandation donne son barème complet : <Fragment set:html={a('caces-r482', 'R482')} />, <Fragment set:html={a('caces-r486', 'R486')} />, <Fragment set:html={a('caces-r490', 'R490')} />, <Fragment set:html={a('caces-r485', 'R485')} />.</p>
+    <h2>CACES et autorisation de conduite depuis le 1er octobre 2025</h2>
+    <p>Le Code du travail ne parle pas de CACES. Il impose une formation adéquate (article R4323-55) et, pour les engins les plus dangereux, une autorisation de conduite écrite délivrée par l’employeur (article R4323-56). Depuis le 1er octobre 2025, cette autorisation n’est valable que si le conducteur détient une attestation d’absence de contre-indications médicales, délivrée par le médecin du travail et valable {P.medical.attestationYears} ans ; elle remplace l’ancien « examen d’aptitude ». L’employeur vérifie aussi vos connaissances, et c’est là que sert le CACES : il est le moyen d’évaluation recommandé par l’Assurance Maladie. La page <Fragment set:html={a('autorisation-de-conduite', 'autorisation de conduite')} /> détaille ce que l’employeur doit contrôler.</p>
+  </div>
+  ) : (
+  <div class="prose prose-slate max-w-none">
+    <p>The other recommendations follow the same principle with their own themes: R482 adds a traffic theme and an end-of-shift theme, R486 a maintenance theme, R490 slinging and maintenance themes. Each recommendation page gives its full marking scheme: <Fragment set:html={a('caces-r482', 'R482')} />, <Fragment set:html={a('caces-r486', 'R486')} />, <Fragment set:html={a('caces-r490', 'R490')} />, <Fragment set:html={a('caces-r485', 'R485')} />.</p>
+    <h2>CACES and the operating authorisation since 1 October 2025</h2>
+    <p>The French Labour Code does not mention the CACES. It requires suitable training (article R4323-55) and, for the most dangerous machines, a written operating authorisation (autorisation de conduite) issued by the employer (article R4323-56). Since 1 October 2025 this authorisation is only valid if the driver holds a medical certificate of no contraindication (attestation d’absence de contre-indications médicales), issued by the occupational doctor and valid for {P.medical.attestationYears} years; it replaces the former fitness check. The employer also checks your knowledge, and that is where the CACES comes in: it is the assessment method recommended by the French Health Insurance. The <Fragment set:html={a('autorisation-de-conduite', 'operating authorisation page')} /> details what the employer must check.</p>
+  </div>
+  )}
+  <div class="mb-8"><Tool tool={{ kind: 'mini:autorisation' }} lang={lang} idPrefix="h2" /></div>
+
+  {fr ? (
+  <div class="prose prose-slate max-w-none">
+    <h2>Le prix réel d’un CACES et ce que paie le CPF</h2>
+    <p>Aucun tarif n’est fixé par un texte : chaque centre de formation fixe le sien. Les chiffres de ce site viennent du catalogue Mon Compte Formation, publié en open data par la Caisse des Dépôts, où les formations au CACES sont classées par catégorie. Le prix médian d’une formation initiale R489 catégorie 3 y est de {r489?.prix ? h.eur(r489.prix.med) : '–'} pour {r489?.heures ? r489.heures.med : '–'} heures ; un recyclage coûte moins, la formation étant plus courte. Le CPF peut payer un CACES dans la limite de {h.eur(P.cpf.rsCap)} de droits depuis le {h.date(P.cpf.rsCapSince)}, avec une participation forfaitaire de {h.eur(P.cpf.participation)} à votre charge sauf si vous êtes demandeur d’emploi ou si votre employeur abonde. Les pages <Fragment set:html={a('caces-prix', 'prix du CACES')} /> et <Fragment set:html={a('financement', 'financement')} /> comparent les catégories et les régions.</p>
+  </div>
+  ) : (
+  <div class="prose prose-slate max-w-none">
+    <h2>What a CACES really costs and what the CPF pays</h2>
+    <p>No text sets a price: each training centre sets its own. The figures on this site come from the Mon Compte Formation catalogue, published as open data by the Caisse des Dépôts, where CACES courses are filed by category. The median price of an initial R489 category 3 course there is {r489?.prix ? h.eur(r489.prix.med) : '–'} for {r489?.heures ? r489.heures.med : '–'} hours; a refresher costs less because the course is shorter. The CPF (compte personnel de formation, the personal training account) can pay for a CACES up to {h.eur(P.cpf.rsCap)} of rights since {h.date(P.cpf.rsCapSince)}, with a flat contribution of {h.eur(P.cpf.participation)} for you to pay unless you are a jobseeker or your employer tops up. The <Fragment set:html={a('caces-prix', 'CACES price')} /> and <Fragment set:html={a('financement', 'funding')} /> pages compare categories and regions.</p>
+  </div>
+  )}
+  <div class="mb-8"><Tool tool={{ kind: 'mini:cpf' }} lang={lang} idPrefix="h3" /></div>
+
+  <div class="prose prose-slate max-w-none"><h2>{fr ? 'Toutes les pages' : 'Every page'}</h2></div>
+  <div class="not-prose grid gap-6 md:grid-cols-2 lg:grid-cols-4" data-sommaire>
+    {GROUPS_ORDER.map((g) => (
+      <section><h3 class="mb-2 text-lg font-semibold text-navy-900">{groupLabel(g, lang)}</h3><ul class="space-y-2 text-sm">{cards(g).map((c) => <li><a href={c.href} class="font-medium text-accent-700 underline">{c.name}</a><span class="block text-navy-700">{c.text}</span></li>)}</ul></section>
+    ))}
+  </div>
+  <div class="prose prose-slate mt-8 max-w-none">
+    {fr ? (
+      <><h2>Qui rédige ce site</h2>
+      <p>FR CACES est publié par {AUTHOR_NAME}. Les questions sont écrites par nous, à partir des référentiels de connaissances publiés par l’Assurance Maladie dans chaque recommandation, et chaque question indique le point du référentiel qu’elle travaille. Les règles viennent des recommandations dans leur version de 2026 et du Code du travail ; les prix viennent du catalogue officiel Mon Compte Formation. Le site ne vend aucune formation et ne recommande aucun organisme. La <a href={route('method', lang)}>page Méthode</a> explique le tirage, la notation et les calculs.</p></>
+    ) : (
+      <><h2>Who writes this site</h2>
+      <p>FR CACES is published by {AUTHOR_NAME}. The questions are written by us from the knowledge syllabuses the French Health Insurance publishes in each recommendation, and each question shows the syllabus point it trains. The rules come from the 2026 versions of the recommendations and the Labour Code; prices come from the official Mon Compte Formation catalogue. The site sells no course and recommends no provider. The <a href={route('method', lang)}>Method page</a> explains the draw, the marking and the calculations.</p></>
+    )}
+    <Sources lang={lang} keys={['r489', 'r482', 'r486', 'r490', 'r485', 'ct55', 'ct56', 'arrete2025', 'sp_cpf', 'cdc_catalogue']} />
+  </div>
+</PageLayout>

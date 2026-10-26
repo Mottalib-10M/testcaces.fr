@@ -1,0 +1,29 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { LAST_UPDATED, AUTHOR_NAME, CONTACT_EMAIL, AUTHOR_ROLE } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { organizationSchema, breadcrumbSchema, profilePageSchema } from '../../lib/seo';
+import { displayDate } from '../../lib/format';
+import { helpers } from '../../lib/helpers';
+const lang = 'fr';
+const h = helpers(lang);
+---
+<PageLayout title="FR CACES, qui écrit les questions du test blanc et pourquoi" description="Qui publie FR CACES, d’où viennent les questions du test CACES blanc et leurs corrigés, où sont lues les règles, et ce que le site ne vend ni ne recommande." lang={lang} jsonLd={[organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Accueil', path: route('home', lang) }, { name: 'À propos', path: route('about', lang) }])]} breadcrumbs={[{ label: 'À propos' }]}>
+  <header class="mb-6"><p class="kicker">À propos</p><h1 class="mt-0 text-3xl font-bold text-navy-900 md:text-4xl">Qui publie FR CACES</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <div class="not-prose mb-6"><p class="text-lg font-semibold text-navy-900">{AUTHOR_NAME}</p><p class="text-navy-700">{AUTHOR_ROLE[lang]}</p></div>
+    <p>FR CACES est publié par Radif Partners, une société qui construit des outils gratuits à partir de textes et de données publics. Il s’adresse aux caristes, aux conducteurs d’engins, aux intérimaires et aux candidats à une formation qui doivent passer le test théorique d’un CACES, ainsi qu’aux personnes qui les encadrent.</p>
+    <h2>Ce que fait le site</h2>
+    <p>Il propose, pour cinq recommandations de l’Assurance Maladie (R489, R482, R486, R490 et R485), un test théorique blanc de {h.P.test.questions} questions tiré selon le barème de la fiche d’évaluation, chronométré sur une heure et noté avec les deux règles officielles ; un entraînement par thème avec correction immédiate ; une révision des erreurs ; la liste des questions avec leurs réponses expliquées. Il dit aussi quel CACES correspond à quel engin, calcule la date d’échéance et celle du recyclage, et donne le prix réel des formations par catégorie et par région à partir du catalogue Mon Compte Formation.</p>
+    <p>Tout est gratuit, sans compte et sans e-mail. Rien de ce que vous saisissez ne quitte votre navigateur ; la progression (questions manquées, notes) est gardée dans votre navigateur seulement.</p>
+    <h2>D’où viennent les questions</h2>
+    <p>Les {h.num(h.count.all)} questions sont écrites par nous, à partir des référentiels de connaissances et des fiches d’évaluation publiés dans chaque recommandation par l’Assurance Maladie. Chaque question est rattachée au point du référentiel qu’elle travaille et porte un corrigé qui dit pourquoi. Aucune question n’est reprise d’une banque d’organisme testeur, d’un manuel, d’une application ou d’un site de préparation : ce ne sont pas les questions du test officiel, que les organismes testeurs tirent dans des grilles qu’ils ne publient pas.</p>
+    <h2>Ce que nous ne sommes pas</h2>
+    <p>Nous ne sommes ni l’Assurance Maladie, ni l’INRS, ni un organisme testeur certifié, ni un centre de formation. Nous ne délivrons aucun CACES, n’inscrivons à aucun test, ne recevons aucune demande de financement et ne recommandons aucun organisme. Le site n’utilise aucun logo officiel.</p>
+    <h2>Comment le site est financé</h2>
+    <p>Le site ne vend ni formation, ni livre, ni application, ne touche aucune commission et ne transmet aucun contact à un organisme. Si de la publicité est ajoutée un jour, elle ne sera jamais placée au-dessus d’un test.</p>
+    <h2>Signaler une erreur</h2>
+    <p>Écrivez à <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> en citant les premiers mots de la question ou la règle en cause. La <a href={route('editorial', lang)}>politique éditoriale</a> explique comment une correction est faite, et la <a href={route('method', lang)}>page Méthode</a> détaille le tirage, la notation et les calculs.</p>
+    <p class="text-sm text-navy-600">Règles et prix vérifiés le <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'fr-FR')}</time>.</p>
+  </div>
+</PageLayout>

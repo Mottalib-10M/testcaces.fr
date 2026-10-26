@@ -1,0 +1,235 @@
+{
+ "reco": "r490",
+ "titre": {
+  "fr": "Grues de chargement",
+  "en": "Lorry loader cranes"
+ },
+ "themes": [
+  {
+   "key": "cg",
+   "fr": "Connaissances générales",
+   "en": "General knowledge",
+   "points": 14,
+   "items": [
+    {
+     "key": "cg-constructeur-employeur",
+     "fr": "Rôles du constructeur et de l’employeur",
+     "en": "Duties of the manufacturer and the employer",
+     "n": 3
+    },
+    {
+     "key": "cg-conducteur",
+     "fr": "Rôle et responsabilités du conducteur",
+     "en": "Duties and responsibilities of the operator",
+     "n": 3
+    },
+    {
+     "key": "cg-chef-signaleur",
+     "fr": "Chef de manœuvre, signaleur, élingueur : leurs rôles",
+     "en": "Roles of lift supervisor, banksman and slinger",
+     "n": 3
+    },
+    {
+     "key": "cg-acteurs-prevention",
+     "fr": "Acteurs de la prévention et leurs missions",
+     "en": "Occupational safety bodies and their missions",
+     "n": 2
+    },
+    {
+     "key": "cg-categories",
+     "fr": "Grues concernées ou exclues, catégorie et option",
+     "en": "Cranes covered or excluded, category and option",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "fr": "Technologie et stabilité",
+   "en": "Lorry loader technology and stability",
+   "points": 28,
+   "items": [
+    {
+     "key": "tech-terminologie",
+     "fr": "Vocabulaire de la grue de chargement",
+     "en": "Lorry loader crane vocabulary",
+     "n": 3
+    },
+    {
+     "key": "tech-caracteristiques",
+     "fr": "Caractéristiques : portée, hauteur, capacité",
+     "en": "Specifications: outreach, height, capacity",
+     "n": 2
+    },
+    {
+     "key": "tech-mecanismes",
+     "fr": "Composants et fonctionnement hydraulique",
+     "en": "Components and hydraulic operation",
+     "n": 3
+    },
+    {
+     "key": "tech-organes",
+     "fr": "Organes de service et distributeur",
+     "en": "Operating controls and control valve",
+     "n": 5
+    },
+    {
+     "key": "tech-securite",
+     "fr": "Dispositifs de sécurité et limiteurs",
+     "en": "Safety devices and limiters",
+     "n": 4
+    },
+    {
+     "key": "tech-masse-cdg",
+     "fr": "Masse et centre de gravité des charges",
+     "en": "Load mass and centre of gravity",
+     "n": 5
+    },
+    {
+     "key": "tech-equilibre",
+     "fr": "Équilibre, moments et facteurs de stabilité",
+     "en": "Balance, moments and stability factors",
+     "n": 3
+    },
+    {
+     "key": "tech-courbes",
+     "fr": "Lecture des courbes de charges",
+     "en": "Reading load charts",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "key": "expl",
+   "fr": "Exploitation",
+   "en": "Operating lorry loader cranes",
+   "points": 38,
+   "items": [
+    {
+     "key": "expl-renversement",
+     "fr": "Renversement de la grue",
+     "en": "Crane overturning",
+     "n": 4
+    },
+    {
+     "key": "expl-heurts",
+     "fr": "Personnes heurtées par la charge",
+     "en": "People struck by the load",
+     "n": 2
+    },
+    {
+     "key": "expl-lignes",
+     "fr": "Lignes électriques aériennes : distances",
+     "en": "Overhead power lines: clearances",
+     "n": 2
+    },
+    {
+     "key": "expl-interference",
+     "fr": "Interférences avec d’autres appareils de levage",
+     "en": "Interference with other lifting equipment",
+     "n": 2
+    },
+    {
+     "key": "expl-chute",
+     "fr": "Chutes de hauteur et de plain-pied",
+     "en": "Falls from height and on the level",
+     "n": 2
+    },
+    {
+     "key": "expl-visibilite",
+     "fr": "Visibilité insuffisante",
+     "en": "Poor visibility",
+     "n": 2
+    },
+    {
+     "key": "expl-energies",
+     "fr": "Énergies : hydraulique et mécanique",
+     "en": "Energy hazards: hydraulic and mechanical",
+     "n": 3
+    },
+    {
+     "key": "expl-climat",
+     "fr": "Vent, orage, gel, neige",
+     "en": "Wind, storms, frost, snow",
+     "n": 2
+    },
+    {
+     "key": "expl-interdites",
+     "fr": "Opérations interdites",
+     "en": "Prohibited operations",
+     "n": 7
+    },
+    {
+     "key": "expl-arrimage",
+     "fr": "Arrimage des charges sur le plateau",
+     "en": "Securing loads on the platform",
+     "n": 3
+    },
+    {
+     "key": "expl-signalisation",
+     "fr": "Signalisation et circulation sur site",
+     "en": "Site signage and traffic rules",
+     "n": 4
+    },
+    {
+     "key": "expl-substances",
+     "fr": "Alcool, drogues et médicaments",
+     "en": "Alcohol, drugs and medication",
+     "n": 3
+    },
+    {
+     "key": "expl-attention",
+     "fr": "Distractions : téléphone, musique",
+     "en": "Distractions: phone, music",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "key": "elingage",
+   "fr": "Élingage",
+   "en": "Slinging",
+   "points": 10,
+   "items": [
+    {
+     "key": "elingage-regles",
+     "fr": "Règles d’élingage et choix des accessoires",
+     "en": "Slinging rules and choice of accessories",
+     "n": 5
+    },
+    {
+     "key": "elingage-anomalies",
+     "fr": "Défauts et usure des accessoires",
+     "en": "Defects and wear of lifting accessories",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "key": "maint",
+   "fr": "Entretien",
+   "en": "Maintenance",
+   "points": 10,
+   "items": [
+    {
+     "key": "maint-flexibles",
+     "fr": "Défauts des flexibles hydrauliques",
+     "en": "Hydraulic hose defects",
+     "n": 3
+    },
+    {
+     "key": "maint-chassis",
+     "fr": "Défauts du châssis et des stabilisateurs",
+     "en": "Chassis and stabiliser defects",
+     "n": 3
+    },
+    {
+     "key": "maint-structure",
+     "fr": "Défauts de la structure de la grue",
+     "en": "Crane structure defects",
+     "n": 4
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title={`Editorial policy: ${SITE_NAMES[lang]}, sources and corrections`} description="Which official texts FR CACES relies on, how its questions and explanations are written, which sources it refuses and how a mistake is corrected and dated on the site." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Editorial and corrections policy</h1>
+    <p>These pages help you prepare a test that you or your employer pay for, and know when a CACES expires. A wrong answer or an outdated rule can cost a failed test or driving without a valid authorisation: every rule therefore links to the official text it was read in.</p>
+    <h2>Responsible</h2><p>{AUTHOR_NAME}, at <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>What we read</h2><p>The R489, R482, R486, R490 and R485 recommendations published by the French Health Insurance in their 2026 versions, articles R4323-55 onwards of the Labour Code on code.travail.gouv.fr, the order of 26 September 2025 on operator training, the order of 4 November 1993 on workplace safety signs, the CLP regulation for hazard pictograms, the service-public.gouv.fr and France Travail pages on funding, and the Mon Compte Formation catalogue published by the Caisse des Dépôts.</p>
+    <h2>Writing the questions</h2><p>Each question is written by us from one point of the recommendation’s syllabus, with an explanation saying why. We never take a question from a testing body, a manual, an app, another site or a real test, and we do not claim to give the official questions. The pictograms are drawn by us.</p>
+    <h2>Refused sources</h2><p>Forums, prep sites, training providers and comparison sites supply no figure here. A rule that cannot be found in an official text is not published.</p>
+    <h2>Review</h2><p>Rules are re-read by hand; each page shows the date of the last check. Course prices are re-read every week by a script that reads the official catalogue.</p>
+    <h2>Corrections</h2><ol><li>We re-read the official text.</li><li>We fix the parameter or the question and add an automatic test.</li><li>The site is rebuilt and shows the new date.</li></ol>
+    <h2>Independence</h2><p>No testing body, training centre, staffing agency or public body pays for or reviews what is published here, and the site has no affiliate links. See also the <a href={route('method', lang)}>method</a>. Version: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

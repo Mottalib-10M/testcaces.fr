@@ -1,0 +1,3651 @@
+[
+ {
+  "id": "r486-001",
+  "points": {
+   "r486": "cg-roles-employeur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Quels documents le constructeur doit-il fournir avec une PEMP neuve ?",
+   "o": [
+    "Uniquement une facture",
+    "Une notice d’instructions en français et la déclaration CE de conformité",
+    "Le CACES du futur conducteur",
+    "Le plan de prévention du chantier et la liste nominative des conducteurs autorisés"
+   ],
+   "x": "Le constructeur met sur le marché une machine conforme, marquée CE, accompagnée de sa déclaration de conformité et d’une notice en français. La notice précise les limites d’emploi que le conducteur doit respecter."
+  },
+  "en": {
+   "q": "Which documents must the manufacturer supply with a new MEWP?",
+   "o": [
+    "Only an invoice",
+    "An instruction manual in French and the EC declaration of conformity",
+    "The future operator's CACES",
+    "The site prevention plan and the named list of authorised operators"
+   ],
+   "x": "The manufacturer places on the market a compliant, CE-marked machine, with its declaration of conformity and a manual in French. The manual sets out the operating limits the operator must respect."
+  }
+ },
+ {
+  "id": "r486-002",
+  "points": {
+   "r486": "cg-roles-employeur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Sur un chantier, qui organise le travail en nacelle et s’assure que la machine choisie convient à la tâche ?",
+   "o": [
+    "L’accompagnateur seul",
+    "Le loueur de la machine",
+    "Le responsable de chantier, pour le compte de l’employeur",
+    "Le premier conducteur arrivé sur le chantier, en accord avec ses collègues"
+   ],
+   "x": "Le responsable de chantier prépare l’intervention : choix d’une PEMP adaptée (hauteur, déport, sol, accès), organisation de la coactivité, balisage, désignation du conducteur et de l’accompagnateur. Le conducteur signale toute inadéquation constatée."
+  },
+  "en": {
+   "q": "On a site, who organises the platform work and makes sure the chosen machine suits the task?",
+   "o": [
+    "The ground person alone",
+    "The machine hire company",
+    "The site manager, on behalf of the employer",
+    "The first operator to arrive on site, with colleagues' agreement"
+   ],
+   "x": "The site manager (responsable de chantier) prepares the job: choosing a suitable MEWP (height, outreach, ground, access), organising co-activity, cordoning off, appointing the operator and ground person. The operator reports any mismatch noticed."
+  }
+ },
+ {
+  "id": "r486-003",
+  "points": {
+   "r486": "cg-roles-employeur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "La notice de la PEMP impose le port d’un harnais. Que doit faire l’employeur ?",
+   "o": [
+    "Laisser chacun acheter son harnais",
+    "Rien de plus : le CACES R486 couvre déjà le port du harnais et son entraînement",
+    "Interdire l’usage de la machine",
+    "Fournir le harnais et former les salariés à son port, avec entraînement"
+   ],
+   "x": "L’employeur fournit les équipements de protection et, selon l’article R4323-106 du Code du travail, assure une formation adaptée comprenant un entraînement au port de ces équipements contre les chutes de hauteur."
+  },
+  "en": {
+   "q": "The MEWP manual requires a harness to be worn. What must the employer do?",
+   "o": [
+    "Let everyone buy their own harness",
+    "Nothing more: the R486 CACES already covers wearing the harness and practice",
+    "Ban use of the machine",
+    "Provide the harness and train staff to wear it, with practice"
+   ],
+   "x": "The employer supplies personal protective equipment and, under Article R4323-106 of the Labour Code, provides suitable training including practice in wearing fall protection equipment."
+  }
+ },
+ {
+  "id": "r486-004",
+  "points": {
+   "r486": "cg-categories"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une plate-forme à ciseaux monte verticalement et peut rouler, commandée depuis la plate-forme levée. Quelle catégorie R486 ?",
+   "o": [
+    "Catégorie A",
+    "Catégorie B",
+    "Catégorie C",
+    "Elle est exclue de la R486"
+   ],
+   "x": "À élévation verticale, elle appartient au groupe A ; pouvant se déplacer commandée depuis la plate-forme en hauteur, elle est de type 3. La catégorie A réunit les types 1 et 3 du groupe A."
+  },
+  "en": {
+   "q": "A scissor lift rises vertically and can be driven from the raised platform. Which R486 category?",
+   "o": [
+    "Category A",
+    "Category B",
+    "Category C",
+    "It is excluded from R486"
+   ],
+   "x": "With vertical elevation it belongs to group A; since it can travel when controlled from the raised platform, it is type 3. Group A MEWPs of type 1 or 3 fall under category A."
+  }
+ },
+ {
+  "id": "r486-005",
+  "points": {
+   "r486": "cg-categories"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une nacelle articulée automotrice se déplace commandée depuis la plate-forme levée et peut déporter la plate-forme. Quelle catégorie ?",
+   "o": [
+    "Catégorie A",
+    "Catégorie B",
+    "Catégorie C",
+    "Elle est exclue de la R486"
+   ],
+   "x": "La plate-forme peut sortir des lignes de renversement : c’est une PEMP du groupe B (élévation multidirectionnelle). Pilotée en translation depuis la plate-forme en hauteur, elle est de type 3. Groupe B, type 1 ou 3 : catégorie B."
+  },
+  "en": {
+   "q": "A self-propelled articulated boom can be driven from the raised platform and move the platform outwards. Which category?",
+   "o": [
+    "Category A",
+    "Category B",
+    "Category C",
+    "It is excluded from R486"
+   ],
+   "x": "The platform can go beyond the tipping lines: it is a group B MEWP (multidirectional elevation). Driven from the raised platform, it is type 3. Group B, type 1 or 3: category B."
+  }
+ },
+ {
+  "id": "r486-006",
+  "points": {
+   "r486": "cg-categories"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Une nacelle sur camion porteur ne peut rouler qu’en position de transport, mais sa flèche déporte la plate-forme. Quelle catégorie ?",
+   "o": [
+    "Catégorie A",
+    "Catégorie C",
+    "Catégorie B",
+    "Elle est exclue de la R486"
+   ],
+   "x": "Elle ne se déplace qu’en position de transport : type 1. Sa plate-forme peut sortir des lignes de renversement : groupe B. Elle relève donc de la catégorie B, qui regroupe les types 1 et 3 du groupe B."
+  },
+  "en": {
+   "q": "A truck-mounted platform can only travel in the stowed position, but its boom moves the platform outwards. Which category?",
+   "o": [
+    "Category A",
+    "Category C",
+    "Category B",
+    "It is excluded from R486"
+   ],
+   "x": "It only travels when stowed: type 1. Its platform can go beyond the tipping lines: group B. It therefore falls under category B, which covers group B types 1 and 3."
+  }
+ },
+ {
+  "id": "r486-007",
+  "points": {
+   "r486": "cg-categories"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Que dit la R486 des PEMP de type 2, dont la translation se commande depuis le châssis plate-forme levée ?",
+   "o": [
+    "Elles relèvent de la catégorie A, comme les autres PEMP à élévation verticale",
+    "Elles relèvent de la catégorie B",
+    "Elles n’exigent aucune formation",
+    "Elles sont exclues et demandent une formation adaptée à l’engin"
+   ],
+   "x": "Les PEMP de type 2 sont peu répandues et d’usage spécialisé : la R486 ne les classe dans aucune catégorie. Leur conduite exige une formation propre à l’engin, dont l’employeur tient compte pour l’autorisation de conduite."
+  },
+  "en": {
+   "q": "What does R486 say about type 2 MEWPs, whose travel is controlled from the chassis with the platform raised?",
+   "o": [
+    "They fall under category A, like other vertical-lift MEWPs",
+    "They fall under category B",
+    "They require no training",
+    "They are excluded and require training specific to the machine"
+   ],
+   "x": "Type 2 MEWPs are uncommon and specialised: R486 does not place them in any category. Operating them requires training specific to the machine, which the employer takes into account for the operating authorisation."
+  }
+ },
+ {
+  "id": "r486-008",
+  "points": {
+   "r486": "cg-categories"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Un mécanicien déplace et charge sur porte-engins des nacelles de toutes catégories, sans travail en hauteur. Quel CACES R486 ?",
+   "o": [
+    "Catégorie C, conduite hors production",
+    "Catégorie A avec option",
+    "Catégorie B sans option",
+    "Aucun CACES n’est nécessaire, puisqu’il ne fait pas de travail en hauteur"
+   ],
+   "x": "La catégorie C couvre le déplacement, le chargement sur porte-engins et le transfert des PEMP des catégories A et B, hors production : maintenance, démonstration, essais. Le chargement sur porte-engins y est inclus, alors qu’il est en option pour A et B."
+  },
+  "en": {
+   "q": "A mechanic moves MEWPs of all categories and loads them onto transporters, with no work at height. Which R486 CACES?",
+   "o": [
+    "Category C, non-production operation",
+    "Category A with option",
+    "Category B without option",
+    "No CACES is needed, since no work at height is done"
+   ],
+   "x": "Category C covers moving, loading onto transporters and transferring category A and B MEWPs outside production: maintenance, demonstration, testing. Loading onto transporters is included, whereas it is an option for A and B."
+  }
+ },
+ {
+  "id": "r486-009",
+  "points": {
+   "r486": "tech-terminologie"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Qu’est-ce qui distingue une PEMP du groupe A d’une PEMP du groupe B ?",
+   "o": [
+    "Le groupe A est électrique, le groupe B thermique",
+    "Au groupe A, la plate-forme reste dans les lignes de renversement",
+    "Le groupe A sert à l’intérieur des bâtiments, le groupe B à l’extérieur",
+    "Le groupe A porte une personne, le groupe B plusieurs"
+   ],
+   "x": "Au groupe A, la projection verticale du centre de la plate-forme ne sort jamais des lignes de renversement : élévation verticale (ciseaux, mâts). Au groupe B, la plate-forme peut être déportée au-delà : élévation multidirectionnelle (bras articulés, télescopiques)."
+  },
+  "en": {
+   "q": "What distinguishes a group A MEWP from a group B MEWP?",
+   "o": [
+    "Group A is electric, group B diesel",
+    "In group A the platform stays within the tipping lines",
+    "Group A is used inside buildings, group B outdoors",
+    "Group A carries one person, group B several"
+   ],
+   "x": "In group A the vertical projection of the platform centre never leaves the tipping lines: vertical elevation (scissors, masts). In group B the platform can be moved beyond them: multidirectional elevation (articulated or telescopic booms)."
+  }
+ },
+ {
+  "id": "r486-010",
+  "points": {
+   "r486": "tech-terminologie"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Que signifie qu’une PEMP est de type 3 ?",
+   "o": [
+    "Elle ne roule qu’en position de transport",
+    "Sa translation se commande uniquement depuis le châssis, alors que la plate-forme est levée",
+    "Sa translation peut être commandée depuis la plate-forme en position haute",
+    "Elle a trois stabilisateurs"
+   ],
+   "x": "Le type décrit les possibilités de déplacement : type 1, translation seulement en position de transport ; type 2, translation commandée depuis le châssis plate-forme levée ; type 3, translation commandée depuis la plate-forme en hauteur."
+  },
+  "en": {
+   "q": "What does it mean for a MEWP to be type 3?",
+   "o": [
+    "It can only travel in the stowed position",
+    "Its travel is controlled only from the chassis while the platform is raised",
+    "Its travel can be controlled from the platform in the raised position",
+    "It has three outriggers"
+   ],
+   "x": "The type describes travel options: type 1, travel only when stowed; type 2, travel controlled from the chassis with the platform raised; type 3, travel controlled from the raised platform."
+  }
+ },
+ {
+  "id": "r486-011",
+  "points": {
+   "r486": "tech-terminologie"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Qu’appelle-t-on le déport d’une PEMP ?",
+   "o": [
+    "La hauteur du plancher de la plate-forme mesurée depuis le sol, en position haute",
+    "La largeur hors tout du châssis",
+    "Le temps de montée jusqu’en haut",
+    "La distance horizontale à laquelle la plate-forme peut s’écarter de la machine"
+   ],
+   "x": "Le déport mesure l’avancée horizontale possible de la plate-forme par rapport à la machine. Il se lit avec la hauteur sur la courbe de charges : plus la plate-forme est déportée, plus la charge admise peut être limitée."
+  },
+  "en": {
+   "q": "What is meant by a MEWP's outreach?",
+   "o": [
+    "The platform floor height measured from the ground in the raised position",
+    "The overall width of the chassis",
+    "The time taken to reach the top",
+    "The horizontal distance the platform can move away from the machine"
+   ],
+   "x": "Outreach (déport) measures how far the platform can extend horizontally from the machine. It is read together with height on the load chart: the further out the platform, the more the allowed load may be limited."
+  }
+ },
+ {
+  "id": "r486-012",
+  "points": {
+   "r486": "tech-caracteristiques"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Que comprend la charge maximale d’utilisation indiquée pour la plate-forme ?",
+   "o": [
+    "Les personnes, leurs outils et les matériaux embarqués",
+    "Uniquement les personnes",
+    "Uniquement les matériaux",
+    "Le poids de la machine elle-même, plate-forme vide et réservoirs pleins"
+   ],
+   "x": "La charge maximale de la plate-forme additionne tout ce qui s’y trouve : opérateurs, outillage, matériaux, déchets éventuels. Elle est inscrite sur la machine et dans la notice, avec le nombre maximal de personnes."
+  },
+  "en": {
+   "q": "What does the platform's safe working load include?",
+   "o": [
+    "The people, their tools and the materials on board",
+    "Only the people",
+    "Only the materials",
+    "The weight of the machine itself, empty platform and full tanks"
+   ],
+   "x": "The platform's maximum load adds up everything on it: operators, tools, materials and any waste. It is marked on the machine and in the manual, along with the maximum number of people."
+  }
+ },
+ {
+  "id": "r486-013",
+  "points": {
+   "r486": "tech-caracteristiques"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi la vitesse de translation d’une PEMP est-elle fortement réduite quand la plate-forme est levée ?",
+   "o": [
+    "Pour économiser le carburant",
+    "En hauteur, chaque secousse est amplifiée et la stabilité diminue",
+    "Pour ménager les pneus",
+    "Parce que le moteur thermique chauffe davantage quand la plate-forme est en hauteur"
+   ],
+   "x": "Plate-forme levée, le centre de gravité est haut : un à-coup ou une irrégularité du sol se traduit par un fort balancement en haut. Les machines limitent donc automatiquement la vitesse dans cette configuration."
+  },
+  "en": {
+   "q": "Why is a MEWP's travel speed greatly reduced when the platform is raised?",
+   "o": [
+    "To save fuel",
+    "At height every jolt is amplified and stability is lower",
+    "To spare the tyres",
+    "Because the engine runs hotter when the platform is raised"
+   ],
+   "x": "With the platform raised, the centre of gravity is high: a jolt or uneven floor causes a large sway at the top. Machines therefore limit speed automatically in this configuration."
+  }
+ },
+ {
+  "id": "r486-014",
+  "points": {
+   "r486": "tech-caracteristiques"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Où trouver la pente et le dévers maximaux autorisés pour votre PEMP ?",
+   "o": [
+    "Dans le Code de la route",
+    "Sur le bon de location uniquement",
+    "Sur la machine et dans la notice du constructeur",
+    "Ils sont fixés par la loi et identiques pour toutes les PEMP du marché"
+   ],
+   "x": "Chaque modèle a ses propres limites de pente en translation et d’inclinaison du châssis, fixées par le constructeur. Elles figurent sur les plaques de la machine et dans la notice, à consulter avant d’intervenir."
+  },
+  "en": {
+   "q": "Where do you find the maximum slope and side slope allowed for your MEWP?",
+   "o": [
+    "In the Highway Code",
+    "Only on the hire agreement",
+    "On the machine and in the manufacturer's manual",
+    "They are set by law and the same for every MEWP on the market"
+   ],
+   "x": "Each model has its own limits for travel gradient and chassis tilt, set by the manufacturer. They appear on the machine's plates and in the manual, to be checked before starting work."
+  }
+ },
+ {
+  "id": "r486-015",
+  "points": {
+   "r486": "tech-composants"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Qu’appelle-t-on la structure extensible d’une PEMP ?",
+   "o": [
+    "Le garde-corps escamotable qui entoure la plate-forme et se replie pour le transport",
+    "Les stabilisateurs",
+    "Le réservoir hydraulique",
+    "La partie qui relie le châssis à la plate-forme et permet de la déplacer"
+   ],
+   "x": "Selon le modèle, la structure extensible est faite de ciseaux, de bras articulés, d’une flèche télescopique ou d’un mât. Elle porte la plate-forme et la positionne en hauteur et, pour le groupe B, en déport."
+  },
+  "en": {
+   "q": "What is a MEWP's extending structure?",
+   "o": [
+    "The folding guardrail around the platform that folds down for transport",
+    "The outriggers",
+    "The hydraulic tank",
+    "The part linking the chassis to the platform that moves it"
+   ],
+   "x": "Depending on the model, the extending structure is made of scissors, articulated arms, a telescopic boom or a mast. It carries the platform and positions it in height and, for group B, in outreach."
+  }
+ },
+ {
+  "id": "r486-016",
+  "points": {
+   "r486": "tech-composants"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Sur une nacelle à bras, quel élément permet à la structure de pivoter par rapport au châssis ?",
+   "o": [
+    "La tourelle",
+    "Le stabilisateur",
+    "Le portillon",
+    "Le pendulaire"
+   ],
+   "x": "La tourelle tourne sur le châssis et entraîne la structure et la plate-forme. Lors de la rotation, l’arrière de la tourelle et son contrepoids balaient une zone autour de la machine, à surveiller et à baliser."
+  },
+  "en": {
+   "q": "On a boom lift, which part lets the structure rotate relative to the chassis?",
+   "o": [
+    "The turntable",
+    "The outrigger",
+    "The platform gate",
+    "The jib"
+   ],
+   "x": "The turntable rotates on the chassis and carries the structure and platform round. When slewing, the rear of the turntable and its counterweight sweep an area around the machine, which must be watched and cordoned off."
+  }
+ },
+ {
+  "id": "r486-017",
+  "points": {
+   "r486": "tech-composants"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "À quoi servent les clapets de sécurité montés sur les vérins de levage ?",
+   "o": [
+    "À accélérer la montée de la plate-forme quand la charge est importante",
+    "À empêcher la descente de la structure si un flexible se rompt",
+    "À refroidir l’huile",
+    "À mesurer la hauteur"
+   ],
+   "x": "Placés directement sur les vérins, ces clapets bloquent l’huile dans le vérin en cas de rupture d’un flexible : la plate-forme ne s’effondre pas. On ne règle ni ne démonte jamais ces organes soi-même."
+  },
+  "en": {
+   "q": "What are the safety valves fitted on the lift cylinders for?",
+   "o": [
+    "To speed up the platform's rise when the load is heavy",
+    "To stop the structure coming down if a hose bursts",
+    "To cool the oil",
+    "To measure the height"
+   ],
+   "x": "Fitted directly on the cylinders, these valves trap the oil inside if a hose bursts, so the platform does not collapse. Never adjust or remove these parts yourself."
+  }
+ },
+ {
+  "id": "r486-018",
+  "points": {
+   "r486": "tech-postes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "D’où le conducteur commande-t-il normalement les mouvements d’une PEMP en production ?",
+   "o": [
+    "Depuis le poste de secours, au sol",
+    "Depuis une télécommande laissée à l’accompagnateur",
+    "Depuis le poste principal, sur la plate-forme",
+    "Depuis la cabine du camion porteur"
+   ],
+   "x": "En travail normal, le conducteur se trouve sur la plate-forme et utilise le poste de commande principal. Les postes au sol servent au dépannage et aux secours, quand le conducteur ne peut plus manœuvrer."
+  },
+  "en": {
+   "q": "From where does the operator normally control a MEWP's movements during work?",
+   "o": [
+    "From the emergency station on the ground",
+    "From a remote left with the ground person",
+    "From the main control station on the platform",
+    "From the carrier truck's cab"
+   ],
+   "x": "During normal work the operator is on the platform and uses the main control station. Ground stations are for recovery and emergencies, when the operator can no longer operate the machine."
+  }
+ },
+ {
+  "id": "r486-019",
+  "points": {
+   "r486": "tech-postes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "À quoi sert le poste de secours situé au sol ou sur la tourelle ?",
+   "o": [
+    "À faire travailler deux conducteurs en même temps sur la même machine",
+    "À dépasser la charge maximale",
+    "À neutraliser le contrôleur de dévers",
+    "À ramener la plate-forme si le conducteur ne peut plus le faire"
+   ],
+   "x": "En cas de malaise, de blocage ou de panne du poste principal, une personne au sol formée utilise ce poste pour redescendre la plate-forme. C’est l’une des raisons de la présence obligatoire d’un accompagnateur."
+  },
+  "en": {
+   "q": "What is the emergency control station on the ground or turntable for?",
+   "o": [
+    "To let two operators work the same machine at once",
+    "To exceed the safe working load",
+    "To disable the tilt alarm",
+    "To bring the platform down if the operator can no longer do it"
+   ],
+   "x": "If the operator is taken ill, trapped, or the main controls fail, a trained person on the ground uses this station to lower the platform. It is one reason why a ground person is required."
+  }
+ },
+ {
+  "id": "r486-020",
+  "points": {
+   "r486": "tech-postes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "La machine tombe en panne d’énergie, plate-forme levée. Quel dispositif permet de la redescendre ?",
+   "o": [
+    "La descente manuelle de dépannage prévue par le constructeur",
+    "Le klaxon de la plate-forme, pour appeler un dépanneur qui remorquera la machine",
+    "Le limiteur de charge",
+    "Le frein de parc"
+   ],
+   "x": "La plupart des PEMP ont une descente de dépannage sans énergie : pompe à main ou valve de vidange. Son emplacement et son mode d’emploi figurent dans la notice ; conducteur et accompagnateur doivent les connaître avant de travailler."
+  },
+  "en": {
+   "q": "The machine loses power with the platform raised. Which device lets it come down?",
+   "o": [
+    "The manual emergency lowering provided by the manufacturer",
+    "The platform horn, to call a breakdown service to tow the machine",
+    "The load limiter",
+    "The parking brake"
+   ],
+   "x": "Most MEWPs have an emergency lowering system that needs no power: a hand pump or a release valve. Its location and use are in the manual; operator and ground person must know them before working."
+  }
+ },
+ {
+  "id": "r486-021",
+  "points": {
+   "r486": "tech-organes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Sur le pupitre de la plate-forme, à quoi sert la pédale ou le bouton de validation (homme mort) ?",
+   "o": [
+    "À klaxonner",
+    "Aucun mouvement n’est possible s’il n’est pas maintenu",
+    "À bloquer la plate-forme en haut pendant que l’opérateur travaille des deux mains",
+    "À allumer les feux"
+   ],
+   "x": "Le dispositif de validation doit être actionné en permanence pour que les commandes agissent. Si le conducteur le relâche, par malaise ou réflexe, la machine s’arrête. Le bloquer en position enclenchée est une neutralisation dangereuse."
+  },
+  "en": {
+   "q": "On the platform console, what is the enable pedal or button (dead man's switch) for?",
+   "o": [
+    "To sound the horn",
+    "No movement is possible unless it is held",
+    "To lock the platform up high while the operator works with both hands",
+    "To switch on the lights"
+   ],
+   "x": "The enable device must be held continuously for the controls to work. If the operator releases it, through illness or reflex, the machine stops. Wedging it on is a dangerous way of disabling it."
+  }
+ },
+ {
+  "id": "r486-022",
+  "points": {
+   "r486": "tech-organes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi les manipulateurs de la plate-forme sont-ils proportionnels ?",
+   "o": [
+    "Pour aller toujours à pleine vitesse dès que l’on touche le manipulateur",
+    "Pour commander deux machines",
+    "Pour doser la vitesse et approcher en douceur",
+    "Pour remplacer le poste de secours"
+   ],
+   "x": "Plus on incline le manipulateur, plus le mouvement est rapide. Le conducteur part doucement, accélère s’il le faut et ralentit franchement à l’approche d’un obstacle ou de la position de travail."
+  },
+  "en": {
+   "q": "Why are the platform joysticks proportional?",
+   "o": [
+    "To go at full speed as soon as the joystick is touched",
+    "To control two machines",
+    "To control speed and approach gently",
+    "To replace the emergency station"
+   ],
+   "x": "The further the joystick is moved, the faster the movement. The operator starts gently, speeds up if needed and clearly slows down when approaching an obstacle or the working position."
+  }
+ },
+ {
+  "id": "r486-023",
+  "points": {
+   "r486": "tech-organes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "À quoi sert le sélecteur à clé qui choisit entre poste plate-forme et poste au sol ?",
+   "o": [
+    "À démarrer le moteur du camion porteur depuis la plate-forme",
+    "À verrouiller le portillon",
+    "À régler la charge maximale",
+    "À définir d’où la machine peut être commandée"
+   ],
+   "x": "Le sélecteur donne la main à un seul poste à la fois. On évite ainsi que quelqu’un au sol déplace la plate-forme pendant que le conducteur travaille. La clé reste sous la responsabilité des personnes autorisées."
+  },
+  "en": {
+   "q": "What is the key selector between platform and ground controls for?",
+   "o": [
+    "To start the carrier truck's engine from the platform",
+    "To lock the platform gate",
+    "To set the safe working load",
+    "To set where the machine can be controlled from"
+   ],
+   "x": "The selector gives control to one station at a time. This prevents someone on the ground moving the platform while the operator is working. The key stays with authorised people."
+  }
+ },
+ {
+  "id": "r486-024",
+  "points": {
+   "r486": "tech-securite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Que fait le limiteur de charge quand la plate-forme est surchargée ?",
+   "o": [
+    "Il bloque les mouvements et déclenche une alarme",
+    "Il augmente la puissance hydraulique",
+    "Il fait descendre seule une partie de la charge vers le sol par un treuil",
+    "Il ne fait qu’enregistrer l’événement"
+   ],
+   "x": "Le limiteur mesure la charge sur la plate-forme. Au-delà de la limite, il interdit les mouvements, sauf ceux qui ramènent en sécurité selon le modèle, et prévient le conducteur. On décharge avant de reprendre."
+  },
+  "en": {
+   "q": "What does the load limiter do when the platform is overloaded?",
+   "o": [
+    "It blocks movements and sounds an alarm",
+    "It increases hydraulic power",
+    "It lowers part of the load to the ground by itself with a winch",
+    "It only records the event"
+   ],
+   "x": "The limiter measures the load on the platform. Above the limit it prevents movements, apart from those that return to safety depending on the model, and warns the operator. Unload before carrying on."
+  }
+ },
+ {
+  "id": "r486-025",
+  "points": {
+   "r486": "tech-securite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "L’alarme du contrôleur de dévers retentit pendant que vous élevez la plate-forme. Que signifie-t-elle ?",
+   "o": [
+    "La batterie est presque vide et la machine va bientôt s’arrêter",
+    "Le châssis est trop incliné pour travailler en sécurité",
+    "Le vent est trop faible",
+    "La plate-forme est vide"
+   ],
+   "x": "Le contrôleur de dévers surveille l’inclinaison du châssis. Au-delà de la limite, il alerte et bloque l’élévation ou la translation. On redescend, on repositionne la machine sur un sol conforme et, si besoin, on règle les stabilisateurs."
+  },
+  "en": {
+   "q": "The tilt alarm sounds while you are raising the platform. What does it mean?",
+   "o": [
+    "The battery is almost flat and the machine will soon stop",
+    "The chassis is tilted too much to work safely",
+    "The wind is too light",
+    "The platform is empty"
+   ],
+   "x": "The tilt sensor monitors the chassis angle. Beyond the limit it warns and blocks lifting or travel. Lower the platform, reposition the machine on suitable ground and, if needed, adjust the outriggers."
+  }
+ },
+ {
+  "id": "r486-026",
+  "points": {
+   "r486": "tech-securite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Sur une PEMP à stabilisateurs, pourquoi l’élévation est-elle impossible tant qu’ils ne sont pas en appui ?",
+   "o": [
+    "Le moteur est trop faible",
+    "La plate-forme est verrouillée à distance par le loueur jusqu’au paiement",
+    "Un asservissement l’interdit pour éviter le renversement",
+    "C’est un défaut de la machine"
+   ],
+   "x": "L’élévation est asservie à la mise en appui correcte des stabilisateurs. Sans cette condition, la base d’appui serait trop étroite pour la configuration levée. Ce dispositif ne doit jamais être contourné."
+  },
+  "en": {
+   "q": "On a MEWP with outriggers, why is lifting impossible until they are set down?",
+   "o": [
+    "The engine is too weak",
+    "The platform is locked remotely by the hire company until payment",
+    "An interlock prevents it to avoid overturning",
+    "It is a machine fault"
+   ],
+   "x": "Lifting is interlocked with the outriggers being correctly set. Without this, the support base would be too narrow for the raised configuration. This device must never be bypassed."
+  }
+ },
+ {
+  "id": "r486-027",
+  "points": {
+   "r486": "tech-securite"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Où trouve-t-on des boutons d’arrêt d’urgence sur une PEMP ?",
+   "o": [
+    "Uniquement dans la cabine du camion porteur, à portée du chauffeur",
+    "Uniquement sur la plate-forme",
+    "Uniquement près du moteur",
+    "Sur la plate-forme et au poste de commande au sol"
+   ],
+   "x": "Un arrêt d’urgence est présent à chaque poste de commande. Le conducteur peut tout stopper depuis la plate-forme, et l’accompagnateur depuis le sol s’il constate un danger. On vérifie leur fonctionnement à la prise de poste."
+  },
+  "en": {
+   "q": "Where are emergency stop buttons found on a MEWP?",
+   "o": [
+    "Only in the carrier truck's cab, within the driver's reach",
+    "Only on the platform",
+    "Only near the engine",
+    "On the platform and at the ground control station"
+   ],
+   "x": "There is an emergency stop at each control station. The operator can stop everything from the platform, and the ground person from below if they see a danger. Check they work at the start of the shift."
+  }
+ },
+ {
+  "id": "r486-028",
+  "points": {
+   "r486": "tech-securite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Le portillon d’accès à la plate-forme ne se referme plus seul. Que faites-vous ?",
+   "o": [
+    "Vous signalez le défaut et n’utilisez pas la machine",
+    "Vous le maintenez fermé avec une ficelle",
+    "Vous travaillez en restant loin du portillon et en signalant le défaut le soir",
+    "Vous l’enlevez pour ne pas être gêné"
+   ],
+   "x": "Le portillon ou la lisse relevable fait partie du garde-corps. S’il reste ouvert, la protection contre la chute est incomplète. Le défaut est signalé et réparé avant tout travail en hauteur."
+  },
+  "en": {
+   "q": "The platform access gate no longer closes by itself. What do you do?",
+   "o": [
+    "You report the fault and do not use the machine",
+    "You tie it shut with string",
+    "You work away from the gate and report the fault in the evening",
+    "You remove it so it's not in the way"
+   ],
+   "x": "The gate or lifting bar is part of the guardrail. If it stays open, fall protection is incomplete. The fault is reported and repaired before any work at height."
+  }
+ },
+ {
+  "id": "r486-029",
+  "points": {
+   "r486": "tech-energie"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous devez travailler plusieurs heures dans un atelier fermé. Quelle PEMP choisir ?",
+   "o": [
+    "Une PEMP diesel",
+    "Une PEMP électrique",
+    "Une PEMP à essence",
+    "Peu importe l’énergie"
+   ],
+   "x": "Les moteurs thermiques dégagent des gaz d’échappement toxiques qui s’accumulent dans un local fermé. La PEMP électrique ne rejette pas de gaz et convient au travail en intérieur ; elle demande une charge régulière de ses batteries."
+  },
+  "en": {
+   "q": "You must work for several hours in an enclosed workshop. Which MEWP should you choose?",
+   "o": [
+    "A diesel MEWP",
+    "An electric MEWP",
+    "A petrol MEWP",
+    "The power source doesn't matter"
+   ],
+   "x": "Combustion engines give off toxic exhaust gases that build up in an enclosed space. An electric MEWP emits no gas and suits indoor work; its batteries need regular charging."
+  }
+ },
+ {
+  "id": "r486-030",
+  "points": {
+   "r486": "tech-energie"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Comment gérer la charge des batteries d’une PEMP électrique ?",
+   "o": [
+    "La vider complètement avant chaque recharge pour préserver au mieux sa durée de vie",
+    "La recharger plate-forme levée",
+    "La recharger selon la notice, dans un endroit ventilé, sans attendre la panne",
+    "La recharger près d’un poste de soudure"
+   ],
+   "x": "Une batterie trop déchargée peut laisser la plate-forme bloquée en hauteur et s’abîme. On recharge selon la notice, plate-forme repliée, dans un lieu aéré à l’écart des étincelles, car la charge peut dégager de l’hydrogène."
+  },
+  "en": {
+   "q": "How should you manage the batteries of an electric MEWP?",
+   "o": [
+    "Drain it completely before each recharge to make it last as long as possible",
+    "Charge it with the platform raised",
+    "Recharge as per the manual, in a ventilated place, before it runs flat",
+    "Charge it next to a welding station"
+   ],
+   "x": "A deeply discharged battery may leave the platform stuck at height and gets damaged. Recharge as the manual says, platform stowed, in a ventilated place away from sparks, since charging can give off hydrogen."
+  }
+ },
+ {
+  "id": "r486-031",
+  "points": {
+   "r486": "tech-masse-vent"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pourquoi transporter un grand panneau sur la plate-forme est-il dangereux par vent modéré ?",
+   "o": [
+    "Il réduit la masse de la machine",
+    "Il protège l’opérateur du vent",
+    "Il fait baisser le centre de gravité et protège l’opérateur des rafales de vent",
+    "Il augmente la prise au vent et l’effort qui pousse la machine"
+   ],
+   "x": "La force du vent dépend de la surface exposée. Un panneau agit comme une voile placée tout en haut de la structure : il crée un moment de renversement important, même si sa masse est faible."
+  },
+  "en": {
+   "q": "Why is carrying a large panel on the platform dangerous in moderate wind?",
+   "o": [
+    "It reduces the machine's mass",
+    "It shields the operator from the wind",
+    "It lowers the centre of gravity and shields the operator from gusts",
+    "It increases wind area and the force pushing the machine"
+   ],
+   "x": "Wind force depends on the exposed area. A panel acts like a sail at the very top of the structure: it creates a large overturning moment, even if it is light."
+  }
+ },
+ {
+  "id": "r486-032",
+  "points": {
+   "r486": "tech-masse-vent"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Charge maximale de la plate-forme : 230 kg. Deux opérateurs de 85 kg emportent 50 kg d’outils. Que constatez-vous ?",
+   "o": [
+    "La charge totale est de 220 kg, elle est admissible",
+    "La charge totale est de 170 kg, il reste 60 kg",
+    "La charge totale est de 250 kg, elle est dépassée",
+    "On ne compte pas les outils"
+   ],
+   "x": "On additionne tout ce qui est sur la plate-forme : 85 + 85 + 50 = 220 kg, sous la limite de 230 kg. Il reste seulement 10 kg de marge : aucun matériau supplémentaire ne peut être monté sans retirer autre chose."
+  },
+  "en": {
+   "q": "Platform safe working load: 230 kg. Two operators of 85 kg each take 50 kg of tools. What do you find?",
+   "o": [
+    "The total is 220 kg, which is allowed",
+    "The total is 170 kg, leaving 60 kg",
+    "The total is 250 kg, which is over",
+    "Tools are not counted"
+   ],
+   "x": "Add up everything on the platform: 85 + 85 + 50 = 220 kg, under the 230 kg limit. Only 10 kg of margin remains: no more material can go up without removing something else."
+  }
+ },
+ {
+  "id": "r486-033",
+  "points": {
+   "r486": "tech-masse-vent"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Que devient le centre de gravité d’une nacelle à bras quand la plate-forme est déportée loin du châssis ?",
+   "o": [
+    "Il reste au centre du châssis",
+    "Il se déplace vers le côté de la plate-forme",
+    "Il se déplace vers le contrepoids, à l’opposé de la plate-forme",
+    "Il descend vers le sol"
+   ],
+   "x": "En déportant la plate-forme et les bras, une part importante de la masse s’éloigne du châssis : le centre de gravité de l’ensemble se rapproche de la ligne de renversement côté plate-forme. Contrepoids et courbes de charges en tiennent compte."
+  },
+  "en": {
+   "q": "What happens to a boom lift's centre of gravity when the platform is extended far from the chassis?",
+   "o": [
+    "It stays at the centre of the chassis",
+    "It moves towards the platform side",
+    "It moves towards the counterweight, away from the platform",
+    "It drops towards the ground"
+   ],
+   "x": "Extending the platform and arms moves a large part of the mass away from the chassis: the overall centre of gravity gets closer to the tipping line on the platform side. Counterweights and load charts allow for this."
+  }
+ },
+ {
+  "id": "r486-034",
+  "points": {
+   "r486": "tech-equilibre"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Qu’est-ce que le polygone de sustentation d’une PEMP ?",
+   "o": [
+    "La surface de la plate-forme",
+    "La zone balisée autour de la machine",
+    "La surface délimitée par ses points d’appui au sol",
+    "Le volume dans lequel la flèche et la plate-forme peuvent se déplacer"
+   ],
+   "x": "Le polygone de sustentation relie les points d’appui : roues ou stabilisateurs. La machine est stable tant que la verticale de son centre de gravité reste à l’intérieur. S’il en sort, elle se renverse."
+  },
+  "en": {
+   "q": "What is a MEWP's support polygon?",
+   "o": [
+    "The platform area",
+    "The cordoned-off area around the machine",
+    "The area bounded by its points of contact with the ground",
+    "The volume in which the boom and platform can move"
+   ],
+   "x": "The support polygon joins the points of support: wheels or outriggers. The machine is stable as long as the vertical line through its centre of gravity stays inside. If it goes outside, the machine overturns."
+  }
+ },
+ {
+  "id": "r486-035",
+  "points": {
+   "r486": "tech-equilibre"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Une charge de 200 kg placée à 6 m de l’axe de basculement crée un moment. Quelle charge placée à 3 m crée le même moment ?",
+   "o": [
+    "200 kg",
+    "100 kg",
+    "600 kg",
+    "400 kg"
+   ],
+   "x": "Le moment se calcule en multipliant la force par le bras de levier : 200 kg × 6 m = 1 200 kg·m. À 3 m, il faut 400 kg pour atteindre la même valeur. Une charge éloignée pèse donc beaucoup plus sur la stabilité."
+  },
+  "en": {
+   "q": "A 200 kg load placed 6 m from the tipping axis creates a moment. What load at 3 m creates the same moment?",
+   "o": [
+    "200 kg",
+    "100 kg",
+    "600 kg",
+    "400 kg"
+   ],
+   "x": "A moment is force multiplied by lever arm: 200 kg × 6 m = 1,200 kg·m. At 3 m you need 400 kg to reach the same value. A load further out therefore weighs much more on stability."
+  }
+ },
+ {
+  "id": "r486-036",
+  "points": {
+   "r486": "tech-equilibre"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Pourquoi déployer les stabilisateurs améliore-t-il la stabilité d’une PEMP ?",
+   "o": [
+    "Ils élargissent la base d’appui de la machine",
+    "Ils allègent la plate-forme",
+    "Ils augmentent la vitesse de montée en soulageant les roues du poids de la machine",
+    "Ils abaissent la hauteur maximale"
+   ],
+   "x": "En écartant les points d’appui, les stabilisateurs agrandissent le polygone de sustentation et éloignent les lignes de renversement. La machine supporte alors un moment plus important avant de basculer."
+  },
+  "en": {
+   "q": "Why does deploying the outriggers improve a MEWP's stability?",
+   "o": [
+    "They widen the machine's support base",
+    "They lighten the platform",
+    "They increase lifting speed by taking the machine's weight off the wheels",
+    "They reduce the maximum height"
+   ],
+   "x": "By spreading the points of support, outriggers enlarge the support polygon and move the tipping lines further out. The machine can then withstand a larger moment before tipping."
+  }
+ },
+ {
+  "id": "r486-037",
+  "points": {
+   "r486": "tech-conditions"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Avant d’élever la plate-forme, que vérifiez-vous sur le châssis ?",
+   "o": [
+    "Qu’il est propre",
+    "Qu’il est à l’horizontale, dans la limite fixée par le constructeur",
+    "Qu’il est orienté vers le nord",
+    "Qu’il est légèrement incliné vers la façade pour rapprocher la plate-forme du mur"
+   ],
+   "x": "Un châssis incliné décale le centre de gravité vers le côté bas, d’autant plus que la plate-forme monte. On contrôle l’horizontalité avec l’indicateur de la machine et on corrige avec les stabilisateurs si elle en a."
+  },
+  "en": {
+   "q": "Before raising the platform, what do you check on the chassis?",
+   "o": [
+    "That it is clean",
+    "That it is level, within the manufacturer's limit",
+    "That it faces north",
+    "That it leans slightly towards the building to bring the platform nearer the wall"
+   ],
+   "x": "A tilted chassis shifts the centre of gravity towards the low side, more so as the platform rises. Check levelness with the machine's indicator and correct it with the outriggers if it has them."
+  }
+ },
+ {
+  "id": "r486-038",
+  "points": {
+   "r486": "tech-conditions"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Quelles conditions doivent être réunies pour qu’une PEMP reste stable en hauteur ?",
+   "o": [
+    "Une plate-forme vide, un moteur bien chaud et des pneus gonflés au maximum",
+    "Un accompagnateur qui tient la machine",
+    "Sol porteur, châssis de niveau, charge, déport et vent dans les limites",
+    "Une vitesse de montée maximale"
+   ],
+   "x": "La stabilité dépend de plusieurs facteurs à la fois : appuis solides, horizontalité, respect de la charge et du déport, conditions météo. Il suffit qu’un seul fasse défaut pour que le renversement devienne possible."
+  },
+  "en": {
+   "q": "What conditions must be met for a MEWP to stay stable at height?",
+   "o": [
+    "An empty platform, a warm engine and tyres at maximum pressure",
+    "A ground person holding the machine",
+    "Firm ground, level chassis, load, outreach and wind within limits",
+    "Maximum lifting speed"
+   ],
+   "x": "Stability depends on several factors at once: solid support, levelness, staying within load and outreach, weather conditions. One failing factor is enough to make overturning possible."
+  }
+ },
+ {
+  "id": "r486-039",
+  "points": {
+   "r486": "tech-conditions"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Les stabilisateurs sont posés, mais l’un d’eux semble moins chargé que les autres. Que faites-vous ?",
+   "o": [
+    "Vous levez en surveillant ce stabilisateur",
+    "Vous levez seulement à mi-hauteur",
+    "Vous demandez à l’accompagnateur de s’asseoir dessus",
+    "Vous reprenez le calage avant de lever"
+   ],
+   "x": "Un stabilisateur qui porte mal signale un sol qui cède, une mauvaise mise de niveau ou un défaut. Lever dans ces conditions réduit la base d’appui réelle. On replie, on corrige le support ou l’emplacement et on recommence."
+  },
+  "en": {
+   "q": "The outriggers are down but one seems to carry less load than the others. What do you do?",
+   "o": [
+    "You lift while watching that outrigger",
+    "You only lift halfway",
+    "You ask the ground person to sit on it",
+    "You redo the set-up before lifting"
+   ],
+   "x": "An outrigger that bears poorly signals soft ground, bad levelling or a fault. Lifting like this reduces the real support base. Retract, correct the support or position and start again."
+  }
+ },
+ {
+  "id": "r486-040",
+  "points": {
+   "r486": "tech-courbes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Que représente la courbe de charges (diagramme de travail) d’une PEMP ?",
+   "o": [
+    "Les positions de la plate-forme permises selon la charge embarquée",
+    "La consommation selon la vitesse",
+    "La pression des pneus à respecter selon la température extérieure et la charge",
+    "Le planning des vérifications"
+   ],
+   "x": "Le diagramme indique, en hauteur et en déport, la zone que la plate-forme peut atteindre, parfois avec des zones différentes selon la charge. Il se trouve sur la machine et dans la notice du constructeur."
+  },
+  "en": {
+   "q": "What does a MEWP's load chart (working envelope) show?",
+   "o": [
+    "The platform positions allowed for the load on board",
+    "Fuel use according to speed",
+    "The tyre pressure required according to outside temperature and load",
+    "The inspection schedule"
+   ],
+   "x": "The chart shows, in height and outreach, the area the platform can reach, sometimes with different zones depending on the load. It is on the machine and in the manufacturer's manual."
+  }
+ },
+ {
+  "id": "r486-041",
+  "points": {
+   "r486": "tech-courbes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "La courbe indique 230 kg dans la zone intérieure et 120 kg dans la zone étendue. Vous êtes deux (80 kg chacun) avec 40 kg d’outils. Où pouvez-vous travailler ?",
+   "o": [
+    "Dans les deux zones",
+    "Seulement dans la zone intérieure",
+    "Seulement dans la zone étendue",
+    "Nulle part"
+   ],
+   "x": "La charge embarquée est de 80 + 80 + 40 = 200 kg. C’est sous 230 kg, donc admissible dans la zone intérieure, mais au-dessus de 120 kg : la zone étendue est interdite avec cette charge."
+  },
+  "en": {
+   "q": "The chart shows 230 kg in the inner zone and 120 kg in the extended zone. There are two of you (80 kg each) with 40 kg of tools. Where may you work?",
+   "o": [
+    "In both zones",
+    "Only in the inner zone",
+    "Only in the extended zone",
+    "Nowhere"
+   ],
+   "x": "The load on board is 80 + 80 + 40 = 200 kg. That is under 230 kg, so allowed in the inner zone, but over 120 kg: the extended zone is off limits with this load."
+  }
+ },
+ {
+  "id": "r486-042",
+  "points": {
+   "r486": "tech-courbes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Avec 200 kg sur la plate-forme, vous devez atteindre un point situé dans la zone limitée à 120 kg. Que faites-vous ?",
+   "o": [
+    "Vous y allez lentement",
+    "Vous neutralisez le limiteur le temps de l’intervention, en avançant très lentement",
+    "Vous réduisez la charge embarquée à 120 kg au plus avant d’y aller",
+    "Vous y allez si le vent est nul"
+   ],
+   "x": "La limite de la zone étendue s’applique quelles que soient la vitesse ou la météo. Il faut descendre du matériel ou une personne pour passer sous 120 kg, ou choisir une machine plus adaptée ou un autre emplacement."
+  },
+  "en": {
+   "q": "With 200 kg on the platform, you need to reach a point in the zone limited to 120 kg. What do you do?",
+   "o": [
+    "Go there slowly",
+    "You disable the limiter for the job, moving very slowly",
+    "Reduce the load on board to 120 kg or less before going there",
+    "Go there if there is no wind"
+   ],
+   "x": "The extended zone limit applies whatever the speed or weather. Take down material or a person to get under 120 kg, or choose a better-suited machine or another position."
+  }
+ },
+ {
+  "id": "r486-043",
+  "points": {
+   "r486": "tech-courbes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Le diagramme indique un déport maximal de 6 m à 12 m de hauteur et de 4 m à 16 m. Vous devez travailler à 16 m avec 5 m de déport. Que concluez-vous ?",
+   "o": [
+    "C’est possible, car 5 m reste sous le déport maximal de 6 m indiqué au diagramme",
+    "C’est possible en levant lentement",
+    "C’est possible avec une seule personne",
+    "C’est impossible : il faut rapprocher la machine de la zone de travail"
+   ],
+   "x": "À 16 m, le diagramme limite le déport à 4 m : 5 m est hors zone. On rapproche la machine pour réduire le déport, ou on choisit une PEMP plus grande. La valeur de 6 m ne vaut que pour 12 m de hauteur."
+  },
+  "en": {
+   "q": "The chart shows maximum outreach of 6 m at 12 m height and 4 m at 16 m. You need to work at 16 m with 5 m outreach. What do you conclude?",
+   "o": [
+    "It is possible, as 5 m is still under the 6 m maximum outreach on the chart",
+    "It is possible if you lift slowly",
+    "It is possible with one person only",
+    "It is impossible: move the machine closer to the work area"
+   ],
+   "x": "At 16 m the chart limits outreach to 4 m: 5 m is outside the envelope. Move the machine closer to reduce outreach, or choose a bigger MEWP. The 6 m value only applies at 12 m height."
+  }
+ },
+ {
+  "id": "r486-044",
+  "points": {
+   "r486": "tech-courbes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Plate-forme limitée à 250 kg. Vous pesez 90 kg et emportez 20 kg d’outils. Combien de sacs de 25 kg pouvez-vous monter au plus ?",
+   "o": [
+    "5 sacs",
+    "6 sacs",
+    "4 sacs",
+    "10 sacs"
+   ],
+   "x": "Il reste 250 − 90 − 20 = 140 kg disponibles. 5 sacs font 125 kg (total 235 kg) ; un 6e porterait le total à 260 kg, au-delà de la limite. On recompte à chaque montée ou descente de matériaux."
+  },
+  "en": {
+   "q": "Platform limited to 250 kg. You weigh 90 kg and carry 20 kg of tools. How many 25 kg bags can you take up at most?",
+   "o": [
+    "5 bags",
+    "6 bags",
+    "4 bags",
+    "10 bags"
+   ],
+   "x": "There are 250 − 90 − 20 = 140 kg available. 5 bags make 125 kg (total 235 kg); a 6th would bring the total to 260 kg, over the limit. Recount every time material goes up or comes down."
+  }
+ },
+ {
+  "id": "r486-045",
+  "points": {
+   "r486": "tech-courbes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Où trouver la courbe de charges de la PEMP que vous utilisez ?",
+   "o": [
+    "Dans le Code du travail",
+    "Sur la machine et dans sa notice d’instructions",
+    "Sur le certificat CACES",
+    "Sur la fiche de paie"
+   ],
+   "x": "Chaque modèle a son propre diagramme fourni par le constructeur. Il est affiché sur la machine, souvent près du poste de commande, et repris dans la notice. Celui d’une autre machine, même proche, ne s’applique pas."
+  },
+  "en": {
+   "q": "Where do you find the load chart for the MEWP you are using?",
+   "o": [
+    "In the Labour Code",
+    "On the machine and in its instruction manual",
+    "On the CACES certificate",
+    "On your payslip"
+   ],
+   "x": "Each model has its own chart supplied by the manufacturer. It is displayed on the machine, often near the controls, and repeated in the manual. Another machine's chart, even a similar one, does not apply."
+  }
+ },
+ {
+  "id": "r486-046",
+  "points": {
+   "r486": "tech-sol"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un stabilisateur doit être posé juste sur une plaque d’égout. Que faites-vous ?",
+   "o": [
+    "Vous posez l’appui sur la plaque",
+    "Vous posez l’appui à moitié sur la plaque et à moitié sur le trottoir voisin",
+    "Vous déplacez la machine pour poser l’appui sur un sol porteur",
+    "Vous levez sans ce stabilisateur"
+   ],
+   "x": "Regards, plaques, caniveaux ou fouilles peuvent céder sous la charge concentrée d’un stabilisateur. On repère ces pièges avant d’installer la machine et on choisit un emplacement où tous les appuis portent sur un sol solide."
+  },
+  "en": {
+   "q": "An outrigger would have to sit right on a manhole cover. What do you do?",
+   "o": [
+    "You put the pad on the cover",
+    "You put the pad half on the cover and half on the nearby kerb",
+    "You move the machine so the pad rests on firm ground",
+    "You lift without that outrigger"
+   ],
+   "x": "Manholes, covers, gutters or trenches can give way under the concentrated load of an outrigger. Spot these hazards before setting up and choose a position where every support rests on solid ground."
+  }
+ },
+ {
+  "id": "r486-047",
+  "points": {
+   "r486": "tech-sol"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Le sol est meuble (terre, gazon). Comment installez-vous les stabilisateurs ?",
+   "o": [
+    "Directement sur la terre",
+    "Sur des parpaings empilés de façon bien régulière sous chacun des patins",
+    "Sur des palettes en bois usagées",
+    "Sur des plaques de répartition adaptées pour réduire l’enfoncement"
+   ],
+   "x": "Des plaques de répartition étalent l’effort sur une plus grande surface et limitent l’enfoncement. Des cales improvisées comme des parpaings ou des palettes peuvent casser ou glisser sous la charge."
+  },
+  "en": {
+   "q": "The ground is soft (earth, grass). How do you set the outriggers?",
+   "o": [
+    "Directly on the earth",
+    "On breeze blocks stacked neatly under each of the pads",
+    "On old wooden pallets",
+    "On suitable spreader plates to reduce sinking"
+   ],
+   "x": "Spreader plates spread the force over a larger area and limit sinking. Improvised packing such as breeze blocks or pallets can break or slip under load."
+  }
+ },
+ {
+  "id": "r486-048",
+  "points": {
+   "r486": "tech-sol"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Il a beaucoup plu depuis l’installation de la PEMP sur un terrain naturel. Que faites-vous avant de continuer ?",
+   "o": [
+    "Vous contrôlez à nouveau les appuis et l’horizontalité",
+    "Rien, puisque l’installation a déjà été vérifiée avec soin le matin même",
+    "Vous montez plus haut pour finir vite",
+    "Vous retirez les plaques de répartition"
+   ],
+   "x": "La pluie, le dégel ou une fuite d’eau peuvent ramollir le sol et faire s’enfoncer un appui. La portance n’est pas acquise pour la journée : on la vérifie à chaque changement de conditions et à chaque repositionnement."
+  },
+  "en": {
+   "q": "It has rained heavily since the MEWP was set up on natural ground. What do you do before carrying on?",
+   "o": [
+    "You check the supports and levelness again",
+    "Nothing, since the set-up was carefully checked that very morning",
+    "You go higher to finish quickly",
+    "You remove the spreader plates"
+   ],
+   "x": "Rain, thaw or a water leak can soften the ground and make a support sink. Bearing capacity is not guaranteed all day: check it whenever conditions change and at each repositioning."
+  }
+ },
+ {
+  "id": "r486-049",
+  "points": {
+   "r486": "expl-renversement"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Depuis la plate-forme, vous devez tirer fortement sur un câble horizontal. Quel est le risque ?",
+   "o": [
+    "Faire monter la plate-forme",
+    "Dépasser l’effort latéral admissible et renverser la machine",
+    "Décharger la batterie",
+    "Aucun, puisque le câble est fixé à une structure extérieure à la nacelle"
+   ],
+   "x": "Un effort horizontal appliqué en hauteur crée un moment de renversement. Le constructeur fixe une force manuelle latérale admissible. Tirer, pousser ou percer fort contre une structure peut la dépasser."
+  },
+  "en": {
+   "q": "From the platform you must pull hard on a horizontal cable. What is the risk?",
+   "o": [
+    "Making the platform rise",
+    "Exceeding the allowed side force and overturning the machine",
+    "Draining the battery",
+    "None, since the cable is fixed to a structure outside the MEWP"
+   ],
+   "x": "A horizontal force applied at height creates an overturning moment. The manufacturer sets an allowed manual side force. Pulling, pushing or drilling hard against a structure can exceed it."
+  }
+ },
+ {
+  "id": "r486-050",
+  "points": {
+   "r486": "expl-renversement"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous déplacez une PEMP de type 3 plate-forme levée. Quelle précaution est essentielle ?",
+   "o": [
+    "Rouler vite pour réduire le temps en hauteur",
+    "Fermer les yeux sur les petits trous",
+    "Vérifier que le trajet est plat, sans trou ni obstacle, et rouler lentement",
+    "Se pencher par-dessus le garde-corps pour mieux voir les roues et l’état du sol"
+   ],
+   "x": "En hauteur, une roue qui tombe dans un trou ou monte sur une bordure incline fortement la machine et projette la plate-forme sur le côté. On reconnaît le trajet avant et on avance doucement, en regardant le sol et l’environnement."
+  },
+  "en": {
+   "q": "You are driving a type 3 MEWP with the platform raised. Which precaution is essential?",
+   "o": [
+    "Drive fast to reduce time at height",
+    "Ignore small holes",
+    "Check the route is flat, with no holes or obstacles, and drive slowly",
+    "Lean over the guardrail to get a better view of the wheels and ground"
+   ],
+   "x": "At height, a wheel dropping into a hole or mounting a kerb tilts the machine sharply and throws the platform sideways. Survey the route beforehand and move slowly, watching the ground and surroundings."
+  }
+ },
+ {
+  "id": "r486-051",
+  "points": {
+   "r486": "expl-renversement"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pendant le travail, un stabilisateur s’enfonce dans le sol. Que faites-vous ?",
+   "o": [
+    "Vous continuez en vous dépêchant",
+    "Vous montez plus haut pour vous éloigner du sol qui s’affaisse sous la machine",
+    "Vous sautez de la plate-forme",
+    "Vous ramenez doucement la plate-forme vers une position sûre et alertez"
+   ],
+   "x": "La défaillance d’un appui est une cause directe de renversement. On interrompt le travail, on rentre la structure en douceur pour réduire le moment, on prévient l’accompagnateur, puis on reprend l’installation sur un sol porteur."
+  },
+  "en": {
+   "q": "During work an outrigger sinks into the ground. What do you do?",
+   "o": [
+    "Carry on and hurry",
+    "You go higher to get away from the ground sinking under the machine",
+    "Jump off the platform",
+    "Gently bring the platform back to a safe position and raise the alarm"
+   ],
+   "x": "A failing support is a direct cause of overturning. Stop work, retract the structure gently to reduce the moment, warn the ground person, then set up again on firm ground."
+  }
+ },
+ {
+  "id": "r486-052",
+  "points": {
+   "r486": "expl-renversement"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "La plate-forme heurte une poutre pendant une manœuvre. Pourquoi est-ce dangereux pour la stabilité ?",
+   "o": [
+    "Le choc peut créer un effort imprévu et déséquilibrer la machine",
+    "La poutre et le garde-corps risquent seulement d’être rayés ou cabossés",
+    "Cela fait monter la charge maximale",
+    "Ce n’est dangereux que pour la peinture"
+   ],
+   "x": "Un heurt applique en hauteur une force que la machine n’a pas prévue et peut déformer la structure. Il peut aussi coincer la plate-forme. On s’approche lentement des obstacles et on garde une distance de sécurité."
+  },
+  "en": {
+   "q": "The platform hits a beam during a manoeuvre. Why is this dangerous for stability?",
+   "o": [
+    "The impact can create an unexpected force and unbalance the machine",
+    "The beam and guardrail may just get scratched or dented",
+    "It increases the safe working load",
+    "It is only a danger to the paintwork"
+   ],
+   "x": "An impact applies a force at height that the machine was not designed for and may bend the structure. It can also trap the platform. Approach obstacles slowly and keep a safe distance."
+  }
+ },
+ {
+  "id": "r486-053",
+  "points": {
+   "r486": "expl-renversement"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Le limiteur de charge bloque les mouvements. Un collègue propose de le shunter pour finir le travail. Que répondez-vous ?",
+   "o": [
+    "Oui, si c’est pour quelques minutes et que l’accompagnateur surveille",
+    "Non : vous retirez de la charge pour repasser sous la limite",
+    "Oui, si le vent est faible",
+    "Oui, si vous restez près du sol"
+   ],
+   "x": "Le limiteur réagit parce que la charge ou le moment est trop élevé : la machine est proche du renversement ou de la rupture. Le neutraliser supprime la dernière protection. On allège la plate-forme ou on change de méthode."
+  },
+  "en": {
+   "q": "The load limiter is blocking movements. A colleague suggests bypassing it to finish the job. What do you answer?",
+   "o": [
+    "Yes, if it's for a few minutes and the ground person keeps watch",
+    "No: you take load off to get back under the limit",
+    "Yes, if the wind is light",
+    "Yes, if you stay close to the ground"
+   ],
+   "x": "The limiter reacts because the load or moment is too high: the machine is close to overturning or breaking. Disabling it removes the last safeguard. Lighten the platform or change the method."
+  }
+ },
+ {
+  "id": "r486-054",
+  "points": {
+   "r486": "expl-chute-hauteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pour atteindre un point un peu trop haut, un opérateur monte sur la lisse du garde-corps. Que risque-t-il ?",
+   "o": [
+    "Rien, puisque le garde-corps est conçu pour supporter le poids d’une personne",
+    "Seulement d’abîmer la lisse",
+    "Une chute par-dessus le garde-corps",
+    "Une simple remarque du chef"
+   ],
+   "x": "Le garde-corps protège seulement si l’on reste debout sur le plancher. Monter dessus fait passer le centre de gravité du corps au-dessus de la protection. On repositionne la plate-forme au lieu de grimper."
+  },
+  "en": {
+   "q": "To reach a point slightly too high, an operator steps onto the guardrail rail. What is the risk?",
+   "o": [
+    "Nothing, since the guardrail is designed to bear a person's weight",
+    "Only damaging the rail",
+    "Falling over the guardrail",
+    "Just a word from the boss"
+   ],
+   "x": "The guardrail only protects you while you stand on the floor. Climbing on it puts your body's centre of gravity above the protection. Reposition the platform instead of climbing."
+  }
+ },
+ {
+  "id": "r486-055",
+  "points": {
+   "r486": "expl-chute-hauteur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pouvez-vous sortir de la plate-forme en hauteur pour passer sur une toiture ?",
+   "o": [
+    "Oui, si vous êtes rapide",
+    "Oui, si l’accompagnateur surveille et que la plate-forme touche bien la toiture",
+    "Oui, si la toiture est plate",
+    "Non, l’entrée et la sortie en position haute sont interdites"
+   ],
+   "x": "Passer de la plate-forme à un autre support en hauteur expose à une chute dans l’espace entre les deux et peut déséquilibrer la machine. On n’accède à la plate-forme et on n’en sort qu’en position d’accès, au sol ou sur le châssis."
+  },
+  "en": {
+   "q": "May you step out of the raised platform onto a roof?",
+   "o": [
+    "Yes, if you are quick",
+    "Yes, if the ground person watches and the platform is right against the roof",
+    "Yes, if the roof is flat",
+    "No, getting on or off at height is forbidden"
+   ],
+   "x": "Moving from the platform to another surface at height exposes you to a fall through the gap and may unbalance the machine. Only get on or off the platform at the access position, on the ground or on the chassis."
+  }
+ },
+ {
+  "id": "r486-056",
+  "points": {
+   "r486": "expl-chute-hauteur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous êtes monté sur la plate-forme. Que vérifiez-vous avant le premier mouvement ?",
+   "o": [
+    "Que le portillon ou la lisse d’accès est bien revenu en place",
+    "Que votre téléphone est chargé",
+    "Que le moteur est chaud",
+    "Que la plate-forme est vide d’outils"
+   ],
+   "x": "Un accès resté ouvert laisse un trou dans le garde-corps. Avant de lever ou de rouler, on s’assure que le portillon est fermé ou que la sous-lisse est redescendue. On monte en respectant trois points d’appui, sans sauter."
+  },
+  "en": {
+   "q": "You have climbed onto the platform. What do you check before the first movement?",
+   "o": [
+    "That the access gate or bar is back in place",
+    "That your phone is charged",
+    "That the engine is warm",
+    "That the platform has no tools on it"
+   ],
+   "x": "An access left open leaves a gap in the guardrail. Before lifting or driving, make sure the gate is shut or the bar is back down. Climb up using three points of contact, without jumping."
+  }
+ },
+ {
+  "id": "r486-057",
+  "points": {
+   "r486": "expl-chute-hauteur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Sur une nacelle à bras, une roue tombe dans un trou pendant le déplacement. Quel effet peut subir l’opérateur ?",
+   "o": [
+    "Être simplement secoué, car la plate-forme amortit les chocs venus du sol",
+    "Être éjecté de la plate-forme par l’effet de catapulte",
+    "Être plaqué au plancher sans danger",
+    "Aucun, la plate-forme est fixe"
+   ],
+   "x": "Au bout d’un long bras, un petit choc au sol devient un fort mouvement de fouet en haut. L’opérateur peut être projeté hors de la plate-forme. D’où le harnais à longe courte et la vigilance sur l’état du sol."
+  },
+  "en": {
+   "q": "On a boom lift, a wheel drops into a hole while travelling. What can happen to the operator?",
+   "o": [
+    "Just being shaken, as the platform absorbs shocks from the ground",
+    "Being thrown out of the platform by the catapult effect",
+    "Being pressed to the floor without danger",
+    "Nothing, the platform is fixed"
+   ],
+   "x": "At the end of a long boom, a small jolt at ground level becomes a strong whiplash at the top. The operator can be thrown out of the platform. Hence the short-lanyard harness and attention to ground condition."
+  }
+ },
+ {
+  "id": "r486-058",
+  "points": {
+   "r486": "expl-chute-hauteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi ne faut-il pas se pencher à l’extérieur du garde-corps pendant le travail ?",
+   "o": [
+    "Pour ne pas salir ses vêtements",
+    "Pour ne pas gêner l’accompagnateur",
+    "Le risque de basculer par-dessus et d’être heurté augmente",
+    "Parce que le vent est plus fort dehors"
+   ],
+   "x": "En se penchant, on déplace son centre de gravité au-delà de la protection et l’on expose sa tête et son buste aux obstacles. On rapproche plutôt la plate-forme de la zone de travail."
+  },
+  "en": {
+   "q": "Why must you not lean out over the guardrail while working?",
+   "o": [
+    "So as not to dirty your clothes",
+    "So as not to bother the ground person",
+    "The risk of toppling over and being struck increases",
+    "Because the wind is stronger outside"
+   ],
+   "x": "Leaning out moves your centre of gravity beyond the protection and exposes your head and chest to obstacles. Bring the platform closer to the work instead."
+  }
+ },
+ {
+  "id": "r486-059",
+  "points": {
+   "r486": "expl-heurts"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Des piétons passent près de la machine en cours de manœuvre. Quelle mesure les protège le mieux ?",
+   "o": [
+    "Un coup de klaxon toutes les minutes pour signaler que la machine travaille",
+    "Une manœuvre plus rapide",
+    "Un panneau posé à 50 m",
+    "Une zone balisée surveillée par l’accompagnateur"
+   ],
+   "x": "Le balisage empêche les piétons d’entrer dans la zone d’évolution, et l’accompagnateur veille à ce qu’il soit respecté. Les heurts au sol viennent souvent de personnes qui traversent une zone non protégée."
+  },
+  "en": {
+   "q": "Pedestrians are walking near the machine while it manoeuvres. Which measure protects them best?",
+   "o": [
+    "A horn blast every minute to signal the machine is working",
+    "A faster manoeuvre",
+    "A sign placed 50 m away",
+    "A cordoned-off area watched by the ground person"
+   ],
+   "x": "Cordoning off stops pedestrians entering the working area, and the ground person makes sure it is respected. Ground-level collisions often involve people crossing an unprotected area."
+  }
+ },
+ {
+  "id": "r486-060",
+  "points": {
+   "r486": "expl-heurts"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "En montant, la plate-forme approche d’une charpente au-dessus de vous. Quel danger surveillez-vous ?",
+   "o": [
+    "L’écrasement entre le garde-corps et la charpente",
+    "La chute de poussière uniquement",
+    "Le bruit de la charpente",
+    "La surchauffe du moteur"
+   ],
+   "x": "L’opérateur peut être coincé entre le pupitre ou le garde-corps et une structure. On regarde au-dessus en montant, on ralentit à l’approche et on garde une distance de travail. Certaines machines ont des protections anti-écrasement."
+  },
+  "en": {
+   "q": "As it rises, the platform nears a roof structure above you. What danger do you watch for?",
+   "o": [
+    "Being crushed between the guardrail and the structure",
+    "Only dust falling",
+    "Noise from the structure",
+    "Engine overheating"
+   ],
+   "x": "The operator can be trapped between the control panel or guardrail and a structure. Look up while rising, slow down on approach and keep a working distance. Some machines have anti-entrapment protection."
+  }
+ },
+ {
+  "id": "r486-061",
+  "points": {
+   "r486": "expl-heurts"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Quelle distance environ conserver entre la plate-forme et une structure pendant le travail ?",
+   "o": [
+    "Aucune, la plate-forme peut s’appuyer dessus",
+    "Environ 50 cm, sans contact",
+    "Environ 5 m",
+    "Environ 5 cm"
+   ],
+   "x": "Une distance d’environ 50 cm laisse la place de travailler sans risquer qu’un mouvement imprévu coince l’opérateur ou heurte la structure. Les dernières approches se font lentement, sans à-coup."
+  },
+  "en": {
+   "q": "About what distance should you keep between the platform and a structure while working?",
+   "o": [
+    "None, the platform can lean on it",
+    "About 50 cm, with no contact",
+    "About 5 m",
+    "About 5 cm"
+   ],
+   "x": "A distance of about 50 cm leaves room to work without an unexpected movement trapping the operator or striking the structure. Final approaches are made slowly and smoothly."
+  }
+ },
+ {
+  "id": "r486-062",
+  "points": {
+   "r486": "expl-heurts"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Lors de la rotation de la tourelle, quel danger existe au niveau du sol ?",
+   "o": [
+    "Aucun, puisque seule la plate-forme bouge pendant la rotation de la tourelle",
+    "Abîmer les pneus",
+    "Coincer une personne entre le contrepoids et un obstacle",
+    "Faire tomber les stabilisateurs"
+   ],
+   "x": "L’arrière de la tourelle et son contrepoids débordent souvent du châssis en tournant. Une personne près d’un mur ou d’un véhicule peut être écrasée. Le balisage et l’accompagnateur gardent cette zone libre."
+  },
+  "en": {
+   "q": "When the turntable slews, what danger exists at ground level?",
+   "o": [
+    "None, since only the platform moves when the turntable slews",
+    "Damaging the tyres",
+    "Trapping a person between the counterweight and an obstacle",
+    "Making the outriggers fall"
+   ],
+   "x": "The rear of the turntable and its counterweight often overhang the chassis when slewing. A person near a wall or vehicle can be crushed. Cordoning off and the ground person keep this area clear."
+  }
+ },
+ {
+  "id": "r486-063",
+  "points": {
+   "r486": "expl-heurts"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous approchez la plate-forme d’un mur pour y travailler. Comment terminez-vous la manœuvre ?",
+   "o": [
+    "À pleine vitesse puis arrêt brusque",
+    "En laissant la plate-forme toucher le mur",
+    "Les yeux sur le pupitre uniquement",
+    "Lentement, en ralentissant franchement dans les derniers centimètres"
+   ],
+   "x": "Les mouvements se font en douceur jusqu’à une approche d’environ 20 cm, puis par petites touches. Un arrêt brusque fait balancer la plate-forme ; un contact peut coincer une main ou endommager la structure."
+  },
+  "en": {
+   "q": "You are bringing the platform up to a wall to work on it. How do you finish the manoeuvre?",
+   "o": [
+    "At full speed then a sudden stop",
+    "Letting the platform touch the wall",
+    "Looking only at the control panel",
+    "Slowly, clearly slowing in the last few centimetres"
+   ],
+   "x": "Movements are made smoothly to within about 20 cm, then in small steps. A sudden stop makes the platform sway; contact can trap a hand or damage the structure."
+  }
+ },
+ {
+  "id": "r486-064",
+  "points": {
+   "r486": "expl-interdites"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Peut-on suspendre une charge sous la plate-forme pour la monter à l’étage ?",
+   "o": [
+    "Non, la PEMP n’est pas un appareil de levage de charges",
+    "Oui, si elle pèse moins de 50 kg et qu’elle est attachée au point d’ancrage",
+    "Oui, avec une sangle neuve",
+    "Oui, si personne n’est dessous"
+   ],
+   "x": "Une PEMP est conçue pour élever des personnes et leur matériel sur la plate-forme. Une charge suspendue crée des efforts imprévus, peut se balancer et heurter quelqu’un. Pour lever une charge, on utilise un appareil prévu."
+  },
+  "en": {
+   "q": "May you hang a load under the platform to lift it to an upper floor?",
+   "o": [
+    "No, a MEWP is not a load-lifting appliance",
+    "Yes, if it weighs under 50 kg and is tied to the anchor point",
+    "Yes, with a new strap",
+    "Yes, if nobody is underneath"
+   ],
+   "x": "A MEWP is designed to lift people and their equipment on the platform. A suspended load creates unforeseen forces and can swing and strike someone. To lift a load, use an appliance designed for it."
+  }
+ },
+ {
+  "id": "r486-065",
+  "points": {
+   "r486": "expl-interdites"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pour gagner 50 cm, un opérateur pose un escabeau sur la plate-forme. Qu’en pensez-vous ?",
+   "o": [
+    "C’est permis si l’escabeau est stable",
+    "C’est interdit : il pourrait basculer par-dessus le garde-corps",
+    "C’est permis si on l’attache",
+    "C’est permis si l’escabeau est bien calé contre le garde-corps de la plate-forme"
+   ],
+   "x": "Monter sur un escabeau, une caisse ou tout autre support annule la protection du garde-corps. Il faut une PEMP qui atteint la hauteur voulue, ou repositionner la machine."
+  },
+  "en": {
+   "q": "To gain 50 cm, an operator stands a stepladder on the platform. What do you think?",
+   "o": [
+    "It is allowed if the ladder is stable",
+    "It is forbidden: they could topple over the guardrail",
+    "It is allowed if it is tied on",
+    "It is allowed if the ladder is wedged firmly against the platform guardrail"
+   ],
+   "x": "Standing on a stepladder, crate or any other support cancels out the guardrail's protection. Use a MEWP that reaches the required height, or reposition the machine."
+  }
+ },
+ {
+  "id": "r486-066",
+  "points": {
+   "r486": "expl-interdites"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "La notice indique que votre PEMP est réservée à l’intérieur. Pouvez-vous l’utiliser dehors par temps calme ?",
+   "o": [
+    "Oui, si le vent est nul au moment où vous commencez votre intervention",
+    "Oui, sur un sol goudronné",
+    "Non, elle n’est pas conçue pour résister au vent",
+    "Oui, si vous restez sous 5 m"
+   ],
+   "x": "Une PEMP pour l’intérieur n’est pas calculée pour l’effort du vent : une rafale peut la renverser, même par temps annoncé calme. L’usage à l’extérieur d’une machine inadaptée fait partie des opérations interdites."
+  },
+  "en": {
+   "q": "The manual says your MEWP is for indoor use only. May you use it outside on a calm day?",
+   "o": [
+    "Yes, if there is no wind when you start the job",
+    "Yes, on tarmac",
+    "No, it is not designed to withstand wind",
+    "Yes, if you stay below 5 m"
+   ],
+   "x": "An indoor-only MEWP is not designed for wind loads: a gust can overturn it, even on a day forecast as calm. Using an unsuitable machine outdoors is a prohibited operation."
+  }
+ },
+ {
+  "id": "r486-067",
+  "points": {
+   "r486": "expl-interdites"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Une grue déplace une charge au-dessus de la zone où vous travaillez en nacelle. Que faites-vous ?",
+   "o": [
+    "Vous continuez en surveillant la charge",
+    "Vous montez plus haut pour vous rapprocher de la charge et aider le grutier à la poser",
+    "Vous guidez la charge à la main",
+    "Vous ne restez pas sous la charge et faites organiser les deux activités"
+   ],
+   "x": "Se trouver sous une charge suspendue est interdit : une chute de charge ou un ballant peut être mortel. Les interventions doivent être coordonnées pour ne pas se superposer."
+  },
+  "en": {
+   "q": "A crane is moving a load above the area where you are working in a MEWP. What do you do?",
+   "o": [
+    "You carry on while watching the load",
+    "You go higher to get near the load and help the crane operator set it down",
+    "You guide the load by hand",
+    "You do not stay under the load and get the two activities coordinated"
+   ],
+   "x": "Being under a suspended load is forbidden: a falling or swinging load can kill. The two operations must be coordinated so they do not overlap."
+  }
+ },
+ {
+  "id": "r486-068",
+  "points": {
+   "r486": "expl-interdites"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Votre PEMP est de type 1. Pouvez-vous la déplacer avec la plate-forme levée ?",
+   "o": [
+    "Non, un type 1 ne se déplace qu’en position de transport",
+    "Oui, à vitesse lente",
+    "Oui, depuis le poste au sol",
+    "Oui, si personne n’est sur la plate-forme et que vous roulez au pas"
+   ],
+   "x": "Par définition, la translation d’une PEMP de type 1 n’est possible qu’en position de transport, plate-forme repliée. La déplacer autrement contournerait sa conception et sa stabilité."
+  },
+  "en": {
+   "q": "Your MEWP is type 1. May you move it with the platform raised?",
+   "o": [
+    "No, a type 1 only travels in the stowed position",
+    "Yes, slowly",
+    "Yes, from the ground controls",
+    "Yes, if nobody is on the platform and you go at walking pace"
+   ],
+   "x": "By definition, a type 1 MEWP can only travel in the stowed position, platform lowered. Moving it otherwise would go against its design and stability."
+  }
+ },
+ {
+  "id": "r486-069",
+  "points": {
+   "r486": "expl-chute-objets"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Comment éviter qu’un outil tombe de la plate-forme ?",
+   "o": [
+    "Le poser sur la lisse du garde-corps, bien à plat, pour l’avoir à portée de main",
+    "L’attacher par une dragonne et le ranger dans un contenant",
+    "Le tenir entre les dents",
+    "Le coincer dans la structure"
+   ],
+   "x": "Un outil qui tombe de plusieurs mètres peut tuer une personne au sol. On attache les outils, on range le petit matériel dans des bacs et on ne pose rien sur les lisses, d’où il glisse facilement."
+  },
+  "en": {
+   "q": "How do you stop a tool falling from the platform?",
+   "o": [
+    "Rest it flat on the guardrail rail so it's within reach",
+    "Tie it with a lanyard and keep it in a container",
+    "Hold it between your teeth",
+    "Wedge it in the structure"
+   ],
+   "x": "A tool falling several metres can kill someone below. Tether tools, keep small items in trays and put nothing on the rails, where it slides off easily."
+  }
+ },
+ {
+  "id": "r486-070",
+  "points": {
+   "r486": "expl-chute-objets"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi baliser la zone située sous la plate-forme ?",
+   "o": [
+    "Pour signaler un parking",
+    "Pour délimiter la zone de pause et de stockage du matériel de l’équipe",
+    "Pour que personne ne passe sous une éventuelle chute d’objet",
+    "Pour rien, le casque suffit"
+   ],
+   "x": "Même avec des outils attachés, une chute reste possible : débris, matériaux, morceau de structure. Le balisage tient les personnes à distance de la zone exposée. Le casque réduit la gravité mais ne remplace pas la mise à l’écart."
+  },
+  "en": {
+   "q": "Why cordon off the area below the platform?",
+   "o": [
+    "To mark a parking space",
+    "To mark out the team's break and equipment storage area",
+    "So nobody walks under a possible falling object",
+    "No reason, a helmet is enough"
+   ],
+   "x": "Even with tools tethered, things can still fall: debris, materials, part of a structure. Cordoning off keeps people away from the exposed area. A helmet reduces severity but does not replace keeping people clear."
+  }
+ },
+ {
+  "id": "r486-071",
+  "points": {
+   "r486": "expl-chute-objets"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous avez des chutes de matériaux à évacuer depuis la plate-forme. Que faites-vous ?",
+   "o": [
+    "Les jeter dans la zone balisée, après avoir prévenu l’accompagnateur",
+    "Les lancer à l’accompagnateur",
+    "Les poser sur le toit voisin",
+    "Les redescendre avec la plate-forme"
+   ],
+   "x": "Jeter des objets depuis la hauteur expose les personnes au sol et la machine elle-même. On stocke les déchets dans un contenant sur la plate-forme, dans la limite de charge, et on les redescend."
+  },
+  "en": {
+   "q": "You have waste materials to clear from the platform. What do you do?",
+   "o": [
+    "Throw them into the cordoned-off area after warning the ground person",
+    "Throw them to the ground person",
+    "Put them on the next roof",
+    "Bring them down with the platform"
+   ],
+   "x": "Throwing things from height endangers people below and the machine itself. Keep waste in a container on the platform, within the load limit, and bring it down."
+  }
+ },
+ {
+  "id": "r486-072",
+  "points": {
+   "r486": "expl-chute-objets"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Pourquoi l’accompagnateur au sol porte-t-il un casque ?",
+   "o": [
+    "Pour être protégé d’un objet tombé de la plate-forme",
+    "Pour être reconnu de loin",
+    "Parce que le casque est plus confortable que la casquette sur un chantier",
+    "Pour se protéger du soleil"
+   ],
+   "x": "L’accompagnateur travaille près de la machine, parfois à proximité de la zone exposée. Le casque limite les blessures en cas de chute d’objet. Il reste prudent de ne pas se placer à l’aplomb de la plate-forme."
+  },
+  "en": {
+   "q": "Why does the ground person wear a helmet?",
+   "o": [
+    "To be protected from an object falling from the platform",
+    "To be recognised from a distance",
+    "Because a helmet is more comfortable than a cap on site",
+    "To keep the sun off"
+   ],
+   "x": "The ground person works near the machine, sometimes close to the exposed area. A helmet limits injuries if something falls. It is still wise not to stand directly below the platform."
+  }
+ },
+ {
+  "id": "r486-073",
+  "points": {
+   "r486": "expl-chute-objets"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Des matériaux longs dépassent largement du garde-corps. Quel risque principal crée cette situation ?",
+   "o": [
+    "Une meilleure stabilité de la plate-forme grâce au poids réparti sur la longueur",
+    "Leur chute ou leur accrochage dans un obstacle en hauteur",
+    "Une baisse de la charge réelle",
+    "Aucun s’ils sont légers"
+   ],
+   "x": "Un objet qui dépasse peut accrocher une structure, basculer ou être emporté par le vent. Il augmente aussi la prise au vent. Les matériaux doivent rester dans la plate-forme, rangés et maintenus."
+  },
+  "en": {
+   "q": "Long materials stick out well beyond the guardrail. What is the main risk?",
+   "o": [
+    "Better platform stability thanks to weight spread along the length",
+    "Them falling or catching on an obstacle overhead",
+    "Lower real load",
+    "None if they are light"
+   ],
+   "x": "An overhanging object can catch on a structure, tip off or be blown away. It also increases wind area. Materials must stay inside the platform, stowed and secured."
+  }
+ },
+ {
+  "id": "r486-074",
+  "points": {
+   "r486": "expl-collisions"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous travaillez près d’une voie où circulent des chariots élévateurs. Quelle mesure prenez-vous ?",
+   "o": [
+    "Compter sur les conducteurs de chariots pour vous voir et ralentir en passant à côté",
+    "Garer la nacelle en travers de la voie sans prévenir",
+    "Baliser et coordonner avec le site pour dévier ou arrêter la circulation",
+    "Travailler plus vite"
+   ],
+   "x": "Un chariot qui heurte un stabilisateur ou le châssis peut renverser la PEMP. La zone d’évolution est balisée et la circulation organisée avec le responsable du site avant le début du travail."
+  },
+  "en": {
+   "q": "You are working near a lane used by forklifts. What measure do you take?",
+   "o": [
+    "Rely on forklift drivers to see you and slow down when passing",
+    "Park the MEWP across the lane without warning",
+    "Cordon off and coordinate with the site to divert or stop traffic",
+    "Work faster"
+   ],
+   "x": "A forklift hitting an outrigger or the chassis can overturn the MEWP. The working area is cordoned off and traffic organised with the site manager before work starts."
+  }
+ },
+ {
+  "id": "r486-075",
+  "points": {
+   "r486": "expl-collisions"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pendant une rotation, la flèche peut dépasser au-dessus d’une allée de circulation. Que faites-vous ?",
+   "o": [
+    "Tourner vite pour réduire le temps de passage au-dessus de l’allée de circulation",
+    "Klaxonner une fois et continuer",
+    "Ne rien faire si l’allée est peu fréquentée",
+    "Faire fermer ou baliser l’allée pendant l’opération"
+   ],
+   "x": "En tournant, la plate-forme ou la flèche peut atteindre un véhicule haut, une autre machine ou une charge en mouvement. On neutralise l’allée ou on balise le volume balayé avant la manœuvre."
+  },
+  "en": {
+   "q": "During slewing, the boom may pass over a traffic lane. What do you do?",
+   "o": [
+    "Slew fast to cut the time spent over the traffic lane",
+    "Sound the horn once and carry on",
+    "Do nothing if the lane is quiet",
+    "Have the lane closed or cordoned off during the operation"
+   ],
+   "x": "When slewing, the platform or boom can reach a tall vehicle, another machine or a moving load. Close the lane or cordon off the swept volume before the manoeuvre."
+  }
+ },
+ {
+  "id": "r486-076",
+  "points": {
+   "r486": "expl-collisions"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous déplacez la PEMP en marche arrière dans un passage encombré. Comment éviter une collision ?",
+   "o": [
+    "En vous faisant guider par l’accompagnateur",
+    "En vous fiant uniquement au bruit",
+    "En accélérant pour sortir vite",
+    "En levant la plate-forme pour voir par-dessus les obstacles derrière vous"
+   ],
+   "x": "Le conducteur sur la plate-forme a une vision limitée de l’arrière et du sol. L’accompagnateur, bien placé et visible, le guide par gestes convenus. Lever la plate-forme pour voir réduit la stabilité."
+  },
+  "en": {
+   "q": "You are reversing the MEWP through a cluttered passage. How do you avoid a collision?",
+   "o": [
+    "By being guided by the ground person",
+    "By relying only on sound",
+    "By speeding up to get out quickly",
+    "By raising the platform to see over the obstacles behind you"
+   ],
+   "x": "The operator on the platform has limited view of the rear and the ground. The ground person, well placed and visible, guides with agreed signals. Raising the platform to see reduces stability."
+  }
+ },
+ {
+  "id": "r486-077",
+  "points": {
+   "r486": "expl-collisions"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Plate-forme levée, vous roulez dans un bâtiment. Quel obstacle risquez-vous de heurter ?",
+   "o": [
+    "Uniquement les murs au sol",
+    "Poutres, gaines, sprinklers ou éclairages au-dessus",
+    "Rien, puisque l’espace en hauteur des bâtiments est toujours laissé libre",
+    "Uniquement les portes ouvertes"
+   ],
+   "x": "En hauteur se trouvent souvent des éléments peu visibles depuis le sol. Le conducteur regarde au-dessus et autour de la plate-forme, en plus du trajet au sol, et roule lentement."
+  },
+  "en": {
+   "q": "With the platform raised, you are driving inside a building. What obstacles could you hit?",
+   "o": [
+    "Only walls at ground level",
+    "Beams, ducts, sprinklers or lights overhead",
+    "Nothing, since overhead space in buildings is always left clear",
+    "Only open doors"
+   ],
+   "x": "Overhead there are often items hard to see from the ground. The operator watches above and around the platform, as well as the route at ground level, and drives slowly."
+  }
+ },
+ {
+  "id": "r486-078",
+  "points": {
+   "r486": "expl-collisions"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un camion doit manœuvrer à côté de votre PEMP installée. Que doit faire l’accompagnateur ?",
+   "o": [
+    "Monter sur la plate-forme",
+    "Laisser le chauffeur se débrouiller",
+    "Faire respecter le balisage et guider le camion à l’écart",
+    "Retirer le balisage pour lui laisser la place de manœuvrer plus facilement"
+   ],
+   "x": "Un camion qui recule peut heurter un stabilisateur ou la structure. L’accompagnateur surveille l’environnement, maintient le balisage et alerte le conducteur et le chauffeur si un risque de collision apparaît."
+  },
+  "en": {
+   "q": "A lorry has to manoeuvre next to your set-up MEWP. What should the ground person do?",
+   "o": [
+    "Climb onto the platform",
+    "Let the driver sort it out",
+    "Enforce the cordon and guide the lorry clear",
+    "Remove the cordon to give it more room to manoeuvre"
+   ],
+   "x": "A reversing lorry can hit an outrigger or the structure. The ground person watches the surroundings, keeps the cordon in place and warns the operator and the lorry driver if a collision risk arises."
+  }
+ },
+ {
+  "id": "r486-079",
+  "points": {
+   "r486": "expl-environnement"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Quelle distance minimale garder avec une ligne électrique aérienne de moins de 50 000 volts ?",
+   "o": [
+    "1 m",
+    "50 cm",
+    "10 cm",
+    "3 m"
+   ],
+   "x": "Le Code du travail (article R4534-108) impose de rester à au moins 3 m d’une ligne de moins de 50 000 volts, et 5 m au-delà, en tenant compte des mouvements de la plate-forme et du balancement des câbles. Sinon, on fait mettre la ligne hors tension."
+  },
+  "en": {
+   "q": "What minimum distance must be kept from an overhead power line below 50,000 volts?",
+   "o": [
+    "1 m",
+    "50 cm",
+    "10 cm",
+    "3 m"
+   ],
+   "x": "The Labour Code (Article R4534-108) requires at least 3 m from a line below 50,000 volts, and 5 m above that, allowing for platform movement and cable sway. Otherwise the line must be switched off."
+  }
+ },
+ {
+  "id": "r486-080",
+  "points": {
+   "r486": "expl-environnement"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Quelle distance minimale garder avec une ligne aérienne de 63 000 volts ?",
+   "o": [
+    "5 m",
+    "3 m",
+    "1 m",
+    "2 m"
+   ],
+   "x": "Pour une tension de 50 000 volts ou plus, la distance minimale passe à 5 m selon l’article R4534-108 du Code du travail. L’arc électrique peut amorcer sans contact direct ; on tient compte de tous les mouvements possibles."
+  },
+  "en": {
+   "q": "What minimum distance must be kept from a 63,000-volt overhead line?",
+   "o": [
+    "5 m",
+    "3 m",
+    "1 m",
+    "2 m"
+   ],
+   "x": "For 50,000 volts or more, the minimum distance becomes 5 m under Article R4534-108 of the Labour Code. An arc can strike without direct contact; allow for every possible movement."
+  }
+ },
+ {
+  "id": "r486-081",
+  "points": {
+   "r486": "expl-environnement"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "La nacelle touche une ligne électrique. Que doit faire l’accompagnateur au sol ?",
+   "o": [
+    "Monter sur le châssis pour manœuvrer le poste de secours et dégager la nacelle",
+    "Ne pas toucher la machine, éloigner tout le monde et alerter",
+    "Tirer le conducteur par le bras",
+    "Arroser la machine"
+   ],
+   "x": "La machine et le sol autour peuvent être sous tension. Toucher l’engin ou s’en approcher peut électrocuter. On écarte les personnes, on appelle les secours et l’exploitant du réseau pour couper la ligne."
+  },
+  "en": {
+   "q": "The platform touches a power line. What must the ground person do?",
+   "o": [
+    "Climb onto the chassis to use the emergency controls and free the platform",
+    "Not touch the machine, keep everyone away and raise the alarm",
+    "Pull the operator by the arm",
+    "Hose down the machine"
+   ],
+   "x": "The machine and the ground around it may be live. Touching the machine or approaching it can electrocute. Keep people away, call emergency services and the network operator to cut the line."
+  }
+ },
+ {
+  "id": "r486-082",
+  "points": {
+   "r486": "expl-environnement"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Une tranchée ouverte longe l’emplacement prévu pour la PEMP. Que faites-vous ?",
+   "o": [
+    "Vous posez un stabilisateur au bord",
+    "Vous posez une roue dans la tranchée pour caler",
+    "Vous installez la machine assez loin du bord pour éviter l’éboulement",
+    "Vous travaillez vite avant que le bord ne cède"
+   ],
+   "x": "Le bord d’une fouille peut s’effondrer sous le poids concentré d’un appui. On s’en tient éloigné, on choisit un autre emplacement ou on fait renforcer la zone avant d’installer la machine."
+  },
+  "en": {
+   "q": "An open trench runs alongside the spot planned for the MEWP. What do you do?",
+   "o": [
+    "Put an outrigger at the edge",
+    "Put a wheel in the trench as a chock",
+    "Set up far enough from the edge to avoid a collapse",
+    "Work fast before the edge gives way"
+   ],
+   "x": "The edge of an excavation can collapse under the concentrated weight of a support. Keep away from it, choose another spot or have the area reinforced before setting up."
+  }
+ },
+ {
+  "id": "r486-083",
+  "points": {
+   "r486": "expl-environnement"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous devez travailler en bordure d’une route ouverte à la circulation. Que faut-il prévoir ?",
+   "o": [
+    "Uniquement des gilets pour l’équipe",
+    "Rien si l’intervention est courte",
+    "Un simple cône devant la machine",
+    "Une signalisation temporaire et un balisage adaptés, selon les autorisations"
+   ],
+   "x": "Les véhicules qui passent peuvent heurter la machine ou l’accompagnateur. Une intervention sur ou au bord de la voie publique exige une signalisation temporaire réglementaire et, selon le cas, une autorisation de la collectivité."
+  },
+  "en": {
+   "q": "You must work beside a road open to traffic. What must be arranged?",
+   "o": [
+    "Only hi-vis vests for the team",
+    "Nothing if the job is short",
+    "A single cone in front of the machine",
+    "Suitable temporary signs and cordoning, with the required permits"
+   ],
+   "x": "Passing vehicles can hit the machine or the ground person. Work on or beside a public road needs regulation temporary signs and, depending on the case, permission from the local authority."
+  }
+ },
+ {
+  "id": "r486-084",
+  "points": {
+   "r486": "expl-visibilite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Le bruit empêche le conducteur et l’accompagnateur de se parler. Comment communiquent-ils ?",
+   "o": [
+    "Par des gestes conventionnels convenus à l’avance",
+    "En criant plus fort",
+    "Par des gestes improvisés que chacun invente selon la situation",
+    "Ils ne communiquent pas"
+   ],
+   "x": "Des gestes de commandement normalisés, connus des deux, évitent toute confusion. L’accompagnateur se place là où le conducteur le voit. Une radio peut compléter. Un signal d’alerte doit déclencher l’arrêt."
+  },
+  "en": {
+   "q": "Noise stops the operator and ground person from talking. How do they communicate?",
+   "o": [
+    "With standard hand signals agreed in advance",
+    "By shouting louder",
+    "With improvised gestures each person makes up as needed",
+    "They do not communicate"
+   ],
+   "x": "Standard hand signals known to both avoid any confusion. The ground person stands where the operator can see them. A radio can help. An alert signal must trigger a stop."
+  }
+ },
+ {
+  "id": "r486-085",
+  "points": {
+   "r486": "expl-visibilite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous devez intervenir de nuit sur une façade. Quelle condition est indispensable ?",
+   "o": [
+    "La seule lumière des réverbères",
+    "Un éclairage suffisant de la zone de travail et du trajet",
+    "Une lampe frontale pour l’accompagnateur seulement",
+    "Aucun éclairage, pour ne pas éblouir"
+   ],
+   "x": "Sans éclairage adapté, ni le conducteur ni l’accompagnateur ne voient les obstacles, les câbles ou les personnes. On éclaire la zone d’évolution, le trajet et la position de travail avant de commencer."
+  },
+  "en": {
+   "q": "You have to work on a building front at night. Which condition is essential?",
+   "o": [
+    "Street lighting alone",
+    "Adequate lighting of the work area and route",
+    "A head torch for the ground person only",
+    "No lighting, to avoid glare"
+   ],
+   "x": "Without suitable lighting, neither the operator nor the ground person can see obstacles, cables or people. Light the working area, route and work position before starting."
+  }
+ },
+ {
+  "id": "r486-086",
+  "points": {
+   "r486": "expl-visibilite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "De la vapeur envahit soudain la zone où se trouve la plate-forme. Que faites-vous ?",
+   "o": [
+    "Vous continuez au jugé",
+    "Vous montez pour sortir du nuage",
+    "Vous arrêtez les mouvements jusqu’au retour de la visibilité",
+    "Vous accélérez pour finir"
+   ],
+   "x": "Fumée, vapeur ou poussière masquent les obstacles et les personnes. On interrompt tout mouvement, on attend que la visibilité revienne et on vérifie l’environnement avant de reprendre. Si le nuage est toxique, on redescend selon la consigne."
+  },
+  "en": {
+   "q": "Steam suddenly fills the area around the platform. What do you do?",
+   "o": [
+    "You carry on by guesswork",
+    "You go up to get out of the cloud",
+    "You stop all movement until visibility returns",
+    "You speed up to finish"
+   ],
+   "x": "Smoke, steam or dust hide obstacles and people. Stop all movement, wait for visibility to return and check the surroundings before resuming. If the cloud is toxic, come down as instructed."
+  }
+ },
+ {
+  "id": "r486-087",
+  "points": {
+   "r486": "expl-visibilite"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Où l’accompagnateur doit-il se placer pour guider une manœuvre ?",
+   "o": [
+    "Derrière la machine, hors de vue",
+    "Sur le châssis",
+    "Sous la plate-forme",
+    "Dans le champ de vision du conducteur, à distance de sécurité"
+   ],
+   "x": "Pour être utile, l’accompagnateur doit voir le danger et être vu du conducteur. Il se tient hors de la trajectoire et de la zone de chute d’objets, et ne monte pas sur la machine."
+  },
+  "en": {
+   "q": "Where should the ground person stand to guide a manoeuvre?",
+   "o": [
+    "Behind the machine, out of sight",
+    "On the chassis",
+    "Under the platform",
+    "In the operator's line of sight, at a safe distance"
+   ],
+   "x": "To be useful, the ground person must see the danger and be seen by the operator. They stay out of the machine's path and the falling-object area, and never ride on the machine."
+  }
+ },
+ {
+  "id": "r486-088",
+  "points": {
+   "r486": "expl-visibilite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Le conducteur perd de vue l’accompagnateur pendant une manœuvre guidée. Que fait-il ?",
+   "o": [
+    "Il s’arrête jusqu’à rétablir le contact",
+    "Il continue dans la même direction",
+    "Il accélère pour retrouver l’accompagnateur",
+    "Il klaxonne en continuant"
+   ],
+   "x": "Sans contact, le conducteur ne reçoit plus les informations sur ce qu’il ne voit pas. La règle est simple : on arrête le mouvement et on reprend seulement quand le guidage est de nouveau assuré."
+  },
+  "en": {
+   "q": "The operator loses sight of the ground person during a guided manoeuvre. What do they do?",
+   "o": [
+    "Stop until contact is restored",
+    "Carry on in the same direction",
+    "Speed up to find the ground person",
+    "Sound the horn while carrying on"
+   ],
+   "x": "Without contact, the operator no longer gets information about what they cannot see. The rule is simple: stop moving and only resume when guidance is back."
+  }
+ },
+ {
+  "id": "r486-089",
+  "points": {
+   "r486": "expl-travaux"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous devez souder depuis la plate-forme. Quel risque devez-vous prévenir ?",
+   "o": [
+    "Uniquement l’éblouissement des passants",
+    "L’incendie dû aux projections, y compris sur les flexibles",
+    "La chute de la batterie",
+    "La baisse du niveau d’huile"
+   ],
+   "x": "Les étincelles et projections peuvent enflammer des matériaux, abîmer les flexibles hydrauliques ou atteindre des personnes au sol. On protège la machine, on éloigne les produits combustibles et on prévoit un extincteur à portée."
+  },
+  "en": {
+   "q": "You have to weld from the platform. Which risk must you prevent?",
+   "o": [
+    "Only dazzling passers-by",
+    "Fire from spatter, including on the hoses",
+    "The battery falling",
+    "The oil level dropping"
+   ],
+   "x": "Sparks and spatter can ignite materials, damage hydraulic hoses or reach people below. Protect the machine, move combustibles away and keep an extinguisher within reach."
+  }
+ },
+ {
+  "id": "r486-090",
+  "points": {
+   "r486": "expl-travaux"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous peignez au pistolet depuis la plate-forme. Que faut-il protéger ?",
+   "o": [
+    "Rien, la peinture sèche vite",
+    "Seulement vos chaussures",
+    "Le pupitre et la machine, ainsi que les personnes autour",
+    "Seulement les pneus"
+   ],
+   "x": "Les projections encrassent les commandes, les capteurs et les panneaux d’information, et peuvent gêner la manœuvre. On protège la machine, on porte les EPI prévus et on balise la zone pour les tiers."
+  },
+  "en": {
+   "q": "You are spray-painting from the platform. What needs protecting?",
+   "o": [
+    "Nothing, paint dries quickly",
+    "Only your shoes",
+    "The control panel and the machine, and people around",
+    "Only the tyres"
+   ],
+   "x": "Overspray clogs controls, sensors and information plates and can hinder operation. Protect the machine, wear the required PPE and cordon off the area for others."
+  }
+ },
+ {
+  "id": "r486-091",
+  "points": {
+   "r486": "expl-travaux"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Votre plate-forme est encombrée de matériel. Quel risque cela crée-t-il ?",
+   "o": [
+    "Aucun, tant que tout tient",
+    "Une meilleure stabilité",
+    "Une montée plus rapide",
+    "Trébucher, mal accéder aux commandes et dépasser la charge"
+   ],
+   "x": "Une plate-forme encombrée réduit la place pour se tenir, cache le plancher et peut gêner l’accès au pupitre ou à l’arrêt d’urgence. Le cumul de matériel fait aussi grimper la masse embarquée."
+  },
+  "en": {
+   "q": "Your platform is cluttered with equipment. What risk does this create?",
+   "o": [
+    "None, as long as it all fits",
+    "Better stability",
+    "Faster lifting",
+    "Tripping, poor access to controls and exceeding the load"
+   ],
+   "x": "A cluttered platform leaves less room to stand, hides the floor and may block access to the controls or emergency stop. Piling up equipment also increases the load on board."
+  }
+ },
+ {
+  "id": "r486-092",
+  "points": {
+   "r486": "expl-travaux"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’autres corps de métier travaillent sous votre zone d’intervention. Que faut-il ?",
+   "o": [
+    "Organiser la coactivité pour qu’ils ne soient pas exposés",
+    "Les prévenir en criant avant chaque geste",
+    "Travailler plus vite qu’eux",
+    "Rien, chacun gère ses risques"
+   ],
+   "x": "Les activités superposées exposent à des chutes d’objets et à des heurts. Le responsable de chantier organise les interventions dans le temps ou l’espace, et le balisage matérialise la zone réservée."
+  },
+  "en": {
+   "q": "Other trades are working below your work area. What is needed?",
+   "o": [
+    "Organise co-activity so they are not exposed",
+    "Warn them by shouting before every move",
+    "Work faster than them",
+    "Nothing, everyone manages their own risks"
+   ],
+   "x": "Overlapping activities expose people to falling objects and impacts. The site manager schedules work in time or space, and cordoning off marks the reserved area."
+  }
+ },
+ {
+  "id": "r486-093",
+  "points": {
+   "r486": "expl-travaux"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous utilisez un outil électrique branché par un câble depuis le sol. Quel risque surveillez-vous ?",
+   "o": [
+    "Que la plate-forme devienne trop légère",
+    "Que le câble se coince ou s’arrache lors des mouvements de la structure",
+    "Que l’outil recharge la batterie",
+    "Aucun, le câble est souple"
+   ],
+   "x": "Le câble suit la plate-forme et peut se prendre dans la structure, être cisaillé ou tirer sur l’outil. On le fait passer de façon à ne pas gêner les mouvements et on vérifie son état, ou on utilise la prise prévue sur la plate-forme."
+  },
+  "en": {
+   "q": "You are using an electric tool supplied by a cable from the ground. What risk do you watch for?",
+   "o": [
+    "The platform getting too light",
+    "The cable snagging or being torn as the structure moves",
+    "The tool charging the battery",
+    "None, the cable is flexible"
+   ],
+   "x": "The cable follows the platform and can catch in the structure, be sheared or pull the tool. Route it so it does not hinder movement and check its condition, or use the socket provided on the platform."
+  }
+ },
+ {
+  "id": "r486-094",
+  "points": {
+   "r486": "expl-climat"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Le vent dépasse la limite indiquée par le constructeur pendant que vous êtes en hauteur. Que faites-vous ?",
+   "o": [
+    "Vous finissez vite la tâche",
+    "Vous montez plus haut pour éviter les rafales",
+    "Vous redescendez et arrêtez le travail en hauteur",
+    "Vous déportez la plate-forme face au vent"
+   ],
+   "x": "Au-delà du vent limite de service, la stabilité n’est plus garantie. On rentre la structure et on redescend. On reprend seulement quand le vent mesuré est de nouveau sous la limite, en se méfiant des rafales."
+  },
+  "en": {
+   "q": "The wind exceeds the manufacturer's limit while you are at height. What do you do?",
+   "o": [
+    "You finish the task quickly",
+    "You go higher to avoid gusts",
+    "You come down and stop working at height",
+    "You extend the platform into the wind"
+   ],
+   "x": "Above the maximum operating wind speed, stability is no longer guaranteed. Retract the structure and come down. Only resume when measured wind is back under the limit, watching out for gusts."
+  }
+ },
+ {
+  "id": "r486-095",
+  "points": {
+   "r486": "expl-climat"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Un orage approche avec des éclairs. Que faites-vous ?",
+   "o": [
+    "Vous restez en hauteur, la plate-forme est isolée",
+    "Vous montez au plus haut pour finir",
+    "Vous attendez la première goutte",
+    "Vous redescendez et mettez la machine en sécurité"
+   ],
+   "x": "En hauteur, la machine métallique est exposée à la foudre et aux rafales qui accompagnent l’orage. On anticipe : on redescend dès l’approche et on reprend une fois l’orage passé."
+  },
+  "en": {
+   "q": "A thunderstorm is approaching with lightning. What do you do?",
+   "o": [
+    "Stay up, the platform is insulated",
+    "Go to the top to finish",
+    "Wait for the first drop",
+    "Come down and make the machine safe"
+   ],
+   "x": "At height, the metal machine is exposed to lightning and to the gusts that come with storms. Anticipate: come down as it approaches and resume once the storm has passed."
+  }
+ },
+ {
+  "id": "r486-096",
+  "points": {
+   "r486": "expl-climat"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Le matin, de la neige et du verglas recouvrent la plate-forme. Que faites-vous ?",
+   "o": [
+    "Vous dégagez la plate-forme et vérifiez les commandes avant de monter",
+    "Vous montez directement, la neige fond en hauteur",
+    "Vous ajoutez du sel sans dégager",
+    "Vous laissez la neige, elle stabilise la machine"
+   ],
+   "x": "La glace rend le plancher glissant et peut bloquer les commandes ou les capteurs. La neige accumulée ajoute aussi une masse. On nettoie, on contrôle le fonctionnement, puis on travaille."
+  },
+  "en": {
+   "q": "In the morning, snow and ice cover the platform. What do you do?",
+   "o": [
+    "Clear the platform and check the controls before going up",
+    "Go straight up, snow melts at height",
+    "Add salt without clearing",
+    "Leave the snow, it stabilises the machine"
+   ],
+   "x": "Ice makes the floor slippery and can jam controls or sensors. Accumulated snow also adds mass. Clean up, check everything works, then start work."
+  }
+ },
+ {
+  "id": "r486-097",
+  "points": {
+   "r486": "expl-climat"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Comment connaître la vitesse du vent sur le chantier avant de lever ?",
+   "o": [
+    "En regardant les nuages",
+    "Avec un anémomètre ou l’indicateur de la machine, en tenant compte des rafales",
+    "D’après la météo de la veille",
+    "En levant la main"
+   ],
+   "x": "Le vent se mesure sur place, à hauteur de travail si possible, car il est plus fort en altitude et entre les bâtiments. On compare la mesure, rafales comprises, au vent limite fixé par le constructeur."
+  },
+  "en": {
+   "q": "How do you find out the wind speed on site before lifting?",
+   "o": [
+    "By looking at the clouds",
+    "With an anemometer or the machine's indicator, allowing for gusts",
+    "From the previous day's forecast",
+    "By raising your hand"
+   ],
+   "x": "Wind is measured on site, at working height if possible, since it is stronger higher up and between buildings. Compare the reading, gusts included, with the manufacturer's wind limit."
+  }
+ },
+ {
+  "id": "r486-098",
+  "points": {
+   "r486": "expl-climat"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi le gel puis le dégel modifient-ils la sécurité d’une PEMP installée sur un terrain ?",
+   "o": [
+    "Le gel augmente la capacité de la plate-forme",
+    "Le dégel rend la batterie plus puissante",
+    "Le sol dégelé perd de sa portance et un appui peut s’enfoncer",
+    "Il n’y a aucune incidence"
+   ],
+   "x": "Un sol gelé paraît dur, mais il se ramollit en dégelant, souvent dans la journée. Un appui posé le matin peut s’enfoncer l’après-midi. On contrôle régulièrement les appuis et on utilise des plaques de répartition."
+  },
+  "en": {
+   "q": "Why does freezing and then thawing affect the safety of a MEWP set up on open ground?",
+   "o": [
+    "Frost increases platform capacity",
+    "Thaw makes the battery more powerful",
+    "Thawed ground loses bearing capacity and a support may sink",
+    "It has no effect"
+   ],
+   "x": "Frozen ground seems hard but softens as it thaws, often during the day. A support set in the morning may sink in the afternoon. Check supports regularly and use spreader plates."
+  }
+ },
+ {
+  "id": "r486-099",
+  "points": {
+   "r486": "expl-secours"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Le conducteur fait un malaise sur la plate-forme levée. Que doit faire l’accompagnateur formé ?",
+   "o": [
+    "Monter le rejoindre par la structure",
+    "Attendre qu’il se réveille",
+    "Couper le moteur et partir chercher de l’aide",
+    "Alerter les secours et ramener la plate-forme avec le poste de secours"
+   ],
+   "x": "L’accompagnateur est là pour donner l’alerte et, si l’organisation le prévoit, manœuvrer depuis le sol pour redescendre la plate-forme. Grimper sur la structure l’exposerait à une chute."
+  },
+  "en": {
+   "q": "The operator is taken ill on the raised platform. What should the trained ground person do?",
+   "o": [
+    "Climb the structure to reach them",
+    "Wait for them to come round",
+    "Switch the engine off and leave to get help",
+    "Call for help and bring the platform down using the emergency controls"
+   ],
+   "x": "The ground person is there to raise the alarm and, if planned, operate from the ground to lower the platform. Climbing the structure would expose them to a fall."
+  }
+ },
+ {
+  "id": "r486-100",
+  "points": {
+   "r486": "expl-secours"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Que prévoit la R486 pour un accompagnateur qui peut manœuvrer les commandes de secours ?",
+   "o": [
+    "Les règles de la recommandation s’appliquent aussi à lui",
+    "Il n’a besoin d’aucune formation",
+    "Il doit seulement savoir où est la clé",
+    "Il doit être le responsable de chantier"
+   ],
+   "x": "Si l’organisation des secours prévoit que l’accompagnateur manœuvre la PEMP depuis le sol, il doit être formé, évalué et autorisé comme un conducteur, car ses gestes engagent la sécurité de la personne en hauteur."
+  },
+  "en": {
+   "q": "What does R486 provide for a ground person who may operate the emergency controls?",
+   "o": [
+    "The recommendation's rules apply to them too",
+    "They need no training",
+    "They only need to know where the key is",
+    "They must be the site manager"
+   ],
+   "x": "If the rescue plan has the ground person operating the MEWP from below, they must be trained, assessed and authorised like an operator, because their actions affect the safety of the person at height."
+  }
+ },
+ {
+  "id": "r486-101",
+  "points": {
+   "r486": "expl-secours"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "En manœuvrant depuis le poste de secours au sol, quel risque particulier existe ?",
+   "o": [
+    "Aucun, le poste au sol est sans danger",
+    "Mal voir les obstacles autour de la plate-forme en hauteur",
+    "Faire monter la charge maximale",
+    "Décharger la batterie du conducteur"
+   ],
+   "x": "Depuis le sol, l’opérateur de secours voit mal ce qui entoure la plate-forme : structure, câbles, personne coincée. Il agit lentement, en observant, et choisit les mouvements qui éloignent la plate-forme des obstacles."
+  },
+  "en": {
+   "q": "When operating from the ground emergency controls, what particular risk exists?",
+   "o": [
+    "None, the ground controls are risk-free",
+    "Poor view of obstacles around the raised platform",
+    "Raising the safe working load",
+    "Draining the operator's battery"
+   ],
+   "x": "From the ground, the rescuer has a poor view of what surrounds the platform: structures, cables, a trapped person. Act slowly while watching, and choose movements that take the platform away from obstacles."
+  }
+ },
+ {
+  "id": "r486-102",
+  "points": {
+   "r486": "expl-interference"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous intervenez sous le chemin de roulement d’un pont roulant. Que faut-il obtenir avant de lever ?",
+   "o": [
+    "Une simple promesse orale du pontier",
+    "Un gyrophare sur la nacelle",
+    "La consignation du pont roulant",
+    "Rien si le pont est loin"
+   ],
+   "x": "Un pont roulant qui se déplace peut percuter la plate-forme ou la structure. On le fait consigner, c’est-à-dire immobiliser et condamner, pendant toute l’intervention, selon la procédure du site."
+  },
+  "en": {
+   "q": "You are working under an overhead crane runway. What must be obtained before lifting?",
+   "o": [
+    "Just a verbal promise from the crane operator",
+    "A beacon on the MEWP",
+    "Lockout of the overhead crane",
+    "Nothing if the crane is far away"
+   ],
+   "x": "A moving overhead crane can strike the platform or structure. Have it locked out, meaning immobilised and secured, for the whole job, following site procedure."
+  }
+ },
+ {
+  "id": "r486-103",
+  "points": {
+   "r486": "expl-interference"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Une grue à tour évolue sur le chantier près de votre zone de travail. Quelle est la bonne pratique ?",
+   "o": [
+    "Lever la plate-forme pour être vu du grutier",
+    "Travailler sans prévenir, la grue s’adaptera",
+    "Guider la charge de la grue depuis la plate-forme",
+    "Coordonner les zones et les horaires avec le grutier et le chef de chantier"
+   ],
+   "x": "La flèche ou la charge de la grue peut balayer la zone de la nacelle. Les interventions sont planifiées pour que les volumes ne se croisent pas, ou se succèdent, avec un moyen de communication établi."
+  },
+  "en": {
+   "q": "A tower crane is operating on site near your work area. What is good practice?",
+   "o": [
+    "Raise the platform so the crane operator can see you",
+    "Work without telling anyone, the crane will adapt",
+    "Guide the crane's load from the platform",
+    "Coordinate areas and times with the crane operator and site manager"
+   ],
+   "x": "The crane's jib or load can sweep the MEWP's area. Work is planned so the volumes do not cross, or happen one after the other, with an agreed means of communication."
+  }
+ },
+ {
+  "id": "r486-104",
+  "points": {
+   "r486": "expl-interference"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une autre PEMP doit travailler juste à côté de la vôtre. Que faites-vous ?",
+   "o": [
+    "Vous vous coordonnez pour éviter que les structures se heurtent",
+    "Vous travaillez chacun sans vous parler",
+    "Vous reliez les deux plates-formes",
+    "Vous passez d’une plate-forme à l’autre"
+   ],
+   "x": "Deux machines proches peuvent se heurter en rotation ou en élévation. Les conducteurs et les accompagnateurs s’entendent sur les zones et les mouvements. Passer d’une plate-forme à l’autre est interdit."
+  },
+  "en": {
+   "q": "Another MEWP has to work right next to yours. What do you do?",
+   "o": [
+    "You coordinate so the structures don't collide",
+    "You each work without talking",
+    "You link the two platforms",
+    "You step from one platform to the other"
+   ],
+   "x": "Two machines close together can collide when slewing or lifting. Operators and ground persons agree on areas and movements. Stepping from one platform to another is forbidden."
+  }
+ },
+ {
+  "id": "r486-105",
+  "points": {
+   "r486": "expl-aeration"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi ne pas faire fonctionner une PEMP diesel dans un local mal ventilé ?",
+   "o": [
+    "Le moteur cale à cause du froid",
+    "Les gaz d’échappement peuvent intoxiquer les personnes",
+    "Le diesel n’aime pas l’ombre",
+    "La plate-forme monterait trop vite"
+   ],
+   "x": "Les gaz d’échappement contiennent du monoxyde de carbone et des particules. Dans un local fermé, leur concentration augmente et provoque malaises et intoxications. On choisit une PEMP électrique ou on assure une ventilation suffisante."
+  },
+  "en": {
+   "q": "Why must a diesel MEWP not be run in a poorly ventilated room?",
+   "o": [
+    "The engine stalls because of the cold",
+    "Exhaust fumes can poison people",
+    "Diesel engines don't like shade",
+    "The platform would rise too fast"
+   ],
+   "x": "Exhaust gases contain carbon monoxide and particles. In an enclosed room their concentration rises and causes faintness and poisoning. Choose an electric MEWP or ensure enough ventilation."
+  }
+ },
+ {
+  "id": "r486-106",
+  "points": {
+   "r486": "expl-aeration"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "En travaillant en hauteur dans un hall avec un engin thermique, vous avez mal à la tête et des vertiges. Que faites-vous ?",
+   "o": [
+    "Vous buvez un café et continuez",
+    "Vous montez plus haut pour respirer",
+    "Vous redescendez, sortez à l’air libre et alertez",
+    "Vous ignorez ces signes"
+   ],
+   "x": "Maux de tête, vertiges et nausées peuvent révéler une intoxication au monoxyde de carbone, qui monte vite dans un local mal aéré. On arrête, on évacue vers l’air frais et on prévient pour faire aérer et contrôler."
+  },
+  "en": {
+   "q": "Working at height in a hall with a combustion machine, you get a headache and dizziness. What do you do?",
+   "o": [
+    "Have a coffee and carry on",
+    "Go higher to breathe",
+    "Come down, get into fresh air and raise the alarm",
+    "Ignore the signs"
+   ],
+   "x": "Headache, dizziness and nausea can signal carbon monoxide poisoning, which builds up fast in poorly ventilated rooms. Stop, get to fresh air and report it so the area is ventilated and checked."
+  }
+ },
+ {
+  "id": "r486-107",
+  "points": {
+   "r486": "expl-aeration"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Dans quel lieu les gaz d’échappement s’accumulent-ils le plus dangereusement ?",
+   "o": [
+    "Un parking en plein air",
+    "Une cour ventée",
+    "Un toit-terrasse",
+    "Un local fermé ou confiné sans ventilation"
+   ],
+   "x": "Sans renouvellement d’air, les gaz d’échappement se concentrent, en particulier dans les sous-sols, fosses et locaux exigus. L’aération du lieu d’évolution fait partie des conditions à vérifier avant d’y faire entrer une machine thermique."
+  },
+  "en": {
+   "q": "Where do exhaust fumes build up most dangerously?",
+   "o": [
+    "An open-air car park",
+    "A windy yard",
+    "A flat roof",
+    "An enclosed or confined space without ventilation"
+   ],
+   "x": "Without fresh air, exhaust gases concentrate, especially in basements, pits and cramped rooms. Ventilation of the working area is one of the conditions to check before bringing in a combustion machine."
+  }
+ },
+ {
+  "id": "r486-108",
+  "points": {
+   "r486": "expl-carburant"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Comment faire le plein d’une PEMP diesel ?",
+   "o": [
+    "Moteur arrêté, plate-forme repliée, sans fumer ni flamme",
+    "Moteur tournant pour gagner du temps",
+    "Plate-forme levée pour mieux voir le réservoir",
+    "Près d’un poste de soudure en activité"
+   ],
+   "x": "Le carburant et ses vapeurs peuvent s’enflammer au contact d’une source chaude ou d’une étincelle. On fait le plein moteur coupé, machine en position de transport, dans une zone prévue, sans fumer."
+  },
+  "en": {
+   "q": "How do you refuel a diesel MEWP?",
+   "o": [
+    "Engine off, platform stowed, no smoking or flames",
+    "Engine running to save time",
+    "Platform raised to see the tank better",
+    "Next to welding work in progress"
+   ],
+   "x": "Fuel and its vapours can ignite on contact with a hot source or spark. Refuel with the engine off, the machine stowed, in a designated area, with no smoking."
+  }
+ },
+ {
+  "id": "r486-109",
+  "points": {
+   "r486": "expl-carburant"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Du carburant a coulé sur le moteur chaud pendant le plein. Que faites-vous ?",
+   "o": [
+    "Vous démarrez pour faire évaporer le carburant",
+    "Vous essuyez et laissez refroidir avant de démarrer",
+    "Vous laissez sécher en faisant tourner le moteur",
+    "Vous l’arrosez d’eau froide"
+   ],
+   "x": "Un moteur ou un échappement chaud peut enflammer le carburant renversé. On nettoie avec un absorbant ou un chiffon, on attend que le risque soit écarté et on signale si la fuite persiste."
+  },
+  "en": {
+   "q": "Fuel has spilled on the hot engine while refuelling. What do you do?",
+   "o": [
+    "Start up to evaporate the fuel",
+    "Wipe it up and let it cool before starting",
+    "Let it dry with the engine running",
+    "Hose it with cold water"
+   ],
+   "x": "A hot engine or exhaust can ignite spilled fuel. Clean it with absorbent or a rag, wait until the risk has passed and report it if the leak continues."
+  }
+ },
+ {
+  "id": "r486-110",
+  "points": {
+   "r486": "expl-carburant"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi éviter de remplir le réservoir à ras bord ?",
+   "o": [
+    "Cela abîme la jauge",
+    "Cela alourdit trop la plate-forme",
+    "Le carburant se dilate en chauffant et peut déborder",
+    "Pour économiser le carburant"
+   ],
+   "x": "En chauffant au soleil ou près du moteur, le carburant augmente de volume. Un réservoir trop plein déborde par le bouchon ou l’évent, ce qui crée un risque d’incendie et de glissade."
+  },
+  "en": {
+   "q": "Why avoid filling the tank to the brim?",
+   "o": [
+    "It damages the gauge",
+    "It makes the platform too heavy",
+    "Fuel expands as it warms and can overflow",
+    "To save fuel"
+   ],
+   "x": "Warmed by the sun or the engine, fuel expands. An overfull tank overflows through the cap or vent, creating a fire and slip risk."
+  }
+ },
+ {
+  "id": "r486-111",
+  "points": {
+   "r486": "expl-limites"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Quelles limites d’emploi devez-vous connaître avant d’utiliser une PEMP ?",
+   "o": [
+    "Uniquement la hauteur maximale",
+    "Uniquement la couleur des commandes",
+    "Aucune, la machine se protège seule",
+    "Vent, pente et dévers, nature du sol, effort latéral, charge, nombre de personnes"
+   ],
+   "x": "Le constructeur fixe un ensemble de limites qui garantissent la stabilité et la solidité. Elles figurent sur la machine et dans la notice. Les dispositifs de sécurité n’en surveillent qu’une partie."
+  },
+  "en": {
+   "q": "Which operating limits must you know before using a MEWP?",
+   "o": [
+    "Only the maximum height",
+    "Only the colour of the controls",
+    "None, the machine protects itself",
+    "Wind, slope and side slope, ground type, side force, load, number of people"
+   ],
+   "x": "The manufacturer sets a series of limits that guarantee stability and strength. They are on the machine and in the manual. Safety devices only monitor some of them."
+  }
+ },
+ {
+  "id": "r486-112",
+  "points": {
+   "r486": "expl-limites"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "La plaque indique « 2 personnes maximum ». Un troisième collègue veut monter, la charge totale restant sous la limite. Que faites-vous ?",
+   "o": [
+    "Vous refusez : le nombre de personnes est aussi une limite",
+    "Vous acceptez puisque la masse est respectée",
+    "Vous acceptez s’il reste près du portillon",
+    "Vous acceptez pour un court trajet"
+   ],
+   "x": "Le nombre maximal de personnes tient compte de la place, des efforts manuels possibles et de l’évacuation. Il s’ajoute à la limite de charge : les deux doivent être respectés."
+  },
+  "en": {
+   "q": "The plate says '2 persons maximum'. A third colleague wants to get on, with the total load still under the limit. What do you do?",
+   "o": [
+    "You refuse: the number of people is a limit too",
+    "You agree since the mass is respected",
+    "You agree if they stay by the gate",
+    "You agree for a short trip"
+   ],
+   "x": "The maximum number of people allows for space, possible manual forces and evacuation. It comes on top of the load limit: both must be respected."
+  }
+ },
+ {
+  "id": "r486-113",
+  "points": {
+   "r486": "expl-limites"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Votre PEMP a des bandages pleins prévus pour sols lisses. On vous demande de traverser un terrain en terre. Que faites-vous ?",
+   "o": [
+    "Vous traversez en accélérant",
+    "Vous refusez : la machine n’est pas adaptée à ce sol",
+    "Vous traversez plate-forme levée",
+    "Vous dégonflez les bandages"
+   ],
+   "x": "La nature de la surface de roulement fait partie des limites d’emploi. Une machine pour sols lisses peut s’enliser, glisser ou basculer sur un terrain naturel. On signale le besoin d’une machine adaptée."
+  },
+  "en": {
+   "q": "Your MEWP has solid tyres designed for smooth floors. You are asked to cross an earth area. What do you do?",
+   "o": [
+    "You cross while accelerating",
+    "You refuse: the machine is not suited to that ground",
+    "You cross with the platform raised",
+    "You let the tyres down"
+   ],
+   "x": "The type of travel surface is one of the operating limits. A machine for smooth floors can get stuck, slide or tip on natural ground. Report the need for a suitable machine."
+  }
+ },
+ {
+  "id": "r486-114",
+  "points": {
+   "r486": "expl-limites"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "La pente à franchir dépasse celle autorisée par le constructeur. Que faites-vous ?",
+   "o": [
+    "Vous la montez en marche arrière",
+    "Vous la franchissez en vitesse rapide",
+    "Vous cherchez un autre trajet ou une autre machine",
+    "Vous lestez la plate-forme"
+   ],
+   "x": "Au-delà de la pente autorisée, la machine peut perdre l’adhérence, ses freins peuvent ne plus la retenir ou elle peut basculer. Aucune technique de conduite ne remplace le respect de cette limite."
+  },
+  "en": {
+   "q": "The slope to be climbed is steeper than the manufacturer allows. What do you do?",
+   "o": [
+    "Go up it in reverse",
+    "Cross it at high speed",
+    "Find another route or another machine",
+    "Add ballast to the platform"
+   ],
+   "x": "Beyond the allowed gradient, the machine may lose grip, its brakes may not hold it or it may tip. No driving technique replaces respecting this limit."
+  }
+ },
+ {
+  "id": "r486-115",
+  "points": {
+   "r486": "expl-limites"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous percez du béton avec un perforateur depuis la plate-forme. Quelle limite surveillez-vous ?",
+   "o": [
+    "La consommation du perforateur",
+    "La couleur du béton",
+    "Le nombre de trous",
+    "L’effort horizontal que vous exercez sur la structure"
+   ],
+   "x": "Appuyer fortement contre un mur revient à pousser la plate-forme dans l’autre sens. La force manuelle latérale admissible est fixée par le constructeur ; on travaille sans forcer et on rapproche la plate-forme."
+  },
+  "en": {
+   "q": "You are drilling concrete with a hammer drill from the platform. Which limit do you watch?",
+   "o": [
+    "The drill's power consumption",
+    "The colour of the concrete",
+    "The number of holes",
+    "The horizontal force you put on the structure"
+   ],
+   "x": "Pressing hard against a wall amounts to pushing the platform the other way. The allowed manual side force is set by the manufacturer; work without forcing and move the platform closer."
+  }
+ },
+ {
+  "id": "r486-116",
+  "points": {
+   "r486": "expl-epi"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Où accrocher la longe de votre harnais dans une nacelle à bras ?",
+   "o": [
+    "Au point d’ancrage prévu sur la plate-forme",
+    "À la charpente du bâtiment",
+    "Au garde-corps, n’importe où",
+    "À l’accompagnateur au sol"
+   ],
+   "x": "Le point d’ancrage de la plate-forme est conçu pour retenir l’opérateur. S’accrocher à une structure extérieure est dangereux : si la plate-forme bouge, l’opérateur serait arraché ou suspendu dans le vide."
+  },
+  "en": {
+   "q": "Where do you clip your harness lanyard on a boom lift?",
+   "o": [
+    "To the anchor point provided on the platform",
+    "To the building's roof structure",
+    "Anywhere on the guardrail",
+    "To the ground person"
+   ],
+   "x": "The platform anchor point is designed to restrain the operator. Clipping onto an outside structure is dangerous: if the platform moves, the operator would be pulled out or left hanging."
+  }
+ },
+ {
+  "id": "r486-117",
+  "points": {
+   "r486": "expl-epi"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi utiliser une longe courte de retenue plutôt qu’une longe longue dans une PEMP ?",
+   "o": [
+    "Pour pouvoir sortir de la plate-forme",
+    "Pour empêcher l’opérateur de passer par-dessus le garde-corps",
+    "Pour aller plus loin sur une toiture",
+    "Pour remplacer le garde-corps"
+   ],
+   "x": "La longe de retenue est réglée pour que l’opérateur ne puisse pas atteindre le bord et basculer. Une longe longue autoriserait une chute avant l’arrêt, avec un choc dangereux pour le corps et la machine."
+  },
+  "en": {
+   "q": "Why use a short restraint lanyard rather than a long one in a MEWP?",
+   "o": [
+    "To be able to leave the platform",
+    "To stop the operator going over the guardrail",
+    "To go further onto a roof",
+    "To replace the guardrail"
+   ],
+   "x": "A restraint lanyard is set so the operator cannot reach the edge and topple over. A long lanyard would allow a fall before arrest, with a dangerous shock to the body and the machine."
+  }
+ },
+ {
+  "id": "r486-118",
+  "points": {
+   "r486": "expl-epi"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Comment savoir si le port du harnais est obligatoire sur la PEMP que vous utilisez ?",
+   "o": [
+    "D’après la couleur de la machine",
+    "D’après la hauteur du jour",
+    "En consultant la notice et les consignes du constructeur",
+    "C’est toujours facultatif"
+   ],
+   "x": "C’est la notice du constructeur qui précise si un équipement contre les chutes doit être porté, en général sur les PEMP du groupe B. L’employeur fournit alors le harnais et la formation à son usage."
+  },
+  "en": {
+   "q": "How do you know whether a harness is compulsory on the MEWP you are using?",
+   "o": [
+    "From the machine's colour",
+    "From the day's working height",
+    "By checking the manufacturer's manual and instructions",
+    "It is always optional"
+   ],
+   "x": "The manufacturer's manual states whether fall protection must be worn, generally on group B MEWPs. The employer then supplies the harness and training in its use."
+  }
+ },
+ {
+  "id": "r486-119",
+  "points": {
+   "r486": "expl-balisage"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Quel est le premier objectif du balisage de la zone d’évolution d’une PEMP ?",
+   "o": [
+    "Décorer le chantier",
+    "Réserver une place de stationnement",
+    "Indiquer le nom de l’entreprise",
+    "Empêcher les personnes d’entrer dans la zone dangereuse"
+   ],
+   "x": "Le balisage protège les tiers des chutes d’objets, des heurts par la machine en mouvement et de la rotation de la tourelle. Il matérialise une zone que seules les personnes concernées peuvent franchir."
+  },
+  "en": {
+   "q": "What is the main purpose of cordoning off a MEWP's working area?",
+   "o": [
+    "To decorate the site",
+    "To reserve a parking space",
+    "To show the company name",
+    "To keep people out of the danger zone"
+   ],
+   "x": "Cordoning off protects others from falling objects, being struck by the moving machine and the slewing turntable. It marks out an area only the people involved may enter."
+  }
+ },
+ {
+  "id": "r486-120",
+  "points": {
+   "r486": "expl-balisage"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Quelle surface le balisage doit-il couvrir ?",
+   "o": [
+    "La zone sous la plate-forme, l’emprise de la machine et le débattement de la tourelle",
+    "Seulement le châssis",
+    "Seulement l’endroit où est garé le camion",
+    "Un cercle de 1 m autour d’une roue"
+   ],
+   "x": "Le balisage englobe tout ce qui peut présenter un danger : emprise au sol avec stabilisateurs, rotation de la tourelle, zone de chute d’objets sous la plate-forme et ses déplacements prévus."
+  },
+  "en": {
+   "q": "What area should the cordon cover?",
+   "o": [
+    "The area under the platform, the machine footprint and the turntable swing",
+    "Only the chassis",
+    "Only where the lorry is parked",
+    "A 1 m circle around one wheel"
+   ],
+   "x": "The cordon covers everything that may be dangerous: footprint with outriggers, turntable slew, falling-object area under the platform and its planned movements."
+  }
+ },
+ {
+  "id": "r486-121",
+  "points": {
+   "r486": "expl-balisage"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Le balisage protège-t-il aussi la machine elle-même ?",
+   "o": [
+    "Non, il ne sert qu’aux piétons",
+    "Oui, il évite qu’un véhicule heurte le châssis ou un stabilisateur",
+    "Non, il sert seulement à décorer",
+    "Oui, il remplace les stabilisateurs"
+   ],
+   "x": "Un engin ou un véhicule qui percute un appui peut faire renverser la PEMP. Le balisage tient aussi la circulation à distance de la machine, ce qui protège indirectement l’opérateur en hauteur."
+  },
+  "en": {
+   "q": "Does cordoning off also protect the machine itself?",
+   "o": [
+    "No, it is only for pedestrians",
+    "Yes, it stops a vehicle hitting the chassis or an outrigger",
+    "No, it is only decoration",
+    "Yes, it replaces the outriggers"
+   ],
+   "x": "A machine or vehicle striking a support can overturn the MEWP. The cordon also keeps traffic away from the machine, which indirectly protects the operator at height."
+  }
+ },
+ {
+  "id": "r486-122",
+  "points": {
+   "r486": "expl-balisage"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Qui veille, pendant le travail, à ce que personne ne franchisse le balisage ?",
+   "o": [
+    "Le conducteur depuis la plate-forme uniquement",
+    "Personne, le ruban suffit",
+    "L’accompagnateur au sol",
+    "Les passants eux-mêmes"
+   ],
+   "x": "Le balisage ne suffit pas toujours à arrêter une personne distraite. L’accompagnateur surveille la zone, interpelle les intrus et prévient le conducteur pour qu’il arrête les mouvements si besoin."
+  },
+  "en": {
+   "q": "Who makes sure, during work, that nobody crosses the cordon?",
+   "o": [
+    "Only the operator from the platform",
+    "Nobody, the tape is enough",
+    "The ground person",
+    "Passers-by themselves"
+   ],
+   "x": "A cordon does not always stop a distracted person. The ground person watches the area, stops intruders and warns the operator so movements can be halted if needed."
+  }
+ },
+ {
+  "id": "r486-123",
+  "points": {
+   "r486": "expl-balisage"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Que signifie ce panneau placé sur le balisage de votre zone de travail ?",
+   "o": [
+    "Sortie de secours",
+    "Port du casque obligatoire",
+    "Point de rassemblement",
+    "Accès interdit aux personnes non autorisées"
+   ],
+   "x": "Ce panneau d’interdiction signale que l’entrée est réservée aux personnes autorisées. Il renforce le balisage : les passants contournent la zone où la machine évolue et où des objets peuvent tomber."
+  },
+  "en": {
+   "q": "What does this sign on the cordon around your work area mean?",
+   "o": [
+    "Emergency exit",
+    "Helmet must be worn",
+    "Assembly point",
+    "No entry for unauthorised persons"
+   ],
+   "x": "This prohibition sign shows that entry is restricted to authorised people. It backs up the cordon: passers-by go round the area where the machine moves and objects may fall."
+  },
+  "img": "interdit-acces"
+ },
+ {
+  "id": "r486-124",
+  "points": {
+   "r486": "expl-pictos"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Ce pictogramme figure sur la plate-forme d’une nacelle à bras. Que signifie-t-il ?",
+   "o": [
+    "Port du harnais obligatoire",
+    "Point de levage de la machine",
+    "Interdiction de monter",
+    "Sortie de secours"
+   ],
+   "x": "Panneau bleu rond : obligation. Il impose de porter un harnais et de l’accrocher au point d’ancrage prévu sur la plate-forme, selon la notice du constructeur."
+  },
+  "en": {
+   "q": "This pictogram is on the platform of a boom lift. What does it mean?",
+   "o": [
+    "Harness must be worn",
+    "Machine lifting point",
+    "No climbing on",
+    "Emergency exit"
+   ],
+   "x": "Round blue sign: mandatory. It requires a harness to be worn and clipped to the anchor point provided on the platform, as per the manufacturer's manual."
+  },
+  "img": "obligation-harnais"
+ },
+ {
+  "id": "r486-125",
+  "points": {
+   "r486": "expl-pictos"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Ce panneau est fixé près d’un local technique où vous devez intervenir en hauteur. Que signale-t-il ?",
+   "o": [
+    "Un danger d’incendie",
+    "Un danger électrique",
+    "Une zone de charge des batteries obligatoire",
+    "Un risque de chute d’objets"
+   ],
+   "x": "Le triangle jaune avec un éclair avertit d’un risque électrique : conducteurs sous tension, armoires, lignes. Il faut repérer les éléments sous tension et respecter les distances ou faire couper avant d’approcher."
+  },
+  "en": {
+   "q": "This sign is near a plant room where you must work at height. What does it warn of?",
+   "o": [
+    "A fire hazard",
+    "An electrical hazard",
+    "Battery charging compulsory",
+    "A falling-object hazard"
+   ],
+   "x": "The yellow triangle with a lightning bolt warns of an electrical hazard: live conductors, panels, lines. Identify live parts and keep the distances, or have them switched off before approaching."
+  },
+  "img": "danger-electrique"
+ },
+ {
+  "id": "r486-126",
+  "points": {
+   "r486": "expl-pictos"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Que signifie ce panneau sur une zone de chantier ?",
+   "o": [
+    "Interdit aux nacelles",
+    "Port du casque obligatoire",
+    "Danger : charges suspendues",
+    "Zone de stockage"
+   ],
+   "x": "Ce triangle d’avertissement signale qu’un appareil de levage déplace des charges au-dessus de la zone. Une PEMP ne doit pas y travailler sous la charge : on coordonne les deux activités."
+  },
+  "en": {
+   "q": "What does this sign on a site area mean?",
+   "o": [
+    "No MEWPs",
+    "Helmet must be worn",
+    "Warning: suspended loads",
+    "Storage area"
+   ],
+   "x": "This warning triangle shows that a lifting appliance moves loads over the area. A MEWP must not work under the load: the two activities are coordinated."
+  },
+  "img": "danger-charges-suspendues"
+ },
+ {
+  "id": "r486-127",
+  "points": {
+   "r486": "maint-hydraulique"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Lors de la vérification visuelle, vous voyez un flexible hydraulique craquelé qui frotte contre la structure. Que faites-vous ?",
+   "o": [
+    "Vous l’entourez de ruban adhésif",
+    "Vous l’utilisez avec une charge réduite",
+    "Vous attendez qu’il fuie pour le signaler",
+    "Vous signalez l’anomalie et n’utilisez pas la machine"
+   ],
+   "x": "Un flexible craquelé, gonflé ou usé par frottement peut éclater sous pression : mouvement brutal, projection d’huile, injection sous la peau. L’anomalie est signalée et la machine reste à l’arrêt jusqu’à réparation."
+  },
+  "en": {
+   "q": "During the visual check you see a cracked hydraulic hose rubbing against the structure. What do you do?",
+   "o": [
+    "You wrap it in tape",
+    "You use it with a reduced load",
+    "You wait for it to leak before reporting it",
+    "You report the fault and do not use the machine"
+   ],
+   "x": "A cracked, swollen or chafed hose can burst under pressure: sudden movement, oil spray, skin injection. The fault is reported and the machine stays out of use until repaired."
+  }
+ },
+ {
+  "id": "r486-128",
+  "points": {
+   "r486": "maint-hydraulique"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous découvrez une flaque d’huile sous la machine à la prise de poste. Que faites-vous ?",
+   "o": [
+    "Vous cherchez l’origine, signalez et ne montez pas en hauteur",
+    "Vous l’essuyez et travaillez normalement",
+    "Vous ajoutez de l’huile et partez",
+    "Vous ignorez, c’est sans doute un autre engin"
+   ],
+   "x": "Une fuite peut provenir d’un vérin, d’un raccord ou d’un flexible et annoncer une défaillance. On localise sans mettre la main sur les éléments sous pression, on signale et on attend l’avis d’une personne compétente."
+  },
+  "en": {
+   "q": "At the start of your shift you find a pool of oil under the machine. What do you do?",
+   "o": [
+    "You look for the source, report it and do not go up",
+    "You wipe it up and work as usual",
+    "You top up the oil and set off",
+    "You ignore it, it's probably another machine"
+   ],
+   "x": "A leak may come from a cylinder, fitting or hose and signal a failure. Find it without putting your hand on pressurised parts, report it and wait for a competent person's opinion."
+  }
+ },
+ {
+  "id": "r486-129",
+  "points": {
+   "r486": "maint-hydraulique"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Dans quelle position vérifie-t-on habituellement le niveau d’huile hydraulique d’une PEMP ?",
+   "o": [
+    "Plate-forme à la hauteur maximale",
+    "Structure repliée, en position de transport, selon la notice",
+    "Plate-forme à mi-hauteur",
+    "Moteur en marche et bras déployés"
+   ],
+   "x": "Le niveau varie selon que les vérins sont rentrés ou sortis. La notice indique la position de contrôle, en général machine repliée. Un niveau bas peut signaler une fuite à rechercher."
+  },
+  "en": {
+   "q": "In what position is a MEWP's hydraulic oil level usually checked?",
+   "o": [
+    "Platform at maximum height",
+    "Structure stowed, in transport position, as per the manual",
+    "Platform halfway up",
+    "Engine running with booms extended"
+   ],
+   "x": "The level varies depending on whether cylinders are retracted or extended. The manual gives the checking position, usually with the machine stowed. A low level may signal a leak to be traced."
+  }
+ },
+ {
+  "id": "r486-130",
+  "points": {
+   "r486": "maint-chassis"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous remarquez une fissure sur une soudure du châssis. Que faites-vous ?",
+   "o": [
+    "Vous la peignez pour la protéger",
+    "Vous travaillez à hauteur réduite",
+    "Vous signalez et n’utilisez pas la machine",
+    "Vous la surveillez pendant le travail"
+   ],
+   "x": "Une fissure sur le châssis peut s’agrandir sous les efforts et provoquer une rupture brutale, avec renversement. C’est une anomalie grave à signaler immédiatement ; seule une personne compétente décide de la remise en service."
+  },
+  "en": {
+   "q": "You notice a crack in a chassis weld. What do you do?",
+   "o": [
+    "You paint it to protect it",
+    "You work at reduced height",
+    "You report it and do not use the machine",
+    "You keep an eye on it while working"
+   ],
+   "x": "A crack in the chassis can grow under load and cause a sudden failure, with overturning. It is a serious fault to report at once; only a competent person decides whether the machine can go back into service."
+  }
+ },
+ {
+  "id": "r486-131",
+  "points": {
+   "r486": "maint-chassis"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Un stabilisateur remonte lentement tout seul pendant le travail. Qu’est-ce que cela indique ?",
+   "o": [
+    "Un fonctionnement normal",
+    "Un sol trop dur",
+    "Une batterie trop chargée",
+    "Un défaut du vérin ou de son clapet, à signaler immédiatement"
+   ],
+   "x": "Un stabilisateur qui dérive ne maintient plus l’appui : la base d’appui se réduit pendant que la plate-forme est en hauteur. On ramène la plate-forme, on arrête le travail et on signale la panne."
+  },
+  "en": {
+   "q": "An outrigger slowly creeps up by itself during work. What does this indicate?",
+   "o": [
+    "Normal operation",
+    "Ground that is too hard",
+    "An overcharged battery",
+    "A fault in the cylinder or its valve, to report at once"
+   ],
+   "x": "A creeping outrigger no longer holds its support: the support base shrinks while the platform is up. Bring the platform down, stop work and report the fault."
+  }
+ },
+ {
+  "id": "r486-132",
+  "points": {
+   "r486": "maint-chassis"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "À la vérification, un patin de stabilisateur est fendu. Que faites-vous ?",
+   "o": [
+    "Vous signalez l’anomalie avant toute utilisation",
+    "Vous mettez une cale en bois à la place",
+    "Vous l’utilisez sur sol dur seulement",
+    "Vous retournez le patin"
+   ],
+   "x": "Le patin transmet l’effort au sol. Fendu, il peut céder ou glisser et faire perdre l’appui. Il est remplacé par une personne compétente ; une cale improvisée ne le remplace pas."
+  },
+  "en": {
+   "q": "During checks an outrigger pad is split. What do you do?",
+   "o": [
+    "You report the fault before any use",
+    "You put a wooden block in its place",
+    "You use it on hard ground only",
+    "You turn the pad over"
+   ],
+   "x": "The pad transfers the force to the ground. Split, it can give way or slip and lose support. It must be replaced by a competent person; improvised packing is no substitute."
+  }
+ },
+ {
+  "id": "r486-133",
+  "points": {
+   "r486": "maint-structure"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous constatez qu’un bras de la structure est légèrement tordu. Que faites-vous ?",
+   "o": [
+    "Vous travaillez en évitant ce bras",
+    "Vous signalez et n’utilisez pas la machine",
+    "Vous le redressez avec un levier",
+    "Vous l’utilisez à mi-hauteur"
+   ],
+   "x": "Une déformation réduit fortement la résistance de la structure extensible et peut annoncer une rupture. Elle résulte souvent d’un choc ou d’une surcharge. La machine est arrêtée jusqu’à l’expertise."
+  },
+  "en": {
+   "q": "You see that an arm of the structure is slightly bent. What do you do?",
+   "o": [
+    "You work while avoiding that arm",
+    "You report it and do not use the machine",
+    "You straighten it with a bar",
+    "You use it at half height"
+   ],
+   "x": "A deformation greatly reduces the extending structure's strength and may signal an imminent failure. It often results from an impact or overload. The machine is stopped until it has been assessed."
+  }
+ },
+ {
+  "id": "r486-134",
+  "points": {
+   "r486": "maint-structure"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "À la vérification, il manque une goupille d’arrêt sur un axe d’articulation. Que faites-vous ?",
+   "o": [
+    "Vous la remplacez par un clou",
+    "Vous levez sans charge",
+    "Vous signalez l’anomalie avant toute élévation",
+    "Vous continuez si l’axe semble tenir"
+   ],
+   "x": "La goupille empêche l’axe de sortir de son logement. Sans elle, l’axe peut migrer sous les mouvements et l’articulation se démonter en hauteur. Le remplacement par la bonne pièce revient à une personne compétente."
+  },
+  "en": {
+   "q": "During checks a retaining pin is missing from a pivot pin. What do you do?",
+   "o": [
+    "You replace it with a nail",
+    "You lift without a load",
+    "You report the fault before any lifting",
+    "You carry on if the pin seems to hold"
+   ],
+   "x": "The retaining pin stops the pivot pin from coming out of its housing. Without it, the pin can work loose and the joint come apart at height. Replacement with the right part is a job for a competent person."
+  }
+ },
+ {
+  "id": "r486-135",
+  "points": {
+   "r486": "maint-structure"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Sur une flèche télescopique, vous entendez des bruits anormaux et voyez des patins de glissement très usés. Que faites-vous ?",
+   "o": [
+    "Vous graissez abondamment et continuez",
+    "Vous augmentez la vitesse de sortie",
+    "Vous ignorez, c’est normal sur les flèches",
+    "Vous signalez l’usure et le bruit avant de poursuivre"
+   ],
+   "x": "Les patins guident les éléments télescopiques. Usés, ils laissent du jeu et des à-coups qui fatiguent la structure. Un bruit inhabituel est un signal d’alerte à faire examiner par une personne compétente."
+  },
+  "en": {
+   "q": "On a telescopic boom you hear abnormal noises and see heavily worn slide pads. What do you do?",
+   "o": [
+    "You grease it heavily and carry on",
+    "You extend it faster",
+    "You ignore it, it's normal on booms",
+    "You report the wear and noise before carrying on"
+   ],
+   "x": "Slide pads guide the telescopic sections. When worn, they allow play and jolts that fatigue the structure. An unusual noise is a warning to have examined by a competent person."
+  }
+ }
+]

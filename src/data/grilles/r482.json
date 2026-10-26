@@ -1,0 +1,307 @@
+{
+ "reco": "r482",
+ "titre": {
+  "fr": "Engins de chantier",
+  "en": "Construction site machinery"
+ },
+ "themes": [
+  {
+   "key": "cg",
+   "fr": "Connaissances générales",
+   "en": "General knowledge",
+   "points": 12,
+   "items": [
+    {
+     "key": "cg-constructeur-employeur",
+     "fr": "Rôles du constructeur et de l’employeur",
+     "en": "Duties of the manufacturer and the employer",
+     "n": 3
+    },
+    {
+     "key": "cg-conducteur",
+     "fr": "Rôle et responsabilités du conducteur",
+     "en": "Duties and responsibilities of the operator",
+     "n": 3
+    },
+    {
+     "key": "cg-chef-signaleur",
+     "fr": "Chef de chantier, signaleur et élingueur : leurs rôles",
+     "en": "Roles of site manager, banksman and slinger",
+     "n": 2
+    },
+    {
+     "key": "cg-acteurs-prevention",
+     "fr": "Acteurs de la prévention et leurs missions",
+     "en": "Occupational safety bodies and their missions",
+     "n": 2
+    },
+    {
+     "key": "cg-categories",
+     "fr": "Engins concernés ou exclus, catégories de CACES",
+     "en": "Machines covered or excluded, CACES categories",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "fr": "Technologie et stabilité",
+   "en": "Machine technology and stability",
+   "points": 28,
+   "items": [
+    {
+     "key": "tech-terminologie",
+     "fr": "Vocabulaire des engins de chantier",
+     "en": "Construction machinery vocabulary",
+     "n": 2
+    },
+    {
+     "key": "tech-caracteristiques",
+     "fr": "Caractéristiques générales : masse, puissance, capacité",
+     "en": "General specifications: mass, power, capacity",
+     "n": 2
+    },
+    {
+     "key": "tech-mecanismes",
+     "fr": "Composants : transmission, hydraulique, freinage",
+     "en": "Components: drivetrain, hydraulics, braking",
+     "n": 6
+    },
+    {
+     "key": "tech-equipements",
+     "fr": "Équipements interchangeables : choix et utilisation",
+     "en": "Interchangeable attachments: choice and use",
+     "n": 2
+    },
+    {
+     "key": "tech-organes",
+     "fr": "Organes de service et commandes",
+     "en": "Operating controls",
+     "n": 2
+    },
+    {
+     "key": "tech-securite",
+     "fr": "Dispositifs de sécurité de l’engin",
+     "en": "Machine safety devices",
+     "n": 2
+    },
+    {
+     "key": "tech-rops-fops",
+     "fr": "Structures de protection ROPS, FOPS, TOPS",
+     "en": "ROPS, FOPS and TOPS protective structures",
+     "n": 2
+    },
+    {
+     "key": "tech-maintien",
+     "fr": "Maintien du conducteur à son poste",
+     "en": "Operator restraint systems",
+     "n": 2
+    },
+    {
+     "key": "tech-siege",
+     "fr": "Réglage du siège du conducteur",
+     "en": "Operator seat adjustment",
+     "n": 2
+    },
+    {
+     "key": "tech-pictogrammes",
+     "fr": "Pictogrammes et mentions d’avertissement",
+     "en": "Pictograms and warning signal words",
+     "n": 2
+    },
+    {
+     "key": "tech-renversement",
+     "fr": "Causes du renversement latéral",
+     "en": "Causes of sideways overturning",
+     "n": 2
+    },
+    {
+     "key": "tech-basculement",
+     "fr": "Causes du basculement vers l’avant",
+     "en": "Causes of forward tipping",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "key": "expl",
+   "fr": "Exploitation",
+   "en": "Operating construction machinery",
+   "points": 44,
+   "items": [
+    {
+     "key": "expl-heurts",
+     "fr": "Heurts de personnes en manœuvre ou en recul",
+     "en": "Striking people when manoeuvring or reversing",
+     "n": 4
+    },
+    {
+     "key": "expl-visibilite",
+     "fr": "Visibilité réduite et angles morts",
+     "en": "Poor visibility and blind spots",
+     "n": 4
+    },
+    {
+     "key": "expl-transport-personnes",
+     "fr": "Transport de personnes",
+     "en": "Carrying passengers",
+     "n": 3
+    },
+    {
+     "key": "expl-elevation-personnes",
+     "fr": "Élévation de personnes",
+     "en": "Lifting people",
+     "n": 3
+    },
+    {
+     "key": "expl-perte-controle",
+     "fr": "Perte de contrôle de l’engin",
+     "en": "Loss of control of the machine",
+     "n": 3
+    },
+    {
+     "key": "expl-mecaniques",
+     "fr": "Pièces mobiles et zones d’écrasement",
+     "en": "Moving parts and crush zones",
+     "n": 3
+    },
+    {
+     "key": "expl-energies",
+     "fr": "Énergies : hydraulique, batterie, démarrage assisté",
+     "en": "Energy hazards: hydraulics, battery, jump start",
+     "n": 2
+    },
+    {
+     "key": "expl-mouvement-accidentel",
+     "fr": "Mouvement imprévu de l’engin ou de l’équipement",
+     "en": "Unintended movement of machine or attachment",
+     "n": 2
+    },
+    {
+     "key": "expl-pneumatiques",
+     "fr": "Gonflage des pneumatiques",
+     "en": "Tyre inflation",
+     "n": 2
+    },
+    {
+     "key": "expl-fouille-talus",
+     "fr": "Travail près d’une fouille ou d’un talus",
+     "en": "Working near trenches or embankments",
+     "n": 2
+    },
+    {
+     "key": "expl-levage",
+     "fr": "Levage de charges avec un engin",
+     "en": "Lifting loads with a machine",
+     "n": 2
+    },
+    {
+     "key": "expl-porte-engins",
+     "fr": "Chargement et déchargement sur porte-engins",
+     "en": "Loading and unloading on a low loader",
+     "n": 2
+    },
+    {
+     "key": "expl-environnement",
+     "fr": "Environnement : réseaux, météo, terrain",
+     "en": "Surroundings: utilities, weather, ground",
+     "n": 2
+    },
+    {
+     "key": "expl-substances",
+     "fr": "Alcool, drogues et médicaments",
+     "en": "Alcohol, drugs and medication",
+     "n": 2
+    },
+    {
+     "key": "expl-attention",
+     "fr": "Distractions : téléphone, musique",
+     "en": "Distractions: phone, music",
+     "n": 2
+    },
+    {
+     "key": "expl-incendie",
+     "fr": "Incendie, explosion, gaz d’échappement",
+     "en": "Fire, explosion, exhaust fumes",
+     "n": 2
+    },
+    {
+     "key": "expl-chimiques",
+     "fr": "Produits chimiques : carburants, huiles, solvants",
+     "en": "Chemicals: fuels, oils, solvents",
+     "n": 2
+    },
+    {
+     "key": "expl-bruit-vibrations",
+     "fr": "Bruit et vibrations",
+     "en": "Noise and vibration",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "key": "circ",
+   "fr": "Circulation",
+   "en": "Moving machines on site and on the road",
+   "points": 12,
+   "items": [
+    {
+     "key": "circ-panneaux",
+     "fr": "Panneaux et signaux",
+     "en": "Signs and signals",
+     "n": 2
+    },
+    {
+     "key": "circ-gestes",
+     "fr": "Gestes de commandement et de guidage",
+     "en": "Hand signals for guiding machines",
+     "n": 2
+    },
+    {
+     "key": "circ-charge",
+     "fr": "Circuler avec une charge",
+     "en": "Travelling with a load",
+     "n": 2
+    },
+    {
+     "key": "circ-distances",
+     "fr": "Distances de sécurité",
+     "en": "Safety distances",
+     "n": 2
+    },
+    {
+     "key": "circ-depassement",
+     "fr": "Règles de dépassement",
+     "en": "Overtaking rules",
+     "n": 2
+    },
+    {
+     "key": "circ-voie-publique",
+     "fr": "Circulation sur la voie publique",
+     "en": "Driving on public roads",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "key": "maint",
+   "fr": "Fin de poste et maintenance",
+   "en": "End of shift and maintenance",
+   "points": 4,
+   "items": [
+    {
+     "key": "maint-verifications",
+     "fr": "Vérifications et entretien quotidiens",
+     "en": "Daily checks and servicing",
+     "n": 2
+    },
+    {
+     "key": "maint-incident",
+     "fr": "Réagir à un incident ou une panne",
+     "en": "Responding to an incident or failure",
+     "n": 2
+    }
+   ]
+  }
+ ]
+}

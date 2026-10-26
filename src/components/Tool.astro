@@ -1,0 +1,53 @@
+---
+/**
+ * Affiche un outil avec les réglages de la page :
+ * - `quiz` : examen blanc ou entraînement (props : reco, mode 'exam'|'practice'|'errors', theme, item,
+ *   match (expression régulière, catégorie), size, recoSelect) ;
+ * - `bank` (reco, theme), `score` (reco), `finder` (start), `validity` (reco, variant), `cost` (reco, cat,
+ *   status) ou `mini:<spec>` de lib/mini-specs.ts.
+ * Les questions du premier rendu sont tirées ici, au build, avec une graine issue de l'identifiant de
+ * la page (RECETTE §17.5) ; seule la langue de la page est transmise au navigateur.
+ */
+import CacesQuiz from './calc/CacesQuiz';
+import BankBrowser from './calc/BankBrowser';
+import ScoreTool from './calc/ScoreTool';
+import FinderTool from './calc/FinderTool';
+import ValidityTool from './calc/ValidityTool';
+import CostTool from './calc/CostTool';
+import MiniSim from './calc/MiniSim';
+import { route, hasRoute, type Locale } from '../i18n/routes';
+import { getSpec } from '../lib/mini-specs';
+import { BANK } from '../lib/bank';
+import { buildExam, buildPractice, seedOf, inReco, themeKeyOf, GRIDS, type Reco, type Question } from '../lib/engine/exam';
+import type { ToolDef } from '../lib/guide-types';
+interface Props { tool: ToolDef; lang: Locale; primary?: boolean; idPrefix?: string; seedKey?: string }
+const { tool, lang, primary = false, idPrefix, seedKey = 'home' } = Astro.props;
+const props = (tool.props ?? {}) as Record<string, any>;
+const kind = tool.kind;
+const reco = (props.reco ?? 'r489') as Reco;
+const mode = (props.mode ?? 'exam') as 'exam' | 'practice' | 'errors';
+const theme = props.theme ? String(props.theme) : null;
+const size = Number(props.size ?? 20);
+const seed = seedOf(`${seedKey}-${kind}-${reco}-${theme ?? ''}-${props.item ?? ''}-${props.match ?? ''}`);
+const other = lang === 'fr' ? 'en' : 'fr';
+const slim = (qs: Question[]) => qs.map((q) => ({ ...q, [other]: { q: '', o: [], x: '' } }) as Question);
+const initial = kind === 'quiz' && mode !== 'errors'
+  ? slim(mode === 'exam' ? buildExam(BANK, reco, seed) : buildPractice(BANK, reco, theme, seed, size, { item: props.item, match: props.match ? new RegExp(props.match, 'i') : undefined }))
+  : [];
+const bankTheme = theme ?? GRIDS[reco].themes[0].key;
+const bankInitial = kind === 'bank' ? slim(BANK.filter((q) => inReco(q, reco) && themeKeyOf(q, reco) === bankTheme)) : [];
+const mini = kind.startsWith('mini:') ? kind.slice(5) : null;
+const spec = mini ? getSpec(mini, lang) : null;
+const href = spec?.ctaPage && hasRoute(spec.ctaPage, lang) ? route(spec.ctaPage, lang) : undefined;
+const numDefaults: Record<string, number> = {};
+for (const [k, v] of Object.entries(props)) if (typeof v === 'number') numDefaults[k] = v;
+const recoPages: Record<string, string> = {};
+for (const r of ['r489', 'r482', 'r486', 'r490', 'r485']) { const id = `caces-${r}`; if (hasRoute(id, lang)) recoPages[r] = route(id, lang); }
+---
+{kind === 'quiz' && <CacesQuiz client:load lang={lang} reco={reco} mode={mode} theme={theme} item={props.item} match={props.match} initial={initial} seed={seed} recoSelect={!!props.recoSelect} idPrefix={idPrefix ?? 'q'} size={size} />}
+{kind === 'bank' && <BankBrowser client:load lang={lang} reco={reco} theme={bankTheme} initial={bankInitial} idPrefix={idPrefix ?? 'b'} />}
+{kind === 'score' && <ScoreTool client:load lang={lang} reco={reco} idPrefix={idPrefix ?? 'n'} />}
+{kind === 'finder' && <FinderTool client:load lang={lang} start={props.start ?? 'frontal-6'} hrefs={recoPages} idPrefix={idPrefix ?? 'f'} />}
+{kind === 'validity' && <ValidityTool client:load lang={lang} reco={reco} variant={props.variant ?? 'validity'} idPrefix={idPrefix ?? 'v'} />}
+{kind === 'cost' && <CostTool client:load lang={lang} reco={reco} cat={props.cat ? String(props.cat) : '3'} status={props.status} idPrefix={idPrefix ?? 'c'} />}
+{mini && <MiniSim client:load kind={mini} lang={lang} href={href} defaults={numDefaults} primary={primary} idPrefix={idPrefix ?? (primary ? 'p' : 'm')} />}

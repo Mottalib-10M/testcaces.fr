@@ -1,0 +1,18 @@
+---
+/** Attributions exigées par les licences (RECETTE, règle commune 3 de l'audit données-droits du 2026-10-24).
+ * Affichée en pied de toutes les pages, embeds compris. */
+interface Props { lang: 'en' | 'fr'; class?: string }
+const { lang, class: cls = 'text-xs text-navy-500' } = Astro.props;
+const LO = 'https://www.etalab.gouv.fr/licence-ouverte-open-licence/';
+const CDC = 'https://opendata.caissedesdepots.fr/explore/dataset/moncompteformation_catalogueformation/';
+const CT = 'https://code.travail.gouv.fr/';
+---
+{lang === 'fr' ? (
+  <p class={cls} data-licence-notice>
+    Prix et durées des formations : Caisse des Dépôts, <a class="underline" href={CDC} target="_blank" rel="noopener">catalogue Mon Compte Formation en open data</a>, réutilisé sous <a class="underline" href={LO} target="_blank" rel="noopener">Licence Ouverte 2.0</a> (médianes calculées par Radif Partners). Articles du Code du travail : <a class="underline" href={CT} target="_blank" rel="noopener">code.travail.gouv.fr</a>, Licence Ouverte 2.0. Questions, corrigés, pictogrammes et calculs : Radif Partners, d’après les recommandations publiées par l’Assurance Maladie.
+  </p>
+) : (
+  <p class={cls} data-licence-notice>
+    Course prices and lengths: Caisse des Dépôts, <a class="underline" href={CDC} target="_blank" rel="noopener">Mon Compte Formation catalogue open data</a>, reused under the <a class="underline" href={LO} target="_blank" rel="noopener">Licence Ouverte 2.0</a> (Open Licence; medians worked out by Radif Partners). Labour Code articles: <a class="underline" href={CT} target="_blank" rel="noopener">code.travail.gouv.fr</a>, Licence Ouverte 2.0. Questions, explanations, pictograms and calculations: Radif Partners, from the recommendations published by the French Health Insurance.
+  </p>
+)}

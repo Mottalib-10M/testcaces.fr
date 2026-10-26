@@ -1,0 +1,33 @@
+{
+  "_note": "Plaques de charge FICTIVES écrites par Radif Partners pour les exercices. Elles ne décrivent aucun engin réel : sur le terrain, seule compte la plaque de l'engin utilisé.",
+  "P1": {
+    "fr": "Chariot frontal en porte-à-faux (catégorie 3), capacité nominale 2 500 kg à 500 mm",
+    "en": "Counterbalance truck (category 3), rated capacity 2,500 kg at 500 mm",
+    "cols": [500, 600, 700, 800], "colUnit": "mm", "rowUnit": "m",
+    "rows": [[3.3, [2500, 2200, 1950, 1750]], [4.5, [2300, 2050, 1800, 1600]], [5.5, [1900, 1700, 1500, 1350]]]
+  },
+  "P2": {
+    "fr": "Chariot à mât rétractable (catégorie 5), capacité nominale 1 600 kg à 600 mm",
+    "en": "Reach truck (category 5), rated capacity 1,600 kg at 600 mm",
+    "cols": [600, 700, 800, 900], "colUnit": "mm", "rowUnit": "m",
+    "rows": [[6.0, [1600, 1400, 1250, 1100]], [8.0, [1400, 1250, 1100, 1000]], [10.0, [1100, 950, 850, 750]]]
+  },
+  "P3": {
+    "fr": "Gerbeur à conducteur accompagnant, capacité nominale 1 200 kg à 600 mm",
+    "en": "Pedestrian stacker, rated capacity 1,200 kg at 600 mm",
+    "cols": [600, 700, 800], "colUnit": "mm", "rowUnit": "m",
+    "rows": [[1.6, [1200, 1050, 900]], [2.5, [1000, 900, 800]], [3.6, [800, 700, 600]]]
+  },
+  "G1": {
+    "fr": "Grue de chargement sur camion, diagramme de charges (portée → charge maximale)",
+    "en": "Lorry loader crane, load chart (outreach → maximum load)",
+    "cols": [0], "colUnit": "", "rowUnit": "m",
+    "rows": [[3.0, [4000]], [5.0, [2400]], [7.5, [1600]], [10.0, [1150]], [12.0, [900]]]
+  },
+  "T1": {
+    "fr": "Chariot télescopique (R482 catégorie F), flèche rentrée/sortie, capacité 3 000 kg",
+    "en": "Telehandler (R482 category F), boom in/out, capacity 3,000 kg",
+    "cols": [0], "colUnit": "", "rowUnit": "m",
+    "rows": [[1.0, [3000]], [2.0, [2500]], [4.0, [1500]], [6.0, [800]], [8.0, [400]]]
+  }
+}

@@ -1,0 +1,3057 @@
+[
+ {
+  "id": "r490-001",
+  "points": {
+   "r490": "cg-categories"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Combien de catégories de CACES la recommandation R.490 prévoit-elle pour les grues de chargement ?",
+   "o": [
+    "Une seule, avec une option télécommande",
+    "Trois, selon la portée de la grue",
+    "Deux, selon la position de la grue sur le camion"
+   ],
+   "x": "La R.490 ne comporte qu’une catégorie, quelle que soit la place de la grue sur le porteur (derrière la cabine, au centre ou à l’arrière). Ce CACES peut être complété par l’option de conduite au moyen d’une télécommande."
+  },
+  "en": {
+   "q": "How many CACES categories does recommendation R.490 set for lorry loader cranes?",
+   "o": [
+    "Just one, with a remote control option",
+    "Three, depending on outreach",
+    "Two, depending on where the crane sits on the truck"
+   ],
+   "x": "R.490 has a single category, wherever the crane is mounted on the truck (behind the cab, in the middle or at the rear). This CACES can be supplemented by the remote control option."
+  }
+ },
+ {
+  "id": "r490-002",
+  "points": {
+   "r490": "cg-categories"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Votre entreprise loue une grue mobile automotrice. Quel CACES couvre sa conduite ?",
+   "o": [
+    "Le CACES R.490 grue de chargement",
+    "Le CACES R.482 catégorie F",
+    "Le CACES R.483 grues mobiles"
+   ],
+   "x": "La recommandation R.490 exclut expressément les grues mobiles, qui relèvent de la recommandation R.483. Le CACES R.490 concerne uniquement les grues de chargement, généralement montées sur un véhicule pour le charger et le décharger."
+  },
+  "en": {
+   "q": "Your company hires a self-propelled mobile crane. Which CACES covers operating it?",
+   "o": [
+    "CACES R.490 lorry loader",
+    "CACES R.482 category F",
+    "CACES R.483 mobile cranes"
+   ],
+   "x": "Recommendation R.490 expressly excludes mobile cranes, which come under recommendation R.483. The R.490 CACES only covers lorry loader cranes, generally mounted on a vehicle to load and unload it."
+  }
+ },
+ {
+  "id": "r490-003",
+  "points": {
+   "r490": "cg-categories"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Au sens de la R.490, qu’appelle-t-on « télécommande » ?",
+   "o": [
+    "Uniquement une commande radio sans fil",
+    "Tout boîtier déporté, relié par câble ou par radio",
+    "Le distributeur à leviers fixé de chaque côté du châssis"
+   ],
+   "x": "La recommandation désigne par télécommande tout boîtier de pilotage à distance, qu’il soit relié par câble ou par radio. Sa conduite fait l’objet d’une option du CACES, qui n’est délivrée qu’avec le CACES de base."
+  },
+  "en": {
+   "q": "Under R.490, what is meant by “remote control” (télécommande)?",
+   "o": [
+    "Only a wireless radio control",
+    "Any remote control box, wired or wireless",
+    "The lever control valve fixed on each side of the chassis"
+   ],
+   "x": "The recommendation calls any remote control box, whether connected by cable or radio, a remote control (télécommande). Operating with it is a CACES option, which is only granted together with the basic CACES."
+  }
+ },
+ {
+  "id": "r490-004",
+  "points": {
+   "r490": "cg-categories"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Quelle machine est exclue du champ de la recommandation R.490 ?",
+   "o": [
+    "Une grue montée sur une barge",
+    "Une grue montée derrière la cabine d’un camion",
+    "Une grue montée en porte-à-faux arrière d’une remorque"
+   ],
+   "x": "La R.490 ne s’applique ni aux grues de chargement installées sur barges ou navires, ni aux grues autochargeuses. Ces équipements demandent une formation adaptée et une évaluation spécifique prises en compte pour l’autorisation de conduite."
+  },
+  "en": {
+   "q": "Which machine falls outside recommendation R.490?",
+   "o": [
+    "A crane mounted on a barge",
+    "A crane mounted behind a truck cab",
+    "A crane mounted at the rear overhang of a trailer"
+   ],
+   "x": "R.490 does not apply to lorry loaders on barges or ships, nor to self-loading cranes. These need suitable training and a specific assessment, taken into account for the operating authorisation."
+  }
+ },
+ {
+  "id": "r490-005",
+  "points": {
+   "r490": "cg-categories"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "On installe une nacelle pour personnes au bout de la grue de chargement. Que prévoit la recommandation ?",
+   "o": [
+    "Rien de plus, le CACES R.490 suffit",
+    "Seulement une vérification de la nacelle",
+    "Il est conseillé d’avoir aussi le CACES de cette famille"
+   ],
+   "x": "Quand l’ajout d’un équipement fait passer la machine dans une autre famille, comme une nacelle élévatrice de personnes, la recommandation conseille d’obtenir aussi le CACES adapté à cette famille, après une formation complémentaire."
+  },
+  "en": {
+   "q": "A personnel basket is fitted at the end of the lorry loader. What does the recommendation say?",
+   "o": [
+    "Nothing more, the R.490 CACES is enough",
+    "Only an inspection of the basket",
+    "It is advisable to hold the CACES for the family concerned"
+   ],
+   "x": "When an interchangeable attachment changes the machine’s family, as a personnel basket does, the recommendation advises holding the CACES for the right category in that new family, plus additional training."
+  }
+ },
+ {
+  "id": "r490-006",
+  "points": {
+   "r490": "tech-terminologie"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Sur une grue de chargement, comment appelle-t-on la partie verticale qui pivote sur l’embase et porte le système de flèche ?",
+   "o": [
+    "Le stabilisateur",
+    "Le fût (ou colonne)",
+    "Le bras secondaire articulé"
+   ],
+   "x": "Le fût, ou colonne, pivote par rapport à l’embase fixée au châssis. Il porte le bras principal, lui-même prolongé par le bras secondaire et ses rallonges télescopiques. Les stabilisateurs, eux, prennent appui au sol."
+  },
+  "en": {
+   "q": "On a lorry loader, what is the vertical part that slews on the base and carries the boom system called?",
+   "o": [
+    "The stabiliser",
+    "The column (fût)",
+    "The hinged outer boom"
+   ],
+   "x": "The column (fût) slews relative to the base fixed to the chassis. It carries the inner boom, followed by the outer boom and its telescopic extensions. The stabilisers bear on the ground."
+  }
+ },
+ {
+  "id": "r490-007",
+  "points": {
+   "r490": "tech-terminologie"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "À quoi correspondent les « rallonges » d’une grue de chargement ?",
+   "o": [
+    "Aux éléments télescopiques qui allongent le bras secondaire",
+    "Aux poutres qui écartent les stabilisateurs du châssis du porteur",
+    "Aux élingues ajoutées sous le crochet"
+   ],
+   "x": "Les rallonges sont les éléments télescopiques du bras secondaire, sortis par des vérins pour gagner en portée. Plus elles sont sorties, plus la portée augmente et plus la charge admise diminue, d’après le diagramme de charges."
+  },
+  "en": {
+   "q": "What are the “extensions” (rallonges) of a lorry loader?",
+   "o": [
+    "The telescopic sections that lengthen the outer boom",
+    "The beams that push the stabilisers out from the chassis",
+    "Extra slings added under the hook"
+   ],
+   "x": "Extensions are the outer boom’s telescopic sections, pushed out by cylinders to increase outreach. The more they are extended, the greater the outreach and the lower the permitted load, according to the load chart."
+  }
+ },
+ {
+  "id": "r490-008",
+  "points": {
+   "r490": "tech-terminologie"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Comment appelle-t-on les éléments qui s’écartent du châssis et prennent appui au sol pour élargir la base de la grue ?",
+   "o": [
+    "Les rallonges",
+    "Les galets de roulement",
+    "Les stabilisateurs"
+   ],
+   "x": "Les stabilisateurs comprennent des poutres qui s’écartent du châssis et des vérins qui descendent jusqu’au sol, sur des patins. Ils élargissent le polygone d’appui et reprennent les efforts de la grue, au lieu de les laisser aux pneus et aux suspensions."
+  },
+  "en": {
+   "q": "What are the parts that extend from the chassis and bear on the ground to widen the crane’s base called?",
+   "o": [
+    "The extensions",
+    "The running rollers",
+    "The stabilisers (outriggers)"
+   ],
+   "x": "Stabilisers (outriggers) consist of beams that slide out from the chassis and legs that come down to the ground on pads. They widen the support base and take the crane’s forces instead of leaving them to the tyres and suspension."
+  }
+ },
+ {
+  "id": "r490-009",
+  "points": {
+   "r490": "tech-terminologie"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Sur une grue articulée, quel élément relie le bras principal aux rallonges télescopiques ?",
+   "o": [
+    "L’embase",
+    "Le bras secondaire, articulé au bout du bras principal",
+    "La couronne d’orientation"
+   ],
+   "x": "Le bras principal est articulé sur le fût ; le bras secondaire est articulé à son extrémité et porte les rallonges. Le vérin de pliage permet de replier le bras secondaire pour la position de transport ou d’ouvrir la grue."
+  },
+  "en": {
+   "q": "On a knuckle-boom crane, which part links the inner boom to the telescopic extensions?",
+   "o": [
+    "The base",
+    "The outer boom, hinged at the end of the inner boom",
+    "The slewing ring"
+   ],
+   "x": "The inner boom is hinged on the column; the outer boom is hinged at its end and carries the extensions. The outer boom cylinder folds it for the transport position or opens the crane."
+  }
+ },
+ {
+  "id": "r490-010",
+  "points": {
+   "r490": "tech-terminologie"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Que désigne le « porteur » d’une grue de chargement ?",
+   "o": [
+    "Le véhicule (camion ou remorque) sur lequel la grue est montée",
+    "La personne qui accroche les charges sous le crochet de la grue",
+    "Le crochet de levage"
+   ],
+   "x": "Le porteur est le véhicule industriel, camion ou remorque, qui reçoit la grue et garde une capacité de chargement. La grue sert à charger et décharger ce véhicule, ainsi qu’aux autres travaux prévus par le fabricant dans sa notice."
+  },
+  "en": {
+   "q": "What is the “carrier” (porteur) of a lorry loader?",
+   "o": [
+    "The vehicle (truck or trailer) the crane is mounted on",
+    "The person who hooks loads onto the crane hook",
+    "The lifting hook"
+   ],
+   "x": "The carrier (porteur) is the commercial vehicle, truck or trailer, that receives the crane and keeps a load-carrying capacity. The crane loads and unloads that vehicle and does other work the manufacturer lists in the manual."
+  }
+ },
+ {
+  "id": "r490-011",
+  "points": {
+   "r490": "tech-caracteristiques"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Comment se mesure la portée d’une grue de chargement ?",
+   "o": [
+    "Le long de la flèche, du fût au crochet",
+    "Verticalement, du sol au crochet",
+    "Horizontalement, de l’axe de rotation au crochet"
+   ],
+   "x": "La portée est la distance horizontale entre l’axe de rotation de la grue et la verticale du crochet. C’est elle qui compte pour lire le diagramme de charges. La hauteur sous crochet se mesure verticalement et ne la remplace pas."
+  },
+  "en": {
+   "q": "How is a lorry loader’s outreach measured?",
+   "o": [
+    "Along the boom, from column to hook",
+    "Vertically, from ground to hook",
+    "Horizontally, from the slewing axis to the hook"
+   ],
+   "x": "Outreach is the horizontal distance between the crane’s slewing axis and the vertical line through the hook. That is the figure used to read the load chart. Hook height is measured vertically and does not replace it."
+  }
+ },
+ {
+  "id": "r490-012",
+  "points": {
+   "r490": "tech-caracteristiques"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une grue est annoncée « 12 t·m ». Que représente ce chiffre ?",
+   "o": [
+    "Un moment de levage : charge multipliée par portée",
+    "La masse totale de la grue",
+    "La charge maximale admise à toutes les portées de la grue"
+   ],
+   "x": "La capacité d’une grue de chargement s’exprime souvent en tonnes-mètres, produit de la charge par la portée. 12 t·m peut correspondre à 4 t à 3 m, mais seulement à moins de 1,2 t à 10 m. Seul le diagramme de charges du constructeur fait foi."
+  },
+  "en": {
+   "q": "A crane is rated “12 t·m”. What does that figure represent?",
+   "o": [
+    "A lifting moment: load multiplied by outreach",
+    "The crane’s total mass",
+    "The maximum load allowed at every outreach"
+   ],
+   "x": "A lorry loader’s capacity is often given in tonne-metres, the product of load and outreach. 12 t·m can mean 4 t at 3 m but less than 1.2 t at 10 m. Only the manufacturer’s load chart is authoritative."
+  }
+ },
+ {
+  "id": "r490-013",
+  "points": {
+   "r490": "tech-caracteristiques"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous devez déposer un colis sur une toiture. Quelle caractéristique de la grue vérifiez-vous en plus de la charge admise ?",
+   "o": [
+    "La couleur des stabilisateurs",
+    "La hauteur sous crochet atteignable à cette portée",
+    "La vitesse maximale autorisée du camion sur route"
+   ],
+   "x": "Il faut que la grue atteigne la hauteur voulue à la portée nécessaire, élingues et colis compris, et que la charge soit admise dans cette configuration. Le diagramme de portée et de hauteur du constructeur donne ces limites."
+  },
+  "en": {
+   "q": "You must place a package on a roof. Which crane characteristic do you check besides the permitted load?",
+   "o": [
+    "The colour of the stabilisers",
+    "The hook height reachable at that outreach",
+    "The truck’s maximum permitted road speed"
+   ],
+   "x": "The crane must reach the required height at the necessary outreach, slings and package included, and the load must be allowed in that configuration. The manufacturer’s range and height chart gives these limits."
+  }
+ },
+ {
+  "id": "r490-014",
+  "points": {
+   "r490": "tech-mecanismes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’où vient généralement l’énergie hydraulique d’une grue de chargement ?",
+   "o": [
+    "D’une pompe entraînée par la prise de force du camion",
+    "D’une batterie dédiée à la grue, rechargée par l’alternateur",
+    "D’un compresseur d’air du chantier"
+   ],
+   "x": "La prise de force, enclenchée depuis la cabine, entraîne une pompe hydraulique à partir du moteur du porteur. L’huile sous pression alimente le distributeur puis les vérins et moteurs de la grue. On la désenclenche avant de rouler."
+  },
+  "en": {
+   "q": "Where does a lorry loader’s hydraulic power usually come from?",
+   "o": [
+    "A pump driven by the truck’s power take-off",
+    "A dedicated crane battery charged by the alternator",
+    "A site air compressor"
+   ],
+   "x": "The power take-off, engaged from the cab, drives a hydraulic pump from the carrier’s engine. Pressurised oil feeds the control valve, then the crane’s cylinders and motors. It is disengaged before driving."
+  }
+ },
+ {
+  "id": "r490-015",
+  "points": {
+   "r490": "tech-mecanismes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Quel organe hydraulique répartit l’huile vers chaque mouvement de la grue selon la commande du grutier ?",
+   "o": [
+    "Le réservoir",
+    "Le filtre de retour",
+    "Le distributeur"
+   ],
+   "x": "Le distributeur reçoit l’huile de la pompe et l’envoie au vérin ou au moteur correspondant au levier actionné, avec un débit proportionnel à sa course. Le réservoir stocke l’huile et le filtre la débarrasse des impuretés."
+  },
+  "en": {
+   "q": "Which hydraulic component directs oil to each crane movement according to the operator’s input?",
+   "o": [
+    "The tank",
+    "The return filter",
+    "The control valve (distributeur)"
+   ],
+   "x": "The control valve (distributeur) receives oil from the pump and sends it to the cylinder or motor for the lever being moved, with flow proportional to lever travel. The tank stores oil and the filter removes impurities."
+  }
+ },
+ {
+  "id": "r490-016",
+  "points": {
+   "r490": "tech-mecanismes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Comment la rotation (orientation) de la grue est-elle le plus souvent obtenue ?",
+   "o": [
+    "Par des câbles tirés à la main",
+    "Par des vérins agissant sur une crémaillère, ou par une couronne et un moteur",
+    "Par la direction du camion"
+   ],
+   "x": "L’orientation transforme l’action de vérins sur une crémaillère, ou celle d’un moteur hydraulique sur une couronne, en rotation du fût. Les démarrages et arrêts doivent être progressifs, car la rotation entraîne un ballant de la charge."
+  },
+  "en": {
+   "q": "How is the crane’s slewing usually produced?",
+   "o": [
+    "By cables pulled by hand",
+    "By cylinders acting on a rack, or a slewing ring and motor",
+    "By the truck’s steering"
+   ],
+   "x": "Slewing turns the action of cylinders on a rack, or of a hydraulic motor on a slewing ring, into rotation of the column. Starts and stops must be gradual, because slewing makes the load swing."
+  }
+ },
+ {
+  "id": "r490-017",
+  "points": {
+   "r490": "tech-mecanismes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Par temps très froid, que recommande souvent la notice avant de manœuvrer la grue en charge ?",
+   "o": [
+    "Manœuvrer tout de suite à pleine vitesse pour chauffer le moteur",
+    "Couper la prise de force",
+    "Laisser l’huile monter en température par des mouvements à vide"
+   ],
+   "x": "Huile froide signifie huile épaisse : mouvements lents et saccadés, pressions élevées, réactions imprévisibles. La notice prévoit une mise en température, en faisant fonctionner la grue à vide quelques instants avant de lever."
+  },
+  "en": {
+   "q": "In very cold weather, what does the manual often recommend before operating the crane with a load?",
+   "o": [
+    "Operating at full speed straight away to warm the engine",
+    "Disengaging the power take-off",
+    "Warming the oil with a few unloaded movements"
+   ],
+   "x": "Cold oil is thick oil: slow, jerky movements, high pressures, unpredictable responses. The manual calls for warming up by running the crane unloaded for a few moments before lifting."
+  }
+ },
+ {
+  "id": "r490-018",
+  "points": {
+   "r490": "tech-mecanismes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Quel vérin fait monter et descendre le bras principal de la grue ?",
+   "o": [
+    "Le vérin de levage",
+    "Le vérin de stabilisateur",
+    "Le vérin de rotation"
+   ],
+   "x": "Le vérin de levage agit entre le fût et le bras principal ; le vérin de pliage agit sur le bras secondaire ; les vérins télescopiques sortent les rallonges. Chacun est équipé d’un clapet qui le maintient en position en cas de rupture de flexible."
+  },
+  "en": {
+   "q": "Which cylinder raises and lowers the crane’s inner boom?",
+   "o": [
+    "The lift cylinder",
+    "The stabiliser cylinder",
+    "The slewing cylinder"
+   ],
+   "x": "The lift cylinder acts between column and inner boom; the outer boom cylinder works the outer boom; the telescopic cylinders extend the sections. Each has a valve that holds it in place if a hose bursts."
+  }
+ },
+ {
+  "id": "r490-019",
+  "points": {
+   "r490": "tech-organes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous relâchez un levier du distributeur pendant un mouvement. Que doit-il se passer ?",
+   "o": [
+    "Le mouvement continue jusqu’en fin de course du vérin",
+    "Le levier revient au neutre et le mouvement s’arrête",
+    "La grue se replie automatiquement"
+   ],
+   "x": "Les commandes de grue sont à action maintenue : relâché, le levier revient seul au neutre et le mouvement s’arrête. Un levier qui reste bloqué ou ne revient pas au neutre est une anomalie grave à signaler avant toute utilisation."
+  },
+  "en": {
+   "q": "You release a control valve lever during a movement. What should happen?",
+   "o": [
+    "The movement carries on to the end of the cylinder’s stroke",
+    "The lever returns to neutral and the movement stops",
+    "The crane folds up automatically"
+   ],
+   "x": "Crane controls are hold-to-run: once released, the lever springs back to neutral and the movement stops. A lever that sticks or does not return to neutral is a serious defect to report before any use."
+  }
+ },
+ {
+  "id": "r490-020",
+  "points": {
+   "r490": "tech-organes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Avant de manœuvrer, comment savez-vous quel levier commande quel mouvement de la grue ?",
+   "o": [
+    "Par les pictogrammes près des leviers et la notice",
+    "Par la couleur de la carrosserie autour de chaque levier",
+    "En demandant au chauffeur d’un autre camion"
+   ],
+   "x": "Chaque levier est repéré par un pictogramme indiquant le mouvement et son sens. On les identifie avant de commencer, en s’aidant de la notice, puis on vérifie chaque mouvement à vide et lentement. Un repère illisible doit être signalé."
+  },
+  "en": {
+   "q": "Before operating, how do you know which lever controls which crane movement?",
+   "o": [
+    "From the symbols next to the levers and the manual",
+    "From the body colour around each lever",
+    "By asking another truck’s driver"
+   ],
+   "x": "Each lever is marked with a symbol showing the movement and its direction. Identify them before starting, using the manual, then try each movement slowly without a load. An illegible marking must be reported."
+  }
+ },
+ {
+  "id": "r490-021",
+  "points": {
+   "r490": "tech-organes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Où se trouvent les boutons d’arrêt d’urgence sur une grue de chargement ?",
+   "o": [
+    "Uniquement dans la cabine du camion",
+    "Uniquement sur le bras de la grue, près de la tête de flèche",
+    "À chaque poste de commande, y compris la télécommande"
+   ],
+   "x": "Chaque poste de commande, distributeur de chaque côté du porteur, poste haut éventuel et télécommande, dispose d’un arrêt d’urgence. Le grutier vérifie qu’il fonctionne à la prise de poste et sait l’atteindre sans réfléchir."
+  },
+  "en": {
+   "q": "Where are the emergency stop buttons on a lorry loader?",
+   "o": [
+    "Only in the truck cab",
+    "Only on the crane boom, near the boom tip",
+    "At every control station, including the remote control"
+   ],
+   "x": "Every control station, the control valve on each side of the carrier, any high seat and the remote control, has an emergency stop. The operator checks it works at the start of the shift and can reach it without thinking."
+  }
+ },
+ {
+  "id": "r490-022",
+  "points": {
+   "r490": "tech-organes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "À quoi sert le levier ou sélecteur qui bascule les commandes entre « stabilisateurs » et « grue » ?",
+   "o": [
+    "À choisir la vitesse du camion",
+    "À diriger l’huile soit vers les stabilisateurs, soit vers la grue",
+    "À allumer l’éclairage de travail"
+   ],
+   "x": "Sur de nombreuses grues, le même distributeur commande soit les stabilisateurs, soit la grue, selon la position d’un sélecteur. On ne manœuvre pas les stabilisateurs pendant un levage : on stabilise d’abord, puis on passe en mode grue."
+  },
+  "en": {
+   "q": "What is the lever or selector that switches the controls between “stabilisers” and “crane” for?",
+   "o": [
+    "Choosing the truck’s speed",
+    "Sending oil either to the stabilisers or to the crane",
+    "Switching on the work lights"
+   ],
+   "x": "On many cranes the same control valve works either the stabilisers or the crane, depending on a selector. Never move the stabilisers during a lift: stabilise first, then switch to crane mode."
+  }
+ },
+ {
+  "id": "r490-023",
+  "points": {
+   "r490": "tech-organes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Sur la télécommande, que permet la commande de régime moteur ?",
+   "o": [
+    "De couper le limiteur de moment",
+    "De débrayer la prise de force",
+    "D’adapter le débit d’huile en ajustant le régime du porteur"
+   ],
+   "x": "Le régime du moteur du porteur fixe le débit de la pompe, donc la vitesse possible des mouvements. On l’augmente pour les longues manœuvres et on le réduit pour les déposes précises. Il n’agit jamais sur les sécurités."
+  },
+  "en": {
+   "q": "On the remote control, what does the engine speed control do?",
+   "o": [
+    "Bypass the moment limiter",
+    "Disengage the power take-off",
+    "Adjust oil flow by changing the carrier’s engine speed"
+   ],
+   "x": "The carrier’s engine speed sets the pump flow and so how fast movements can be. Raise it for long movements and lower it for precise placing. It never affects the safety devices."
+  }
+ },
+ {
+  "id": "r490-024",
+  "points": {
+   "r490": "tech-organes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous conduisez avec la télécommande et vous changez de côté du camion. Quel piège devez-vous anticiper ?",
+   "o": [
+    "L’inversion apparente des sens de rotation et de déplacement",
+    "La coupure automatique du moteur",
+    "Le blocage automatique des stabilisateurs dès que vous bougez"
+   ],
+   "x": "Selon votre position par rapport à la grue, un même levier peut sembler produire un mouvement vers la gauche ou vers la droite. La recommandation cite ce repérage dans l’espace. On vérifie le sens par un mouvement lent avant toute manœuvre en charge."
+  },
+  "en": {
+   "q": "You are using the remote control and move to the other side of the truck. Which trap must you anticipate?",
+   "o": [
+    "The apparent reversal of slewing and movement directions",
+    "The engine switching off automatically",
+    "The stabilisers locking automatically as soon as you move"
+   ],
+   "x": "Depending on where you stand relative to the crane, the same lever can seem to move the load left or right. The recommendation highlights this spatial awareness. Check the direction with a slow movement before any loaded manoeuvre."
+  }
+ },
+ {
+  "id": "r490-025",
+  "points": {
+   "r490": "tech-organes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Que doit-il se passer si l’on tente d’utiliser à la fois la télécommande et le distributeur du porteur ?",
+   "o": [
+    "Les deux commandes s’additionnent",
+    "Un seul poste doit pouvoir commander à la fois",
+    "La grue choisit la commande la plus rapide"
+   ],
+   "x": "La recommandation demande de vérifier qu’on ne peut pas commander la grue simultanément depuis la télécommande et le poste principal. Deux personnes aux commandes en même temps provoqueraient des mouvements imprévus."
+  },
+  "en": {
+   "q": "What should happen if someone tries to use the remote control and the carrier’s control valve at the same time?",
+   "o": [
+    "The two inputs add together",
+    "Only one station may control the crane at a time",
+    "The crane picks the faster input"
+   ],
+   "x": "The recommendation requires checking that the crane cannot be operated from the remote control and the main station simultaneously. Two people at the controls at once would cause unexpected movements."
+  }
+ },
+ {
+  "id": "r490-026",
+  "points": {
+   "r490": "tech-organes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "La télécommande affiche un voyant que vous ne connaissez pas. Que faites-vous ?",
+   "o": [
+    "Vous l’ignorez et commencez le levage",
+    "Vous retirez la batterie de la télécommande pour l’éteindre",
+    "Vous consultez la notice avant d’utiliser la grue"
+   ],
+   "x": "Les voyants de la télécommande signalent l’état de la liaison, de la batterie, des sécurités ou une surcharge. La recommandation demande d’en connaître la signification. Un voyant inconnu se vérifie dans la notice avant de manœuvrer."
+  },
+  "en": {
+   "q": "The remote control shows a warning light you do not recognise. What do you do?",
+   "o": [
+    "Ignore it and start lifting",
+    "Remove the remote’s battery to switch it off",
+    "Check the manual before using the crane"
+   ],
+   "x": "Remote control lights show the state of the link, the battery, the safety devices or an overload. The recommendation requires knowing what they mean. Look up an unfamiliar light in the manual before operating."
+  }
+ },
+ {
+  "id": "r490-027",
+  "points": {
+   "r490": "tech-organes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Avant de prendre la route, où doit se trouver la commande de prise de force ?",
+   "o": [
+    "Désenclenchée",
+    "Enclenchée pour garder la pression",
+    "Sur la position stabilisateurs"
+   ],
+   "x": "La prise de force entraîne la pompe de la grue. Enclenchée en roulant, elle peut abîmer la transmission et laisser la grue alimentée. On replie la grue en position de transport, on rentre les stabilisateurs et on désenclenche la prise de force."
+  },
+  "en": {
+   "q": "Before driving off on the road, where should the power take-off control be?",
+   "o": [
+    "Disengaged",
+    "Engaged to keep pressure",
+    "On the stabiliser setting"
+   ],
+   "x": "The power take-off drives the crane pump. Engaged while driving, it can damage the drivetrain and leave the crane powered. Fold the crane into the transport position, retract the stabilisers and disengage the power take-off."
+  }
+ },
+ {
+  "id": "r490-028",
+  "points": {
+   "r490": "tech-securite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Le limiteur de moment de la grue se déclenche pendant un levage. Que fait-il ?",
+   "o": [
+    "Il bloque tous les mouvements définitivement",
+    "Il interdit les mouvements qui augmentent le moment",
+    "Il augmente la pression hydraulique pour terminer le levage en cours"
+   ],
+   "x": "Le limiteur de moment surveille l’effort et coupe les mouvements qui aggraveraient la situation, comme sortir les rallonges ou descendre la flèche. Restent possibles ceux qui la réduisent, comme rentrer les rallonges ou poser la charge."
+  },
+  "en": {
+   "q": "The crane’s moment limiter trips during a lift. What does it do?",
+   "o": [
+    "It blocks every movement permanently",
+    "It stops the movements that increase the moment",
+    "It raises hydraulic pressure to finish the current lift"
+   ],
+   "x": "The moment limiter monitors the load and cuts movements that would make things worse, such as extending the sections or lowering the boom. Movements that reduce the moment, like retracting or setting the load down, stay available."
+  }
+ },
+ {
+  "id": "r490-029",
+  "points": {
+   "r490": "tech-securite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un collègue propose de shunter le limiteur de moment pour lever une charge « un peu trop lourde ». Que répondez-vous ?",
+   "o": [
+    "D’accord, si la charge reste près du sol pendant tout le trajet",
+    "D’accord, si l’on va doucement",
+    "Non, neutraliser une sécurité est interdit"
+   ],
+   "x": "Le limiteur de moment protège contre le renversement et la rupture de la grue. Le neutraliser supprime la seule barrière automatique contre la surcharge. La recommandation souligne les risques liés à la neutralisation des dispositifs de sécurité."
+  },
+  "en": {
+   "q": "A colleague suggests bypassing the moment limiter to lift a load that is “a bit too heavy”. What do you say?",
+   "o": [
+    "Fine, if the load stays near the ground the whole way",
+    "Fine, if we go slowly",
+    "No, defeating a safety device is forbidden"
+   ],
+   "x": "The moment limiter protects against overturning and structural failure. Bypassing it removes the only automatic barrier against overload. The recommendation stresses the dangers of defeating safety devices."
+  }
+ },
+ {
+  "id": "r490-030",
+  "points": {
+   "r490": "tech-securite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Un voyant en cabine s’allume au moment de démarrer le camion : la grue n’est pas en position de transport. Quel risque ce dispositif évite-t-il ?",
+   "o": [
+    "Heurter un pont ou une ligne avec la grue mal repliée",
+    "Consommer trop de carburant",
+    "Abîmer les pneus du porteur"
+   ],
+   "x": "Le contrôle de position de transport avertit le conducteur quand la grue ou les stabilisateurs ne sont pas rangés. Rouler ainsi peut faire heurter un pont, une ligne électrique ou un véhicule. On s’arrête et on replie correctement."
+  },
+  "en": {
+   "q": "A cab warning light comes on as you start the truck: the crane is not in transport position. Which hazard does this device prevent?",
+   "o": [
+    "Hitting a bridge or power line with a badly stowed crane",
+    "Using too much fuel",
+    "Damaging the carrier’s tyres"
+   ],
+   "x": "The transport-position monitor warns the driver when the crane or stabilisers are not stowed. Driving like that can hit a bridge, a power line or another vehicle. Stop and stow everything properly."
+  }
+ },
+ {
+  "id": "r490-031",
+  "points": {
+   "r490": "tech-securite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "À quoi sert le limiteur de pression du circuit hydraulique de la grue ?",
+   "o": [
+    "À augmenter la vitesse de levage",
+    "À empêcher la pression de dépasser la valeur prévue",
+    "À chauffer l’huile par temps froid avant les premières manœuvres"
+   ],
+   "x": "Le limiteur de pression, ou soupape de sécurité, renvoie l’huile au réservoir quand la pression atteint la valeur de réglage. Il protège les vérins, flexibles et structures. Son réglage ne se modifie jamais pour lever davantage."
+  },
+  "en": {
+   "q": "What does the crane’s hydraulic pressure relief valve do?",
+   "o": [
+    "Increase lifting speed",
+    "Stop pressure exceeding the set value",
+    "Warm the oil in cold weather before the first movements"
+   ],
+   "x": "The pressure relief (safety) valve sends oil back to the tank when pressure reaches its setting. It protects cylinders, hoses and structures. Its setting must never be changed to lift more."
+  }
+ },
+ {
+  "id": "r490-032",
+  "points": {
+   "r490": "tech-securite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Le limiteur de moment est asservi à la configuration de la grue. Qu’est-ce que cela signifie ?",
+   "o": [
+    "Il ne fonctionne qu’avec la télécommande",
+    "Il ne fonctionne que la nuit",
+    "Ses seuils tiennent compte, par exemple, de l’extension des stabilisateurs"
+   ],
+   "x": "La recommandation évoque l’asservissement du limiteur à la configuration de la grue. Les charges admises dépendent notamment de l’écartement des stabilisateurs et de la zone de travail : le système adapte les limites à la configuration réelle."
+  },
+  "en": {
+   "q": "The moment limiter is linked to the crane’s configuration. What does that mean?",
+   "o": [
+    "It only works with the remote control",
+    "It only works at night",
+    "Its limits take into account, for example, stabiliser extension"
+   ],
+   "x": "The recommendation mentions linking the limiter to the crane’s configuration. Permitted loads depend on stabiliser spread and working zone, among other things: the system adapts the limits to the actual set-up."
+  }
+ },
+ {
+  "id": "r490-033",
+  "points": {
+   "r490": "tech-securite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Lors de la prise de poste, le linguet du crochet ne se referme plus de lui-même. Que faites-vous ?",
+   "o": [
+    "Vous ne levez pas et signalez le défaut",
+    "Vous l’attachez avec du fil de fer",
+    "Vous levez en surveillant l’élingue pendant toute la manœuvre"
+   ],
+   "x": "Le linguet empêche l’élingue de sortir du crochet lors d’un mou ou d’un choc. La recommandation demande de vérifier son bon fonctionnement. Un linguet défectueux doit être remplacé par une personne compétente avant tout levage."
+  },
+  "en": {
+   "q": "At the start of the shift the hook’s safety latch no longer closes by itself. What do you do?",
+   "o": [
+    "Do not lift and report the defect",
+    "Tie it shut with wire",
+    "Lift while watching the sling throughout the manoeuvre"
+   ],
+   "x": "The safety latch stops the sling coming off the hook when it goes slack or is jolted. The recommendation requires checking it works. A faulty latch must be replaced by a competent person before any lifting."
+  }
+ },
+ {
+  "id": "r490-034",
+  "points": {
+   "r490": "tech-masse-cdg"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une tôle d’acier mesure 2 m × 1 m × 5 cm. L’acier pèse environ 7,8 tonnes par mètre cube. Quelle est sa masse approximative ?",
+   "o": [
+    "78 kg",
+    "780 kg",
+    "7 800 kg"
+   ],
+   "x": "Volume : 2 × 1 × 0,05 = 0,1 m³. Masse : 0,1 × 7 800 = 780 kg. Évaluer la masse d’une charge avant de la lever est indispensable pour choisir les accessoires et vérifier la charge admise sur le diagramme."
+  },
+  "en": {
+   "q": "A steel plate measures 2 m × 1 m × 5 cm. Steel weighs about 7.8 tonnes per cubic metre. What is its approximate mass?",
+   "o": [
+    "78 kg",
+    "780 kg",
+    "7,800 kg"
+   ],
+   "x": "Volume: 2 × 1 × 0.05 = 0.1 m³. Mass: 0.1 × 7,800 = 780 kg. Estimating a load’s mass before lifting is essential to choose accessories and check the permitted load on the chart."
+  }
+ },
+ {
+  "id": "r490-035",
+  "points": {
+   "r490": "tech-masse-cdg"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un bloc de béton mesure 1,5 m × 1 m × 0,8 m. Le béton pèse environ 2,4 t/m³. Quelle est sa masse ?",
+   "o": [
+    "1 200 kg",
+    "2 400 kg",
+    "2 880 kg"
+   ],
+   "x": "Volume : 1,5 × 1 × 0,8 = 1,2 m³. Masse : 1,2 × 2,4 = 2,88 t, soit 2 880 kg. Un calcul rapide évite de se fier à l’apparence : un petit bloc de béton est souvent bien plus lourd qu’il n’en a l’air."
+  },
+  "en": {
+   "q": "A concrete block measures 1.5 m × 1 m × 0.8 m. Concrete weighs about 2.4 t/m³. What is its mass?",
+   "o": [
+    "1,200 kg",
+    "2,400 kg",
+    "2,880 kg"
+   ],
+   "x": "Volume: 1.5 × 1 × 0.8 = 1.2 m³. Mass: 1.2 × 2.4 = 2.88 t, i.e. 2,880 kg. A quick calculation avoids trusting appearances: a small concrete block is often much heavier than it looks."
+  }
+ },
+ {
+  "id": "r490-036",
+  "points": {
+   "r490": "tech-masse-cdg"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous devez lever une cuve contenant 1 000 litres d’eau. Quelle masse retenez-vous ?",
+   "o": [
+    "Environ 1 000 kg, plus la masse de la cuve",
+    "Environ 100 kg",
+    "Seulement la masse de la cuve vide, l’eau ne comptant pas"
+   ],
+   "x": "Un litre d’eau pèse environ 1 kg : 1 000 litres font donc près d’une tonne. On ajoute la masse de la cuve et des accessoires. Une cuve à moitié pleine pose en plus un problème de liquide qui se déplace et décale le centre de gravité."
+  },
+  "en": {
+   "q": "You must lift a tank holding 1,000 litres of water. What mass do you allow for?",
+   "o": [
+    "About 1,000 kg plus the tank’s own mass",
+    "About 100 kg",
+    "Only the empty tank’s mass, as the water does not count"
+   ],
+   "x": "A litre of water weighs about 1 kg, so 1,000 litres is close to a tonne. Add the tank and the accessories. A half-full tank also has liquid that moves and shifts the centre of gravity."
+  }
+ },
+ {
+  "id": "r490-037",
+  "points": {
+   "r490": "tech-masse-cdg"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous levez une palette de 800 kg avec une fourche à palettes de 120 kg accrochée au crochet. Quelle charge la grue supporte-t-elle ?",
+   "o": [
+    "800 kg",
+    "920 kg",
+    "680 kg"
+   ],
+   "x": "Tout ce qui est suspendu sous la tête de flèche compte dans la charge : fourche, palonnier, élingues, manilles. Ici, 800 + 120 = 920 kg. C’est cette valeur qu’on compare à la charge admise sur le diagramme pour la portée prévue."
+  },
+  "en": {
+   "q": "You lift an 800 kg pallet with a 120 kg pallet fork hanging from the hook. What load does the crane carry?",
+   "o": [
+    "800 kg",
+    "920 kg",
+    "680 kg"
+   ],
+   "x": "Everything hanging below the boom tip counts in the load: fork, spreader beam, slings, shackles. Here 800 + 120 = 920 kg. That is the figure to compare with the permitted load on the chart at the planned outreach."
+  }
+ },
+ {
+  "id": "r490-038",
+  "points": {
+   "r490": "tech-masse-cdg"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Où se situe le centre de gravité d’une poutre en acier homogène et de section constante ?",
+   "o": [
+    "À l’une de ses extrémités",
+    "Au premier tiers de sa longueur",
+    "Au milieu de sa longueur"
+   ],
+   "x": "Pour une pièce homogène et symétrique, le centre de gravité est en son centre géométrique, ici au milieu de la poutre. Le crochet doit se trouver à sa verticale pour que la poutre reste horizontale en décollant."
+  },
+  "en": {
+   "q": "Where is the centre of gravity of a uniform steel beam with a constant cross-section?",
+   "o": [
+    "At one end",
+    "One third along its length",
+    "Halfway along its length"
+   ],
+   "x": "For a uniform, symmetrical part the centre of gravity is at its geometric centre, here halfway along the beam. The hook must be directly above it so the beam stays level as it lifts."
+  }
+ },
+ {
+  "id": "r490-039",
+  "points": {
+   "r490": "tech-masse-cdg"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une machine posée sur palette a son moteur lourd d’un seul côté. Où se trouve son centre de gravité ?",
+   "o": [
+    "Décalé vers le côté du moteur",
+    "Exactement au centre de la palette",
+    "Au-dessus de la machine"
+   ],
+   "x": "Le centre de gravité se rapproche de la partie la plus lourde. Si l’on accroche au centre de la palette, la charge penche côté moteur au décollage. On ajuste les brins pour placer le crochet à la verticale du centre de gravité réel."
+  },
+  "en": {
+   "q": "A machine on a pallet has its heavy motor on one side. Where is its centre of gravity?",
+   "o": [
+    "Shifted towards the motor side",
+    "Exactly in the centre of the pallet",
+    "Above the machine"
+   ],
+   "x": "The centre of gravity moves towards the heaviest part. If you hook up at the pallet’s centre, the load tilts towards the motor at lift-off. Adjust the legs so the hook is directly above the real centre of gravity."
+  }
+ },
+ {
+  "id": "r490-040",
+  "points": {
+   "r490": "tech-masse-cdg"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous devez lever un grand panneau de bardage léger. Quelle caractéristique, en plus de la masse, faut-il prendre en compte ?",
+   "o": [
+    "Sa couleur",
+    "Sa surface exposée au vent",
+    "Sa température au moment du levage"
+   ],
+   "x": "Une grande surface légère prend le vent comme une voile : la charge tourne, part en ballant et les efforts sur la grue augmentent. La recommandation cite la surface au vent parmi les éléments à évaluer avant le levage."
+  },
+  "en": {
+   "q": "You must lift a large, light cladding panel. Besides its mass, which characteristic must be considered?",
+   "o": [
+    "Its colour",
+    "Its surface area exposed to wind",
+    "Its temperature at the time of lifting"
+   ],
+   "x": "A large light surface catches the wind like a sail: the load spins, swings and the forces on the crane increase. The recommendation lists wind area among the points to assess before lifting."
+  }
+ },
+ {
+  "id": "r490-041",
+  "points": {
+   "r490": "tech-masse-cdg"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Le client ne connaît pas la masse d’un colis à décharger. Que faites-vous ?",
+   "o": [
+    "Vous levez, le limiteur arrêtera si c’est trop lourd",
+    "Vous estimez à l’œil et ajoutez 10 %",
+    "Vous cherchez la masse (document, marquage) ou l’évaluez avant de lever"
+   ],
+   "x": "La masse se trouve sur le bon de livraison, une étiquette ou un marquage, ou se calcule à partir des dimensions et de la matière. Compter sur le limiteur pour la découvrir est une mauvaise pratique : il protège la grue mais pas le choix des accessoires."
+  },
+  "en": {
+   "q": "The customer does not know the mass of a package to unload. What do you do?",
+   "o": [
+    "Lift it, the limiter will stop you if it is too heavy",
+    "Guess by eye and add 10%",
+    "Find the mass (paperwork, marking) or estimate it before lifting"
+   ],
+   "x": "The mass is on the delivery note, a label or a marking, or can be calculated from dimensions and material. Relying on the limiter to find out is bad practice: it protects the crane but does not help you choose accessories."
+  }
+ },
+ {
+  "id": "r490-042",
+  "points": {
+   "r490": "tech-equilibre"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Comment calcule-t-on le moment exercé par une charge suspendue au crochet ?",
+   "o": [
+    "Charge multipliée par sa distance horizontale à l’axe",
+    "Charge divisée par la hauteur de levage sous le crochet",
+    "Charge additionnée à la portée"
+   ],
+   "x": "Le moment, ou effort de renversement, vaut la charge multipliée par la distance horizontale qui la sépare de l’axe considéré. Une même charge produit donc un moment deux fois plus grand quand on double la portée."
+  },
+  "en": {
+   "q": "How is the moment created by a load hanging from the hook calculated?",
+   "o": [
+    "Load multiplied by its horizontal distance from the axis",
+    "Load divided by the lifting height under the hook",
+    "Load added to the outreach"
+   ],
+   "x": "The moment, or overturning effect, equals the load multiplied by its horizontal distance from the axis considered. The same load therefore creates twice the moment when the outreach is doubled."
+  }
+ },
+ {
+  "id": "r490-043",
+  "points": {
+   "r490": "tech-equilibre"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une grue lève 1 000 kg à 4 m de portée. Quel moment cette charge crée-t-elle ?",
+   "o": [
+    "250 kg·m",
+    "4 000 kg·m",
+    "1 004 kg·m"
+   ],
+   "x": "Moment = charge × portée = 1 000 × 4 = 4 000 kg·m, soit 4 t·m. La même charge à 8 m créerait 8 000 kg·m. C’est pour cette raison que la charge admise diminue lorsque la portée augmente."
+  },
+  "en": {
+   "q": "A crane lifts 1,000 kg at 4 m outreach. What moment does this load create?",
+   "o": [
+    "250 kg·m",
+    "4,000 kg·m",
+    "1,004 kg·m"
+   ],
+   "x": "Moment = load × outreach = 1,000 × 4 = 4,000 kg·m, i.e. 4 t·m. The same load at 8 m would create 8,000 kg·m. That is why the permitted load falls as outreach increases."
+  }
+ },
+ {
+  "id": "r490-044",
+  "points": {
+   "r490": "tech-equilibre"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "À quelle condition une grue de chargement stabilisée reste-t-elle en équilibre ?",
+   "o": [
+    "Si la charge est nettement plus légère que le camion et sa grue",
+    "Si la flèche reste horizontale",
+    "Si le moment stabilisant dépasse le moment de renversement"
+   ],
+   "x": "Le porteur et la grue, par leur poids et la position des stabilisateurs, créent un moment stabilisant autour de la ligne de basculement. La charge et la flèche créent un moment de renversement. Dès que ce dernier l’emporte, l’ensemble bascule."
+  },
+  "en": {
+   "q": "On what condition does a stabilised lorry loader stay balanced?",
+   "o": [
+    "If the load is much lighter than the truck and its crane",
+    "If the boom stays horizontal",
+    "If the stabilising moment exceeds the overturning moment"
+   ],
+   "x": "The carrier and crane, through their weight and the stabiliser positions, create a stabilising moment about the tipping line. The load and boom create an overturning moment. As soon as the latter wins, the whole unit tips."
+  }
+ },
+ {
+  "id": "r490-045",
+  "points": {
+   "r490": "tech-equilibre"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Pourquoi le ballant de la charge dégrade-t-il la stabilité de la grue ?",
+   "o": [
+    "Il éloigne la charge et augmente la portée réelle",
+    "Il allège la charge",
+    "Il rapproche la charge du fût et surcharge le vérin de levage"
+   ],
+   "x": "Quand la charge se balance, elle s’écarte de la verticale de la tête de flèche : la portée réelle augmente, et avec elle le moment de renversement. Les à-coups ajoutent un effort dynamique. Les mouvements doivent rester souples et progressifs."
+  },
+  "en": {
+   "q": "Why does load swing reduce the crane’s stability?",
+   "o": [
+    "It moves the load out and increases the real outreach",
+    "It makes the load lighter",
+    "It brings the load closer to the column and overloads the lift cylinder"
+   ],
+   "x": "When the load swings it moves away from the vertical below the boom tip: the real outreach increases, and with it the overturning moment. Jerks add dynamic force. Movements must stay smooth and gradual."
+  }
+ },
+ {
+  "id": "r490-046",
+  "points": {
+   "r490": "tech-equilibre"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi déployer les stabilisateurs à l’écartement prévu améliore-t-il la stabilité ?",
+   "o": [
+    "Parce que cela allège la grue",
+    "Parce que la ligne de basculement s’éloigne de la charge, côté porteur",
+    "Parce que cela augmente la vitesse des mouvements"
+   ],
+   "x": "La ligne de basculement passe par les appuis des stabilisateurs. Plus ils sont écartés, plus le poids du porteur se trouve loin de cette ligne : le moment stabilisant augmente. Un stabilisateur rentré réduit fortement la charge admise de ce côté."
+  },
+  "en": {
+   "q": "Why does extending the stabilisers to the specified spread improve stability?",
+   "o": [
+    "It makes the crane lighter",
+    "The tipping line moves out, increasing the carrier’s stabilising leverage",
+    "It speeds up the movements"
+   ],
+   "x": "The tipping line runs through the stabiliser pads. The wider they are, the further the carrier’s weight is from that line: the stabilising moment increases. A retracted stabiliser sharply reduces the permitted load on that side."
+  }
+ },
+ {
+  "id": "r490-047",
+  "points": {
+   "r490": "tech-courbes"
+  },
+  "answer": 2,
+  "plaque": "G1",
+  "fr": {
+   "q": "D’après ce diagramme, quelle est la portée maximale à laquelle vous pouvez poser une charge de 1 500 kg (accessoires compris) ?",
+   "o": [
+    "5,0 m",
+    "10,0 m",
+    "7,5 m"
+   ],
+   "x": "Le diagramme autorise 1 600 kg à 7,5 m, ce qui couvre 1 500 kg. À 10,0 m, la limite tombe à 1 150 kg : la charge serait trop lourde. On retient donc 7,5 m au plus."
+  },
+  "en": {
+   "q": "According to this chart, what is the maximum outreach at which you can place a 1,500 kg load (accessories included)?",
+   "o": [
+    "5.0 m",
+    "10.0 m",
+    "7.5 m"
+   ],
+   "x": "The chart allows 1,600 kg at 7.5 m, which covers 1,500 kg. At 10.0 m the limit drops to 1,150 kg: the load would be too heavy. So 7.5 m is the maximum."
+  }
+ },
+ {
+  "id": "r490-048",
+  "points": {
+   "r490": "tech-courbes"
+  },
+  "answer": 0,
+  "plaque": "G1",
+  "fr": {
+   "q": "D’après ce diagramme, pouvez-vous lever 2 000 kg à 6 m de portée ?",
+   "o": [
+    "Non, il faut retenir la valeur de 7,5 m : 1 600 kg",
+    "Oui, car 2 400 kg sont admis à 5 m",
+    "Oui, en faisant la moyenne des valeurs entre 5 m et 7,5 m"
+   ],
+   "x": "Quand la portée se situe entre deux valeurs du diagramme, on retient la portée supérieure, donc la charge la plus faible : à 7,5 m, 1 600 kg. Une charge de 2 000 kg dépasse cette limite ; on rapproche le camion ou on change de méthode."
+  },
+  "en": {
+   "q": "According to this chart, can you lift 2,000 kg at 6 m outreach?",
+   "o": [
+    "No, use the 7.5 m value: 1,600 kg",
+    "Yes, as 2,400 kg is allowed at 5 m",
+    "Yes, by averaging the values between 5 m and 7.5 m"
+   ],
+   "x": "When the outreach falls between two chart values, use the larger outreach and therefore the lower load: at 7.5 m, 1,600 kg. A 2,000 kg load exceeds this; move the truck closer or change the method."
+  }
+ },
+ {
+  "id": "r490-049",
+  "points": {
+   "r490": "tech-courbes"
+  },
+  "answer": 1,
+  "plaque": "G1",
+  "fr": {
+   "q": "D’après ce diagramme, vous devez poser à 10 m une charge de 1 000 kg avec un palonnier de 200 kg. Est-ce possible ?",
+   "o": [
+    "Oui, 1 000 kg est inférieur à 1 150 kg",
+    "Non, 1 200 kg dépassent les 1 150 kg admis",
+    "Oui, le palonnier ne compte pas"
+   ],
+   "x": "Le palonnier fait partie de la charge suspendue : 1 000 + 200 = 1 200 kg. Le diagramme admet 1 150 kg à 10 m. L’opération est impossible à cette portée ; on rapproche le porteur pour travailler à 7,5 m (1 600 kg admis)."
+  },
+  "en": {
+   "q": "According to this chart, you must place a 1,000 kg load at 10 m using a 200 kg spreader beam. Is it possible?",
+   "o": [
+    "Yes, 1,000 kg is below 1,150 kg",
+    "No, 1,200 kg exceeds the 1,150 kg allowed",
+    "Yes, the spreader beam does not count"
+   ],
+   "x": "The spreader beam is part of the suspended load: 1,000 + 200 = 1,200 kg. The chart allows 1,150 kg at 10 m. The lift is impossible at that outreach; move the carrier closer to work at 7.5 m (1,600 kg allowed)."
+  }
+ },
+ {
+  "id": "r490-050",
+  "points": {
+   "r490": "tech-courbes"
+  },
+  "answer": 2,
+  "plaque": "G1",
+  "fr": {
+   "q": "D’après ce diagramme, quelle charge maximale pouvez-vous lever à 12 m de portée ?",
+   "o": [
+    "1 150 kg",
+    "1 600 kg",
+    "900 kg"
+   ],
+   "x": "La ligne 12,0 m du diagramme indique 900 kg. Cette valeur comprend tout ce qui est suspendu : charge, élingues et accessoires. C’est la plus faible capacité du tableau, car la portée y est maximale."
+  },
+  "en": {
+   "q": "According to this chart, what is the maximum load you can lift at 12 m outreach?",
+   "o": [
+    "1,150 kg",
+    "1,600 kg",
+    "900 kg"
+   ],
+   "x": "The 12.0 m line of the chart shows 900 kg. This figure covers everything suspended: load, slings and accessories. It is the lowest capacity in the chart, because the outreach is the greatest."
+  }
+ },
+ {
+  "id": "r490-051",
+  "points": {
+   "r490": "tech-courbes"
+  },
+  "answer": 0,
+  "plaque": "G1",
+  "fr": {
+   "q": "D’après ce diagramme, une charge de 3 500 kg peut être levée jusqu’à quelle portée ?",
+   "o": [
+    "3,0 m",
+    "5,0 m",
+    "7,5 m"
+   ],
+   "x": "À 3,0 m, la grue admet 4 000 kg ; à 5,0 m, seulement 2 400 kg. Une charge de 3 500 kg ne peut donc être manutentionnée qu’à 3,0 m au plus. Il faut placer le porteur au plus près du point de prise et du point de dépose."
+  },
+  "en": {
+   "q": "According to this chart, up to what outreach can a 3,500 kg load be lifted?",
+   "o": [
+    "3.0 m",
+    "5.0 m",
+    "7.5 m"
+   ],
+   "x": "At 3.0 m the crane allows 4,000 kg; at 5.0 m only 2,400 kg. A 3,500 kg load can therefore be handled at 3.0 m at most. Position the carrier as close as possible to both pick-up and drop points."
+  }
+ },
+ {
+  "id": "r490-052",
+  "points": {
+   "r490": "expl-renversement"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Le sol où vous devez poser un stabilisateur est un remblai récent. Que faites-vous ?",
+   "o": [
+    "Vous posez le patin directement, le camion est lourd",
+    "Vous utilisez des plaques de répartition adaptées ou changez d’emplacement",
+    "Vous ne déployez que l’autre stabilisateur"
+   ],
+   "x": "Un remblai récent, une tranchée rebouchée ou un regard peuvent céder sous la pression d’un patin : la grue bascule. On répartit l’effort avec des plaques adaptées sur sol porteur, ou l’on choisit un autre emplacement."
+  },
+  "en": {
+   "q": "The ground where a stabiliser must go is freshly backfilled. What do you do?",
+   "o": [
+    "Put the pad straight down, the truck is heavy",
+    "Use suitable spreader plates or move to another spot",
+    "Only deploy the other stabiliser"
+   ],
+   "x": "Fresh backfill, a refilled trench or a manhole cover can give way under a pad: the crane tips over. Spread the load with suitable plates on firm ground, or choose another position."
+  }
+ },
+ {
+  "id": "r490-053",
+  "points": {
+   "r490": "expl-renversement"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Avant de lever, comment vérifiez-vous que la grue est correctement mise de niveau ?",
+   "o": [
+    "Avec le niveau à bulle ou l’indicateur d’inclinaison de la grue",
+    "À l’œil, en regardant si les roues touchent encore le sol",
+    "En levant une charge d’essai maximale"
+   ],
+   "x": "Une grue inclinée voit sa charge partir vers l’aval : la portée augmente et le risque de renversement aussi. On règle les stabilisateurs jusqu’à ce que le niveau indique l’horizontalité, dans la tolérance donnée par la notice."
+  },
+  "en": {
+   "q": "Before lifting, how do you check the crane is properly levelled?",
+   "o": [
+    "With the crane’s spirit level or tilt indicator",
+    "By eye, checking whether the wheels still touch the ground",
+    "By lifting a maximum test load"
+   ],
+   "x": "On a tilted crane the load drifts downhill: outreach increases, and so does the risk of overturning. Adjust the stabilisers until the level shows horizontal, within the tolerance given in the manual."
+  }
+ },
+ {
+  "id": "r490-054",
+  "points": {
+   "r490": "expl-renversement"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Faute de place, un stabilisateur ne peut être déployé qu’à moitié. Quelle conséquence pour le levage ?",
+   "o": [
+    "Aucune, s’il touche le sol",
+    "La charge admise augmente de ce côté grâce au patin plus proche",
+    "La charge admise diminue, notamment de ce côté"
+   ],
+   "x": "Un écartement réduit rapproche la ligne de basculement du porteur : le moment stabilisant diminue. On applique le diagramme correspondant à cette configuration, souvent beaucoup plus restrictif, et le système de contrôle de stabilité doit en tenir compte."
+  },
+  "en": {
+   "q": "For lack of space, one stabiliser can only be half extended. What does this mean for the lift?",
+   "o": [
+    "Nothing, as long as it touches the ground",
+    "The permitted load increases on that side as the pad is closer",
+    "The permitted load decreases, especially on that side"
+   ],
+   "x": "A reduced spread brings the tipping line closer to the carrier: the stabilising moment falls. Use the chart for that configuration, often much more restrictive, and the stability control system must take it into account."
+  }
+ },
+ {
+  "id": "r490-055",
+  "points": {
+   "r490": "expl-renversement"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pendant le levage, vous remarquez qu’un patin de stabilisateur s’enfonce dans le sol. Que faites-vous ?",
+   "o": [
+    "Vous accélérez pour finir avant qu’il s’enfonce davantage",
+    "Vous reposez la charge en douceur et revoyez le calage",
+    "Vous rentrez ce stabilisateur pendant le levage"
+   ],
+   "x": "Un appui qui s’enfonce annonce le renversement. On ramène la charge vers le porteur et on la pose sans à-coup, puis on reprend la stabilisation avec des plaques adaptées sur un sol porteur. On ne touche jamais aux stabilisateurs en charge."
+  },
+  "en": {
+   "q": "During a lift you notice a stabiliser pad sinking into the ground. What do you do?",
+   "o": [
+    "Speed up to finish before it sinks further",
+    "Set the load down gently and redo the stabiliser support",
+    "Retract that stabiliser during the lift"
+   ],
+   "x": "A sinking support signals an imminent overturn. Bring the load back towards the carrier and set it down smoothly, then re-stabilise with suitable plates on firm ground. Never move the stabilisers while loaded."
+  }
+ },
+ {
+  "id": "r490-056",
+  "points": {
+   "r490": "expl-renversement"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous devez lever près du bord d’une tranchée. Où placez-vous les stabilisateurs ?",
+   "o": [
+    "Suffisamment en retrait du bord, hors de la zone d’éboulement",
+    "Au plus près du bord pour réduire la portée",
+    "Dans la tranchée, sur le fond"
+   ],
+   "x": "L’effort d’un stabilisateur se transmet au sol en profondeur. Trop près d’un bord de fouille, il peut provoquer l’éboulement de la paroi et le renversement de la grue. On se place en retrait, quitte à travailler avec une portée plus grande et une charge plus faible."
+  },
+  "en": {
+   "q": "You must lift near the edge of a trench. Where do you place the stabilisers?",
+   "o": [
+    "Well back from the edge, outside the collapse zone",
+    "As close to the edge as possible to reduce outreach",
+    "In the trench, on the bottom"
+   ],
+   "x": "A stabiliser’s force spreads down into the ground. Too close to a trench edge it can collapse the side and overturn the crane. Set up further back, even if it means a longer outreach and a lower load."
+  }
+ },
+ {
+  "id": "r490-057",
+  "points": {
+   "r490": "expl-renversement"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Quel comportement de conduite favorise le renversement d’une grue de chargement ?",
+   "o": [
+    "Des mouvements lents et progressifs",
+    "Garder la charge près du sol pendant les déplacements de la flèche",
+    "Des arrêts brusques de la rotation avec la charge loin"
+   ],
+   "x": "Freiner brutalement la rotation lance la charge en ballant ; elle s’écarte et augmente la portée réelle. Avec une charge proche de la limite, cet effort dynamique suffit à renverser la grue. On accélère et on freine progressivement."
+  },
+  "en": {
+   "q": "Which operating behaviour makes a lorry loader more likely to overturn?",
+   "o": [
+    "Slow, gradual movements",
+    "Keeping the load near the ground while the boom moves",
+    "Stopping the slew abruptly with the load far out"
+   ],
+   "x": "Stopping the slew abruptly makes the load swing out, increasing the real outreach. With a load near the limit, this dynamic force is enough to tip the crane. Accelerate and brake gradually."
+  }
+ },
+ {
+  "id": "r490-058",
+  "points": {
+   "r490": "expl-heurts"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous livrez des parpaings sur un chantier où des ouvriers circulent. Comment évitez-vous qu’ils soient heurtés par la charge ?",
+   "o": [
+    "Baliser la zone d’évolution et faire évacuer avant le levage",
+    "Lever haut pour passer au-dessus d’eux",
+    "Klaxonner longuement et lever sans attendre qu’ils s’écartent"
+   ],
+   "x": "La zone balayée par la charge et la flèche est balisée et interdite pendant le levage. On vérifie qu’elle est vide avant de lever, et l’on arrête dès qu’une personne y entre. Passer au-dessus des personnes est interdit."
+  },
+  "en": {
+   "q": "You are delivering blocks to a site where workers move about. How do you prevent them being struck by the load?",
+   "o": [
+    "Fence off the working area and clear it before lifting",
+    "Lift high to pass over them",
+    "Sound a long horn and lift without waiting for them to move"
+   ],
+   "x": "The area swept by the load and the boom is fenced off and closed during the lift. Check it is empty before lifting and stop as soon as anyone enters. Passing loads over people is forbidden."
+  }
+ },
+ {
+  "id": "r490-059",
+  "points": {
+   "r490": "expl-heurts"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pendant le déploiement des stabilisateurs, quel risque existe pour les personnes proches du camion ?",
+   "o": [
+    "Aucun, les stabilisateurs sortent lentement",
+    "Un risque de brûlure par l’huile",
+    "Être heurté ou avoir un pied écrasé sous un patin"
+   ],
+   "x": "La recommandation cite les heurts de personnes avec la grue lors du déploiement des stabilisateurs. Les poutres sortent latéralement et les patins descendent avec une grande force. Le grutier vérifie que personne n’est dans la zone avant d’agir."
+  },
+  "en": {
+   "q": "While the stabilisers are being deployed, what hazard exists for people near the truck?",
+   "o": [
+    "None, the stabilisers come out slowly",
+    "A risk of burns from oil",
+    "Being struck, or having a foot crushed under a pad"
+   ],
+   "x": "The recommendation mentions people being struck by the crane while stabilisers deploy. The beams slide out sideways and the pads come down with great force. The operator checks nobody is in the area before operating."
+  }
+ },
+ {
+  "id": "r490-060",
+  "points": {
+   "r490": "expl-heurts"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une charge commence à tourner sur elle-même pendant la descente. Un ouvrier veut la saisir à mains nues. Que lui dites-vous ?",
+   "o": [
+    "De la saisir à deux pour mieux la tenir",
+    "D’attendre qu’elle soit stabilisée et d’utiliser une corde de guidage",
+    "De se placer dessous pour la guider"
+   ],
+   "x": "Une charge qui tourne peut heurter ou coincer la personne contre un mur ou un véhicule. On stoppe le mouvement, on laisse la charge se stabiliser et on la guide avec une corde, sans jamais se mettre dessous ni entre la charge et un obstacle."
+  },
+  "en": {
+   "q": "A load starts spinning as it comes down. A worker wants to grab it bare-handed. What do you tell them?",
+   "o": [
+    "To grab it with two people for a better hold",
+    "To wait until it steadies and use a tag line",
+    "To stand underneath it to guide it"
+   ],
+   "x": "A spinning load can strike someone or trap them against a wall or vehicle. Stop the movement, let the load settle and guide it with a tag line, never standing under it or between it and an obstacle."
+  }
+ },
+ {
+  "id": "r490-061",
+  "points": {
+   "r490": "expl-interference"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une grue à tour travaille à proximité et sa flèche peut croiser votre zone d’évolution. Que faut-il avant de commencer ?",
+   "o": [
+    "Une coordination avec son grutier et les responsables du chantier",
+    "Lever plus vite pour libérer la zone",
+    "Rien, chaque grutier gère sa grue et sa zone de travail"
+   ],
+   "x": "Quand les zones de deux appareils de levage se recoupent, une collision des flèches, des câbles ou des charges est possible. Le chantier organise la coordination : zones, priorités, communication radio. On ne commence qu’une fois ces règles connues."
+  },
+  "en": {
+   "q": "A tower crane is working nearby and its jib can cross your working area. What is needed before you start?",
+   "o": [
+    "Coordination with its operator and the site managers",
+    "Lifting faster to clear the area",
+    "Nothing, each operator handles their own crane and area"
+   ],
+   "x": "When two lifting appliances’ areas overlap, booms, ropes or loads can collide. The site organises coordination: zones, priorities, radio communication. Start only once these rules are known."
+  }
+ },
+ {
+  "id": "r490-062",
+  "points": {
+   "r490": "expl-interference"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pendant votre levage, la charge d’une autre grue se rapproche de votre flèche. Que faites-vous ?",
+   "o": [
+    "Vous continuez, l’autre grutier s’arrêtera de lui-même en vous voyant",
+    "Vous accélérez pour passer avant",
+    "Vous arrêtez votre mouvement et alertez par radio"
+   ],
+   "x": "Face à un risque de collision entre appareils de levage, on interrompt le mouvement en cours et on prévient immédiatement l’autre grutier ou le chef de manœuvre. La reprise se fait après accord sur l’ordre des manœuvres."
+  },
+  "en": {
+   "q": "During your lift another crane’s load comes close to your boom. What do you do?",
+   "o": [
+    "Carry on, the other operator will stop on seeing you",
+    "Speed up to get past first",
+    "Stop your movement and alert by radio"
+   ],
+   "x": "When two lifting appliances may collide, stop the current movement and immediately warn the other operator or the lift supervisor. Resume only once the order of manoeuvres is agreed."
+  }
+ },
+ {
+  "id": "r490-063",
+  "points": {
+   "r490": "expl-interference"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Un chariot élévateur doit charger sur votre plateau pendant que vous déchargez avec la grue. Quelle organisation est sûre ?",
+   "o": [
+    "Travailler en même temps pour gagner du temps",
+    "Alterner les opérations sans jamais travailler dans la même zone",
+    "Laisser le cariste guider la charge suspendue"
+   ],
+   "x": "Deux équipements qui travaillent dans la même zone peuvent se heurter, et le cariste peut se retrouver sous la charge. On organise les opérations l’une après l’autre, ou dans des zones séparées, avec une communication claire."
+  },
+  "en": {
+   "q": "A forklift needs to load onto your platform while you unload with the crane. What is a safe arrangement?",
+   "o": [
+    "Work at the same time to save time",
+    "Take turns, never working in the same area",
+    "Let the forklift driver guide the suspended load"
+   ],
+   "x": "Two machines working in the same area can collide, and the forklift driver may end up under the load. Organise the operations one after the other, or in separate areas, with clear communication."
+  }
+ },
+ {
+  "id": "r490-064",
+  "points": {
+   "r490": "expl-chute"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous devez monter sur le plateau du porteur pour élinguer. Comment limitez-vous le risque de chute ?",
+   "o": [
+    "Utiliser les marchepieds et poignées, en gardant trois appuis",
+    "Grimper par les roues",
+    "Sauter du plateau en pliant les genoux pour gagner du temps"
+   ],
+   "x": "La recommandation cite le risque de chuter du plateau du porteur. On monte et descend face au véhicule par les accès prévus, en gardant trois points d’appui, et on ne saute jamais du plateau. Sur le plateau, on évite de marcher sur un chargement instable."
+  },
+  "en": {
+   "q": "You must climb onto the carrier’s platform to sling a load. How do you limit the risk of falling?",
+   "o": [
+    "Use the steps and handholds, keeping three points of contact",
+    "Climb up via the wheels",
+    "Jump off the platform bending your knees to save time"
+   ],
+   "x": "The recommendation lists falls from the carrier’s platform. Climb up and down facing the vehicle using the access provided, keeping three points of contact, and never jump down. On the platform, avoid walking on an unstable load."
+  }
+ },
+ {
+  "id": "r490-065",
+  "points": {
+   "r490": "expl-chute"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous conduisez à la télécommande en marchant à reculons pour suivre la charge. Quel risque spécifique existe ?",
+   "o": [
+    "Un risque électrique lié aux ondes radio de la télécommande",
+    "Une chute de plain-pied sur un obstacle non vu",
+    "Une surchauffe du moteur du porteur"
+   ],
+   "x": "Avec une télécommande, le regard reste sur la charge ; en se déplaçant, on peut trébucher sur un obstacle, un trou ou un câble. On repère le terrain avant, on se déplace sans manœuvrer et on choisit une position fixe, dégagée et sûre."
+  },
+  "en": {
+   "q": "You operate by remote control while walking backwards to follow the load. What specific hazard exists?",
+   "o": [
+    "An electrical hazard from the remote’s radio waves",
+    "Tripping over an obstacle you did not see",
+    "The carrier’s engine overheating"
+   ],
+   "x": "With a remote control your eyes stay on the load; moving about, you can trip over an obstacle, a hole or a cable. Check the ground first, do not operate while walking, and choose a fixed, clear and safe position."
+  }
+ },
+ {
+  "id": "r490-066",
+  "points": {
+   "r490": "expl-chute"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "La grue possède un poste de commande en hauteur (poste haut). Que faites-vous avant d’y monter ?",
+   "o": [
+    "Vous y montez avec la charge déjà suspendue",
+    "Vous y montez par la flèche",
+    "Vous utilisez l’accès prévu, avec ses garde-corps et appuis"
+   ],
+   "x": "Un poste haut expose à une chute de plusieurs mètres. On y accède uniquement par l’échelle et les mains courantes prévues, grue au repos, et on vérifie que le garde-corps ou le dispositif de retenue est en place avant de manœuvrer."
+  },
+  "en": {
+   "q": "The crane has an elevated control seat (high seat). What do you do before climbing up?",
+   "o": [
+    "Climb up with the load already hanging",
+    "Climb up via the boom",
+    "Use the access provided, with its guardrails and handholds"
+   ],
+   "x": "A high seat exposes you to a fall of several metres. Reach it only by the ladder and handrails provided, with the crane at rest, and check the guardrail or restraint is in place before operating."
+  }
+ },
+ {
+  "id": "r490-067",
+  "points": {
+   "r490": "expl-visibilite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Depuis le distributeur au pied du camion, la remorque vous cache la zone de dépose. Quelle est la bonne solution ?",
+   "o": [
+    "Lever quand même, à vitesse lente",
+    "Passer à la télécommande et vous placer en vue de la zone, hors de la zone de risque",
+    "Demander à un passant de crier"
+   ],
+   "x": "Le grutier doit voir la charge et la zone de dépose, ou être guidé. La télécommande permet de choisir une position qui donne une bonne vue sans entrer dans la zone de risque. À défaut, un signaleur formé guide par gestes ou radio."
+  },
+  "en": {
+   "q": "From the control valve at the foot of the truck, the trailer hides the drop zone. What is the right solution?",
+   "o": [
+    "Lift anyway, slowly",
+    "Switch to the remote and stand where you can see the area, outside the danger zone",
+    "Ask a passer-by to shout"
+   ],
+   "x": "The operator must see the load and drop zone, or be guided. The remote control lets you choose a position with a good view while staying out of the danger zone. Otherwise, a trained banksman guides by signals or radio."
+  }
+ },
+ {
+  "id": "r490-068",
+  "points": {
+   "r490": "expl-energies"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi ne faut-il jamais s’approcher de l’arbre de transmission de la prise de force en fonctionnement ?",
+   "o": [
+    "Parce qu’il chauffe l’huile du circuit hydraulique de la grue",
+    "Parce qu’il fait du bruit",
+    "Parce qu’un élément tournant peut happer un vêtement"
+   ],
+   "x": "Un arbre ou un accouplement en rotation entraîne un vêtement, un cordon ou des cheveux en une fraction de seconde. Les protecteurs restent en place et toute intervention se fait prise de force désenclenchée, moteur arrêté."
+  },
+  "en": {
+   "q": "Why must you never go near the power take-off drive shaft while it runs?",
+   "o": [
+    "It heats the oil in the crane’s hydraulic circuit",
+    "It is noisy",
+    "A rotating part can catch clothing"
+   ],
+   "x": "A rotating shaft or coupling can catch clothing, a cord or hair in a split second. Guards stay in place and any work is done with the power take-off disengaged and the engine off."
+  }
+ },
+ {
+  "id": "r490-069",
+  "points": {
+   "r490": "expl-energies"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Un flexible de la grue se met à suinter en fin de levage. Que faites-vous ?",
+   "o": [
+    "Poser la charge, arrêter et signaler la fuite",
+    "Continuer en surveillant la fuite",
+    "Serrer le raccord sous pression avec une pince"
+   ],
+   "x": "Un suintement peut annoncer la rupture du flexible ; l’huile sous pression peut aussi être injectée sous la peau. On termine le mouvement en sécurité en posant la charge, on coupe la prise de force et on signale le défaut sans intervenir sous pression."
+  },
+  "en": {
+   "q": "A crane hose starts weeping at the end of a lift. What do you do?",
+   "o": [
+    "Set the load down, stop and report the leak",
+    "Carry on while watching the leak",
+    "Tighten the fitting under pressure with pliers"
+   ],
+   "x": "A weeping hose can be about to burst, and pressurised oil can be injected under the skin. Finish safely by setting the load down, disengage the power take-off and report the defect without working on anything under pressure."
+  }
+ },
+ {
+  "id": "r490-070",
+  "points": {
+   "r490": "expl-climat"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Le vent forcit en rafales pendant une livraison de panneaux. Comment décidez-vous de continuer ou non ?",
+   "o": [
+    "Vous continuez tant que le camion ne bouge pas",
+    "Vous respectez la limite de vent de la notice et l’effet sur la charge",
+    "Vous levez plus haut pour éviter les obstacles"
+   ],
+   "x": "Le vent pousse la charge, augmente le ballant et les efforts sur la grue, surtout avec des panneaux à grande surface. Le constructeur fixe une vitesse de vent maximale. Au-delà, ou si la charge devient incontrôlable, on pose et on arrête."
+  },
+  "en": {
+   "q": "The wind picks up in gusts while you are delivering panels. How do you decide whether to continue?",
+   "o": [
+    "Carry on as long as the truck does not move",
+    "Follow the manual’s wind limit and watch the effect on the load",
+    "Lift higher to clear obstacles"
+   ],
+   "x": "Wind pushes the load, increases swing and the forces on the crane, especially with large panels. The manufacturer sets a maximum wind speed. Above it, or if the load becomes uncontrollable, set it down and stop."
+  }
+ },
+ {
+  "id": "r490-071",
+  "points": {
+   "r490": "expl-climat"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Il a gelé toute la nuit. Quel point vérifiez-vous en priorité avant de stabiliser la grue ?",
+   "o": [
+    "La couleur des patins",
+    "La pression des pneus avant",
+    "La portance du sol, qui peut céder au dégel, et le verglas"
+   ],
+   "x": "Un sol gelé paraît dur mais peut perdre sa portance en dégelant sous le poids d’un patin. Le verglas rend aussi les marchepieds et le plateau glissants. On choisit un appui sûr, on utilise des plaques de répartition et on se déplace prudemment."
+  },
+  "en": {
+   "q": "It froze all night. What do you check first before stabilising the crane?",
+   "o": [
+    "The colour of the pads",
+    "The front tyre pressure",
+    "Ground bearing capacity, which can fail as it thaws, and ice"
+   ],
+   "x": "Frozen ground looks firm but can lose its bearing capacity as it thaws under a pad. Ice also makes steps and the platform slippery. Choose a safe support, use spreader plates and move carefully."
+  }
+ },
+ {
+  "id": "r490-072",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Pour aller plus vite, on vous demande de faire passer la charge au-dessus d’une équipe au travail. Que faites-vous ?",
+   "o": [
+    "Vous refusez : le survol de personnes est interdit",
+    "Vous acceptez si la charge est bien élinguée et le crochet fermé",
+    "Vous acceptez en levant très haut"
+   ],
+   "x": "Le survol de personnes par une charge figure parmi les opérations interdites citées par la recommandation. Une élingue qui cède ou une fausse manœuvre peut tuer. On fait évacuer la zone ou on choisit une autre trajectoire."
+  },
+  "en": {
+   "q": "To save time you are asked to swing the load over a team at work. What do you do?",
+   "o": [
+    "Refuse: passing loads over people is forbidden",
+    "Agree if the load is well slung and the hook latched",
+    "Agree, lifting very high"
+   ],
+   "x": "Passing a load over people is among the prohibited operations listed in the recommendation. A failed sling or a wrong move can kill. Clear the area or choose another path."
+  }
+ },
+ {
+  "id": "r490-073",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Un ouvrier veut monter sur une palette suspendue au crochet pour atteindre un balcon. Est-ce permis ?",
+   "o": [
+    "Oui, s’il porte un harnais",
+    "Non, lever des personnes sans équipement spécifique est interdit",
+    "Oui, si la charge totale reste sous la limite"
+   ],
+   "x": "La recommandation range parmi les opérations interdites le levage de personnel sans équipement spécifique. Une palette ou une charge n’offre ni garde-corps ni sécurité adaptée. On utilise une PEMP ou une nacelle conçue et autorisée pour cette grue."
+  },
+  "en": {
+   "q": "A worker wants to stand on a pallet hanging from the hook to reach a balcony. Is it allowed?",
+   "o": [
+    "Yes, if wearing a harness",
+    "No, lifting people without specific equipment is forbidden",
+    "Yes, if the total load stays under the limit"
+   ],
+   "x": "The recommendation lists lifting people without specific equipment as prohibited. A pallet or load offers no guardrail or suitable safety. Use a MEWP or a basket designed and approved for that crane."
+  }
+ },
+ {
+  "id": "r490-074",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Le client veut remplir de gravats une benne pendant qu’elle est suspendue au crochet. Que répondez-vous ?",
+   "o": [
+    "D’accord, si elle reste près du sol",
+    "D’accord, en surveillant le limiteur",
+    "Non, c’est une opération interdite"
+   ],
+   "x": "Remplir une benne suspendue est expressément cité parmi les opérations interdites : la charge augmente sans contrôle, la benne oscille et les personnes travaillent sous une charge. On pose la benne au sol, on la remplit, puis on la lève."
+  },
+  "en": {
+   "q": "The customer wants to fill a skip with rubble while it hangs from the hook. What do you answer?",
+   "o": [
+    "Fine, if it stays near the ground",
+    "Fine, watching the limiter",
+    "No, it is a prohibited operation"
+   ],
+   "x": "Filling a suspended skip is expressly listed among prohibited operations: the load increases uncontrollably, the skip swings and people work under a load. Set the skip on the ground, fill it, then lift."
+  }
+ },
+ {
+  "id": "r490-075",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une charge est à 3 m du bout de la flèche, sur le côté. Peut-on la tirer en biais avec le crochet pour la rapprocher ?",
+   "o": [
+    "Non, la traction oblique est interdite",
+    "Oui, si la grue est stabilisée et la charge légère",
+    "Oui, si l’on tire lentement"
+   ],
+   "x": "Tirer une charge en biais crée des efforts latéraux pour lesquels la grue n’est pas conçue, provoque un ballant violent au décollage et peut renverser la grue. Le crochet se place toujours à la verticale de la charge ; on déplace le porteur si nécessaire."
+  },
+  "en": {
+   "q": "A load is 3 m to the side of the boom tip. Can you drag it at an angle with the hook to bring it closer?",
+   "o": [
+    "No, side pulling is forbidden",
+    "Yes, if the crane is stabilised and the load is light",
+    "Yes, if you pull slowly"
+   ],
+   "x": "Pulling a load at an angle creates side forces the crane is not designed for, causes violent swing at lift-off and can overturn the crane. The hook always goes directly above the load; move the carrier if needed."
+  }
+ },
+ {
+  "id": "r490-076",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Une dalle est collée au sol par le gel. Peut-on utiliser la grue pour l’arracher ?",
+   "o": [
+    "Oui, en tirant progressivement",
+    "Oui, si le limiteur ne se déclenche pas",
+    "Non, il faut d’abord la décoller par d’autres moyens"
+   ],
+   "x": "Une charge adhérente demande un effort inconnu ; quand elle se décolle d’un coup, la grue reçoit un choc et la charge part en ballant. On libère d’abord la charge (dégel, levier, décollement), puis on la lève normalement."
+  },
+  "en": {
+   "q": "A slab is frozen to the ground. Can you use the crane to tear it free?",
+   "o": [
+    "Yes, pulling gradually",
+    "Yes, if the limiter does not trip",
+    "No, free it by other means first"
+   ],
+   "x": "A stuck load requires an unknown force; when it suddenly breaks free the crane takes a shock and the load swings. Free the load first (thaw, pry, loosen), then lift it normally."
+  }
+ },
+ {
+  "id": "r490-077",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pendant une pause, la charge est encore suspendue à mi-hauteur. Pouvez-vous quitter le poste de commande ?",
+   "o": [
+    "Oui, si la pause dure moins de cinq minutes",
+    "Non, une charge suspendue ne reste jamais sans surveillance",
+    "Oui, si un cône est posé dessous"
+   ],
+   "x": "Une charge laissée suspendue peut descendre lentement, être heurtée ou tomber, et quelqu’un peut passer dessous. On pose la charge avant de quitter les commandes. Si c’est impossible, le grutier reste à son poste."
+  },
+  "en": {
+   "q": "During a break the load is still hanging halfway up. Can you leave the controls?",
+   "o": [
+    "Yes, if the break is under five minutes",
+    "No, a suspended load is never left unattended",
+    "Yes, if a cone is placed underneath"
+   ],
+   "x": "A load left hanging can creep down, be knocked or fall, and someone may walk under it. Set the load down before leaving the controls. If that is impossible, the operator stays at the controls."
+  }
+ },
+ {
+  "id": "r490-078",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "On vous demande de pousser un muret avec la flèche de la grue pour le faire tomber. Que faites-vous ?",
+   "o": [
+    "Vous refusez : la grue ne sert pas à pousser ou démolir",
+    "Vous acceptez en le poussant lentement",
+    "Vous acceptez si les rallonges sont rentrées et le camion calé"
+   ],
+   "x": "La grue de chargement est conçue pour lever des charges suspendues verticalement. Pousser, frapper ou démolir crée des efforts imprévus qui abîment la structure et peuvent renverser l’ensemble. La notice précise les usages autorisés."
+  },
+  "en": {
+   "q": "You are asked to push over a low wall with the crane boom. What do you do?",
+   "o": [
+    "Refuse: the crane is not for pushing or demolition",
+    "Agree, pushing slowly",
+    "Agree if the extensions are retracted and the truck chocked"
+   ],
+   "x": "A lorry loader is designed to lift vertically suspended loads. Pushing, striking or demolishing creates unforeseen forces that damage the structure and can overturn the unit. The manual states the permitted uses."
+  }
+ },
+ {
+  "id": "r490-079",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Le diagramme indique que la charge dépasse la limite à la portée prévue. Le client insiste. Que faites-vous ?",
+   "o": [
+    "Vous levez en vitesse lente",
+    "Vous levez, le limiteur vous arrêtera si besoin",
+    "Vous refusez et proposez une autre solution"
+   ],
+   "x": "Dépasser les capacités du constructeur est interdit. On rapproche le porteur, on réduit la portée, on fractionne la charge ou l’on fait appel à un appareil plus puissant. Le grutier ne cède pas à la pression du client."
+  },
+  "en": {
+   "q": "The chart shows the load exceeds the limit at the planned outreach. The customer insists. What do you do?",
+   "o": [
+    "Lift at slow speed",
+    "Lift, the limiter will stop you if needed",
+    "Refuse and suggest another solution"
+   ],
+   "x": "Exceeding the manufacturer’s capacities is forbidden. Move the carrier closer, reduce the outreach, split the load or call in a larger appliance. The operator does not give in to customer pressure."
+  }
+ },
+ {
+  "id": "r490-080",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Peut-on déplacer le camion sur le chantier avec une charge suspendue au crochet ?",
+   "o": [
+    "Oui, à vitesse réduite",
+    "Non, sauf si la notice le prévoit expressément",
+    "Oui, si les stabilisateurs restent sortis au ras du sol"
+   ],
+   "x": "Rouler avec une charge suspendue provoque un ballant incontrôlable et le porteur n’est plus stabilisé : le renversement est probable. Sauf disposition expresse du constructeur, on pose la charge et on replie la grue avant tout déplacement."
+  },
+  "en": {
+   "q": "Can you move the truck around the site with a load hanging from the hook?",
+   "o": [
+    "Yes, at low speed",
+    "No, unless the manual expressly allows it",
+    "Yes, if the stabilisers stay out just above the ground"
+   ],
+   "x": "Driving with a suspended load causes uncontrollable swing and the carrier is no longer stabilised: overturning is likely. Unless the manufacturer expressly allows it, set the load down and stow the crane before moving."
+  }
+ },
+ {
+  "id": "r490-081",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Le crochet est trop court pour une élingue. Un collègue propose de faire un nœud dans l’élingue pour la raccourcir. Que répondez-vous ?",
+   "o": [
+    "Non, nouer une élingue est interdit et l’affaiblit",
+    "Oui, si le nœud est bien serré et placé loin du crochet",
+    "Oui, pour une charge légère"
+   ],
+   "x": "Un nœud crée une courbure très serrée qui réduit fortement la résistance de l’élingue, qu’elle soit en câble, en chaîne ou en textile. On utilise une élingue de la bonne longueur ou un raccourcisseur prévu à cet effet."
+  },
+  "en": {
+   "q": "A sling is too long. A colleague suggests tying a knot in it to shorten it. What do you say?",
+   "o": [
+    "No, knotting a sling is forbidden and weakens it",
+    "Yes, if the knot is tight and placed away from the hook",
+    "Yes, for a light load"
+   ],
+   "x": "A knot creates a very tight bend that sharply reduces a sling’s strength, whether wire rope, chain or textile. Use a sling of the right length or a shortener designed for the purpose."
+  }
+ },
+ {
+  "id": "r490-082",
+  "points": {
+   "r490": "expl-interdites"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "La charge est presque posée, mais le grutier voit qu’un ouvrier a le pied dessous. Que doit-il faire ?",
+   "o": [
+    "Poser rapidement pour libérer le crochet",
+    "Klaxonner et continuer",
+    "Arrêter la descente jusqu’à ce que la personne se retire"
+   ],
+   "x": "Personne ne se tient sous une charge suspendue, même au moment de la dépose. Le grutier stoppe le mouvement et ne reprend la descente que lorsque la zone est libre. La charge se guide à distance, avec une corde si besoin."
+  },
+  "en": {
+   "q": "The load is almost down but the operator sees a worker’s foot underneath. What must the operator do?",
+   "o": [
+    "Set it down quickly to free the hook",
+    "Sound the horn and carry on",
+    "Stop lowering until the person moves away"
+   ],
+   "x": "Nobody stands under a suspended load, even during landing. The operator stops the movement and resumes lowering only once the area is clear. The load is guided from a distance, with a tag line if needed."
+  }
+ },
+ {
+  "id": "r490-083",
+  "points": {
+   "r490": "expl-arrimage"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi place-t-on un tapis antiglisse sous un chargement sur le plateau ?",
+   "o": [
+    "Pour protéger la peinture du plateau",
+    "Pour augmenter le frottement et limiter le glissement",
+    "Pour amortir le bruit et les vibrations pendant le trajet"
+   ],
+   "x": "Le tapis antiglisse augmente le coefficient de frottement entre la charge et le plateau. Combiné à des sangles bien tendues, il réduit fortement le risque de glissement au freinage ou en virage. La recommandation le cite dans les bonnes pratiques d’arrimage."
+  },
+  "en": {
+   "q": "Why is anti-slip matting placed under a load on the platform?",
+   "o": [
+    "To protect the platform’s paint",
+    "To increase friction and limit sliding",
+    "To deaden noise and vibration during the journey"
+   ],
+   "x": "Anti-slip matting raises the friction between the load and the platform. Combined with properly tensioned straps it greatly reduces the risk of sliding when braking or cornering. The recommendation lists it among good securing practices."
+  }
+ },
+ {
+  "id": "r490-084",
+  "points": {
+   "r490": "expl-arrimage"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Après une demi-heure de route sur une voie dégradée, que faites-vous pour l’arrimage ?",
+   "o": [
+    "Vous vérifiez à nouveau la tension des sangles",
+    "Rien, l’arrimage du départ suffit",
+    "Vous desserrez un peu les sangles pour éviter qu’elles ne cassent"
+   ],
+   "x": "Les vibrations et les tassements de la charge font perdre de la tension aux dispositifs d’arrimage. La recommandation mentionne la vérification régulière de la tension. On s’arrête en lieu sûr pour contrôler et retendre si besoin."
+  },
+  "en": {
+   "q": "After half an hour on a rough road, what do you do about load securing?",
+   "o": [
+    "Check the strap tension again",
+    "Nothing, the initial securing is enough",
+    "Slacken the straps a little so they do not snap"
+   ],
+   "x": "Vibration and the load settling make lashings lose tension. The recommendation mentions checking tension regularly. Stop somewhere safe to check and retighten as needed."
+  }
+ },
+ {
+  "id": "r490-085",
+  "points": {
+   "r490": "expl-arrimage"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Une sangle d’arrimage présente une coupure et son étiquette est illisible. Que faites-vous ?",
+   "o": [
+    "Vous l’utilisez en doublant les tours",
+    "Vous l’utilisez pour des charges légères seulement",
+    "Vous la retirez du service"
+   ],
+   "x": "Sans étiquette lisible, on ne connaît plus la capacité de la sangle ; une coupure réduit sa résistance de façon imprévisible. Elle est retirée du service et remplacée. On contrôle l’état des sangles avant chaque utilisation."
+  },
+  "en": {
+   "q": "A lashing strap has a cut and its label is illegible. What do you do?",
+   "o": [
+    "Use it with extra turns",
+    "Use it for light loads only",
+    "Take it out of service"
+   ],
+   "x": "Without a legible label the strap’s capacity is unknown; a cut weakens it unpredictably. Take it out of service and replace it. Check straps before every use."
+  }
+ },
+ {
+  "id": "r490-086",
+  "points": {
+   "r490": "expl-arrimage"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Quelle norme européenne traite du calcul des forces d’arrimage des charges sur les véhicules routiers ?",
+   "o": [
+    "La norme NF EN 12999 des grues",
+    "La norme NF EN 12195-1",
+    "La norme ISO 6016"
+   ],
+   "x": "La NF EN 12195-1, citée par la recommandation, donne les méthodes de calcul des forces d’arrimage. La NF EN 12999 concerne la conception des grues de chargement et l’ISO 6016 définit la masse en service des engins de terrassement."
+  },
+  "en": {
+   "q": "Which European standard covers calculating lashing forces for loads on road vehicles?",
+   "o": [
+    "Crane standard NF EN 12999",
+    "Standard NF EN 12195-1",
+    "Standard ISO 6016"
+   ],
+   "x": "NF EN 12195-1, cited in the recommendation, gives methods to calculate lashing forces. NF EN 12999 covers the design of lorry loader cranes and ISO 6016 defines the operating mass of earth-moving machinery."
+  }
+ },
+ {
+  "id": "r490-087",
+  "points": {
+   "r490": "expl-arrimage"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une charge est plaquée contre la ridelle avant du plateau, sans espace. Quel avantage cela donne-t-il ?",
+   "o": [
+    "La ridelle bloque la charge vers l’avant au freinage",
+    "La charge pèse moins sur l’essieu arrière du porteur",
+    "Les sangles deviennent inutiles"
+   ],
+   "x": "Le blocage contre une ridelle ou une butée solide empêche la charge d’avancer lors d’un freinage. Il complète l’arrimage par sangles, qui reste nécessaire pour les autres directions et pour empêcher le basculement."
+  },
+  "en": {
+   "q": "A load is placed tight against the platform’s front board, with no gap. What advantage does this give?",
+   "o": [
+    "The board holds the load forwards when braking",
+    "The load weighs less on the carrier’s rear axle",
+    "Straps become unnecessary"
+   ],
+   "x": "Blocking against a strong front board or stop prevents the load sliding forward under braking. It complements strap lashing, which is still needed in other directions and to stop the load tipping."
+  }
+ },
+ {
+  "id": "r490-088",
+  "points": {
+   "r490": "expl-signalisation"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous déchargez en bord de rue. Que mettez-vous en place avant de déployer la grue ?",
+   "o": [
+    "Rien, l’opération est rapide",
+    "Seulement les feux de détresse",
+    "Un balisage de la zone de déchargement et de la zone d’évolution"
+   ],
+   "x": "La recommandation demande de vérifier le balisage de la zone de déchargement. Piétons et véhicules doivent être tenus à l’écart de la zone couverte par les stabilisateurs, la flèche et la charge, selon les autorisations et la signalisation prévues."
+  },
+  "en": {
+   "q": "You are unloading at the roadside. What do you set up before deploying the crane?",
+   "o": [
+    "Nothing, it is quick",
+    "Just the hazard lights",
+    "Barriers around the unloading area and the crane’s working area"
+   ],
+   "x": "The recommendation requires checking that the unloading area is marked off. Pedestrians and vehicles must be kept out of the area covered by stabilisers, boom and load, with the planned permits and signage."
+  }
+ },
+ {
+  "id": "r490-089",
+  "points": {
+   "r490": "expl-signalisation"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous arrivez sur un chantier pour livrer. Où trouvez-vous les règles de circulation à respecter ?",
+   "o": [
+    "Dans le plan de circulation et les consignes du chantier",
+    "Dans le carnet d’entretien du camion",
+    "Sur la notice de la grue, au chapitre des déplacements"
+   ],
+   "x": "Chaque site a ses règles : itinéraire, vitesse, zones de déchargement, cheminements piétons. Elles figurent au plan de circulation et dans les consignes, voire dans un protocole de sécurité pour les livraisons. Le chauffeur-grutier les demande à l’arrivée."
+  },
+  "en": {
+   "q": "You arrive at a site to make a delivery. Where do you find the traffic rules to follow?",
+   "o": [
+    "In the site traffic plan and site rules",
+    "In the truck’s service book",
+    "In the crane manual, in the travel chapter"
+   ],
+   "x": "Every site has its own rules: route, speed, unloading areas, pedestrian walkways. They are in the traffic plan and site instructions, or a safety protocol for deliveries. The driver-operator asks for them on arrival."
+  }
+ },
+ {
+  "id": "r490-090",
+  "points": {
+   "r490": "elingage-regles"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Comment choisir une élingue pour une charge donnée ?",
+   "o": [
+    "Prendre la plus longue disponible",
+    "Vérifier que sa CMU, selon le mode et l’angle d’élingage, couvre la charge",
+    "Prendre la plus épaisse sans lire le marquage"
+   ],
+   "x": "La charge maximale d’utilisation (CMU) figure sur le marquage de l’élingue. Elle varie selon le mode d’élingage (droit, nœud coulant, panier) et l’angle des brins. On choisit une élingue dont la capacité, dans la configuration réelle, dépasse la masse à lever."
+  },
+  "en": {
+   "q": "How do you choose a sling for a given load?",
+   "o": [
+    "Take the longest one available",
+    "Check its working load limit, for the hitch and angle used, covers the load",
+    "Take the thickest without reading the marking"
+   ],
+   "x": "The working load limit (CMU) is on the sling’s marking. It varies with the hitch (straight, choke, basket) and the leg angle. Choose a sling whose capacity, in the actual configuration, exceeds the mass to lift."
+  }
+ },
+ {
+  "id": "r490-091",
+  "points": {
+   "r490": "elingage-regles"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une élingue textile plate est de couleur violette. Selon le code couleur normalisé, quelle est sa CMU en levage droit ?",
+   "o": [
+    "1 000 kg",
+    "2 000 kg",
+    "5 000 kg"
+   ],
+   "x": "Le code couleur des élingues textiles normalisées associe le violet à 1 t, le vert à 2 t, le jaune à 3 t, le gris à 4 t et le rouge à 5 t, en levage droit. L’étiquette reste la référence : sans étiquette lisible, l’élingue ne s’utilise pas."
+  },
+  "en": {
+   "q": "A flat textile sling is violet. According to the standard colour code, what is its working load limit in a straight lift?",
+   "o": [
+    "1,000 kg",
+    "2,000 kg",
+    "5,000 kg"
+   ],
+   "x": "The standard textile sling colour code gives violet 1 t, green 2 t, yellow 3 t, grey 4 t and red 5 t, in a straight lift. The label remains the reference: without a legible label the sling must not be used."
+  }
+ },
+ {
+  "id": "r490-092",
+  "points": {
+   "r490": "elingage-regles"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous levez une poutre métallique aux arêtes vives avec des élingues textiles. Quelle précaution prenez-vous ?",
+   "o": [
+    "Aucune, le textile résiste à tout",
+    "Serrer davantage les élingues",
+    "Protéger les élingues aux angles avec des fourreaux ou protecteurs"
+   ],
+   "x": "Une arête vive coupe une élingue textile sous tension, parfois en un instant. On place des protections d’angle ou des fourreaux adaptés entre l’arête et l’élingue, ou on choisit un accessoire en chaîne si le constructeur le permet."
+  },
+  "en": {
+   "q": "You are lifting a steel beam with sharp edges using textile slings. What precaution do you take?",
+   "o": [
+    "None, textile resists everything",
+    "Tighten the slings more",
+    "Protect the slings at the edges with sleeves or corner protectors"
+   ],
+   "x": "A sharp edge cuts a textile sling under tension, sometimes instantly. Place corner protectors or suitable sleeves between edge and sling, or use a chain sling where the manufacturer allows."
+  }
+ },
+ {
+  "id": "r490-093",
+  "points": {
+   "r490": "elingage-regles"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une élingue est utilisée en nœud coulant (étranglée) autour d’un paquet de tubes. Comment évolue sa capacité par rapport au levage droit ?",
+   "o": [
+    "Elle augmente",
+    "Elle diminue",
+    "Elle reste la même"
+   ],
+   "x": "En nœud coulant, l’élingue subit une courbure serrée et un frottement au point d’étranglement : sa capacité est réduite par rapport au levage droit. Le marquage ou la notice du fabricant donne le coefficient à appliquer."
+  },
+  "en": {
+   "q": "A sling is used in a choke hitch around a bundle of tubes. How does its capacity compare with a straight lift?",
+   "o": [
+    "It increases",
+    "It decreases",
+    "It stays the same"
+   ],
+   "x": "In a choke hitch the sling is sharply bent and rubs at the choke point: its capacity is lower than in a straight lift. The marking or the maker’s instructions give the factor to apply."
+  }
+ },
+ {
+  "id": "r490-094",
+  "points": {
+   "r490": "elingage-regles"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Pourquoi utiliser un palonnier pour lever une charge longue et souple, comme un paquet de profilés ?",
+   "o": [
+    "Pour répartir les points d’accrochage et limiter flexion et angle des brins",
+    "Pour alléger la charge",
+    "Pour lever plus vite"
+   ],
+   "x": "Le palonnier écarte les points d’accrochage : la charge reste horizontale, plie moins et les brins restent proches de la verticale, donc moins sollicités. Sa masse s’ajoute à la charge suspendue."
+  },
+  "en": {
+   "q": "Why use a spreader beam to lift a long, flexible load such as a bundle of sections?",
+   "o": [
+    "To spread the pick points and limit bending and leg angle",
+    "To make the load lighter",
+    "To lift faster"
+   ],
+   "x": "A spreader beam spaces out the pick points: the load stays level, bends less and the legs stay close to vertical, so they carry less force. Its mass adds to the suspended load."
+  }
+ },
+ {
+  "id": "r490-095",
+  "points": {
+   "r490": "elingage-regles"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Avec une élingue à quatre brins sur une charge rigide, pourquoi ne peut-on pas compter sur quatre brins également chargés ?",
+   "o": [
+    "Parce que le quatrième brin est toujours décoratif",
+    "Parce que les élingues à quatre brins sont interdites",
+    "Parce que la charge peut ne reposer que sur certains brins"
+   ],
+   "x": "Sur une charge rigide, de petites différences de longueur ou de position font que certains brins portent plus que d’autres, parfois seulement deux. La capacité d’une élingue à quatre brins tient compte de ce déséquilibre ; on lit son marquage."
+  },
+  "en": {
+   "q": "With a four-leg sling on a rigid load, why can you not count on four equally loaded legs?",
+   "o": [
+    "The fourth leg is always decorative",
+    "Four-leg slings are forbidden",
+    "The load may hang on only some of the legs"
+   ],
+   "x": "On a rigid load, small differences in length or position mean some legs carry more than others, sometimes only two. A four-leg sling’s rated capacity allows for this imbalance; read its marking."
+  }
+ },
+ {
+  "id": "r490-096",
+  "points": {
+   "r490": "elingage-regles"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous déchargez des palettes de briques avec une fourche à palettes. Quelle précaution prenez-vous ?",
+   "o": [
+    "Lever la palette même si le bois est cassé",
+    "Vérifier l’état de la palette et sécuriser les éléments qui pourraient tomber",
+    "Placer un ouvrier sous la palette pour la stabiliser"
+   ],
+   "x": "Une palette abîmée ou des briques mal filmées peuvent tomber pendant le levage. On contrôle la palette, on centre la fourche sous le centre de gravité et l’on utilise un filet ou une protection si des éléments peuvent s’échapper."
+  },
+  "en": {
+   "q": "You are unloading pallets of bricks with a pallet fork. What precaution do you take?",
+   "o": [
+    "Lift the pallet even if the wood is broken",
+    "Check the pallet and secure items that could fall",
+    "Put a worker under the pallet to steady it"
+   ],
+   "x": "A damaged pallet or poorly wrapped bricks can fall during the lift. Check the pallet, centre the fork under the centre of gravity, and use a net or guard if items could fall."
+  }
+ },
+ {
+  "id": "r490-097",
+  "points": {
+   "r490": "elingage-regles"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Comment une manille doit-elle être mise en place ?",
+   "o": [
+    "Axe vissé à fond, effort dans l’axe de la manille",
+    "Axe remplacé par un boulon ordinaire de même diamètre",
+    "Effort appliqué de travers sur le corps"
+   ],
+   "x": "L’axe d’une manille est vissé à fond (et freiné si le modèle le prévoit) ; l’effort s’exerce dans l’axe du corps. Une traction de travers ou un axe non d’origine réduit fortement sa résistance."
+  },
+  "en": {
+   "q": "How must a shackle be fitted?",
+   "o": [
+    "Pin fully screwed in, force in line with the shackle",
+    "Pin replaced with an ordinary bolt of the same diameter",
+    "Force applied sideways on the body"
+   ],
+   "x": "A shackle pin is screwed fully home (and secured if the model requires it); the force acts along the body’s axis. Side loading or a non-original pin greatly reduces its strength."
+  }
+ },
+ {
+  "id": "r490-098",
+  "points": {
+   "r490": "elingage-anomalies"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un câble d’élingue présente une « cage d’oiseau » (torons écartés). Que faites-vous ?",
+   "o": [
+    "Vous le resserrez à la main et l’utilisez",
+    "Vous l’utilisez pour des charges légères",
+    "Vous le mettez au rebut"
+   ],
+   "x": "La cage d’oiseau montre que les torons ont été déformés, souvent après un choc ou une détente brutale. Le câble a perdu une partie de sa résistance de façon imprévisible : il est retiré du service, comme en cas de coque, d’écrasement ou de fils cassés."
+  },
+  "en": {
+   "q": "A wire rope sling shows a “birdcage” (strands opened out). What do you do?",
+   "o": [
+    "Twist it back by hand and use it",
+    "Use it for light loads",
+    "Scrap it"
+   ],
+   "x": "A birdcage shows the strands have been distorted, often after a shock or sudden release. The rope has lost strength unpredictably: it is taken out of service, as with kinks, crushing or broken wires."
+  }
+ },
+ {
+  "id": "r490-099",
+  "points": {
+   "r490": "elingage-anomalies"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Sur une élingue chaîne, un maillon est visiblement allongé. Qu’en concluez-vous ?",
+   "o": [
+    "La chaîne a été surchargée et doit être retirée",
+    "C’est normal après quelques levages, la chaîne se met en place",
+    "Il suffit de la graisser"
+   ],
+   "x": "Un maillon allongé ou déformé indique une surcharge ou un choc : l’acier a dépassé sa limite. La chaîne ne doit plus servir ; elle est retirée et examinée par une personne compétente. Une chaîne ne se répare pas par soudure sur chantier."
+  },
+  "en": {
+   "q": "On a chain sling, one link is visibly stretched. What do you conclude?",
+   "o": [
+    "The chain was overloaded and must be withdrawn",
+    "It is normal after a few lifts, the chain beds in",
+    "It just needs greasing"
+   ],
+   "x": "A stretched or deformed link shows an overload or shock: the steel went beyond its limit. The chain must not be used; it is withdrawn and examined by a competent person. Chains are never repaired by welding on site."
+  }
+ },
+ {
+  "id": "r490-100",
+  "points": {
+   "r490": "elingage-anomalies"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une élingue ronde textile laisse apparaître les fibres de son âme à travers une déchirure de la gaine. Que faites-vous ?",
+   "o": [
+    "Vous la réparez avec du ruban adhésif",
+    "Vous la retirez du service",
+    "Vous la retournez pour cacher la déchirure"
+   ],
+   "x": "La gaine protège l’âme porteuse. Si l’âme est visible, elle est exposée aux coupures et aux frottements : la résistance n’est plus garantie. L’élingue est retirée du service, comme en cas de brûlure, de coupure ou de contact avec un produit chimique."
+  },
+  "en": {
+   "q": "A round textile sling shows its core fibres through a tear in the cover. What do you do?",
+   "o": [
+    "Repair it with tape",
+    "Take it out of service",
+    "Turn it over to hide the tear"
+   ],
+   "x": "The cover protects the load-bearing core. If the core is visible it is exposed to cuts and abrasion: strength is no longer guaranteed. Withdraw the sling, as you would after a burn, a cut or chemical contact."
+  }
+ },
+ {
+  "id": "r490-101",
+  "points": {
+   "r490": "elingage-anomalies"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Le crochet de levage semble plus ouvert que d’habitude et le linguet ne touche plus le bec. Que signifie ce défaut ?",
+   "o": [
+    "Le crochet s’est adapté à l’élingue",
+    "Le crochet est neuf",
+    "Le crochet a pu être surchargé et doit être examiné"
+   ],
+   "x": "Une ouverture anormale du crochet traduit une déformation, souvent due à une surcharge ou à une charge prise en pointe. Le crochet ne retient plus l’élingue de façon sûre. On cesse de l’utiliser et on le fait examiner et remplacer."
+  },
+  "en": {
+   "q": "The lifting hook looks more open than usual and the latch no longer reaches the tip. What does this defect mean?",
+   "o": [
+    "The hook has adapted to the sling",
+    "The hook is new",
+    "The hook may have been overloaded and must be examined"
+   ],
+   "x": "Abnormal hook opening shows deformation, often from overload or tip loading. The hook no longer retains the sling safely. Stop using it and have it examined and replaced."
+  }
+ },
+ {
+  "id": "r490-102",
+  "points": {
+   "r490": "elingage-anomalies"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "L’axe d’une manille a été perdu. Un collègue le remplace par un boulon du commerce. Est-ce acceptable ?",
+   "o": [
+    "Non, seul un axe d’origine garantit la résistance",
+    "Oui, si le boulon a le même diamètre et un écrou freiné",
+    "Oui, pour un usage temporaire"
+   ],
+   "x": "Le boulon ordinaire n’a ni la nuance d’acier ni le traitement de l’axe d’origine ; il peut plier ou casser. Une manille à l’axe non conforme est retirée du service. Les accessoires de levage ne se bricolent pas."
+  },
+  "en": {
+   "q": "A shackle pin has been lost. A colleague replaces it with an ordinary bolt. Is that acceptable?",
+   "o": [
+    "No, only the original pin guarantees strength",
+    "Yes, if the bolt has the same diameter and a locking nut",
+    "Yes, for temporary use"
+   ],
+   "x": "An ordinary bolt has neither the steel grade nor the treatment of the original pin; it can bend or snap. A shackle with a non-compliant pin is withdrawn. Lifting accessories are never improvised."
+  }
+ },
+ {
+  "id": "r490-103",
+  "points": {
+   "r490": "elingage-anomalies"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Sur une fourche à palettes, une soudure entre la dent et le cadre présente une fissure. Que faites-vous ?",
+   "o": [
+    "Vous l’utilisez avec des charges plus légères",
+    "Vous ne l’utilisez pas et la signalez",
+    "Vous soudez la fissure vous-même"
+   ],
+   "x": "Une fissure sur une soudure peut s’agrandir brutalement sous charge : la dent cède et la palette tombe. La fourche est retirée du service et signalée. Seule une personne compétente décide de sa réparation ou de sa mise au rebut."
+  },
+  "en": {
+   "q": "On a pallet fork, a weld between tine and frame shows a crack. What do you do?",
+   "o": [
+    "Use it with lighter loads",
+    "Do not use it and report it",
+    "Weld the crack yourself"
+   ],
+   "x": "A cracked weld can open suddenly under load: the tine fails and the pallet falls. The fork is taken out of service and reported. Only a competent person decides whether it is repaired or scrapped."
+  }
+ },
+ {
+  "id": "r490-104",
+  "points": {
+   "r490": "elingage-anomalies"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Une élingue chaîne n’a plus de plaque d’identification. Peut-on l’utiliser ?",
+   "o": [
+    "Oui, si elle paraît en bon état",
+    "Oui, pour des charges inférieures à une tonne",
+    "Non, sa capacité n’est plus connue"
+   ],
+   "x": "Sans marquage, on ignore la CMU, la classe de l’acier et le fabricant : impossible de vérifier l’adéquation à la charge. L’élingue est mise de côté jusqu’à identification et réétiquetage par une personne compétente, ou mise au rebut."
+  },
+  "en": {
+   "q": "A chain sling has lost its identification tag. Can it be used?",
+   "o": [
+    "Yes, if it looks in good condition",
+    "Yes, for loads under one tonne",
+    "No, its capacity is no longer known"
+   ],
+   "x": "Without marking you do not know the working load limit, steel grade or maker: you cannot check it suits the load. Set it aside until a competent person identifies and re-tags it, or scraps it."
+  }
+ },
+ {
+  "id": "r490-105",
+  "points": {
+   "r490": "elingage-anomalies"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une élingue textile a été en contact avec de l’acide de batterie. Que faites-vous ?",
+   "o": [
+    "Vous la retirez du service",
+    "Vous la rincez et la réutilisez",
+    "Vous la laissez sécher au soleil puis l’utilisez"
+   ],
+   "x": "Certains produits chimiques dégradent les fibres textiles sans trace visible évidente. Une élingue exposée à un acide ou une base n’offre plus de garantie de résistance. Elle est retirée du service et signalée."
+  },
+  "en": {
+   "q": "A textile sling has been in contact with battery acid. What do you do?",
+   "o": [
+    "Take it out of service",
+    "Rinse it and reuse it",
+    "Dry it in the sun, then use it"
+   ],
+   "x": "Some chemicals degrade textile fibres without obvious visible signs. A sling exposed to acid or alkali no longer has guaranteed strength. Take it out of service and report it."
+  }
+ },
+ {
+  "id": "r490-106",
+  "points": {
+   "r490": "elingage-anomalies"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Avant chaque levage, qui doit examiner visuellement les accessoires de levage utilisés ?",
+   "o": [
+    "Personne, la vérification annuelle suffit",
+    "L’utilisateur, grutier ou élingueur",
+    "Uniquement le fabricant"
+   ],
+   "x": "En plus des vérifications périodiques réalisées par une personne compétente, l’utilisateur contrôle visuellement les accessoires avant usage : marquage, déformation, usure, coupure. Tout accessoire douteux est écarté et signalé."
+  },
+  "en": {
+   "q": "Before each lift, who must visually inspect the lifting accessories used?",
+   "o": [
+    "Nobody, the annual inspection is enough",
+    "The user, crane operator or slinger",
+    "Only the manufacturer"
+   ],
+   "x": "In addition to periodic inspections by a competent person, the user checks accessories visually before use: marking, deformation, wear, cuts. Any doubtful accessory is set aside and reported."
+  }
+ },
+ {
+  "id": "r490-107",
+  "points": {
+   "r490": "maint-flexibles"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Lors du tour de la grue, vous voyez un flexible dont la gaine extérieure est usée jusqu’à la tresse métallique. Que faites-vous ?",
+   "o": [
+    "Vous l’entourez soigneusement de plusieurs couches de ruban adhésif",
+    "Vous continuez, la tresse le protège",
+    "Vous signalez le défaut et n’utilisez pas la grue"
+   ],
+   "x": "La gaine protège la tresse de la corrosion et de l’abrasion. Tresse apparente, le flexible peut éclater sous pression, projeter de l’huile et faire tomber la flèche si un clapet est en défaut. Le flexible doit être remplacé avant usage."
+  },
+  "en": {
+   "q": "Walking round the crane, you see a hose whose outer cover is worn down to the steel braid. What do you do?",
+   "o": [
+    "Wrap it carefully in several layers of tape",
+    "Carry on, the braid protects it",
+    "Report the defect and do not use the crane"
+   ],
+   "x": "The cover protects the braid from corrosion and abrasion. With the braid exposed the hose can burst under pressure, spray oil and let the boom drop if a valve is faulty. The hose must be replaced before use."
+  }
+ },
+ {
+  "id": "r490-108",
+  "points": {
+   "r490": "maint-flexibles"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Un flexible présente un gonflement localisé (hernie). Quel risque cela annonce-t-il ?",
+   "o": [
+    "Un éclatement imminent du flexible",
+    "Un simple défaut esthétique",
+    "Une baisse de consommation d’huile"
+   ],
+   "x": "Une hernie signale que les couches de renfort ont cédé à cet endroit ; la pression déforme la gaine. L’éclatement peut survenir à tout moment. On n’utilise pas la grue et on fait remplacer le flexible."
+  },
+  "en": {
+   "q": "A hose has a localised bulge. What does it warn of?",
+   "o": [
+    "An imminent burst",
+    "A cosmetic defect only",
+    "Lower oil consumption"
+   ],
+   "x": "A bulge shows the reinforcement layers have failed at that point; pressure is deforming the cover. It can burst at any moment. Do not use the crane and have the hose replaced."
+  }
+ },
+ {
+  "id": "r490-109",
+  "points": {
+   "r490": "maint-flexibles"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Un flexible frotte contre la structure à chaque sortie des rallonges. Quelle conséquence redouter ?",
+   "o": [
+    "Aucune, le flexible est conçu pour frotter",
+    "Une usure progressive jusqu’à la rupture",
+    "Une augmentation de la portée"
+   ],
+   "x": "Le frottement répété use la gaine puis la tresse, jusqu’à la fuite ou l’éclatement. On signale le défaut de guidage ou de fixation pour qu’il soit corrigé, et on surveille l’état du flexible lors des vérifications d’usage."
+  },
+  "en": {
+   "q": "A hose rubs against the structure every time the extensions come out. What consequence should you fear?",
+   "o": [
+    "None, hoses are designed to rub",
+    "Gradual wear until it fails",
+    "Increased outreach"
+   ],
+   "x": "Repeated rubbing wears through the cover, then the braid, until it leaks or bursts. Report the faulty routing or clamp so it is corrected, and watch the hose during routine checks."
+  }
+ },
+ {
+  "id": "r490-110",
+  "points": {
+   "r490": "maint-flexibles"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un raccord de flexible suinte légèrement et des traces d’huile fraîche apparaissent dessous. Que faites-vous ?",
+   "o": [
+    "Vous essuyez et reprenez le travail",
+    "Vous resserrez le raccord, grue sous pression",
+    "Vous signalez la fuite pour réparation"
+   ],
+   "x": "Un suintement est une fuite qui peut s’aggraver brutalement. On ne resserre jamais un raccord sous pression : le flexible peut se désaccoupler. On signale l’anomalie et l’on fait intervenir une personne compétente, circuit décomprimé."
+  },
+  "en": {
+   "q": "A hose fitting is weeping slightly and fresh oil marks appear underneath. What do you do?",
+   "o": [
+    "Wipe it and resume work",
+    "Tighten the fitting with the crane pressurised",
+    "Report the leak for repair"
+   ],
+   "x": "Weeping is a leak that can suddenly get worse. Never tighten a fitting under pressure: the hose can come apart. Report the defect and have a competent person deal with it, with the circuit depressurised."
+  }
+ },
+ {
+  "id": "r490-111",
+  "points": {
+   "r490": "maint-flexibles"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Sur un flexible, vous remarquez de fines craquelures sur toute la gaine, durcie par l’âge. Que faites-vous ?",
+   "o": [
+    "Vous signalez le vieillissement pour un remplacement",
+    "Vous l’enduisez de graisse pour l’assouplir et le protéger",
+    "Vous ne faites rien tant qu’il ne fuit pas"
+   ],
+   "x": "Le caoutchouc vieillit sous l’effet du soleil, de la chaleur et de l’ozone : il durcit et se craquelle. Le flexible peut alors céder sans prévenir. Le défaut est signalé pour un remplacement par une personne compétente."
+  },
+  "en": {
+   "q": "On a hose you notice fine cracks all over the cover, which has hardened with age. What do you do?",
+   "o": [
+    "Report the ageing so it is replaced",
+    "Coat it with grease to soften and protect it",
+    "Do nothing until it leaks"
+   ],
+   "x": "Rubber ages from sunlight, heat and ozone: it hardens and cracks. The hose can then fail without warning. Report it so a competent person replaces it."
+  }
+ },
+ {
+  "id": "r490-112",
+  "points": {
+   "r490": "maint-chassis"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pendant une pause, avec la grue stabilisée, vous constatez qu’un stabilisateur est remonté seul de quelques centimètres. Que signifie ce défaut ?",
+   "o": [
+    "C’est normal quand l’huile refroidit fortement",
+    "Une fuite interne ou un clapet défectueux sur le vérin",
+    "Le sol s’est durci sous le patin et a repoussé le stabilisateur"
+   ],
+   "x": "Un vérin de stabilisateur doit garder sa position. S’il dérive, son clapet ou ses joints laissent passer l’huile : en charge, l’appui peut céder. On arrête les levages, on signale le défaut et on ne reprend qu’après réparation."
+  },
+  "en": {
+   "q": "During a break, with the crane stabilised, you notice one stabiliser has crept up a few centimetres by itself. What does this defect mean?",
+   "o": [
+    "It is normal when oil cools a lot",
+    "An internal leak or faulty valve on the cylinder",
+    "The ground hardened under the pad and pushed the stabiliser up"
+   ],
+   "x": "A stabiliser cylinder must hold its position. If it drifts, its valve or seals are letting oil past: under load the support can give way. Stop lifting, report the defect and resume only after repair."
+  }
+ },
+ {
+  "id": "r490-113",
+  "points": {
+   "r490": "maint-chassis"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous remarquez une fissure dans la peinture autour d’une fixation de la grue sur le châssis. Pourquoi est-ce important ?",
+   "o": [
+    "Elle peut révéler une fissure du métal à la liaison grue-châssis",
+    "Elle est seulement esthétique",
+    "Elle indique que la peinture est neuve et en cours de séchage"
+   ],
+   "x": "La liaison entre la grue et le châssis transmet tous les efforts du levage. Une peinture qui craquelle en ligne autour d’une soudure ou d’un boulon peut cacher une fissure. La recommandation cite le châssis et cette liaison parmi les points à surveiller."
+  },
+  "en": {
+   "q": "You notice a crack in the paint around a point where the crane is fixed to the chassis. Why does it matter?",
+   "o": [
+    "It may reveal a metal crack at the crane-chassis joint",
+    "It is only cosmetic",
+    "It shows the paint is new and still drying"
+   ],
+   "x": "The joint between crane and chassis carries all lifting forces. Paint cracking in a line around a weld or bolt can hide a crack. The recommendation lists the chassis and this joint among the points to watch."
+  }
+ },
+ {
+  "id": "r490-114",
+  "points": {
+   "r490": "maint-chassis"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Le verrou qui bloque une poutre de stabilisateur en position de transport ne s’enclenche plus. Quel risque cela crée-t-il ?",
+   "o": [
+    "Aucun, la poutre est lourde",
+    "Un mauvais réglage du niveau à bulle lors de la stabilisation",
+    "La poutre peut sortir en roulant et heurter un usager"
+   ],
+   "x": "Sans verrouillage, une poutre peut coulisser dans un virage ou au freinage et dépasser du gabarit du véhicule, au risque de heurter un piéton, un véhicule ou un obstacle. On signale le défaut et on ne part pas sans un blocage efficace."
+  },
+  "en": {
+   "q": "The lock that holds a stabiliser beam in the transport position no longer engages. What hazard does this create?",
+   "o": [
+    "None, the beam is heavy",
+    "Wrong spirit-level setting during stabilisation",
+    "The beam can slide out while driving and hit someone"
+   ],
+   "x": "Without the lock, a beam can slide out in a bend or under braking and stick out beyond the vehicle, risking hitting a pedestrian, a vehicle or an obstacle. Report the defect and do not set off without effective locking."
+  }
+ },
+ {
+  "id": "r490-115",
+  "points": {
+   "r490": "maint-chassis"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Un patin de stabilisateur est fendu et ne pivote plus librement. Que faites-vous ?",
+   "o": [
+    "Vous stabilisez quand même, l’autre côté compense",
+    "Vous signalez le défaut et n’utilisez pas la grue",
+    "Vous posez le vérin sans patin directement au sol"
+   ],
+   "x": "Le patin répartit l’effort et s’adapte aux petites irrégularités du sol. Fendu ou bloqué, il peut casser ou glisser sous charge. On n’utilise pas la grue tant que le patin n’est pas remplacé ; poser le vérin nu au sol est exclu."
+  },
+  "en": {
+   "q": "A stabiliser pad is split and no longer swivels freely. What do you do?",
+   "o": [
+    "Stabilise anyway, the other side compensates",
+    "Report the defect and do not use the crane",
+    "Put the cylinder down on the ground without a pad"
+   ],
+   "x": "The pad spreads the force and adapts to small ground irregularities. Split or seized, it can break or slip under load. Do not use the crane until the pad is replaced; setting the bare cylinder on the ground is out of the question."
+  }
+ },
+ {
+  "id": "r490-116",
+  "points": {
+   "r490": "maint-chassis"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous constatez qu’une poutre de stabilisateur est légèrement tordue après un choc. Que faites-vous ?",
+   "o": [
+    "Vous signalez le défaut pour expertise avant usage",
+    "Vous la redressez au marteau",
+    "Vous l’utilisez sans la sortir complètement jusqu’à la révision"
+   ],
+   "x": "Une poutre déformée ne garantit plus la résistance prévue et peut céder sous l’effort du levage. Le défaut est signalé et la grue n’est pas utilisée tant qu’une personne compétente n’a pas examiné et réparé ou remplacé la poutre."
+  },
+  "en": {
+   "q": "You find a stabiliser beam slightly bent after an impact. What do you do?",
+   "o": [
+    "Report it for assessment before use",
+    "Straighten it with a hammer",
+    "Use it without fully extending it until the next service"
+   ],
+   "x": "A deformed beam no longer guarantees its design strength and can fail under lifting forces. Report the defect; do not use the crane until a competent person has examined and repaired or replaced the beam."
+  }
+ },
+ {
+  "id": "r490-117",
+  "points": {
+   "r490": "maint-structure"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "En vérifiant la flèche, vous découvrez une fissure le long d’une soudure. Que faites-vous ?",
+   "o": [
+    "Vous travaillez en réduisant la charge de moitié",
+    "Vous la repeignez pour éviter la rouille",
+    "Vous arrêtez l’utilisation et signalez la fissure"
+   ],
+   "x": "Une fissure dans la structure se propage sous les efforts répétés et peut conduire à la rupture brutale de la flèche. La grue est immobilisée et signalée ; seule une personne compétente décide de la réparation."
+  },
+  "en": {
+   "q": "Checking the boom, you find a crack along a weld. What do you do?",
+   "o": [
+    "Work at half the load",
+    "Paint over it to prevent rust",
+    "Stop using the crane and report the crack"
+   ],
+   "x": "A crack in the structure grows under repeated stress and can lead to sudden boom failure. Take the crane out of use and report it; only a competent person decides on repairs."
+  }
+ },
+ {
+  "id": "r490-118",
+  "points": {
+   "r490": "maint-structure"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une articulation de la flèche présente un jeu anormal et un claquement à chaque changement de sens. Que révèle ce défaut ?",
+   "o": [
+    "Un graissage trop abondant",
+    "Une usure des axes ou des bagues à faire examiner",
+    "Un fonctionnement normal des articulations en période d’hiver"
+   ],
+   "x": "Un jeu excessif aux axes signale une usure des bagues ou des axes, qui crée des chocs et accélère la dégradation. Il peut mener à la rupture d’un axe. On signale l’anomalie pour une vérification par une personne compétente."
+  },
+  "en": {
+   "q": "A boom joint has abnormal play and knocks each time the direction changes. What does this defect reveal?",
+   "o": [
+    "Too much grease",
+    "Worn pins or bushes that must be examined",
+    "Normal joint behaviour in wintertime"
+   ],
+   "x": "Excessive play at the pins shows worn bushes or pins, which cause shocks and speed up damage. It can lead to a pin failing. Report it so a competent person checks it."
+  }
+ },
+ {
+  "id": "r490-119",
+  "points": {
+   "r490": "maint-structure"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Les rallonges télescopiques sortent par à-coups et frottent bruyamment. Quelle peut être la cause ?",
+   "o": [
+    "Des patins de glissement usés ou un défaut de lubrification",
+    "Un vent trop faible pour refroidir les vérins des rallonges",
+    "Un excès de carburant"
+   ],
+   "x": "Les rallonges coulissent sur des patins de glissement qui s’usent et doivent être lubrifiés selon la notice. Des à-coups provoquent des chocs dans la structure et un ballant de la charge. On signale l’anomalie pour un entretien."
+  },
+  "en": {
+   "q": "The telescopic extensions come out in jerks and scrape loudly. What could be the cause?",
+   "o": [
+    "Worn slide pads or poor lubrication",
+    "Too little wind to cool the extension cylinders",
+    "Too much fuel"
+   ],
+   "x": "Extensions slide on wear pads that wear out and must be lubricated as the manual says. Jerky movement sends shocks through the structure and makes the load swing. Report it for servicing."
+  }
+ },
+ {
+  "id": "r490-120",
+  "points": {
+   "r490": "maint-structure"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "La tige chromée d’un vérin de levage présente des rayures profondes. Quel problème cela peut-il entraîner ?",
+   "o": [
+    "Une meilleure étanchéité",
+    "Une augmentation de la capacité de levage du vérin",
+    "L’usure des joints et des fuites du vérin"
+   ],
+   "x": "Une tige rayée abîme les joints à chaque mouvement : le vérin fuit, perd sa tenue et peut laisser descendre la flèche. Le défaut est signalé pour être traité avant qu’il ne s’aggrave."
+  },
+  "en": {
+   "q": "The chromed rod of a lift cylinder has deep scratches. What problem can this cause?",
+   "o": [
+    "Better sealing",
+    "An increase in the cylinder’s lifting capacity",
+    "Seal wear and cylinder leaks"
+   ],
+   "x": "A scored rod damages the seals with every stroke: the cylinder leaks, loses its hold and can let the boom drift down. Report the defect so it is dealt with before it gets worse."
+  }
+ },
+ {
+  "id": "r490-121",
+  "points": {
+   "r490": "maint-structure"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Avant d’utiliser une grue, quel document consultez-vous pour connaître les observations du dernier contrôle périodique ?",
+   "o": [
+    "La carte grise du porteur et son contrôle technique",
+    "Le rapport de vérification générale périodique",
+    "Le bon de livraison du client"
+   ],
+   "x": "La recommandation demande de consulter le rapport de vérification générale périodique, pour en connaître la validité, les observations et les éventuelles restrictions. Une observation sur la structure ou une restriction doit être connue et respectée avant toute utilisation."
+  },
+  "en": {
+   "q": "Before using a crane, which document do you check for the observations from the last periodic inspection?",
+   "o": [
+    "The carrier’s registration and roadworthiness certificate",
+    "The periodic thorough examination report",
+    "The customer’s delivery note"
+   ],
+   "x": "The recommendation requires checking the periodic inspection report (vérification générale périodique): validity, observations, usage restrictions. Any observation on the structure or restriction must be known and respected before use."
+  }
+ },
+ {
+  "id": "r490-122",
+  "points": {
+   "r490": "maint-structure"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une zone de la flèche est fortement corrodée, avec un métal qui s’écaille. Que faites-vous ?",
+   "o": [
+    "Vous signalez la corrosion pour qu’elle soit évaluée",
+    "Vous la grattez et continuez",
+    "Vous l’ignorez tant que la grue lève encore ses charges habituelles"
+   ],
+   "x": "Une corrosion avancée réduit l’épaisseur du métal et donc la résistance de la structure, parfois sans signe extérieur évident. On la signale pour qu’une personne compétente évalue l’état de la flèche avant de poursuivre l’utilisation."
+  },
+  "en": {
+   "q": "An area of the boom is badly corroded, with flaking metal. What do you do?",
+   "o": [
+    "Report the corrosion so it can be assessed",
+    "Scrape it and carry on",
+    "Ignore it while the crane still lifts its usual loads"
+   ],
+   "x": "Advanced corrosion reduces metal thickness and so the structure’s strength, sometimes with no obvious outward sign. Report it so a competent person assesses the boom before further use."
+  }
+ }
+]

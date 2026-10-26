@@ -1,0 +1,24 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'fr';
+---
+<PageLayout title={`Contact : ${SITE_NAMES[lang]}, erreurs, règles, intégration`} description="Écrire à FR CACES quand une réponse du test blanc semble fausse, quand une règle ou un prix paraît périmé, ou pour intégrer le test CACES blanc sur un autre site." lang={lang} noindex={true} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Contact</h1>
+    <p>E-mail : <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. Chaque message est lu par une personne.</p>
+    <h2>Une réponse semble fausse</h2>
+    <p>Donnez les premiers mots de la question et la recommandation (R489, R482…). Chaque corrigé indique le point du référentiel dont il vient ; si la recommandation dit autre chose, nous réécrivons la question.</p>
+    <h2>Une règle ou un prix semble périmé</h2>
+    <p>Indiquez la règle et, si vous l’avez, le texte officiel qui dit autre chose. Nous relisons la source, corrigeons le fichier de paramètres et datons la modification.</p>
+    <h2>Ce que nous ne pouvons pas faire</h2>
+    <p>Nous ne sommes ni un organisme testeur ni un centre de formation. Nous ne pouvons ni vous inscrire à un test, ni vérifier un CACES, ni conseiller un organisme, ni monter un dossier de financement. N’envoyez ni numéro de sécurité sociale, ni copie de CACES, ni pièce d’identité.</p>
+    <h2>Intégrer le test blanc</h2>
+    <p>Une entreprise, une agence d’intérim ou un formateur peut afficher le test blanc dans un cadre, gratuitement : voir la <a href={route('widget', lang)}>page d’intégration</a>.</p>
+    <h2>Éditeur</h2>
+    <LegalIdentity lang={lang} />
+    <p>Mise à jour : {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

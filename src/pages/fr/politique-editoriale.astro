@@ -1,0 +1,19 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'fr';
+---
+<PageLayout title={`Politique éditoriale : ${SITE_NAMES[lang]}, sources et corrections`} description="Sur quels textes officiels s’appuie FR CACES, comment ses questions et corrigés sont rédigés, quelles sources il refuse et comment une erreur est corrigée et datée." lang={lang} noindex={true} breadcrumbs={[{ label: 'Politique éditoriale' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Politique éditoriale et de correction</h1>
+    <p>Ces pages servent à préparer un test payé par vous ou par votre employeur, et à savoir quand un CACES expire. Une réponse fausse ou une règle périmée peut coûter un échec ou une conduite sans autorisation valable : chaque règle renvoie donc au texte officiel où elle a été lue.</p>
+    <h2>Responsable</h2><p>{AUTHOR_NAME}, joignable à <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>Ce que nous lisons</h2><p>Les recommandations R489, R482, R486, R490 et R485 publiées par l’Assurance Maladie dans leur version de 2026, les articles R4323-55 et suivants du Code du travail sur code.travail.gouv.fr, l’arrêté du 26 septembre 2025 relatif à la formation à la conduite, l’arrêté du 4 novembre 1993 sur la signalisation de santé et de sécurité au travail, le règlement CLP pour les pictogrammes de danger, les fiches de service-public.gouv.fr et de France Travail sur le financement, et le catalogue Mon Compte Formation publié par la Caisse des Dépôts.</p>
+    <h2>Rédaction des questions</h2><p>Chaque question est écrite par nous à partir d’un point du référentiel de la recommandation, avec un corrigé qui dit pourquoi. Nous ne reprenons jamais une question d’un organisme testeur, d’un manuel, d’une application, d’un autre site ou d’un test réel, et nous ne prétendons pas donner les questions officielles. Les pictogrammes sont dessinés par nous.</p>
+    <h2>Sources refusées</h2><p>Forums, sites de préparation, organismes de formation et comparateurs ne fournissent ici aucun chiffre. Une règle introuvable dans un texte officiel n’est pas publiée.</p>
+    <h2>Révision</h2><p>Les règles sont relues à la main ; chaque page affiche la date de la dernière relecture. Les prix des formations sont relus chaque semaine par un script qui lit le catalogue officiel.</p>
+    <h2>Corrections</h2><ol><li>Nous relisons le texte officiel.</li><li>Nous corrigeons le paramètre ou la question et ajoutons un test automatique.</li><li>Le site est reconstruit et affiche la nouvelle date.</li></ol>
+    <h2>Indépendance</h2><p>Aucun organisme testeur, centre de formation, agence d’intérim ni administration ne paie ni ne relit ce qui est publié ici, et le site ne contient aucun lien d’affiliation. Voir aussi la <a href={route('method', lang)}>méthode</a>. Version : {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

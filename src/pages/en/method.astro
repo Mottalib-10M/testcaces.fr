@@ -1,0 +1,34 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { route } from '../../i18n/routes';
+import { breadcrumbSchema, articleSchema } from '../../lib/seo';
+import { helpers } from '../../lib/helpers';
+const lang = 'en';
+const h = helpers(lang);
+const P = h.P;
+const c = h.count;
+---
+<PageLayout title="CACES mock test method: draw, marking scheme and dates" description="How FR CACES draws a mock test from each recommendation's assessment sheet, marks it at 70 out of 100 with half of each theme, and works out prices and dates." lang={lang} jsonLd={[articleSchema({ title: 'Method: draw, marking and calculations', description: 'FR CACES method', path: route('method', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Method', path: route('method', lang) }])]} breadcrumbs={[{ label: 'Method' }]}>
+  <header class="mb-6"><p class="kicker">Method</p><h1 class="mt-0 text-3xl font-bold text-navy-900 md:text-4xl">Draw, marking, prices and dates</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <p>Every page and every tool reads the same files: the question bank, the assessment grids, a parameter file holding the rules checked on {h.retrieved}, and the Mon Compte Formation catalogue prices as of {h.cpfDate}. No rule, pass mark or price is typed into a page: when a text changes, the file changes and every page follows.</p>
+    <h2>1. The assessment grids</h2>
+    <p>Each French Health Insurance recommendation has, in annex 3, a theory assessment sheet: themes (general knowledge, technology and stability, operation, and depending on the machine the load chart, traffic, maintenance or slinging), each split into syllabus points with a number of points. The total is always 100. We took these grids theme by theme and point by point, rewording the labels; they are shown on each recommendation page.</p>
+    <h2>2. The question bank</h2>
+    <p>It holds {h.num(c.all)} questions written by us: {c.per.r489} for R489, {c.per.r482} for R482, {c.per.r486} for R486, {c.per.r490} for R490 and {c.per.r485} for R485, some general questions serving several recommendations. Each is tied to a grid point, has three or four options with one correct answer, and an explanation. The position of the right answer is spread across the slots. These are not the official questions: testing bodies use question grids they do not publish.</p>
+    <h2>3. How the mock exam is drawn</h2>
+    <p>For each grid point worth n points, the mock exam draws n questions among those that train that point. The mock test therefore has exactly the official weight of each theme: in R489, for example, 15 points of general knowledge, 25 of technology and stability, 10 of load chart and 50 of operation. The draw depends on a number (the seed) written in the address when you start again: the same address gives the same test.</p>
+    <h2>4. Marking</h2>
+    <p>A right answer scores 1 point, a wrong or missing answer 0. You pass with {P.test.passScore} points out of 100 AND at least half the points of each theme, as in the recommendations. The {P.test.minutes}-minute timer (one test unit, one hour give or take ten minutes) starts at your first answer. In practice mode the rule is scaled to the number of questions asked and the result is only a guide.</p>
+    <h2>5. Progress and mistakes</h2>
+    <p>Missed questions and the scores of completed mock exams are kept in your browser’s local storage, on your device only. They are never sent. A question leaves the mistakes list as soon as you answer it correctly. The “Clear my progress” button empties that storage.</p>
+    <h2>6. Dates</h2>
+    <p>A CACES expires on the {h.years('r489')}-year anniversary ({h.years('r482')} years for R482) of the date it was obtained, which is the date the second part was passed. The medical certificate of no contraindication (attestation d’absence de contre-indications médicales) is valid {P.medical.attestationYears} years (Labour Code article R4323-56); a fitness opinion issued before 1 October 2025 counts for {P.medical.oldAvisUntilYears} years from its date. A passed part is kept for {P.test.keepPassedPartMonths} months. Dates are counted in calendar days; 29 February becomes 28 February.</p>
+    <h2>7. Prices</h2>
+    <p>The update script reads the Mon Compte Formation catalogue published as open data by the Caisse des Dépôts (Licence Ouverte), keeps the offers linked to the CACES certifications of the Répertoire spécifique (one per category), counts each offer once and computes the median and quartiles of the average price including VAT and of the length, separately for initial courses and refreshers (title containing “recyclage”, “renouvellement” or “actualisation”). A regional price is shown only above 8 offers in the region. An offer can bundle several categories: its price is then that of the whole course. No provider name is kept.</p>
+    <h2>8. Funding</h2>
+    <p>The CPF calculation applies the rules on service-public.gouv.fr: at most {h.eur(P.cpf.rsCap)} of rights for a Répertoire spécifique certification such as the CACES, and a flat contribution of {h.eur(P.cpf.participation)} for a request made since {h.date(P.cpf.participationSince)}, except for jobseekers or when the employer tops up the account.</p>
+    <h2>9. Updates</h2>
+    <p>Prices are re-read every week by an automatic script ({h.cpfDate} for the version shown). Rules are re-read by hand in the recommendations published by the French Health Insurance, on code.travail.gouv.fr and on service-public.gouv.fr. If a text changes between two checks, tell us through the <a href={route('contact', lang)}>Contact page</a>.</p>
+  </div>
+</PageLayout>

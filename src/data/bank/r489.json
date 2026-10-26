@@ -1,0 +1,4525 @@
+[
+ {
+  "id": "r489-001",
+  "points": {
+   "r489": "cg-roles-employeur",
+   "r485": "cg-roles-employeur",
+   "r486": "cg-roles-employeur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Qui vous délivre l’autorisation de conduite de l’engin que vous utilisez au travail ?",
+   "o": [
+    "Votre employeur",
+    "L’organisme testeur qui a fait passer le CACES",
+    "Le médecin du travail",
+    "L’inspection du travail"
+   ],
+   "x": "L’article R4323-56 du Code du travail confie l’autorisation de conduite à l’employeur. Le CACES ne la remplace pas : c’est un moyen pour l’employeur de vérifier vos connaissances et votre savoir-faire avant de signer cette autorisation."
+  },
+  "en": {
+   "q": "Who issues your operating authorisation for the machine you use at work?",
+   "o": [
+    "Your employer",
+    "The testing body that ran your CACES test",
+    "The occupational physician",
+    "The labour inspectorate"
+   ],
+   "x": "Article R4323-56 of the Labour Code (Code du travail) makes the employer responsible for the operating authorisation (autorisation de conduite). The CACES does not replace it: it is one way for the employer to check your knowledge and skills before signing."
+  }
+ },
+ {
+  "id": "r489-002",
+  "points": {
+   "r489": "cg-roles-employeur",
+   "r485": "cg-roles-employeur",
+   "r486": "cg-roles-employeur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Avant de vous remettre une autorisation de conduite, que doit notamment vérifier votre employeur ?",
+   "o": [
+    "Que vous avez le permis de conduire B, quel que soit l’engin, et un casier judiciaire vierge",
+    "Que vous détenez une attestation médicale de non contre-indication en cours de validité",
+    "Que vous avez au moins trois ans d’expérience sur cet engin",
+    "Que vous avez réussi un test de langue étrangère"
+   ],
+   "x": "L’employeur contrôle l’attestation médicale de non contre-indication remise par le médecin du travail, de votre évaluation (CACES ou équivalent) et de votre connaissance des lieux et des consignes du site. L’expérience ou le permis B ne sont pas exigés en soi."
+  },
+  "en": {
+   "q": "Before giving you an operating authorisation, what must your employer check in particular?",
+   "o": [
+    "That you hold a car driving licence, whatever the machine, and a clean criminal record",
+    "That you hold a valid medical certificate of no contraindication",
+    "That you have at least three years of experience on this machine",
+    "That you have passed a foreign language test"
+   ],
+   "x": "The employer checks your valid certificate of no medical contraindication (attestation d'absence de contre-indications médicales) issued by the occupational physician, your assessment (CACES or equivalent) and that you know the site and its instructions. Experience or a car licence are not required as such."
+  }
+ },
+ {
+  "id": "r489-003",
+  "points": {
+   "r489": "cg-roles-employeur",
+   "r485": "cg-roles-employeur",
+   "r486": "cg-roles-employeur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Qui doit faire réaliser les vérifications générales périodiques de l’engin mis à votre disposition ?",
+   "o": [
+    "Le conducteur, à chaque prise de poste",
+    "Le constructeur, à sa seule initiative",
+    "L’employeur, chef de l’établissement",
+    "L’organisme qui vous a fait passer le CACES"
+   ],
+   "x": "Les vérifications générales périodiques des appareils de levage relèvent du chef d’établissement, qui les confie à une personne compétente et conserve les rapports. Le conducteur, lui, fait les vérifications de prise de poste et signale les anomalies."
+  },
+  "en": {
+   "q": "Who must arrange the periodic thorough examinations of the machine you are given?",
+   "o": [
+    "The driver, at the start of each shift",
+    "The manufacturer, on its own initiative",
+    "The employer, as head of the establishment",
+    "The body that ran your CACES test"
+   ],
+   "x": "Periodic thorough examinations (vérifications générales périodiques) of lifting equipment are the duty of the head of the establishment, who uses a competent person and keeps the reports. The driver carries out start-of-shift checks and reports faults."
+  }
+ },
+ {
+  "id": "r489-004",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous jugez qu’une situation de travail présente un danger grave et imminent pour votre vie. Que pouvez-vous faire ?",
+   "o": [
+    "Continuer jusqu’à la fin du poste puis en parler",
+    "Quitter le site sans prévenir personne",
+    "Attendre la prochaine visite de l’inspecteur du travail avant d’arrêter le travail",
+    "Alerter votre employeur et vous retirer de cette situation"
+   ],
+   "x": "Le Code du travail (articles L4131-1 et suivants) prévoit un droit d’alerte et de retrait : vous signalez immédiatement le danger à l’employeur et vous pouvez vous retirer, sans sanction ni retenue de salaire si le motif est raisonnable."
+  },
+  "en": {
+   "q": "You believe a work situation poses a serious and imminent danger to your life. What may you do?",
+   "o": [
+    "Carry on until the end of the shift, then mention it",
+    "Leave the site without telling anyone",
+    "Wait for the labour inspector's next visit before stopping work",
+    "Alert your employer and withdraw from the situation"
+   ],
+   "x": "The Labour Code (Articles L4131-1 onwards) gives a right to alert and withdraw (droit d'alerte et de retrait): you report the danger to the employer at once and may withdraw, with no penalty or loss of pay if your reason is reasonable."
+  }
+ },
+ {
+  "id": "r489-005",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "À la prise de poste, vous constatez que le freinage de votre engin est anormal. Que faites-vous ?",
+   "o": [
+    "Vous ne l’utilisez pas et vous prévenez votre responsable",
+    "Vous l’utilisez à vitesse réduite jusqu’à la pause, en freinant plus tôt",
+    "Vous tentez de régler les freins vous-même",
+    "Vous le laissez à un collègue plus expérimenté"
+   ],
+   "x": "Un engin dont un organe de sécurité est défaillant ne doit pas être utilisé. Le conducteur rend compte de l’anomalie à sa hiérarchie ; la réparation revient à du personnel qualifié. Le passer à un collègue ne supprime pas le danger."
+  },
+  "en": {
+   "q": "At the start of your shift you notice the braking of your machine is abnormal. What do you do?",
+   "o": [
+    "You do not use it and you inform your manager",
+    "You use it at low speed until the break, braking earlier",
+    "You try to adjust the brakes yourself",
+    "You hand it over to a more experienced colleague"
+   ],
+   "x": "A machine with a faulty safety component must not be used. The driver reports the fault to management; repairs are for qualified staff. Handing it to a colleague does not remove the danger."
+  }
+ },
+ {
+  "id": "r489-006",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous venez de réussir votre CACES. Pouvez-vous conduire l’engin dans votre entreprise dès le lendemain ?",
+   "o": [
+    "Oui, le CACES vaut autorisation de conduite",
+    "Non, il vous faut aussi une autorisation de conduite signée par l’employeur",
+    "Oui, à condition de garder le certificat sur vous",
+    "Non, il faut d’abord six mois de pratique encadrée par un tuteur désigné"
+   ],
+   "x": "Le CACES atteste vos connaissances et votre savoir-faire, mais seule l’autorisation de conduite délivrée par l’employeur (article R4323-56 du Code du travail) vous permet de conduire, après vérification de l’aptitude médicale et de la connaissance du site."
+  },
+  "en": {
+   "q": "You have just passed your CACES. May you operate the machine at your company the next day?",
+   "o": [
+    "Yes, the CACES counts as an operating authorisation",
+    "No, you also need an operating authorisation signed by the employer",
+    "Yes, provided you carry the certificate with you",
+    "No, you must first complete six months of practice supervised by a named mentor"
+   ],
+   "x": "The CACES certifies your knowledge and skills, but only the operating authorisation (autorisation de conduite) issued by the employer under Article R4323-56 of the Labour Code lets you operate, after medical fitness and site knowledge are checked."
+  }
+ },
+ {
+  "id": "r489-007",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Quelle est la durée de validité d’un CACES R489, R485 ou R486 ?",
+   "o": [
+    "10 ans",
+    "2 ans",
+    "5 ans",
+    "Il reste valable toute la carrière"
+   ],
+   "x": "Pour ces trois recommandations, le CACES est valable 5 ans. Le conducteur doit, au moins à cette échéance, actualiser ses connaissances et repasser les épreuves théoriques et pratiques. La durée de 10 ans concerne les engins de chantier (R482)."
+  },
+  "en": {
+   "q": "How long is a CACES R489, R485 or R486 valid?",
+   "o": [
+    "10 years",
+    "2 years",
+    "5 years",
+    "It stays valid for your whole career"
+   ],
+   "x": "For these three recommendations the CACES is valid for 5 years. By then at the latest, the driver must refresh their knowledge and retake the theory and practical tests. The 10-year period applies to construction machinery (R482)."
+  }
+ },
+ {
+  "id": "r489-008",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous êtes envoyé pour la première fois sur un nouveau site avec votre engin. Que devez-vous connaître avant de commencer ?",
+   "o": [
+    "Uniquement l’adresse de livraison",
+    "Le nom du fabricant des rayonnages et la date de leur installation",
+    "Le chiffre d’affaires du client",
+    "Les consignes de sécurité et le plan de circulation de ce site"
+   ],
+   "x": "Chaque site a ses propres règles : plan de circulation, consignes, plan de prévention ou protocole de sécurité. L’employeur doit vous les transmettre avant le début des travaux et vous devez les appliquer. Sans elles, vous ignorez les zones dangereuses et les priorités."
+  },
+  "en": {
+   "q": "You are sent for the first time to a new site with your machine. What must you know before starting?",
+   "o": [
+    "Only the delivery address",
+    "The racking manufacturer's name and the date it was installed",
+    "The customer's turnover",
+    "The site's safety instructions and traffic plan"
+   ],
+   "x": "Each site has its own rules: traffic plan (plan de circulation), instructions, prevention plan or safety protocol. Your employer must pass them on before work starts and you must apply them. Without them you do not know the danger zones or priorities."
+  }
+ },
+ {
+  "id": "r489-009",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Selon le Code du travail, de quoi chaque salarié doit-il prendre soin au travail ?",
+   "o": [
+    "De sa sécurité et de celle des personnes touchées par ses actes",
+    "De sa seule sécurité personnelle",
+    "De la sécurité des clients et des visiteurs uniquement, pas des collègues",
+    "Du respect des délais avant tout"
+   ],
+   "x": "L’article L4122-1 du Code du travail demande à chaque travailleur de prendre soin de sa santé et de sa sécurité, mais aussi de celles des autres personnes concernées par ses actes ou omissions, selon sa formation et ses moyens."
+  },
+  "en": {
+   "q": "Under the Labour Code, what must every employee take care of at work?",
+   "o": [
+    "Their own safety and that of people affected by what they do",
+    "Only their own personal safety",
+    "Only the safety of customers and visitors, not colleagues",
+    "Meeting deadlines above all"
+   ],
+   "x": "Article L4122-1 of the Labour Code requires every worker to take care of their own health and safety and also that of others affected by their acts or omissions, according to their training and means."
+  }
+ },
+ {
+  "id": "r489-010",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Un collègue vous propose de neutraliser un dispositif de sécurité de l’engin pour gagner du temps. Que répondez-vous ?",
+   "o": [
+    "Vous acceptez si le chef d’équipe vous en donne l’accord oralement",
+    "Vous refusez : un dispositif de sécurité ne se neutralise pas",
+    "Vous acceptez pendant les périodes de forte activité",
+    "Vous acceptez si vous restez prudent"
+   ],
+   "x": "Les dispositifs de sécurité sont là pour éviter les accidents graves. Les neutraliser expose le conducteur et les autres à un danger et engage sa responsabilité. Un dispositif gênant ou défectueux se signale à la hiérarchie, il ne se contourne pas."
+  },
+  "en": {
+   "q": "A colleague suggests disabling a safety device on the machine to save time. What do you answer?",
+   "o": [
+    "You agree if the team leader gives you the go-ahead verbally",
+    "You refuse: safety devices are never disabled",
+    "You agree during busy periods",
+    "You agree as long as you stay careful"
+   ],
+   "x": "Safety devices exist to prevent serious accidents. Disabling one puts the driver and others at risk and makes the driver liable. A device that is in the way or faulty is reported to management, never bypassed."
+  }
+ },
+ {
+  "id": "r489-011",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Lors d’un contrôle, l’inspection du travail vous demande votre autorisation de conduite. Que doit-il en être ?",
+   "o": [
+    "Elle n’existe que dans le bureau du constructeur",
+    "Seul le CACES peut être demandé",
+    "Vous devez pouvoir la présenter",
+    "Elle n’est exigée que pour la voie publique"
+   ],
+   "x": "Le conducteur doit détenir son autorisation de conduite et pouvoir la montrer aux organismes de prévention compétents, comme l’inspection du travail ou la Carsat. Le CACES seul ne suffit pas à prouver que l’employeur vous a autorisé."
+  },
+  "en": {
+   "q": "During an inspection, the labour inspectorate asks for your operating authorisation. What is expected?",
+   "o": [
+    "It only exists at the manufacturer's office",
+    "Only the CACES may be requested",
+    "You must be able to show it",
+    "It is only required on public roads"
+   ],
+   "x": "The driver must hold the operating authorisation (autorisation de conduite) and be able to show it to the competent prevention bodies such as the labour inspectorate or the Carsat. The CACES alone does not prove the employer has authorised you."
+  }
+ },
+ {
+  "id": "r489-012",
+  "points": {
+   "r489": "cg-acteurs",
+   "r485": "cg-acteurs",
+   "r486": "cg-acteurs"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Qui délivre l’attestation médicale de non contre-indication à la conduite ?",
+   "o": [
+    "Votre médecin traitant",
+    "L’inspecteur du travail",
+    "Le formateur CACES",
+    "Le médecin du travail"
+   ],
+   "x": "Depuis le 1er octobre 2025, cette attestation est remise par le médecin du travail, au sein du service de santé au travail. Elle est valable 5 ans et l’employeur doit la vérifier avant de délivrer l’autorisation de conduite."
+  },
+  "en": {
+   "q": "Who issues the certificate of no medical contraindication to operating?",
+   "o": [
+    "Your family doctor",
+    "The labour inspector",
+    "The CACES trainer",
+    "The occupational physician"
+   ],
+   "x": "Since 1 October 2025 this certificate (attestation d'absence de contre-indications médicales) is issued by the occupational physician (médecin du travail). It is valid for 5 years and the employer must check it before issuing the operating authorisation."
+  }
+ },
+ {
+  "id": "r489-013",
+  "points": {
+   "r489": "cg-acteurs",
+   "r485": "cg-acteurs",
+   "r486": "cg-acteurs"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Quel acteur contrôle l’application du Code du travail dans les entreprises et peut dresser des procès-verbaux ?",
+   "o": [
+    "L’inspection du travail",
+    "La Carsat",
+    "Le comité social et économique",
+    "Le constructeur de l’engin"
+   ],
+   "x": "L’inspecteur du travail contrôle le respect de la réglementation, peut visiter les lieux de travail, demander des documents et relever les infractions par procès-verbal. La Carsat conseille et assure ; le CSE représente le personnel."
+  },
+  "en": {
+   "q": "Which body checks that the Labour Code is applied in companies and can issue official reports of offences?",
+   "o": [
+    "The labour inspectorate",
+    "The Carsat",
+    "The works council (CSE)",
+    "The machine manufacturer"
+   ],
+   "x": "The labour inspector (inspecteur du travail) checks compliance, can visit workplaces, request documents and record offences in an official report (procès-verbal). The Carsat advises and insures; the CSE represents staff."
+  }
+ },
+ {
+  "id": "r489-014",
+  "points": {
+   "r489": "cg-acteurs",
+   "r485": "cg-acteurs",
+   "r486": "cg-acteurs"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Quel organisme régional de l’Assurance Maladie conseille les entreprises en prévention des risques professionnels ?",
+   "o": [
+    "La préfecture de région",
+    "La Carsat (Cramif en Île-de-France, CGSS outre-mer)",
+    "La chambre de commerce et d’industrie de votre département",
+    "L’organisme qui vous a formé"
+   ],
+   "x": "Les caisses régionales (Carsat, Cramif, CGSS) ont un service prévention qui conseille les entreprises, peut les contrôler et reçoit les réclamations sur le dispositif CACES. Le CACES lui-même repose sur des recommandations de l’Assurance Maladie."
+  },
+  "en": {
+   "q": "Which regional health insurance body advises companies on occupational risk prevention?",
+   "o": [
+    "The regional prefecture",
+    "The Carsat (Cramif in Île-de-France, CGSS overseas)",
+    "The chamber of commerce and industry for your area",
+    "The body that trained you"
+   ],
+   "x": "The regional funds (Carsat, Cramif, CGSS) have a prevention department that advises companies, may inspect them and handles complaints about the CACES scheme. The CACES itself is based on recommendations from the national health insurance (Assurance Maladie)."
+  }
+ },
+ {
+  "id": "r489-015",
+  "points": {
+   "r489": "expl-substances",
+   "r485": "expl-substances",
+   "r486": "expl-substances"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "La boîte de votre médicament porte un pictogramme triangulaire de vigilance pour la conduite. Que faites-vous ?",
+   "o": [
+    "Vous conduisez normalement, il ne s’agit que d’un conseil",
+    "Vous conduisez seulement le matin",
+    "Vous demandez conseil au médecin avant de conduire l’engin",
+    "Vous prenez la moitié de la dose sans avis"
+   ],
+   "x": "Ce pictogramme signale un médicament qui peut diminuer la vigilance ou les réflexes. Avant de conduire un engin, demandez l’avis du médecin ou du médecin du travail. Modifier soi-même la dose est dangereux pour la santé."
+  },
+  "en": {
+   "q": "Your medicine box has a triangular warning pictogram about driving. What do you do?",
+   "o": [
+    "You operate as usual, it is only advice",
+    "You only operate in the morning",
+    "You ask a doctor for advice before operating the machine",
+    "You take half the dose without advice"
+   ],
+   "x": "This pictogram flags a medicine that may reduce alertness or reflexes. Before operating a machine, ask your doctor or the occupational physician (médecin du travail). Changing the dose yourself is a health risk."
+  }
+ },
+ {
+  "id": "r489-016",
+  "points": {
+   "r489": "expl-substances",
+   "r485": "expl-substances",
+   "r486": "expl-substances"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Quel moyen fait réellement baisser le taux d’alcool dans le sang ?",
+   "o": [
+    "Un café très fort et sucré",
+    "Une douche froide",
+    "Un repas copieux",
+    "Le temps, rien d’autre"
+   ],
+   "x": "Le foie élimine l’alcool à un rythme lent et constant. Café, douche ou repas ne font que masquer la fatigue sans réduire l’alcoolémie. Après une consommation, les réflexes et le jugement restent altérés pendant plusieurs heures : ne conduisez pas."
+  },
+  "en": {
+   "q": "What actually lowers your blood alcohol level?",
+   "o": [
+    "A very strong, sweet coffee",
+    "A cold shower",
+    "A big meal",
+    "Time, and nothing else"
+   ],
+   "x": "The liver removes alcohol at a slow, steady rate. Coffee, a shower or food only hide tiredness without lowering blood alcohol. After drinking, reflexes and judgement stay impaired for several hours: do not operate the machine."
+  }
+ },
+ {
+  "id": "r489-017",
+  "points": {
+   "r489": "expl-substances",
+   "r485": "expl-substances",
+   "r486": "expl-substances"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Pourquoi le cannabis est-il incompatible avec la conduite d’un engin ?",
+   "o": [
+    "Il allonge le temps de réaction et fausse l’appréciation des distances",
+    "Il ne pose problème qu’en cas de mélange avec du café",
+    "Ses effets disparaissent toujours en moins d’une heure",
+    "Il améliore la concentration sur les tâches répétitives"
+   ],
+   "x": "Le cannabis ralentit les réflexes, réduit l’attention et perturbe l’évaluation des distances et des vitesses. Ses effets peuvent durer plusieurs heures. Un conducteur sous l’emprise de substances psychoactives met en danger lui-même et son entourage."
+  },
+  "en": {
+   "q": "Why is cannabis incompatible with operating a machine?",
+   "o": [
+    "It slows reaction time and distorts judgement of distances",
+    "It is only a problem when mixed with coffee",
+    "Its effects always wear off in under an hour",
+    "It improves concentration on repetitive tasks"
+   ],
+   "x": "Cannabis slows reflexes, reduces attention and impairs judgement of distances and speeds. Its effects can last several hours. A driver under the influence of psychoactive substances endangers themselves and everyone around."
+  }
+ },
+ {
+  "id": "r489-018",
+  "points": {
+   "r489": "expl-attention",
+   "r485": "expl-attention",
+   "r486": "expl-attention"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Votre téléphone sonne pendant que vous manœuvrez votre engin. Que faites-vous ?",
+   "o": [
+    "Vous répondez en kit mains libres sans vous arrêter, en restant attentif",
+    "Vous mettez l’engin en sécurité à l’arrêt avant de répondre",
+    "Vous répondez vite en réduisant la vitesse",
+    "Vous lisez le message à la prochaine ligne droite"
+   ],
+   "x": "Même en mains libres, une conversation détourne l’attention de la manœuvre et de l’environnement. Le conducteur arrête et immobilise l’engin dans un endroit sûr avant de téléphoner ou de lire un message."
+  },
+  "en": {
+   "q": "Your phone rings while you are manoeuvring your machine. What do you do?",
+   "o": [
+    "You answer hands-free without stopping, while staying alert",
+    "You stop the machine safely before answering",
+    "You answer quickly while slowing down",
+    "You read the message on the next straight"
+   ],
+   "x": "Even hands-free, a conversation takes your attention away from the manoeuvre and your surroundings. The driver stops and secures the machine in a safe place before making a call or reading a message."
+  }
+ },
+ {
+  "id": "r489-019",
+  "points": {
+   "r489": "expl-attention",
+   "r485": "expl-attention",
+   "r486": "expl-attention"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi les écouteurs pour écouter de la musique sont-ils à proscrire en conduite d’engin ?",
+   "o": [
+    "Ils déchargent la batterie de l’engin",
+    "Ils gênent seulement le port des lunettes",
+    "Ils empêchent d’entendre avertisseurs, alarmes et appels",
+    "Ils sont interdits uniquement en extérieur"
+   ],
+   "x": "Une partie des alertes est sonore : klaxon d’un autre engin, alarme de recul, cri d’un piéton, alarme incendie. Les écouteurs isolent le conducteur et retardent sa réaction. Ils détournent aussi l’attention de la conduite."
+  },
+  "en": {
+   "q": "Why must earphones for music never be used while operating a machine?",
+   "o": [
+    "They drain the machine's battery",
+    "They only get in the way of safety glasses",
+    "They stop you hearing horns, alarms and calls",
+    "They are banned outdoors only"
+   ],
+   "x": "Many warnings are audible: another vehicle's horn, a reversing alarm, a pedestrian shouting, a fire alarm. Earphones cut the driver off and delay reactions. They also take attention away from driving."
+  }
+ },
+ {
+  "id": "r489-020",
+  "points": {
+   "r489": "expl-attention",
+   "r485": "expl-attention",
+   "r486": "expl-attention"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Un collègue vient vous parler pendant une manœuvre délicate. Quelle est la bonne attitude ?",
+   "o": [
+    "Discuter tout en continuant, puisque la manœuvre vous est très habituelle",
+    "Tourner la tête vers lui pour mieux l’entendre",
+    "Lui faire signe de monter sur l’engin",
+    "Terminer ou interrompre la manœuvre et s’arrêter avant de discuter"
+   ],
+   "x": "Une manœuvre demande toute l’attention du conducteur. Discuter en même temps, c’est regarder ailleurs et réagir plus tard. On met l’engin en sécurité, puis on échange. Personne ne monte sur un engin qui n’est pas prévu pour cela."
+  },
+  "en": {
+   "q": "A colleague comes to talk to you during a tricky manoeuvre. What is the right approach?",
+   "o": [
+    "Chat while carrying on, since the manoeuvre is very routine for you",
+    "Turn your head towards them to hear better",
+    "Wave them aboard the machine",
+    "Finish or pause the manoeuvre and stop before talking"
+   ],
+   "x": "A manoeuvre needs the driver's full attention. Talking at the same time means looking away and reacting later. Secure the machine first, then talk. Nobody climbs onto a machine that is not designed to carry them."
+  }
+ },
+ {
+  "id": "r489-021",
+  "points": {
+   "r489": "expl-pictos",
+   "r485": "expl-pictos",
+   "r486": "expl-pictos"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Que signifie ce panneau ?",
+   "o": [
+    "Accès interdit aux piétons",
+    "Passage réservé aux piétons",
+    "Attention, présence de piétons",
+    "Piétons, marchez à gauche"
+   ],
+   "x": "Le cercle rouge barré indique une interdiction (arrêté du 4 novembre 1993 sur la signalisation de sécurité). Ici, les piétons ne doivent pas entrer dans la zone, souvent parce que des engins y circulent."
+  },
+  "en": {
+   "q": "What does this sign mean?",
+   "o": [
+    "No entry for pedestrians",
+    "Pedestrians only",
+    "Caution, pedestrians about",
+    "Pedestrians keep left"
+   ],
+   "x": "A red circle with a diagonal bar means a prohibition (French safety signs order of 4 November 1993). Here pedestrians must not enter the area, often because machines operate there."
+  },
+  "img": "interdit-pietons"
+ },
+ {
+  "id": "r489-022",
+  "points": {
+   "r489": "expl-pictos",
+   "r485": "expl-pictos",
+   "r486": "expl-pictos"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Que signifie ce panneau ?",
+   "o": [
+    "Interdit aux chariots de manutention",
+    "Danger : circulation de chariots de manutention",
+    "Zone de stationnement des chariots",
+    "Chariots obligatoires dans cette zone"
+   ],
+   "x": "Le triangle jaune bordé de noir est un panneau d’avertissement. Il signale qu’on peut croiser des chariots en mouvement : piétons et conducteurs redoublent d’attention."
+  },
+  "en": {
+   "q": "What does this sign mean?",
+   "o": [
+    "No industrial trucks",
+    "Warning: industrial trucks operating",
+    "Truck parking area",
+    "Trucks mandatory in this area"
+   ],
+   "x": "A yellow triangle with a black border is a warning sign. It shows that moving trucks may be met: pedestrians and drivers must take extra care."
+  },
+  "img": "danger-chariots"
+ },
+ {
+  "id": "r489-023",
+  "points": {
+   "r489": "expl-pictos",
+   "r485": "expl-pictos",
+   "r486": "expl-pictos"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Que signifie ce panneau ?",
+   "o": [
+    "Casque interdit dans la zone",
+    "Risque de chute d’objets",
+    "Port du casque de protection obligatoire",
+    "Point de distribution des casques de protection"
+   ],
+   "x": "Le panneau rond à fond bleu est un panneau d’obligation. Il impose le port d’un équipement de protection, ici le casque. Un risque de chute d’objets se signale, lui, par un triangle jaune d’avertissement."
+  },
+  "en": {
+   "q": "What does this sign mean?",
+   "o": [
+    "Helmets not allowed in the area",
+    "Danger of falling objects",
+    "Safety helmet must be worn",
+    "Protective helmet issue point"
+   ],
+   "x": "A round sign with a blue background is a mandatory sign. It requires protective equipment to be worn, here a helmet. A falling-object hazard would instead be shown by a yellow warning triangle."
+  },
+  "img": "obligation-casque"
+ },
+ {
+  "id": "r489-024",
+  "points": {
+   "r489": "expl-energies",
+   "r485": "expl-energies",
+   "r486": "expl-energies"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous soupçonnez une fuite sur un flexible hydraulique sous pression. Comment la localisez-vous ?",
+   "o": [
+    "En passant la main le long du flexible",
+    "En pinçant le flexible avec les doigts",
+    "En approchant le visage tout près du flexible pour bien voir le jet",
+    "En présentant un carton ou un morceau de bois, jamais la main"
+   ],
+   "x": "Un jet d’huile très fin sous pression peut traverser la peau et provoquer une injection grave. On repère la fuite avec un support (carton, bois), engin à l’arrêt, puis on la signale. Lunettes et gants protègent des projections."
+  },
+  "en": {
+   "q": "You suspect a leak on a pressurised hydraulic hose. How do you find it?",
+   "o": [
+    "By running your hand along the hose",
+    "By pinching the hose with your fingers",
+    "By putting your face right up to the hose to see the jet",
+    "By holding up a piece of cardboard or wood, never your hand"
+   ],
+   "x": "A very fine jet of oil under pressure can pierce the skin and cause a serious injection injury. Find the leak with cardboard or wood, machine stopped, then report it. Goggles and gloves protect against spray."
+  }
+ },
+ {
+  "id": "r489-025",
+  "points": {
+   "r489": "expl-energies",
+   "r485": "expl-energies",
+   "r486": "expl-energies"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Pourquoi porter lunettes et gants pour une intervention sur une batterie au plomb ?",
+   "o": [
+    "L’électrolyte est un acide qui brûle la peau et les yeux",
+    "La batterie est trop lourde à soulever",
+    "Pour éviter de laisser des traces de doigts",
+    "Pour ne pas abîmer les connecteurs"
+   ],
+   "x": "Les batteries au plomb ouvertes contiennent de l’acide sulfurique dilué, corrosif. Une projection peut brûler la peau ou les yeux. En cas de contact, on rince abondamment à l’eau et on prévient les secours."
+  },
+  "en": {
+   "q": "Why wear goggles and gloves when working on a lead-acid battery?",
+   "o": [
+    "The electrolyte is an acid that burns skin and eyes",
+    "The battery is too heavy to lift",
+    "To avoid leaving fingerprints",
+    "To avoid damaging the connectors"
+   ],
+   "x": "Vented lead-acid batteries contain diluted sulphuric acid, which is corrosive. A splash can burn skin or eyes. If contact occurs, rinse with plenty of water and call first aid."
+  }
+ },
+ {
+  "id": "r489-026",
+  "points": {
+   "r489": "expl-energies",
+   "r485": "expl-energies",
+   "r486": "expl-energies"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une partie de votre engin est en position haute (fourches, mât ou plate-forme). Quelle règle s’applique ?",
+   "o": [
+    "On peut passer dessous si le moteur est coupé",
+    "Personne ne passe ni ne reste dessous",
+    "On peut passer dessous rapidement",
+    "On peut passer dessous avec un casque"
+   ],
+   "x": "Une partie levée stocke de l’énergie : une fuite hydraulique, une rupture de chaîne ou une fausse manœuvre peut la faire descendre d’un coup. Couper le moteur ou porter un casque ne protège pas d’un écrasement."
+  },
+  "en": {
+   "q": "Part of your machine is raised (forks, mast or platform). Which rule applies?",
+   "o": [
+    "You may go under it if the engine is off",
+    "Nobody walks or stays underneath",
+    "You may go under it quickly",
+    "You may go under it wearing a helmet"
+   ],
+   "x": "A raised part stores energy: a hydraulic leak, broken chain or wrong move can bring it down suddenly. Switching the engine off or wearing a helmet gives no protection against crushing."
+  }
+ },
+ {
+  "id": "r489-027",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous réussissez l’épreuve théorique du CACES mais échouez à la pratique. Que se passe-t-il pour la théorie ?",
+   "o": [
+    "Elle est perdue, il faut tout repasser",
+    "Elle reste acquise sans limite de durée, dans n’importe quel organisme",
+    "Elle reste acquise 12 mois auprès du même organisme testeur",
+    "Elle reste acquise 1 mois seulement"
+   ],
+   "x": "La recommandation prévoit que la partie réussie reste acquise pendant 12 mois. Dans ce délai, après une formation adaptée, le candidat ne repasse que la partie manquée, avec le même organisme testeur certifié."
+  },
+  "en": {
+   "q": "You pass the CACES theory test but fail the practical. What happens to the theory result?",
+   "o": [
+    "It is lost, you must retake everything",
+    "It is kept with no time limit, at any testing body",
+    "It is kept for 12 months with the same testing body",
+    "It is kept for 1 month only"
+   ],
+   "x": "The recommendation keeps the part you passed for 12 months. Within that period, after suitable training, the candidate retakes only the failed part, with the same certified testing body (organisme testeur certifié)."
+  }
+ },
+ {
+  "id": "r489-028",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Que faut-il pour réussir l’épreuve théorique du CACES ?",
+   "o": [
+    "Au moins 50/100 au total, quels que soient les résultats de chaque thème",
+    "Au moins 70/100, même avec un thème à zéro",
+    "Ne commettre aucune erreur sur les 100 questions",
+    "Au moins 70/100 et au moins la moitié des points dans chaque thème"
+   ],
+   "x": "Le test comporte 100 questions notées 1 ou 0. Il faut une note globale d’au moins 70/100 et, en plus, au moins la moyenne dans chacun des thèmes de la fiche d’évaluation. Un thème très faible fait échouer même avec un bon total."
+  },
+  "en": {
+   "q": "What do you need to pass the CACES theory test?",
+   "o": [
+    "At least 50/100 overall, whatever the results in each topic",
+    "At least 70/100, even with one topic at zero",
+    "No mistakes at all on the 100 questions",
+    "At least 70/100 and at least half the points in every topic"
+   ],
+   "x": "The test has 100 questions scored 1 or 0. You need an overall score of at least 70/100 and, in addition, at least half the points in each topic of the assessment sheet. One very weak topic means failure even with a good total."
+  }
+ },
+ {
+  "id": "r489-029",
+  "points": {
+   "r489": "cg-roles-conducteur",
+   "r485": "cg-roles-conducteur",
+   "r486": "cg-roles-conducteur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "En règle générale, à qui l’organisme testeur remet-il le CACES obtenu ?",
+   "o": [
+    "Au salarié qui l’a obtenu, qui le présente ensuite à son employeur",
+    "Directement à l’inspection du travail, qui le transmet ensuite à l’employeur",
+    "Au constructeur de l’engin",
+    "Au médecin du travail"
+   ],
+   "x": "Le certificat appartient à son titulaire. Il le présente à l’employeur, qui peut alors délivrer l’autorisation de conduite. S’il a été remis à l’employeur, celui-ci doit le rendre au salarié. Garder une copie aide à obtenir un duplicata."
+  },
+  "en": {
+   "q": "As a rule, to whom does the testing body hand the CACES certificate?",
+   "o": [
+    "To the employee who earned it, who then shows it to the employer",
+    "Directly to the labour inspectorate, which then passes it on to the employer",
+    "To the machine manufacturer",
+    "To the occupational physician"
+   ],
+   "x": "The certificate belongs to its holder, who shows it to the employer so the operating authorisation (autorisation de conduite) can be issued. If given to the employer, it must be passed back to the employee. Keeping a copy helps to get a duplicate."
+  }
+ },
+ {
+  "id": "r489-030",
+  "points": {
+   "r489": "cg-categories",
+   "r485": "cg-categories"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Quel CACES correspond à un gerbeur à conducteur accompagnant dont la hauteur de levée est de 2 m ?",
+   "o": [
+    "R485 catégorie 2",
+    "R485 catégorie 1",
+    "R489 catégorie 1B",
+    "R489 catégorie 1A"
+   ],
+   "x": "La R485 vise les gerbeurs à conducteur accompagnant. La catégorie 1 couvre une hauteur de levée supérieure à 1,20 m et jusqu’à 2,50 m ; au-delà de 2,50 m, c’est la catégorie 2. La R489 vise les chariots à conducteur porté."
+  },
+  "en": {
+   "q": "Which CACES covers a pedestrian stacker with a lift height of 2 m?",
+   "o": [
+    "R485 category 2",
+    "R485 category 1",
+    "R489 category 1B",
+    "R489 category 1A"
+   ],
+   "x": "R485 covers pedestrian-controlled stackers. Category 1 covers lift heights above 1.20 m and up to 2.50 m; above 2.50 m it is category 2. R489 covers ride-on trucks."
+  }
+ },
+ {
+  "id": "r489-031",
+  "points": {
+   "r489": "cg-categories",
+   "r485": "cg-categories"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un gerbeur à conducteur accompagnant lève jusqu’à 3,20 m. Quel CACES faut-il ?",
+   "o": [
+    "R485 catégorie 1",
+    "R489 catégorie 5",
+    "R485 catégorie 2",
+    "R482 catégorie A"
+   ],
+   "x": "Au-delà de 2,50 m de hauteur de levée, un gerbeur à conducteur accompagnant relève de la catégorie 2 de la R485. La catégorie 2 permet aussi de conduire les gerbeurs de catégorie 1."
+  },
+  "en": {
+   "q": "A pedestrian stacker lifts up to 3.20 m. Which CACES is needed?",
+   "o": [
+    "R485 category 1",
+    "R489 category 5",
+    "R485 category 2",
+    "R482 category A"
+   ],
+   "x": "Above a 2.50 m lift height, a pedestrian stacker falls under R485 category 2. Category 2 also allows you to be authorised on category 1 stackers."
+  }
+ },
+ {
+  "id": "r489-032",
+  "points": {
+   "r489": "cg-categories",
+   "r485": "cg-categories"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Un gerbeur accompagnant (levée supérieure à 1,20 m) possède une plate-forme rabattable pour transporter le conducteur. De quel CACES relève-t-il ?",
+   "o": [
+    "R485 catégorie 1",
+    "R485 catégorie 2",
+    "R489 catégorie 2A",
+    "R489 catégorie 1B"
+   ],
+   "x": "Dès qu’un gerbeur accompagnant peut porter son conducteur sur une plate-forme rabattable, il entre dans la R489. Avec une levée supérieure à 1,20 m, c’est la catégorie 1B ; jusqu’à 1,20 m, ce serait la 1A."
+  },
+  "en": {
+   "q": "A pedestrian stacker (lift above 1.20 m) has a fold-down platform to carry the operator. Which CACES applies?",
+   "o": [
+    "R485 category 1",
+    "R485 category 2",
+    "R489 category 2A",
+    "R489 category 1B"
+   ],
+   "x": "As soon as a pedestrian stacker can carry its operator on a fold-down platform, it falls under R489. With a lift above 1.20 m it is category 1B; up to 1.20 m it would be 1A."
+  }
+ },
+ {
+  "id": "r489-033",
+  "points": {
+   "r489": "cg-categories",
+   "r485": "cg-categories"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "De quelle recommandation relève un chariot élévateur tout-terrain ?",
+   "o": [
+    "De la R482, engins de chantier",
+    "De la R489 catégorie 3, chariots frontaux",
+    "De la R485 catégorie 2",
+    "De la R486, nacelles"
+   ],
+   "x": "Les chariots tout-terrain sont exclus de la R489 et de la R485 : ils relèvent de la recommandation R482 sur les engins de chantier. Chaque famille d’engins a sa propre recommandation et ses propres catégories."
+  },
+  "en": {
+   "q": "Which recommendation covers a rough-terrain forklift?",
+   "o": [
+    "R482, construction machinery",
+    "R489 category 3, counterbalance trucks",
+    "R485 category 2",
+    "R486, aerial platforms"
+   ],
+   "x": "Rough-terrain trucks are excluded from R489 and R485: they fall under recommendation R482 on construction machinery. Each family of machines has its own recommendation and categories."
+  }
+ },
+ {
+  "id": "r489-034",
+  "points": {
+   "r489": "cg-categories",
+   "r485": "cg-categories"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Un transpalette électrique à conducteur accompagnant, sans plate-forme, lève à 20 cm. Quelle affirmation est juste ?",
+   "o": [
+    "Il exige un CACES R489 catégorie 3",
+    "Il relève de la R366, mais un CACES R485 permet d’en autoriser la conduite",
+    "Il exige un CACES R485 catégorie 2 uniquement",
+    "Il n’exige aucune formation particulière, puisqu’il ne lève la charge que de quelques centimètres"
+   ],
+   "x": "Les transpalettes à conducteur accompagnant, avec ou sans levée auxiliaire jusqu’à 1,20 m, sont visés par la recommandation R366. La R485 précise qu’un CACES R485 de catégorie 1 ou 2 permet d’en autoriser la conduite. Une formation reste obligatoire."
+  },
+  "en": {
+   "q": "An electric pedestrian pallet truck, without a platform, lifts 20 cm. Which statement is correct?",
+   "o": [
+    "It requires an R489 category 3 CACES",
+    "It comes under R366, but an R485 CACES allows authorisation to operate it",
+    "It requires an R485 category 2 CACES only",
+    "It requires no particular training, since it only lifts the load a few centimetres"
+   ],
+   "x": "Pedestrian pallet trucks, with or without auxiliary lift up to 1.20 m, are covered by recommendation R366. R485 states that an R485 category 1 or 2 CACES allows the employer to authorise them. Training is still compulsory."
+  }
+ },
+ {
+  "id": "r489-035",
+  "points": {
+   "r489": "tech-masse",
+   "r485": "tech-masse"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Une palette vide de 25 kg porte 40 cartons de 12 kg. Quelle est la masse de la charge ?",
+   "o": [
+    "480 kg",
+    "525 kg",
+    "505 kg",
+    "455 kg"
+   ],
+   "x": "On additionne la marchandise et le support : 40 × 12 = 480 kg, plus 25 kg de palette, soit 505 kg. Oublier la palette ou les emballages conduit à sous-estimer la charge comparée à la capacité de l’engin."
+  },
+  "en": {
+   "q": "An empty 25 kg pallet carries 40 boxes of 12 kg each. What is the load mass?",
+   "o": [
+    "480 kg",
+    "525 kg",
+    "505 kg",
+    "455 kg"
+   ],
+   "x": "Add the goods and the support: 40 × 12 = 480 kg, plus 25 kg for the pallet, giving 505 kg. Forgetting the pallet or packaging underestimates the load compared with the machine's capacity."
+  }
+ },
+ {
+  "id": "r489-036",
+  "points": {
+   "r489": "tech-masse",
+   "r485": "tech-masse"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Un conteneur de 1 000 litres rempli d’eau pèse 60 kg à vide. Quelle masse devez-vous manutentionner ?",
+   "o": [
+    "Environ 1 000 kg",
+    "Environ 600 kg",
+    "Environ 160 kg",
+    "Environ 1 060 kg"
+   ],
+   "x": "Un litre d’eau pèse environ 1 kg : 1 000 litres font donc environ 1 000 kg, auxquels s’ajoutent les 60 kg du conteneur. Pour un autre liquide, il faut tenir compte de sa densité indiquée sur l’étiquette ou la fiche du produit."
+  },
+  "en": {
+   "q": "A 1,000-litre container full of water weighs 60 kg empty. What mass must you handle?",
+   "o": [
+    "About 1,000 kg",
+    "About 600 kg",
+    "About 160 kg",
+    "About 1,060 kg"
+   ],
+   "x": "One litre of water weighs about 1 kg, so 1,000 litres weigh about 1,000 kg, plus the 60 kg container. For another liquid, use its density shown on the label or product data sheet."
+  }
+ },
+ {
+  "id": "r489-037",
+  "points": {
+   "r489": "tech-masse",
+   "r485": "tech-masse"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous ne connaissez pas la masse d’une charge à déplacer. Que faites-vous ?",
+   "o": [
+    "Vous la cherchez sur l’étiquette ou les documents, sinon vous demandez",
+    "Vous la soulevez de quelques centimètres pour voir si l’engin la supporte bien",
+    "Vous l’estimez au jugé d’après sa taille",
+    "Vous la déplacez en roulant très lentement"
+   ],
+   "x": "Lever « pour voir » peut provoquer un basculement ou une rupture. La masse se trouve sur le marquage du colis, le bon de livraison ou auprès du responsable. Sans masse connue, impossible de vérifier la plaque de charge."
+  },
+  "en": {
+   "q": "You do not know the mass of a load you must move. What do you do?",
+   "o": [
+    "You look for it on the label or documents, otherwise you ask",
+    "You lift it a few centimetres to see whether the machine can take it",
+    "You guess it from its size",
+    "You move it while driving very slowly"
+   ],
+   "x": "Lifting it 'to see' can cause tipping or a breakage. The mass is on the package marking, the delivery note or available from your supervisor. Without a known mass you cannot check the load chart."
+  }
+ },
+ {
+  "id": "r489-038",
+  "points": {
+   "r489": "tech-cdg",
+   "r485": "tech-cdg"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une charge homogène est posée sur une palette de 1 200 mm engagée dans le sens de la longueur. Où se trouve son centre de gravité ?",
+   "o": [
+    "À environ 1 200 mm du talon des fourches",
+    "À environ 600 mm du talon des fourches",
+    "À environ 300 mm du talon des fourches",
+    "Sur le talon des fourches"
+   ],
+   "x": "Pour une charge homogène bien répartie, le centre de gravité est au milieu de sa longueur, soit la moitié de 1 200 mm. Cette distance, mesurée depuis la face avant du talon des fourches, sert à lire la plaque de charge."
+  },
+  "en": {
+   "q": "A uniform load sits on a 1,200 mm pallet picked up lengthwise. Where is its centre of gravity?",
+   "o": [
+    "About 1,200 mm from the fork heel",
+    "About 600 mm from the fork heel",
+    "About 300 mm from the fork heel",
+    "On the fork heel"
+   ],
+   "x": "For a uniform, evenly spread load the centre of gravity (centre de gravité) is at half its length, i.e. half of 1,200 mm. This distance, measured from the front face of the fork heel, is used to read the load chart."
+  }
+ },
+ {
+  "id": "r489-039",
+  "points": {
+   "r489": "tech-cdg",
+   "r485": "tech-cdg"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Le centre de gravité de la charge s’éloigne du tablier. Qu’arrive-t-il à la capacité de l’engin ?",
+   "o": [
+    "Elle augmente",
+    "Elle reste identique",
+    "Elle diminue",
+    "Elle double"
+   ],
+   "x": "Plus le centre de gravité est loin, plus le bras de levier de la charge est grand et plus son moment de renversement augmente. Pour rester stable, l’engin ne peut porter qu’une masse plus faible : la plaque de charge l’indique."
+  },
+  "en": {
+   "q": "The load centre of gravity moves further from the carriage. What happens to the machine's capacity?",
+   "o": [
+    "It increases",
+    "It stays the same",
+    "It decreases",
+    "It doubles"
+   ],
+   "x": "The further the centre of gravity, the longer the load's lever arm and the greater its tipping moment. To stay stable the machine can only carry a smaller mass, as shown on the load chart (plaque de charge)."
+  }
+ },
+ {
+  "id": "r489-040",
+  "points": {
+   "r489": "tech-cdg",
+   "r485": "tech-cdg"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Une caisse est nettement plus lourde d’un côté. Comment la prendre ?",
+   "o": [
+    "Côté lourd vers l’extrémité des fourches",
+    "Côté lourd sur une seule fourche",
+    "Peu importe le sens, du moment que les fourches sont écartées au maximum",
+    "Côté lourd contre le tablier, la charge centrée entre les fourches"
+   ],
+   "x": "Placer la partie lourde près du tablier rapproche le centre de gravité de l’engin et réduit le moment de la charge. La charge doit aussi être centrée latéralement pour ne pas déséquilibrer l’engin sur le côté."
+  },
+  "en": {
+   "q": "A crate is clearly heavier on one side. How should you pick it up?",
+   "o": [
+    "Heavy side towards the fork tips",
+    "Heavy side on one fork only",
+    "Either way round, as long as the forks are spread as wide as possible",
+    "Heavy side against the carriage, load centred between the forks"
+   ],
+   "x": "Putting the heavy part close to the carriage brings the centre of gravity closer to the machine and reduces the load moment. The load must also be centred sideways so the machine is not unbalanced."
+  }
+ },
+ {
+  "id": "r489-041",
+  "points": {
+   "r489": "tech-equilibre",
+   "r485": "tech-equilibre"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une palette de cartons est mal empilée et penche. Que faites-vous avant de la déplacer ?",
+   "o": [
+    "Vous la faites reconditionner ou stabiliser (filmage, sanglage)",
+    "Vous la déplacez en roulant vite pour qu’elle n’ait pas le temps de tomber",
+    "Vous la levez haut pour mieux la surveiller",
+    "Vous la poussez avec l’extrémité des fourches"
+   ],
+   "x": "Une charge déséquilibrée peut tomber au premier virage ou freinage. On la fait refaire ou maintenir (film, sangles) avant manutention. Une charge levée haut ou poussée est encore moins stable."
+  },
+  "en": {
+   "q": "A pallet of boxes is badly stacked and leaning. What do you do before moving it?",
+   "o": [
+    "Have it restacked or secured (stretch-wrap, straps)",
+    "You move it quickly so it doesn't have time to fall",
+    "Lift it high to keep an eye on it",
+    "Push it with the fork tips"
+   ],
+   "x": "An unbalanced load can fall at the first bend or braking. Have it restacked or held (film, straps) before handling. A load raised high or pushed is even less stable."
+  }
+ },
+ {
+  "id": "r489-042",
+  "points": {
+   "r489": "tech-equilibre",
+   "r485": "tech-equilibre"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi régler l’écartement des fourches selon la largeur de la palette ?",
+   "o": [
+    "Pour aller plus vite en ligne droite",
+    "Pour que la charge repose de façon stable et centrée",
+    "Pour augmenter la capacité de levage indiquée sur la plaque",
+    "Pour réduire l’usure des pneus"
+   ],
+   "x": "Des fourches trop rapprochées laissent la palette basculer sur le côté ; bien écartées et centrées, elles supportent la charge sur une base large. L’écartement ne change pas la capacité indiquée par la plaque."
+  },
+  "en": {
+   "q": "Why adjust the fork spread to the pallet width?",
+   "o": [
+    "To go faster in a straight line",
+    "So the load rests stably and centred",
+    "To increase the lifting capacity shown on the load chart",
+    "To reduce tyre wear"
+   ],
+   "x": "Forks set too close let the pallet tip sideways; well spread and centred, they support the load on a wide base. The spread does not change the capacity shown on the load chart."
+  }
+ },
+ {
+  "id": "r489-043",
+  "points": {
+   "r489": "tech-lateral",
+   "r485": "tech-lateral"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Qu’est-ce qui favorise le renversement latéral de l’engin dans un virage ?",
+   "o": [
+    "Un avertisseur sonore actionné",
+    "Des fourches en position basse",
+    "Une vitesse trop élevée",
+    "Une charge bien centrée"
+   ],
+   "x": "Dans un virage, la force centrifuge pousse l’engin vers l’extérieur ; elle croît très vite avec la vitesse. Trop vite, elle fait sortir le centre de gravité de la base d’appui et l’engin se couche sur le côté. On ralentit avant de tourner."
+  },
+  "en": {
+   "q": "What makes a sideways tip-over more likely in a bend?",
+   "o": [
+    "Sounding the horn",
+    "Forks in the lowered position",
+    "Too much speed",
+    "A well-centred load"
+   ],
+   "x": "In a bend, centrifugal force pushes the machine outwards and grows quickly with speed. Too fast, it moves the centre of gravity outside the support base and the machine falls on its side. Slow down before turning."
+  }
+ },
+ {
+  "id": "r489-044",
+  "points": {
+   "r489": "tech-lateral",
+   "r485": "tech-lateral"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pourquoi ne faut-il pas circuler avec la charge levée en hauteur ?",
+   "o": [
+    "Les freins s’usent plus vite",
+    "La batterie se décharge moins vite",
+    "Le mât s’use prématurément quand la charge reste longtemps en hauteur",
+    "Le centre de gravité monte et l’engin se renverse plus facilement"
+   ],
+   "x": "Une charge haute élève le centre de gravité de l’ensemble : au moindre virage, dévers ou trou, il sort plus facilement de la base d’appui. On circule fourches basses et on ne lève qu’à l’arrêt, face à l’emplacement."
+  },
+  "en": {
+   "q": "Why must you not travel with the load raised high?",
+   "o": [
+    "The brakes wear faster",
+    "The battery runs down more slowly",
+    "The mast wears out early when the load stays raised for long",
+    "The centre of gravity rises and the machine tips over more easily"
+   ],
+   "x": "A raised load lifts the combined centre of gravity: at the slightest bend, slope or pothole it leaves the support base more easily. Travel with forks low and lift only when stopped in front of the location."
+  }
+ },
+ {
+  "id": "r489-045",
+  "points": {
+   "r489": "tech-lateral",
+   "r485": "tech-lateral"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous devez traverser une zone en dévers (pente sur le côté). Quel est le risque principal ?",
+   "o": [
+    "Le renversement de l’engin sur le côté",
+    "Le basculement vers l’arrière uniquement",
+    "Une surconsommation sans danger",
+    "Aucun risque si la charge est légère"
+   ],
+   "x": "En dévers, le centre de gravité se rapproche du bord bas de la base d’appui. Avec une charge levée, un virage ou un trou, il peut le dépasser. On évite de circuler en travers d’une pente et on choisit un autre trajet."
+  },
+  "en": {
+   "q": "You must cross an area with a side slope. What is the main risk?",
+   "o": [
+    "The machine tipping over sideways",
+    "Tipping backwards only",
+    "Higher consumption, no danger",
+    "No risk if the load is light"
+   ],
+   "x": "On a side slope the centre of gravity moves towards the lower edge of the support base. With a raised load, a turn or a pothole, it can go past it. Avoid driving across a slope and choose another route."
+  }
+ },
+ {
+  "id": "r489-046",
+  "points": {
+   "r489": "tech-lateral",
+   "r485": "tech-lateral"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Une roue de votre engin tombe dans un trou du sol pendant un virage. Quel danger est le plus direct ?",
+   "o": [
+    "La crevaison sans conséquence",
+    "Le renversement latéral",
+    "Le basculement vers l’arrière",
+    "La surchauffe du moteur"
+   ],
+   "x": "Un trou, une bordure ou un sol dégradé incline brutalement l’engin. Combiné au virage, cela pousse le centre de gravité hors de la base d’appui. Repérer l’état du sol et choisir un trajet adapté fait partie de la prévention."
+  },
+  "en": {
+   "q": "One wheel drops into a hole in the floor during a turn. What is the most direct danger?",
+   "o": [
+    "A harmless puncture",
+    "Sideways tip-over",
+    "Tipping backwards",
+    "Engine overheating"
+   ],
+   "x": "A hole, kerb or damaged floor suddenly tilts the machine. Combined with the turn, this pushes the centre of gravity outside the support base. Checking floor condition and choosing a suitable route is part of prevention."
+  }
+ },
+ {
+  "id": "r489-047",
+  "points": {
+   "r489": "tech-lateral",
+   "r485": "tech-lateral"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous êtes dans une rampe et devez changer de direction. Que faites-vous ?",
+   "o": [
+    "Vous tournez au milieu de la rampe, doucement",
+    "Vous tournez en accélérant pour sortir vite",
+    "Vous attendez d’être sur le plat pour tourner",
+    "Vous tournez en levant la charge pour mieux voir"
+   ],
+   "x": "Tourner dans une pente place l’engin en dévers : le risque de renversement latéral augmente fortement. On monte et on descend dans l’axe de la pente et on ne change de direction qu’une fois sur une surface plane."
+  },
+  "en": {
+   "q": "You are on a ramp and need to change direction. What do you do?",
+   "o": [
+    "You turn halfway up the ramp, gently",
+    "You turn while accelerating to get off quickly",
+    "You wait until you are on level ground to turn",
+    "You turn with the load raised to see better"
+   ],
+   "x": "Turning on a slope puts the machine on a side slope, sharply increasing the risk of tipping sideways. Go up and down in line with the slope and only change direction once on level ground."
+  }
+ },
+ {
+  "id": "r489-048",
+  "points": {
+   "r489": "tech-frontal",
+   "r485": "tech-frontal"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Quelle situation provoque le basculement de l’engin vers l’avant ?",
+   "o": [
+    "Une charge plus légère que la capacité, posée bien contre le tablier",
+    "Des fourches bien écartées",
+    "Un sol plat et sec",
+    "Une charge plus lourde que la capacité indiquée par la plaque"
+   ],
+   "x": "Quand le moment de la charge dépasse le moment stabilisant de l’engin, l’engin pivote sur ses roues avant et bascule. C’est ce que la plaque de charge permet d’éviter, à condition de vérifier masse, centre de gravité et hauteur."
+  },
+  "en": {
+   "q": "Which situation makes the machine tip forward?",
+   "o": [
+    "A load lighter than the capacity, set right against the carriage",
+    "Well-spread forks",
+    "A flat, dry floor",
+    "A load heavier than the capacity on the load chart"
+   ],
+   "x": "When the load moment exceeds the machine's stabilising moment, it pivots on its front wheels and tips over. The load chart prevents this, provided you check mass, centre of gravity and height."
+  }
+ },
+ {
+  "id": "r489-049",
+  "points": {
+   "r489": "tech-frontal",
+   "r485": "tech-frontal"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Pourquoi un freinage brusque est-il dangereux avec une charge levée ?",
+   "o": [
+    "L’inertie de la charge peut faire basculer l’engin vers l’avant",
+    "Il fait reculer l’engin",
+    "Il fait monter la charge",
+    "Il n’a d’effet que sur l’usure des pneus et des garnitures de frein"
+   ],
+   "x": "Au freinage, la charge continue sur sa lancée : elle crée un effort vers l’avant d’autant plus fort qu’elle est haute et lourde. L’engin peut basculer ou la charge tomber. On roule charge basse et on freine progressivement."
+  },
+  "en": {
+   "q": "Why is harsh braking dangerous with a raised load?",
+   "o": [
+    "The load's inertia can tip the machine forward",
+    "It makes the machine roll back",
+    "It makes the load rise",
+    "It only affects wear on the tyres and brake linings"
+   ],
+   "x": "When braking, the load keeps moving and pushes forward, all the more if it is high and heavy. The machine can tip or the load fall. Travel with the load low and brake gradually."
+  }
+ },
+ {
+  "id": "r489-050",
+  "points": {
+   "r489": "tech-frontal",
+   "r485": "tech-frontal"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Dans une descente, en charge, quelle orientation augmente le risque de basculement vers l’avant ?",
+   "o": [
+    "La charge tournée vers le haut de la pente",
+    "La charge tournée vers le bas de la pente",
+    "La charge posée au sol",
+    "Aucune, la pente n’a pas d’effet"
+   ],
+   "x": "Charge vers l’aval, la pente déplace le centre de gravité vers l’avant et ajoute l’effet du freinage : l’engin peut basculer. En charge, on garde donc la charge du côté amont de la pente, à la montée comme à la descente."
+  },
+  "en": {
+   "q": "Going down a slope with a load, which orientation increases the risk of tipping forward?",
+   "o": [
+    "Load facing up the slope",
+    "Load facing down the slope",
+    "Load resting on the ground",
+    "None, the slope has no effect"
+   ],
+   "x": "With the load downhill, the slope shifts the centre of gravity forward and adds the effect of braking: the machine can tip. When loaded, keep the load on the uphill side, going up as well as down."
+  }
+ },
+ {
+  "id": "r489-051",
+  "points": {
+   "r489": "expl-causes",
+   "r485": "expl-causes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un camion démarre alors que l’engin est encore sur le pont de liaison. Quelle mesure aurait évité cet accident ?",
+   "o": [
+    "Un avertisseur sonore plus puissant installé sur l’engin de manutention",
+    "Une charge plus légère sur les fourches",
+    "L’immobilisation du camion prévue par le protocole de sécurité",
+    "Un éclairage plus fort dans l’entrepôt"
+   ],
+   "x": "Le départ inopiné du véhicule est une cause classique de chute d’engin depuis le quai. Le protocole de sécurité organise l’immobilisation (cales, frein, clés remises, signal de quai) avant toute entrée dans le véhicule."
+  },
+  "en": {
+   "q": "A lorry pulls away while the machine is still on the dock plate. What measure would have prevented this accident?",
+   "o": [
+    "A louder horn fitted to the handling machine",
+    "A lighter load on the forks",
+    "Immobilising the lorry as set out in the safety protocol",
+    "Brighter lighting in the warehouse"
+   ],
+   "x": "A vehicle pulling away unexpectedly is a classic cause of machines falling from a dock. The safety protocol (protocole de sécurité) organises immobilisation (chocks, brake, keys handed in, dock signal) before entering the vehicle."
+  }
+ },
+ {
+  "id": "r489-052",
+  "points": {
+   "r489": "expl-causes",
+   "r485": "expl-causes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Un piéton est heurté à un croisement d’allées, masqué par un rayonnage. Quelle cause est la plus en jeu ?",
+   "o": [
+    "Une batterie insuffisamment chargée qui a réduit la puissance",
+    "Des fourches trop écartées",
+    "Un rapport de vérification périmé",
+    "Une vitesse non adaptée au manque de visibilité"
+   ],
+   "x": "Aux croisements et aux angles morts, le conducteur doit ralentir, signaler sa présence et s’assurer que la voie est libre. Une vitesse trop élevée ne laisse pas le temps de s’arrêter quand un piéton apparaît."
+  },
+  "en": {
+   "q": "A pedestrian is struck at an aisle crossing, hidden by racking. Which cause is most involved?",
+   "o": [
+    "A poorly charged battery that reduced the power",
+    "Forks spread too wide",
+    "An out-of-date inspection report",
+    "Speed not adapted to the lack of visibility"
+   ],
+   "x": "At crossings and blind spots the driver must slow down, signal their presence and make sure the way is clear. Too much speed leaves no time to stop when a pedestrian appears."
+  }
+ },
+ {
+  "id": "r489-053",
+  "points": {
+   "r489": "expl-causes",
+   "r485": "expl-causes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une charge tombe d’une palette pendant le trajet. Quelle cause est la plus probable ?",
+   "o": [
+    "Une palette abîmée ou une charge mal stabilisée",
+    "Un avertisseur sonore en panne",
+    "Un plan de circulation affiché",
+    "Un conducteur qui porte des gants trop épais pour bien sentir les commandes"
+   ],
+   "x": "Une palette cassée, un film insuffisant ou une pile désaxée rendent la charge instable : elle glisse au premier virage ou freinage. Contrôler le support et le conditionnement avant la prise évite ces chutes."
+  },
+  "en": {
+   "q": "A load falls off a pallet during travel. What is the most likely cause?",
+   "o": [
+    "A damaged pallet or a poorly secured load",
+    "A broken horn",
+    "A displayed traffic plan",
+    "A driver wearing gloves too thick to feel the controls properly"
+   ],
+   "x": "A broken pallet, too little wrapping or an off-centre stack make the load unstable: it slides at the first bend or braking. Checking the support and packaging before picking up prevents these falls."
+  }
+ },
+ {
+  "id": "r489-054",
+  "points": {
+   "r489": "expl-causes",
+   "r485": "expl-causes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Un engin présentant une fuite hydraulique connue est utilisé quand même et la charge descend seule. Quelle cause est à l’origine ?",
+   "o": [
+    "Le conducteur a respecté à la lettre le plan de circulation du site",
+    "L’anomalie constatée n’a pas été signalée ni réparée",
+    "La charge était posée au sol",
+    "Le sol était parfaitement plan"
+   ],
+   "x": "Les vérifications de prise de poste servent à repérer les défauts avant qu’ils ne causent un accident. Un engin défectueux doit être signalé et retiré de l’utilisation jusqu’à sa réparation."
+  },
+  "en": {
+   "q": "A machine with a known hydraulic leak is used anyway and the load comes down by itself. What is the root cause?",
+   "o": [
+    "The driver followed the site traffic plan to the letter",
+    "The fault noticed was neither reported nor repaired",
+    "The load was resting on the ground",
+    "The floor was perfectly level"
+   ],
+   "x": "Start-of-shift checks are there to find faults before they cause an accident. A faulty machine must be reported and taken out of use until it is repaired."
+  }
+ },
+ {
+  "id": "r489-055",
+  "points": {
+   "r489": "expl-causes",
+   "r485": "expl-causes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un conducteur gerbe une palette sans consulter la plaque de charge et l’engin bascule. Quelle est la cause ?",
+   "o": [
+    "Une erreur dans le plan de circulation",
+    "Un manque d’éclairage de la plaque d’immatriculation",
+    "Le dépassement de la capacité à cette hauteur",
+    "Le port de chaussures de sécurité"
+   ],
+   "x": "La capacité diminue quand la hauteur et la distance du centre de gravité augmentent. Sans lecture de la plaque, le conducteur ignore si la manutention est possible. Chaque prise se vérifie avant d’être faite."
+  },
+  "en": {
+   "q": "A driver stacks a pallet without checking the load chart and the machine tips over. What is the cause?",
+   "o": [
+    "A mistake in the traffic plan",
+    "Poor lighting of the number plate",
+    "Exceeding the capacity at that height",
+    "Wearing safety shoes"
+   ],
+   "x": "Capacity falls as height and centre-of-gravity distance increase. Without reading the load chart, the driver cannot know whether the lift is possible. Every lift is checked before it is made."
+  }
+ },
+ {
+  "id": "r489-056",
+  "points": {
+   "r489": "expl-causes",
+   "r485": "expl-causes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Un salarié sans formation ni autorisation prend un engin « pour dépanner » et provoque un accident. Quelle règle n’a pas été respectée ?",
+   "o": [
+    "La règle des trois points d’appui pour monter et descendre de l’engin",
+    "La priorité à droite",
+    "L’interdiction de fumer",
+    "Seul un salarié formé et autorisé par l’employeur peut conduire"
+   ],
+   "x": "Les articles R4323-55 et R4323-56 du Code du travail imposent une formation adaptée et une autorisation de conduite. Un salarié non formé ne connaît ni les limites de l’engin ni les risques : ce manque est une cause fréquente d’accident."
+  },
+  "en": {
+   "q": "An employee with no training or authorisation takes a machine 'to help out' and causes an accident. Which rule was broken?",
+   "o": [
+    "The three-point contact rule for getting on and off",
+    "Priority to the right",
+    "The no-smoking rule",
+    "Only employees trained and authorised by the employer may operate"
+   ],
+   "x": "Articles R4323-55 and R4323-56 of the Labour Code require suitable training and an operating authorisation. An untrained person knows neither the machine's limits nor the risks: this is a common cause of accidents."
+  }
+ },
+ {
+  "id": "r489-057",
+  "points": {
+   "r489": "expl-causes",
+   "r485": "expl-causes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Un engin dérape sur une flaque d’huile et heurte un rayonnage. Quelle mesure de prévention s’imposait ?",
+   "o": [
+    "Signaler et faire nettoyer le sol, et adapter sa vitesse",
+    "Rouler plus vite pour traverser la flaque",
+    "Lever la charge pour mieux voir le sol",
+    "Couper l’éclairage de l’allée pour éviter les reflets sur le sol mouillé"
+   ],
+   "x": "Un sol glissant allonge le freinage et fait perdre l’adhérence. Le conducteur ralentit, contourne si possible et signale le problème pour que la zone soit nettoyée et balisée."
+  },
+  "en": {
+   "q": "A machine skids on an oil spill and hits a rack. Which preventive measure was needed?",
+   "o": [
+    "Report and have the floor cleaned, and adapt speed",
+    "Drive faster to get across the spill",
+    "Raise the load to see the floor better",
+    "Switch off the aisle lights to avoid glare on the wet floor"
+   ],
+   "x": "A slippery floor lengthens braking and reduces grip. The driver slows down, goes round if possible and reports the problem so the area is cleaned and marked off."
+  }
+ },
+ {
+  "id": "r489-058",
+  "points": {
+   "r489": "expl-causes",
+   "r485": "expl-causes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Quelle organisation réduit le plus les heurts entre engins et piétons dans un entrepôt ?",
+   "o": [
+    "Augmenter la vitesse pour réduire le temps de présence",
+    "Séparer les circulations des piétons et des engins",
+    "Laisser chacun choisir son itinéraire",
+    "Supprimer le marquage au sol"
+   ],
+   "x": "Séparer physiquement ou par marquage les allées piétonnes des voies d’engins supprime de nombreuses situations de croisement. C’est une mesure collective plus efficace que la seule vigilance de chacun."
+  },
+  "en": {
+   "q": "Which arrangement does most to reduce collisions between machines and pedestrians in a warehouse?",
+   "o": [
+    "Increasing speed to reduce time spent in the area",
+    "Separating pedestrian and machine traffic",
+    "Letting everyone choose their own route",
+    "Removing the floor markings"
+   ],
+   "x": "Separating pedestrian walkways from machine routes, physically or with markings, removes many crossing situations. It is a collective measure that works better than individual vigilance alone."
+  }
+ },
+ {
+  "id": "r489-059",
+  "points": {
+   "r489": "expl-renversement",
+   "r485": "expl-renversement"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Dans quelle position transportez-vous une charge d’un point à un autre ?",
+   "o": [
+    "Fourches à mi-hauteur pour mieux voir",
+    "Fourches en position haute pour libérer le passage et voir sous la charge",
+    "Fourches basses, juste assez levées pour ne pas toucher le sol",
+    "Fourches à hauteur des yeux du conducteur"
+   ],
+   "x": "Charge basse, le centre de gravité reste bas et l’ensemble est stable en virage, en freinage ou sur un sol irrégulier. Si la charge tombe, elle tombe de peu de hauteur. On ne lève qu’à l’arrêt, face à l’emplacement."
+  },
+  "en": {
+   "q": "In what position do you carry a load from one place to another?",
+   "o": [
+    "Forks halfway up to see better",
+    "Forks high to clear the way and see under the load",
+    "Forks low, raised just enough to clear the floor",
+    "Forks at the driver's eye level"
+   ],
+   "x": "With the load low, the centre of gravity stays low and the unit is stable when turning, braking or on rough floors. If the load falls, it falls only a short way. Only lift when stopped in front of the location."
+  }
+ },
+ {
+  "id": "r489-060",
+  "points": {
+   "r489": "expl-renversement",
+   "r485": "expl-renversement"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "La charge commence à glisser des fourches. Que faites-vous ?",
+   "o": [
+    "Vous la retenez avec les mains",
+    "Vous accélérez pour la recaler",
+    "Vous montez la charge plus haut",
+    "Vous ne cherchez pas à la retenir avec les mains"
+   ],
+   "x": "Une charge qui tombe peut écraser ou blesser gravement. On arrête la manœuvre en douceur et on ne s’interpose jamais. Les dégâts matériels sont toujours préférables à une blessure."
+  },
+  "en": {
+   "q": "The load starts to slide off the forks. What do you do?",
+   "o": [
+    "You hold it with your hands",
+    "You accelerate to settle it back",
+    "You raise the load higher",
+    "You do not try to hold it with your hands"
+   ],
+   "x": "A falling load can crush or seriously injure. Stop the manoeuvre gently and never put yourself in the way. Material damage is always better than an injury."
+  }
+ },
+ {
+  "id": "r489-061",
+  "points": {
+   "r489": "expl-renversement",
+   "r485": "expl-renversement"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous transportez un conteneur rigide à moitié rempli de liquide. Quelle précaution prenez-vous ?",
+   "o": [
+    "Démarrer, tourner et freiner en douceur à cause des mouvements du liquide",
+    "Rouler vite et d’une traite pour limiter les mouvements du liquide dans la cuve",
+    "Lever le conteneur pour amortir les chocs",
+    "Freiner fort pour stabiliser le liquide"
+   ],
+   "x": "Le liquide se déplace dans le conteneur : à chaque accélération, virage ou freinage, la vague déplace le centre de gravité et peut déstabiliser l’engin. Des gestes progressifs et une charge basse limitent cet effet."
+  },
+  "en": {
+   "q": "You are carrying a rigid container half full of liquid. What precaution do you take?",
+   "o": [
+    "Start, turn and brake smoothly because of the liquid moving",
+    "Drive fast in one go to limit the liquid's movement in the tank",
+    "Raise the container to absorb shocks",
+    "Brake hard to settle the liquid"
+   ],
+   "x": "The liquid moves inside the container: at each acceleration, turn or braking the wave shifts the centre of gravity and can destabilise the machine. Smooth actions and a low load limit this effect."
+  }
+ },
+ {
+  "id": "r489-062",
+  "points": {
+   "r489": "expl-renversement",
+   "r485": "expl-renversement"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous devez déplacer une charge longue (profilés de plusieurs mètres). Que faut-il faire ?",
+   "o": [
+    "La prendre par une extrémité pour mieux voir",
+    "La centrer sur les fourches et ralentir dans les virages et passages",
+    "La lever haut pour passer au-dessus des obstacles et des personnes dans l’allée",
+    "Rouler vite pour réduire la durée du trajet"
+   ],
+   "x": "Une charge longue doit être équilibrée sur les fourches, centre de gravité au milieu. Ses extrémités balaient une large zone en virage : on ralentit, on surveille les côtés et on évite de lever."
+  },
+  "en": {
+   "q": "You have to move a long load (sections several metres long). What must you do?",
+   "o": [
+    "Pick it up by one end to see better",
+    "Centre it on the forks and slow down in bends and passages",
+    "Lift it high to clear obstacles and people in the aisle",
+    "Drive fast to shorten the trip"
+   ],
+   "x": "A long load must be balanced on the forks, with its centre of gravity in the middle. Its ends sweep a wide area in turns: slow down, watch the sides and avoid lifting."
+  }
+ },
+ {
+  "id": "r489-063",
+  "points": {
+   "r489": "expl-renversement",
+   "r485": "expl-renversement"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous devez gerber des palettes les unes sur les autres. Qu’est-ce qui limite le nombre de niveaux ?",
+   "o": [
+    "Uniquement la hauteur maximale de levée indiquée pour votre engin de manutention",
+    "La couleur des palettes",
+    "La résistance et la stabilité des charges et des palettes du dessous",
+    "Le nombre de palettes à ranger"
+   ],
+   "x": "Les charges du bas supportent tout le poids : cartons écrasés, palettes abîmées ou piles décalées provoquent l’écroulement. Le conducteur évalue la tenue de la pile, en plus de la capacité de l’engin à la hauteur visée."
+  },
+  "en": {
+   "q": "You need to stack pallets on top of each other. What limits the number of levels?",
+   "o": [
+    "Only the maximum lift height stated for your handling machine",
+    "The colour of the pallets",
+    "The strength and stability of the loads and pallets below",
+    "The number of pallets to put away"
+   ],
+   "x": "The bottom loads carry all the weight: crushed boxes, damaged pallets or offset stacks cause collapse. The driver judges how well the stack will hold, as well as the machine's capacity at the target height."
+  }
+ },
+ {
+  "id": "r489-064",
+  "points": {
+   "r489": "expl-renversement",
+   "r485": "expl-renversement"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Comment manutentionner un big bag ou un sac souple ?",
+   "o": [
+    "En le piquant franchement avec les deux fourches pour l’empêcher de glisser",
+    "En le poussant avec l’arrière de l’engin",
+    "En le portant sur l’extrémité d’une seule fourche",
+    "Avec une méthode et un équipement adaptés à sa forme et à son glissement"
+   ],
+   "x": "Une charge déformable se tasse, glisse et se déplace pendant le trajet. Elle se prend sur palette, par ses anses avec un équipement prévu, ou selon la méthode définie. Percer le sac peut aussi libérer un produit dangereux."
+  },
+  "en": {
+   "q": "How should you handle a big bag or a soft sack?",
+   "o": [
+    "By stabbing it firmly with both forks so it cannot slide",
+    "By pushing it with the back of the machine",
+    "By carrying it on the tip of one fork",
+    "With a method and equipment suited to its shape and slipping"
+   ],
+   "x": "A flexible load sags, slides and shifts during travel. It is handled on a pallet, by its loops with suitable equipment, or using the defined method. Piercing the bag can also release a hazardous product."
+  }
+ },
+ {
+  "id": "r489-065",
+  "points": {
+   "r489": "expl-heurts",
+   "r485": "expl-heurts"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous approchez d’une porte battante sans visibilité sur l’autre côté. Que faites-vous ?",
+   "o": [
+    "Vous ralentissez, signalez votre présence et vérifiez que le passage est libre",
+    "Vous accélérez pour passer avant qu’elle se referme et vous klaxonnez en même temps",
+    "Vous poussez la porte avec la charge",
+    "Vous passez en marche arrière sans regarder"
+   ],
+   "x": "Derrière une porte ou un angle, un piéton ou un autre engin peut surgir. On réduit la vitesse, on utilise l’avertisseur et on ne s’engage que lorsque le passage est dégagé. Une porte n’est pas faite pour être poussée par la charge."
+  },
+  "en": {
+   "q": "You approach a swing door with no view of the other side. What do you do?",
+   "o": [
+    "You slow down, signal your presence and check the way is clear",
+    "You speed up to get through before it closes, sounding the horn at the same time",
+    "You push the door open with the load",
+    "You go through in reverse without looking"
+   ],
+   "x": "Behind a door or corner a pedestrian or another machine can appear. Reduce speed, use the horn and only go ahead when the way is clear. A door is not designed to be pushed open by a load."
+  }
+ },
+ {
+  "id": "r489-066",
+  "points": {
+   "r489": "expl-heurts",
+   "r485": "expl-heurts"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Un piéton marche dans l’allée où vous circulez. Quelle est la bonne conduite ?",
+   "o": [
+    "Klaxonner et garder votre vitesse",
+    "Ralentir, vous assurer qu’il vous a vu et le laisser s’écarter",
+    "Le frôler pour gagner du temps",
+    "Le suivre de très près pour le presser"
+   ],
+   "x": "Le piéton n’entend pas toujours l’engin et ne voit pas forcément ses manœuvres. Un contact visuel et une vitesse réduite évitent les heurts. L’avertisseur sert à prévenir, pas à exiger le passage."
+  },
+  "en": {
+   "q": "A pedestrian is walking in the aisle you are driving along. What is the right behaviour?",
+   "o": [
+    "Sound the horn and keep your speed",
+    "Slow down, make sure they have seen you and let them step aside",
+    "Pass very close to save time",
+    "Follow closely to hurry them up"
+   ],
+   "x": "Pedestrians do not always hear the machine or see its moves. Eye contact and reduced speed prevent collisions. The horn is used to warn, not to demand right of way."
+  }
+ },
+ {
+  "id": "r489-067",
+  "points": {
+   "r489": "expl-personnes",
+   "r485": "expl-personnes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un collègue veut monter sur les fourches pour attraper un carton en hauteur. Que faites-vous ?",
+   "o": [
+    "Vous acceptez s’il se tient fermement au tablier pendant toute la montée",
+    "Vous acceptez s’il porte un casque",
+    "Vous refusez : élever une personne sur les fourches est interdit",
+    "Vous acceptez si vous levez lentement"
+   ],
+   "x": "Les fourches ne sont ni une plate-forme ni un poste de travail : aucune protection contre la chute, aucune commande pour la personne levée. Pour travailler en hauteur, on utilise un équipement conçu pour élever des personnes."
+  },
+  "en": {
+   "q": "A colleague wants to stand on the forks to reach a box up high. What do you do?",
+   "o": [
+    "You agree if they hold the carriage firmly all the way up",
+    "You agree if they wear a helmet",
+    "You refuse: lifting a person on the forks is forbidden",
+    "You agree if you lift slowly"
+   ],
+   "x": "Forks are neither a platform nor a workstation: no fall protection and no controls for the person lifted. To work at height, use equipment designed to lift people."
+  }
+ },
+ {
+  "id": "r489-068",
+  "points": {
+   "r489": "expl-personnes",
+   "r485": "expl-personnes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Peut-on élever une personne debout sur une palette posée sur les fourches ?",
+   "o": [
+    "Oui, si la palette est en bon état",
+    "Oui, à moins de 2 m de hauteur",
+    "Oui, si la personne est attachée à la palette par une sangle solide",
+    "Non, une palette n’offre ni garde-corps ni fixation"
+   ],
+   "x": "La palette peut glisser, la personne peut tomber ou être coincée par le mât, et elle n’a aucun moyen d’arrêter l’engin. Ce montage improvisé est interdit ; on utilise une plate-forme élévatrice mobile de personnel adaptée."
+  },
+  "en": {
+   "q": "May a person standing on a pallet on the forks be lifted?",
+   "o": [
+    "Yes, if the pallet is in good condition",
+    "Yes, below 2 m in height",
+    "Yes, if the person is tied to the pallet with a strong strap",
+    "No, a pallet has no guardrails and is not fixed"
+   ],
+   "x": "The pallet can slide, the person can fall or be trapped by the mast, and they cannot stop the machine. This improvised set-up is forbidden; use a suitable mobile elevating work platform (PEMP)."
+  }
+ },
+ {
+  "id": "r489-069",
+  "points": {
+   "r489": "expl-personnes",
+   "r485": "expl-personnes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Un collègue vous demande de l’emmener à l’autre bout de l’entrepôt sur votre engin. Que répondez-vous ?",
+   "o": [
+    "Non, sauf si l’engin a une place passager prévue par le constructeur",
+    "Oui, s’il se tient fermement à l’engin",
+    "Oui, s’il s’assoit sur la charge",
+    "Oui, s’il reste debout sur la fourche"
+   ],
+   "x": "Le transport de personnes n’est admis que sur un siège ou un emplacement prévu à cet effet par le constructeur. Sur les fourches, la charge ou le capot, une chute ou un écrasement est très probable."
+  },
+  "en": {
+   "q": "A colleague asks you to give them a lift across the warehouse on your machine. What do you say?",
+   "o": [
+    "No, unless the machine has a passenger seat provided by the manufacturer",
+    "Yes, if they hold on tightly to the machine",
+    "Yes, if they sit on the load",
+    "Yes, if they stand on a fork"
+   ],
+   "x": "Carrying people is only allowed on a seat or space designed for that purpose by the manufacturer. On the forks, the load or the bonnet, a fall or crushing injury is very likely."
+  }
+ },
+ {
+  "id": "r489-070",
+  "points": {
+   "r489": "expl-incendie",
+   "r485": "expl-incendie"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Que signale ce panneau ?",
+   "o": [
+    "Une zone où le feu est autorisé",
+    "L’emplacement d’un extincteur",
+    "Un local de charge des batteries",
+    "Un point de rassemblement"
+   ],
+   "x": "Les panneaux rouges de forme carrée ou rectangulaire signalent le matériel de lutte contre l’incendie. Savoir où se trouvent les extincteurs permet d’agir vite sur un début de feu, si l’on est formé et sans se mettre en danger."
+  },
+  "en": {
+   "q": "What does this sign indicate?",
+   "o": [
+    "An area where fires are allowed",
+    "The location of a fire extinguisher",
+    "A battery charging room",
+    "An assembly point"
+   ],
+   "x": "Red square or rectangular signs mark fire-fighting equipment. Knowing where extinguishers are lets you act quickly on a small fire, if you are trained and without putting yourself at risk."
+  },
+  "img": "incendie-extincteur"
+ },
+ {
+  "id": "r489-071",
+  "points": {
+   "r489": "expl-incendie",
+   "r485": "expl-incendie"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi est-il interdit de fumer près d’un poste de charge de batteries au plomb ?",
+   "o": [
+    "La fumée abîme les chargeurs",
+    "La nicotine attaque l’acide",
+    "La charge dégage de l’hydrogène, un gaz explosif",
+    "Pour ne pas gêner les autres conducteurs qui attendent leur tour de charge"
+   ],
+   "x": "En fin de charge, les batteries au plomb ouvertes libèrent de l’hydrogène. Mélangé à l’air, il peut exploser au contact d’une flamme ou d’une étincelle. Le local doit être ventilé et toute source d’ignition proscrite."
+  },
+  "en": {
+   "q": "Why is smoking banned near a lead-acid battery charging station?",
+   "o": [
+    "Smoke damages the chargers",
+    "Nicotine attacks the acid",
+    "Charging gives off hydrogen, an explosive gas",
+    "So as not to bother other drivers waiting to charge"
+   ],
+   "x": "Towards the end of charging, vented lead-acid batteries release hydrogen. Mixed with air it can explode on contact with a flame or spark. The room must be ventilated and every source of ignition banned."
+  }
+ },
+ {
+  "id": "r489-072",
+  "points": {
+   "r489": "expl-circ-int",
+   "r485": "expl-circ-int"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Le marquage au sol délimite des voies pour les engins et des allées piétonnes. Quelle règle suivez-vous ?",
+   "o": [
+    "Vous prenez le chemin le plus court",
+    "Vous utilisez les allées piétonnes quand elles sont vides",
+    "Vous suivez l’engin qui vous précède, où qu’il aille",
+    "Vous restez sur les voies prévues par le plan de circulation"
+   ],
+   "x": "Le plan de circulation organise les flux pour limiter les croisements dangereux. Le conducteur respecte les voies, les sens et les priorités qu’il définit, même si un raccourci semble plus rapide."
+  },
+  "en": {
+   "q": "Floor markings mark out lanes for machines and walkways for pedestrians. Which rule do you follow?",
+   "o": [
+    "You take the shortest route",
+    "You use walkways when they are empty",
+    "You follow the machine ahead wherever it goes",
+    "You stay on the lanes set by the traffic plan"
+   ],
+   "x": "The traffic plan (plan de circulation) organises flows to limit dangerous crossings. The driver follows its lanes, directions and priorities, even if a shortcut looks quicker."
+  }
+ },
+ {
+  "id": "r489-073",
+  "points": {
+   "r489": "expl-circ-int",
+   "r485": "expl-circ-int"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Que signifie ce panneau à l’entrée d’une zone ?",
+   "o": [
+    "Accès interdit aux chariots de manutention",
+    "Chariots prioritaires dans cette zone",
+    "Atelier de réparation des chariots",
+    "Attention, chariots en circulation"
+   ],
+   "x": "Un cercle rouge barré marque une interdiction. Ici, les chariots ne doivent pas entrer, par exemple à cause d’un plancher fragile ou d’une zone réservée aux piétons. Le triangle jaune, lui, ne fait qu’avertir."
+  },
+  "en": {
+   "q": "What does this sign at the entrance to an area mean?",
+   "o": [
+    "No entry for industrial trucks",
+    "Trucks have priority in this area",
+    "Truck repair workshop",
+    "Caution, trucks operating"
+   ],
+   "x": "A red circle with a bar marks a prohibition. Here trucks must not enter, for example because of a weak floor or a pedestrian-only area. A yellow triangle would only warn."
+  },
+  "img": "interdit-chariots"
+ },
+ {
+  "id": "r489-074",
+  "points": {
+   "r489": "expl-chargement",
+   "r485": "expl-chargement"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Qu’est-ce que le protocole de sécurité pour les opérations de chargement et de déchargement ?",
+   "o": [
+    "Une consigne orale donnée par le chauffeur au moment où il arrive au quai",
+    "Un document écrit entre l’entreprise d’accueil et le transporteur",
+    "La notice d’instructions du camion",
+    "Le bon de livraison de la marchandise"
+   ],
+   "x": "Le Code du travail (articles R4515-4 et suivants) impose un protocole de sécurité écrit, échangé entre l’entreprise d’accueil et le transporteur. Il précise les lieux, le matériel, les consignes et le partage des tâches pendant l’opération."
+  },
+  "en": {
+   "q": "What is the safety protocol for loading and unloading operations?",
+   "o": [
+    "A verbal instruction the lorry driver gives on arriving at the dock",
+    "A written document between the host company and the carrier",
+    "The lorry's instruction manual",
+    "The goods delivery note"
+   ],
+   "x": "The Labour Code (Articles R4515-4 onwards) requires a written safety protocol (protocole de sécurité) exchanged between the host company and the carrier. It sets out locations, equipment, instructions and who does what."
+  }
+ },
+ {
+  "id": "r489-075",
+  "points": {
+   "r489": "expl-chargement",
+   "r485": "expl-chargement"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Avant d’entrer avec votre engin dans une remorque à quai, que vérifiez-vous en premier ?",
+   "o": [
+    "Que le chauffeur est resté dans sa cabine moteur allumé",
+    "Que la remorque est vide",
+    "Que le véhicule est immobilisé et ne peut pas partir",
+    "Que la radio du camion est éteinte"
+   ],
+   "x": "Un véhicule mal immobilisé peut avancer et ouvrir un vide entre le quai et le plancher. On s’assure du calage, du frein, de la remise des clés ou du signal de quai selon le protocole, avant toute entrée."
+  },
+  "en": {
+   "q": "Before driving your machine into a trailer at the dock, what do you check first?",
+   "o": [
+    "That the driver stays in the cab with the engine running",
+    "That the trailer is empty",
+    "That the vehicle is immobilised and cannot move off",
+    "That the lorry radio is off"
+   ],
+   "x": "A poorly immobilised vehicle can move forward and open a gap between dock and floor. Check chocks, brake, handover of keys or the dock signal, as per the protocol, before entering."
+  }
+ },
+ {
+  "id": "r489-076",
+  "points": {
+   "r489": "expl-chargement",
+   "r485": "expl-chargement"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Le pont de liaison entre le quai et la remorque semble mal posé. Que faites-vous ?",
+   "o": [
+    "Vous passez vite pour limiter le temps sur le pont",
+    "Vous passez en levant la charge",
+    "Vous passez si la charge est légère",
+    "Vous le faites repositionner avant de passer"
+   ],
+   "x": "Un pont mal appuyé ou trop pentu peut glisser ou céder sous le poids de l’engin. Il doit reposer correctement sur le plancher, être adapté à la charge et immobilisé avant tout passage."
+  },
+  "en": {
+   "q": "The dock plate between the dock and the trailer seems badly placed. What do you do?",
+   "o": [
+    "You cross quickly to limit the time on it",
+    "You cross with the load raised",
+    "You cross if the load is light",
+    "You have it repositioned before crossing"
+   ],
+   "x": "A dock plate that is badly seated or too steep can slip or give way under the machine. It must rest properly on the floor, suit the load and be secured before anything crosses it."
+  }
+ },
+ {
+  "id": "r489-077",
+  "points": {
+   "r489": "expl-chargement",
+   "r485": "expl-chargement"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Une semi-remorque est dételée au quai. Pourquoi faut-il vérifier son support avant ?",
+   "o": [
+    "Sans appui suffisant, elle peut basculer quand l’engin entre à l’avant",
+    "Pour faciliter l’ouverture des portes",
+    "Pour mesurer la longueur de la remorque",
+    "Ce support ne sert qu’au transport routier et n’a aucun rôle une fois à quai"
+   ],
+   "x": "Sans tracteur, l’avant de la semi-remorque ne repose que sur ses béquilles. Le poids de l’engin et de la charge à l’avant peut la faire basculer. Béquilles en bon état et chandelle de soutien éventuelle évitent cet accident."
+  },
+  "en": {
+   "q": "A semi-trailer is uncoupled at the dock. Why must its front support be checked?",
+   "o": [
+    "Without enough support it can tip when the machine drives to the front",
+    "To make opening the doors easier",
+    "To measure the trailer length",
+    "This support is only for road transport and plays no part at the dock"
+   ],
+   "x": "Without the tractor unit, the front of the semi-trailer rests only on its landing legs. The weight of the machine and load at the front can make it tip. Sound legs and, where needed, a trailer stand prevent this."
+  }
+ },
+ {
+  "id": "r489-078",
+  "points": {
+   "r489": "expl-chargement",
+   "r485": "expl-chargement"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "En entrant dans une remorque, vous remarquez des planches abîmées sur le plancher. Que faites-vous ?",
+   "o": [
+    "Vous passez vite pour ne pas peser longtemps",
+    "Vous n’entrez pas et vous prévenez votre responsable",
+    "Vous déposez la charge sur les planches abîmées",
+    "Vous continuez en évitant de regarder"
+   ],
+   "x": "Un plancher dégradé peut céder sous le poids concentré des roues de l’engin chargé. On vérifie l’état et la résistance du plancher avant d’entrer et on signale toute anomalie avant de poursuivre."
+  },
+  "en": {
+   "q": "On entering a trailer, you notice damaged boards on the floor. What do you do?",
+   "o": [
+    "You drive over quickly so as not to weigh on them for long",
+    "You do not go in and you tell your manager",
+    "You put the load down on the damaged boards",
+    "You carry on without looking"
+   ],
+   "x": "A damaged floor can give way under the concentrated weight of the loaded machine's wheels. Check the floor condition and strength before entering and report any defect before carrying on."
+  }
+ },
+ {
+  "id": "r489-079",
+  "points": {
+   "r489": "expl-chargement",
+   "r485": "expl-chargement"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "L’intérieur de la remorque est très sombre. Quelle est la bonne solution ?",
+   "o": [
+    "Travailler de mémoire en longeant la paroi de la remorque avec l’engin",
+    "Laisser la porte du quai entrouverte",
+    "Utiliser un éclairage adapté dans le véhicule ou sur l’engin",
+    "Accélérer pour sortir plus vite"
+   ],
+   "x": "Sans lumière, le conducteur ne voit ni les obstacles, ni l’état du plancher, ni la position des charges. Un projecteur de quai, l’éclairage de la remorque ou les phares de l’engin rendent la zone visible avant d’y entrer."
+  },
+  "en": {
+   "q": "The inside of the trailer is very dark. What is the right solution?",
+   "o": [
+    "Work from memory, running along the trailer wall with the machine",
+    "Leave the dock door half open",
+    "Use suitable lighting in the vehicle or on the machine",
+    "Speed up to get out quicker"
+   ],
+   "x": "Without light the driver sees neither obstacles, nor floor condition, nor load positions. A dock light, the trailer lights or the machine's headlights make the area visible before entering."
+  }
+ },
+ {
+  "id": "r489-080",
+  "points": {
+   "r489": "expl-produits-pictos",
+   "r485": "expl-produits-pictos"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Que signifie ce pictogramme sur un colis ?",
+   "o": [
+    "Produit comburant",
+    "Produit explosif",
+    "Gaz sous pression",
+    "Produit inflammable"
+   ],
+   "x": "Ce pictogramme du règlement CLP représente une flamme : le produit peut s’enflammer facilement. On l’éloigne des sources de chaleur, d’étincelles et de flammes et on évite les chocs qui pourraient percer l’emballage."
+  },
+  "en": {
+   "q": "What does this pictogram on a package mean?",
+   "o": [
+    "Oxidising product",
+    "Explosive product",
+    "Gas under pressure",
+    "Flammable product"
+   ],
+   "x": "This CLP regulation pictogram shows a flame: the product can easily catch fire. Keep it away from heat, sparks and flames, and avoid impacts that could pierce the packaging."
+  },
+  "img": "sgh02"
+ },
+ {
+  "id": "r489-081",
+  "points": {
+   "r489": "expl-produits-pictos",
+   "r485": "expl-produits-pictos"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Que signifie ce pictogramme sur un fût ?",
+   "o": [
+    "Produit corrosif",
+    "Produit toxique",
+    "Produit dangereux pour l’environnement",
+    "Produit inflammable"
+   ],
+   "x": "Le pictogramme corrosif montre un liquide qui attaque une main et une surface : le produit brûle la peau et les yeux et ronge certains métaux. Gants, lunettes et manutention sans choc sont indispensables."
+  },
+  "en": {
+   "q": "What does this pictogram on a drum mean?",
+   "o": [
+    "Corrosive product",
+    "Toxic product",
+    "Product hazardous to the environment",
+    "Flammable product"
+   ],
+   "x": "The corrosive pictogram shows a liquid eating into a hand and a surface: the product burns skin and eyes and attacks some metals. Gloves, goggles and handling without impacts are essential."
+  },
+  "img": "sgh05"
+ },
+ {
+  "id": "r489-082",
+  "points": {
+   "r489": "expl-produits-pictos",
+   "r485": "expl-produits-pictos"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Que signifie ce pictogramme ?",
+   "o": [
+    "Produit simplement irritant",
+    "Toxicité aiguë : le produit peut tuer ou intoxiquer gravement",
+    "Produit radioactif",
+    "Produit périmé"
+   ],
+   "x": "La tête de mort sur os croisés signale une toxicité aiguë : une faible quantité inhalée, avalée ou en contact avec la peau peut être mortelle. En cas de fuite, on s’éloigne et on alerte sans toucher au produit."
+  },
+  "en": {
+   "q": "What does this pictogram mean?",
+   "o": [
+    "Merely irritant product",
+    "Acute toxicity: the product can kill or seriously poison",
+    "Radioactive product",
+    "Expired product"
+   ],
+   "x": "The skull and crossbones means acute toxicity: a small amount inhaled, swallowed or in contact with skin can be fatal. If there is a leak, move away and raise the alarm without touching the product."
+  },
+  "img": "sgh06"
+ },
+ {
+  "id": "r489-083",
+  "points": {
+   "r489": "expl-produits-risques",
+   "r485": "expl-produits-risques"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Vous percez un fût de produit chimique avec la fourche. Que faites-vous ?",
+   "o": [
+    "Vous bouchez le trou avec la main",
+    "Vous déplacez vite le fût vers l’extérieur avant que le produit ne se répande",
+    "Vous vous éloignez, balisez si possible et alertez selon la consigne",
+    "Vous nettoyez au jet d’eau sans attendre"
+   ],
+   "x": "Un produit qui fuit peut être toxique, corrosif ou inflammable. On ne s’expose pas : on arrête, on s’écarte, on empêche l’accès et on prévient les personnes désignées, qui agiront d’après la fiche de données de sécurité."
+  },
+  "en": {
+   "q": "You pierce a drum of chemical with a fork. What do you do?",
+   "o": [
+    "You plug the hole with your hand",
+    "You quickly move the drum outside before the product spreads",
+    "You move away, cordon off if possible and raise the alarm as instructed",
+    "You hose it down straight away"
+   ],
+   "x": "A leaking product may be toxic, corrosive or flammable. Do not expose yourself: stop, move away, keep others out and alert the designated people, who will act according to the safety data sheet (fiche de données de sécurité)."
+  }
+ },
+ {
+  "id": "r489-084",
+  "points": {
+   "r489": "expl-produits-risques",
+   "r485": "expl-produits-risques"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Où trouver la conduite à tenir en cas de fuite d’un produit chimique stocké ?",
+   "o": [
+    "Sur le bon de livraison uniquement",
+    "Dans la notice du chariot",
+    "Sur le rapport de vérification périodique",
+    "Dans sa fiche de données de sécurité et les consignes du site"
+   ],
+   "x": "La fiche de données de sécurité décrit les dangers du produit, les protections à porter et les mesures en cas de déversement ou d’incendie. Les consignes du site précisent qui alerter et quel matériel utiliser."
+  },
+  "en": {
+   "q": "Where do you find what to do if a stored chemical leaks?",
+   "o": [
+    "On the delivery note only",
+    "In the truck manual",
+    "On the periodic inspection report",
+    "In its safety data sheet and the site instructions"
+   ],
+   "x": "The safety data sheet (fiche de données de sécurité) describes the product's hazards, the protection to wear and what to do in a spill or fire. Site instructions say who to alert and what equipment to use."
+  }
+ },
+ {
+  "id": "r489-085",
+  "points": {
+   "r489": "expl-produits-risques",
+   "r485": "expl-produits-risques"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Pourquoi ne faut-il pas stocker côte à côte un produit comburant et un produit inflammable ?",
+   "o": [
+    "Le comburant peut aggraver ou déclencher l’incendie de l’inflammable",
+    "Ils risquent de mélanger leurs étiquettes",
+    "Le comburant rend l’inflammable plus lourd et donc plus difficile à manutentionner",
+    "Pour des raisons purement esthétiques"
+   ],
+   "x": "Un comburant apporte de l’oxygène à la combustion. Mis en contact avec un produit inflammable, après une chute ou une fuite, il peut provoquer ou intensifier un feu. Les règles de stockage séparent ces produits incompatibles."
+  },
+  "en": {
+   "q": "Why must an oxidising product not be stored next to a flammable one?",
+   "o": [
+    "The oxidiser can start or worsen a fire in the flammable product",
+    "Their labels might get mixed up",
+    "The oxidiser makes the flammable product heavier and harder to handle",
+    "For purely aesthetic reasons"
+   ],
+   "x": "An oxidiser supplies oxygen to combustion. In contact with a flammable product after a fall or leak, it can cause or intensify a fire. Storage rules keep these incompatible products apart."
+  }
+ },
+ {
+  "id": "r489-086",
+  "points": {
+   "r489": "expl-verif",
+   "r485": "expl-verif"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "En fin de poste, comment laissez-vous votre engin ?",
+   "o": [
+    "Devant une issue de secours, pour repartir vite",
+    "Sur un emplacement prévu, fourches au sol, frein serré, clé ou badge retiré",
+    "Fourches levées pour libérer le sol",
+    "Clé sur le contact pour le collègue suivant"
+   ],
+   "x": "Un engin bien stationné ne gêne ni la circulation ni l’évacuation, ne peut pas se déplacer seul et ne peut pas être utilisé par une personne non autorisée. Des fourches au sol ne font trébucher personne."
+  },
+  "en": {
+   "q": "At the end of your shift, how do you leave your machine?",
+   "o": [
+    "In front of an emergency exit, to leave quickly next time",
+    "In a designated place, forks down, brake on, key or badge removed",
+    "Forks raised to keep the floor clear",
+    "Key in for the next colleague"
+   ],
+   "x": "A properly parked machine does not obstruct traffic or evacuation, cannot move by itself and cannot be used by an unauthorised person. Forks on the floor do not trip anyone up."
+  }
+ },
+ {
+  "id": "r489-087",
+  "points": {
+   "r489": "expl-verif",
+   "r485": "expl-verif"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Lors de la vérification visuelle, vous découvrez une fissure sur une fourche. Que faites-vous ?",
+   "o": [
+    "Vous l’utilisez avec des charges légères",
+    "Vous inversez les deux fourches",
+    "Vous n’utilisez pas l’engin et signalez le défaut",
+    "Vous attendez la prochaine vérification périodique"
+   ],
+   "x": "Une fourche fissurée peut se rompre brutalement sous la charge. C’est un défaut grave : l’engin est mis hors service et signalé à la hiérarchie jusqu’au remplacement par une personne compétente."
+  },
+  "en": {
+   "q": "During the visual check you find a crack in a fork. What do you do?",
+   "o": [
+    "You use it for light loads",
+    "You swap the two forks",
+    "You do not use the machine and report the defect",
+    "You wait for the next periodic inspection"
+   ],
+   "x": "A cracked fork can snap suddenly under load. It is a serious defect: the machine is taken out of use and reported to management until a competent person replaces the fork."
+  }
+ },
+ {
+  "id": "r489-088",
+  "points": {
+   "r489": "expl-verif",
+   "r485": "expl-verif"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pourquoi le conducteur fait-il des vérifications à la prise et à la fin de son poste ?",
+   "o": [
+    "Pour remplacer les vérifications périodiques réglementaires",
+    "Pour gagner du temps sur la production",
+    "Uniquement pour remplir un formulaire",
+    "Pour repérer les anomalies avant qu’elles ne causent un accident"
+   ],
+   "x": "Ces vérifications de premier niveau (état général, chaînes, fuites, freins, avertisseur, charge de la batterie) détectent tôt les défauts. Elles complètent, sans les remplacer, les vérifications périodiques faites par une personne compétente."
+  },
+  "en": {
+   "q": "Why does the driver carry out checks at the start and end of the shift?",
+   "o": [
+    "To replace the regulatory periodic examinations",
+    "To save production time",
+    "Just to fill in a form",
+    "To spot faults before they cause an accident"
+   ],
+   "x": "These first-level checks (general condition, chains, leaks, brakes, horn, battery charge) catch defects early. They add to, but do not replace, the periodic examinations carried out by a competent person."
+  }
+ },
+ {
+  "id": "r489-089",
+  "points": {
+   "r489": "expl-incident",
+   "r485": "expl-incident"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "De la fumée sort du compartiment batterie de votre engin. Quel est le bon ordre d’actions ?",
+   "o": [
+    "Arrêter, couper l’alimentation si possible, s’éloigner et donner l’alerte",
+    "Ouvrir le capot pour voir d’où vient la fumée, puis décider s’il faut alerter",
+    "Finir la manœuvre en cours puis prévenir",
+    "Rouler vers l’extérieur avec l’engin qui fume"
+   ],
+   "x": "Un début de feu peut s’étendre très vite. On immobilise l’engin, on coupe l’énergie, on se met en sécurité et on alerte. On n’utilise un extincteur que si l’on est formé et sans prendre de risque."
+  },
+  "en": {
+   "q": "Smoke is coming from your machine's battery compartment. What is the right order of actions?",
+   "o": [
+    "Stop, cut the power if possible, move away and raise the alarm",
+    "Open the cover to see where the smoke comes from, then decide whether to alert",
+    "Finish the current manoeuvre, then report",
+    "Drive the smoking machine outside"
+   ],
+   "x": "A small fire can spread very quickly. Immobilise the machine, cut the power, get to safety and raise the alarm. Only use an extinguisher if you are trained and without taking risks."
+  }
+ },
+ {
+  "id": "r489-090",
+  "points": {
+   "r489": "expl-incident",
+   "r485": "expl-incident"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Votre engin tombe en panne avec la charge levée. Que faites-vous ?",
+   "o": [
+    "Vous descendez la charge en la tirant à la main",
+    "Vous interdisez l’accès sous la charge et prévenez votre responsable",
+    "Vous passez dessous pour regarder le mécanisme",
+    "Vous laissez l’engin et repartez sans rien dire"
+   ],
+   "x": "Une charge en hauteur sur un engin en panne reste un danger. On balise la zone, on empêche quiconque de passer dessous et on fait intervenir les personnes qualifiées pour la descente ou la réparation."
+  },
+  "en": {
+   "q": "Your machine breaks down with the load raised. What do you do?",
+   "o": [
+    "You pull the load down by hand",
+    "You stop anyone going under the load and tell your manager",
+    "You go underneath to look at the mechanism",
+    "You leave the machine and walk away without a word"
+   ],
+   "x": "A raised load on a broken-down machine is still a danger. Cordon off the area, keep everyone from going underneath and call in qualified people to lower it or repair the machine."
+  }
+ },
+ {
+  "id": "r489-091",
+  "points": {
+   "r489": "expl-incident",
+   "r485": "expl-incident"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Une palette se renverse et des marchandises se répandent dans l’allée. Que faites-vous ?",
+   "o": [
+    "Vous roulez sur les marchandises pour avancer",
+    "Vous les poussez sur le côté avec les fourches",
+    "Vous arrêtez, balisez la zone et prévenez avant de ramasser",
+    "Vous continuez et laissez le suivant s’en occuper"
+   ],
+   "x": "Des produits au sol peuvent faire déraper un engin, blesser un piéton ou être dangereux. On sécurise la zone, on prévient et on suit la consigne, notamment pour un produit chimique, avant de remettre en ordre."
+  },
+  "en": {
+   "q": "A pallet tips over and goods spill into the aisle. What do you do?",
+   "o": [
+    "You drive over the goods to get through",
+    "You push them aside with the forks",
+    "You stop, cordon off the area and report before clearing up",
+    "You carry on and leave it for the next person"
+   ],
+   "x": "Goods on the floor can make a machine skid, injure a pedestrian or be hazardous. Make the area safe, report it and follow instructions, especially for chemicals, before tidying up."
+  }
+ },
+ {
+  "id": "r489-092",
+  "points": {
+   "r489": "cg-categories"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Quel CACES R489 correspond à un chariot élévateur frontal en porte-à-faux de 4 tonnes de capacité nominale ?",
+   "o": [
+    "Catégorie 4",
+    "Catégorie 5",
+    "Catégorie 1B",
+    "Catégorie 3"
+   ],
+   "x": "La catégorie 3 couvre les chariots frontaux en porte-à-faux jusqu’à 6 tonnes de capacité nominale ; au-delà de 6 tonnes, c’est la catégorie 4. La catégorie 5 vise les chariots à mât rétractable."
+  },
+  "en": {
+   "q": "Which R489 CACES covers a counterbalance forklift with a rated capacity of 4 tonnes?",
+   "o": [
+    "Category 4",
+    "Category 5",
+    "Category 1B",
+    "Category 3"
+   ],
+   "x": "Category 3 covers counterbalance trucks up to 6 tonnes rated capacity; above 6 tonnes it is category 4. Category 5 is for reach trucks."
+  }
+ },
+ {
+  "id": "r489-093",
+  "points": {
+   "r489": "cg-categories"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Quel CACES R489 faut-il pour un chariot dont le mât avance sur des longerons porteurs ?",
+   "o": [
+    "Catégorie 5, chariot à mât rétractable",
+    "Catégorie 3, chariot frontal",
+    "Catégorie 6, poste élevable",
+    "Catégorie 2A, chariot à plateau porteur de 2 tonnes"
+   ],
+   "x": "Sur un chariot à mât rétractable, la charge est amenée en avant par le déplacement du mât entre les longerons. C’est la catégorie 5 de la R489, qui inclut aussi les chariots qui prennent la charge sur un seul de leurs côtés."
+  },
+  "en": {
+   "q": "Which R489 CACES is needed for a truck whose mast moves forward along support legs?",
+   "o": [
+    "Category 5, reach truck",
+    "Category 3, counterbalance truck",
+    "Category 6, elevating cab",
+    "Category 2A, 2-tonne platform truck"
+   ],
+   "x": "On a reach truck the load is brought forward by moving the mast between the support legs. This is R489 category 5, which also includes single-side loading trucks."
+  }
+ },
+ {
+  "id": "r489-094",
+  "points": {
+   "r489": "cg-categories"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous êtes titulaire du CACES R489 catégorie 1B. Votre employeur peut-il vous autoriser sur un transpalette à conducteur porté (1A) ?",
+   "o": [
+    "Non, il faut un CACES 1A distinct",
+    "Oui, la catégorie 1B dispense de la 1A",
+    "Oui, mais seulement pour six mois",
+    "Non, la 1A relève de la R485"
+   ],
+   "x": "La recommandation prévoit que le CACES 1B (gerbeurs à conducteur porté) suffit pour que l’employeur vous autorise sur la catégorie 1A. De même, la catégorie 2B dispense de la 2A. L’autorisation reste délivrée par l’employeur."
+  },
+  "en": {
+   "q": "You hold the R489 category 1B CACES. Can your employer authorise you on a ride-on pallet truck (1A)?",
+   "o": [
+    "No, a separate 1A CACES is needed",
+    "Yes, category 1B covers 1A",
+    "Yes, but only for six months",
+    "No, 1A falls under R485"
+   ],
+   "x": "The recommendation states that the 1B CACES (ride-on stackers) allows authorisation on category 1A trucks. Likewise, category 2B covers 2A. The authorisation itself is still issued by the employer."
+  }
+ },
+ {
+  "id": "r489-095",
+  "points": {
+   "r489": "cg-categories"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un mécanicien déplace des chariots de toutes catégories pour les entretenir, sans faire de manutention de production. Quelle catégorie R489 lui correspond ?",
+   "o": [
+    "Catégorie 3 uniquement",
+    "Aucune, les mécaniciens sont dispensés",
+    "Catégorie 7, conduite hors production",
+    "Catégorie 2B, chariots tracteurs"
+   ],
+   "x": "La catégorie 7 vise le déplacement, le chargement sur porte-engins et le transfert de tous les chariots R489 (catégories 1A à 6) hors production : maintenance, démonstration ou essais. Les mécaniciens ne sont pas dispensés."
+  },
+  "en": {
+   "q": "A mechanic moves trucks of all categories for servicing, without any production handling. Which R489 category applies?",
+   "o": [
+    "Category 3 only",
+    "None, mechanics are exempt",
+    "Category 7, non-production driving",
+    "Category 2B, tow tractors"
+   ],
+   "x": "Category 7 covers moving, loading onto transporters and transferring trucks of categories 1 to 6 with no production activity: maintenance, demonstration or testing. Mechanics are not exempt."
+  }
+ },
+ {
+  "id": "r489-096",
+  "points": {
+   "r489": "tech-energie-types"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Un chariot porte une bouteille de gaz fixée à l’arrière. Quelle est sa source d’énergie ?",
+   "o": [
+    "Un moteur électrique sur batterie",
+    "Un moteur diesel",
+    "Un moteur hybride à hydrogène",
+    "Un moteur thermique au GPL"
+   ],
+   "x": "La bouteille visible à l’arrière contient du gaz de pétrole liquéfié (GPL) qui alimente un moteur thermique. Les chariots diesel ont un réservoir de gazole ; les chariots électriques une batterie de traction, souvent sous le siège."
+  },
+  "en": {
+   "q": "A truck has a gas cylinder fixed at the back. What is its power source?",
+   "o": [
+    "A battery electric motor",
+    "A diesel engine",
+    "A hydrogen hybrid engine",
+    "An LPG combustion engine"
+   ],
+   "x": "The cylinder at the back holds liquefied petroleum gas (GPL) that feeds a combustion engine. Diesel trucks have a fuel tank; electric trucks have a traction battery, often under the seat."
+  }
+ },
+ {
+  "id": "r489-097",
+  "points": {
+   "r489": "tech-energie-types"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Quelles sont les deux grandes familles d’énergie des chariots à conducteur porté ?",
+   "o": [
+    "Électrique sur batterie et thermique (gazole, GPL, essence)",
+    "Pneumatique et solaire",
+    "Manuelle et électrique",
+    "Hydraulique pure et pneumatique à air comprimé, sans aucun moteur"
+   ],
+   "x": "Les chariots sont soit électriques, alimentés par une batterie de traction, soit thermiques, avec un moteur à combustion fonctionnant au gazole, au GPL ou à l’essence. L’hydraulique sert au levage, pas à fournir l’énergie de départ."
+  },
+  "en": {
+   "q": "What are the two main power families of ride-on trucks?",
+   "o": [
+    "Battery electric and combustion (diesel, LPG, petrol)",
+    "Pneumatic and solar",
+    "Manual and electric",
+    "Pure hydraulic and compressed-air pneumatic, with no engine at all"
+   ],
+   "x": "Trucks are either electric, powered by a traction battery, or combustion, with an engine running on diesel, LPG or petrol. Hydraulics are used for lifting, not as the original energy source."
+  }
+ },
+ {
+  "id": "r489-098",
+  "points": {
+   "r489": "tech-energie-usage"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous travaillez toute la journée dans un entrepôt fermé. Quel type de chariot est le plus adapté ?",
+   "o": [
+    "Un chariot diesel",
+    "Un chariot électrique",
+    "Un chariot à essence",
+    "Un chariot au GPL sans réglage"
+   ],
+   "x": "Les moteurs thermiques rejettent des gaz d’échappement, dont du monoxyde de carbone ou des particules. Dans un local fermé, ils s’accumulent et intoxiquent. Le chariot électrique ne rejette pas de gaz d’échappement."
+  },
+  "en": {
+   "q": "You work all day in an enclosed warehouse. Which type of truck is most suitable?",
+   "o": [
+    "A diesel truck",
+    "An electric truck",
+    "A petrol truck",
+    "An LPG truck with no tuning"
+   ],
+   "x": "Combustion engines emit exhaust gases, including carbon monoxide or particles. In an enclosed space they build up and poison people. An electric truck emits no exhaust."
+  }
+ },
+ {
+  "id": "r489-099",
+  "points": {
+   "r489": "tech-energie-usage"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi ne faut-il pas stationner un chariot au GPL au-dessus d’une fosse ou près d’un sous-sol ?",
+   "o": [
+    "Le GPL est plus léger que l’air et monte au plafond",
+    "Le GPL gèle au contact du sol",
+    "Le GPL est plus lourd que l’air et s’accumule en point bas",
+    "Pour éviter d’abîmer les pneus"
+   ],
+   "x": "En cas de fuite, le GPL descend et stagne dans les fosses, caniveaux et sous-sols, où il peut former une atmosphère explosive. Les chariots GPL stationnent donc loin de ces points bas et de toute source d’ignition."
+  },
+  "en": {
+   "q": "Why must an LPG truck not be parked over a pit or near a basement?",
+   "o": [
+    "LPG is lighter than air and rises to the ceiling",
+    "LPG freezes on contact with the floor",
+    "LPG is heavier than air and collects in low points",
+    "To avoid damaging the tyres"
+   ],
+   "x": "If it leaks, LPG sinks and lingers in pits, drains and basements, where it can form an explosive atmosphere. LPG trucks are therefore parked away from such low points and from any source of ignition."
+  }
+ },
+ {
+  "id": "r489-100",
+  "points": {
+   "r489": "tech-energie-usage"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Le témoin de charge de la batterie indique qu’elle est presque vide. Que faites-vous ?",
+   "o": [
+    "Vous continuez jusqu’à l’arrêt complet du chariot",
+    "Vous levez plus vite pour finir avant la panne",
+    "Vous débranchez la batterie pour l’économiser",
+    "Vous terminez prudemment et rejoignez le poste de charge"
+   ],
+   "x": "Une batterie trop déchargée réduit les performances, peut faire couper le levage et s’abîme. Le conducteur suit la notice : il finit sans prendre de risque et va recharger avant l’arrêt, sans se retrouver bloqué dans une allée."
+  },
+  "en": {
+   "q": "The battery charge indicator shows it is almost empty. What do you do?",
+   "o": [
+    "You carry on until the truck stops completely",
+    "You lift faster to finish before it fails",
+    "You disconnect the battery to save it",
+    "You finish carefully and go to the charging station"
+   ],
+   "x": "A deeply discharged battery reduces performance, may cut out the lift function and gets damaged. Follow the manual: finish without taking risks and go to recharge before it stops, rather than getting stuck in an aisle."
+  }
+ },
+ {
+  "id": "r489-101",
+  "points": {
+   "r489": "tech-energie-charge"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Comment remplacer la bouteille de GPL d’un chariot ?",
+   "o": [
+    "Moteur arrêté, robinet fermé, à l’écart de toute flamme, avec des gants",
+    "Moteur tournant au ralenti, pour ne pas perdre de temps entre deux bouteilles",
+    "Dans un local fermé, à l’abri du vent",
+    "En fumant à distance de la bouteille"
+   ],
+   "x": "On ferme le robinet de la bouteille et on laisse le moteur s’arrêter, dans une zone ventilée sans source d’ignition. Les gants protègent des brûlures par le froid que provoque le gaz liquide qui s’échappe."
+  },
+  "en": {
+   "q": "How do you change a truck's LPG cylinder?",
+   "o": [
+    "Engine off, valve closed, away from any flame, wearing gloves",
+    "Engine idling, to save time between cylinders",
+    "In an enclosed room, out of the wind",
+    "While smoking at a distance from the cylinder"
+   ],
+   "x": "Close the cylinder valve and let the engine stop, in a ventilated area with no ignition source. Gloves protect against cold burns from escaping liquid gas."
+  }
+ },
+ {
+  "id": "r489-102",
+  "points": {
+   "r489": "tech-energie-charge"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi ne faut-il pas débrancher la prise d’une batterie pendant que le chargeur fonctionne ?",
+   "o": [
+    "Cela efface la mémoire du chariot",
+    "Cela peut créer une étincelle au milieu de gaz explosifs",
+    "Cela vide instantanément la batterie",
+    "Cela bloque définitivement le chargeur"
+   ],
+   "x": "Débrancher sous courant provoque un arc électrique. Or la charge dégage de l’hydrogène qui peut exploser. On arrête d’abord le chargeur, puis on débranche, dans un local ventilé."
+  },
+  "en": {
+   "q": "Why must the battery plug not be pulled while the charger is running?",
+   "o": [
+    "It wipes the truck's memory",
+    "It can create a spark among explosive gases",
+    "It instantly drains the battery",
+    "It permanently locks the charger"
+   ],
+   "x": "Disconnecting under current causes an electric arc. Charging gives off hydrogen, which can explode. Switch the charger off first, then disconnect, in a ventilated room."
+  }
+ },
+ {
+  "id": "r489-103",
+  "points": {
+   "r489": "tech-securite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "À quoi sert le protège-conducteur (toit) d’un chariot élévateur ?",
+   "o": [
+    "À abriter le conducteur de la pluie uniquement",
+    "À fixer les charges longues",
+    "À protéger le conducteur de la chute d’objets",
+    "À servir de point d’appui pour monter"
+   ],
+   "x": "Le protège-conducteur est une structure résistante qui arrête les charges ou objets qui tomberaient du mât ou des rayonnages. Il ne doit jamais être modifié, percé ou retiré."
+  },
+  "en": {
+   "q": "What is the overhead guard (roof) of a forklift for?",
+   "o": [
+    "Only to keep the driver out of the rain",
+    "To secure long loads",
+    "To protect the driver from falling objects",
+    "To use as a handhold when climbing up"
+   ],
+   "x": "The overhead guard is a strong structure that stops loads or objects falling from the mast or racking. It must never be modified, drilled or removed."
+  }
+ },
+ {
+  "id": "r489-104",
+  "points": {
+   "r489": "tech-securite"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Quel est le rôle du dosseret d’appui de charge fixé sur le tablier ?",
+   "o": [
+    "Augmenter la capacité du chariot",
+    "Servir de garde-corps pour une personne levée sur les fourches",
+    "Remplacer le protège-conducteur",
+    "Empêcher la charge de tomber vers le conducteur"
+   ],
+   "x": "Le dosseret prolonge le tablier vers le haut. Quand le mât est incliné vers l’arrière ou la charge haute, il retient les colis qui pourraient basculer vers le poste de conduite."
+  },
+  "en": {
+   "q": "What is the load backrest fixed on the carriage for?",
+   "o": [
+    "To increase the truck's capacity",
+    "Act as a guardrail for a person lifted on the forks",
+    "To replace the overhead guard",
+    "To stop the load falling towards the driver"
+   ],
+   "x": "The load backrest extends the carriage upwards. When the mast is tilted back or the load is high, it holds back packages that could topple towards the driving position."
+  }
+ },
+ {
+  "id": "r489-105",
+  "points": {
+   "r489": "tech-securite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "À quoi sert le contacteur de présence placé dans le siège de certains chariots ?",
+   "o": [
+    "À empêcher les mouvements si le conducteur n’est pas assis",
+    "À mesurer le poids de la charge",
+    "À régler la suspension automatiquement",
+    "À compter les heures de travail du conducteur"
+   ],
+   "x": "Ce dispositif détecte la présence du conducteur à son poste. S’il se lève ou descend, la translation ou certains mouvements sont bloqués, ce qui évite qu’un chariot démarre ou avance sans contrôle."
+  },
+  "en": {
+   "q": "What is the presence switch in the seat of some trucks for?",
+   "o": [
+    "To prevent movements if the driver is not seated",
+    "To weigh the load",
+    "To adjust the suspension automatically",
+    "To count the driver's working hours"
+   ],
+   "x": "This device detects whether the driver is in position. If they stand up or get off, travel or some movements are blocked, so the truck cannot start or move uncontrolled."
+  }
+ },
+ {
+  "id": "r489-106",
+  "points": {
+   "r489": "tech-securite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Quel dispositif permet de prévenir les piétons qu’un chariot recule ?",
+   "o": [
+    "Le dosseret d’appui de charge",
+    "Le signal sonore ou lumineux de recul",
+    "Le contacteur de présence",
+    "Le compteur horaire"
+   ],
+   "x": "Une alarme sonore ou un feu clignotant, parfois une projection lumineuse au sol, signalent la marche arrière. Ces dispositifs complètent la vigilance du conducteur, qui regarde toujours dans le sens de la marche."
+  },
+  "en": {
+   "q": "Which device warns pedestrians that a truck is reversing?",
+   "o": [
+    "The load backrest",
+    "The audible or visual reversing signal",
+    "The presence switch",
+    "The hour meter"
+   ],
+   "x": "An audible alarm or flashing light, sometimes a light projected on the floor, signals reversing. These devices add to the driver's own vigilance; the driver always looks in the direction of travel."
+  }
+ },
+ {
+  "id": "r489-107",
+  "points": {
+   "r489": "tech-securite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Un dispositif de sécurité de votre chariot ne fonctionne plus. Pourquoi est-ce grave de continuer ?",
+   "o": [
+    "La garantie du chariot sera annulée",
+    "Le chariot consommera davantage",
+    "Le risque qu’il devait empêcher n’est plus maîtrisé",
+    "Le compteur horaire se bloquera"
+   ],
+   "x": "Chaque dispositif (frein de parc, avertisseur, retenue du conducteur, contacteur de présence…) répond à un risque précis. S’il est défaillant ou neutralisé, ce risque n’est plus couvert : le chariot doit être signalé et arrêté."
+  },
+  "en": {
+   "q": "One of your truck's safety devices no longer works. Why is it serious to carry on?",
+   "o": [
+    "The truck's warranty will be void",
+    "The truck will use more energy",
+    "The risk it was meant to prevent is no longer controlled",
+    "The hour meter will lock up"
+   ],
+   "x": "Each device (parking brake, horn, operator restraint, presence switch...) addresses a specific risk. If it is faulty or disabled, that risk is no longer covered: the truck must be reported and taken out of use."
+  }
+ },
+ {
+  "id": "r489-108",
+  "points": {
+   "r489": "tech-organes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "À quoi sert la commande d’inclinaison du mât ?",
+   "o": [
+    "À écarter les fourches",
+    "À faire avancer le chariot",
+    "À allumer les feux de travail et le gyrophare du chariot",
+    "À incliner le mât vers l’avant ou vers l’arrière"
+   ],
+   "x": "L’inclinaison arrière stabilise la charge contre le dosseret pendant le transport ; l’inclinaison avant facilite la prise et la dépose. Avec une charge haute, on évite d’incliner vers l’avant pour ne pas déplacer le centre de gravité."
+  },
+  "en": {
+   "q": "What is the mast tilt control for?",
+   "o": [
+    "To spread the forks",
+    "To drive the truck forward",
+    "To switch on the work lights and the truck beacon",
+    "To tilt the mast forwards or backwards"
+   ],
+   "x": "Backward tilt holds the load against the backrest during travel; forward tilt helps pick up and set down. With a high load, avoid tilting forward so as not to move the centre of gravity."
+  }
+ },
+ {
+  "id": "r489-109",
+  "points": {
+   "r489": "tech-organes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "À quoi sert l’inverseur de marche d’un chariot ?",
+   "o": [
+    "À choisir la marche avant ou la marche arrière",
+    "À lever et descendre les fourches",
+    "À régler le siège",
+    "À couper l’alimentation en urgence"
+   ],
+   "x": "L’inverseur sélectionne le sens de déplacement. On ne change de sens qu’après l’arrêt complet du chariot, pour éviter les à-coups qui déstabilisent la charge et usent la transmission."
+  },
+  "en": {
+   "q": "What is a truck's direction selector for?",
+   "o": [
+    "To choose forward or reverse",
+    "To raise and lower the forks",
+    "To adjust the seat",
+    "To cut the power in an emergency"
+   ],
+   "x": "The direction selector chooses the direction of travel. Only change direction once the truck has fully stopped, to avoid jolts that unsettle the load and wear the transmission."
+  }
+ },
+ {
+  "id": "r489-110",
+  "points": {
+   "r489": "tech-maintien"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi boucler la ceinture de sécurité sur un chariot frontal ?",
+   "o": [
+    "Pour éviter les vibrations dans le dos",
+    "Pour ne pas être éjecté et écrasé si le chariot se renverse",
+    "Pour être en règle sur la voie publique uniquement",
+    "Pour garder le siège propre"
+   ],
+   "x": "Lors d’un renversement, le réflexe de sauter conduit souvent à être écrasé par le protège-conducteur ou le chariot. La ceinture, ou un autre système de retenue, maintient le conducteur dans la zone protégée."
+  },
+  "en": {
+   "q": "Why fasten the seat belt on a counterbalance truck?",
+   "o": [
+    "To avoid vibration in your back",
+    "So you are not thrown out and crushed if the truck tips over",
+    "Only to comply on public roads",
+    "To keep the seat clean"
+   ],
+   "x": "When a truck tips over, the instinct to jump often ends with being crushed by the overhead guard or the truck. The seat belt, or another restraint, keeps the driver inside the protected zone."
+  }
+ },
+ {
+  "id": "r489-111",
+  "points": {
+   "r489": "tech-maintien"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Votre chariot commence à se renverser sur le côté. Que faites-vous, ceinture bouclée ?",
+   "o": [
+    "Vous sautez du côté où le chariot tombe",
+    "Vous sautez du côté opposé à la chute",
+    "Vous restez dans le chariot, tenez le volant et penchez-vous du côté opposé",
+    "Vous lâchez le volant, vous vous recroquevillez et protégez votre tête avec les bras"
+   ],
+   "x": "Rester attaché, se cramponner au volant, caler les pieds et se pencher à l’opposé de la chute garde le corps dans la zone protégée. Sauter, d’un côté comme de l’autre, expose à être écrasé."
+  },
+  "en": {
+   "q": "Your truck starts tipping sideways. What do you do with your seat belt on?",
+   "o": [
+    "Jump out on the side the truck is falling",
+    "Jump out on the side away from the fall",
+    "Stay in the truck, hold the wheel and lean away from the fall",
+    "You let go of the wheel, curl up and protect your head with your arms"
+   ],
+   "x": "Staying belted in, gripping the wheel, bracing your feet and leaning away from the fall keeps your body in the protected zone. Jumping, on either side, exposes you to being crushed."
+  }
+ },
+ {
+  "id": "r489-112",
+  "points": {
+   "r489": "tech-maintien"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Votre chariot est équipé de portillons ou d’une cabine fermée. Quand doivent-ils être fermés ?",
+   "o": [
+    "Seulement par mauvais temps",
+    "Seulement sur la voie publique",
+    "Jamais, pour descendre plus vite en cas de problème",
+    "Pendant toute la conduite, comme système de retenue"
+   ],
+   "x": "Portes, portillons et ceinture sont des dispositifs qui gardent le conducteur à son poste en cas de renversement ou de basculement. Une porte ouverte laisse le conducteur sortir de la zone protégée."
+  },
+  "en": {
+   "q": "Your truck has side gates or an enclosed cab. When must they be closed?",
+   "o": [
+    "Only in bad weather",
+    "Only on public roads",
+    "Never, so you can get out faster if there is a problem",
+    "Throughout driving, as a restraint system"
+   ],
+   "x": "Doors, gates and seat belts are devices that keep the driver in place if the truck tips sideways or forwards. An open door lets the driver leave the protected zone."
+  }
+ },
+ {
+  "id": "r489-113",
+  "points": {
+   "r489": "tech-mecanismes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Sur un chariot élévateur, qu’est-ce qui fait monter le tablier et les fourches ?",
+   "o": [
+    "Un vérin hydraulique associé à des chaînes de levage",
+    "Un câble enroulé sur un treuil électrique",
+    "Un ressort comprimé dans le mât",
+    "La rotation des roues avant"
+   ],
+   "x": "Une pompe envoie de l’huile sous pression dans le vérin de levage ; les chaînes passent sur des poulies et entraînent le tablier. D’où l’importance de contrôler fuites, état et tension des chaînes."
+  },
+  "en": {
+   "q": "On a forklift, what raises the carriage and forks?",
+   "o": [
+    "A hydraulic cylinder working with lifting chains",
+    "A cable wound on an electric winch",
+    "A compressed spring in the mast",
+    "The rotation of the front wheels"
+   ],
+   "x": "A pump sends pressurised oil into the lift cylinder; the chains run over pulleys and pull the carriage up. Hence the need to check for leaks and for chain condition and tension."
+  }
+ },
+ {
+  "id": "r489-114",
+  "points": {
+   "r489": "tech-mecanismes"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi l’arrière d’un chariot frontal balaie-t-il une large zone dans les virages ?",
+   "o": [
+    "Ses roues directrices sont à l’avant, sous le mât",
+    "Ses roues directrices sont à l’arrière",
+    "Son mât pivote dans les virages",
+    "Sa batterie se déplace en virage"
+   ],
+   "x": "Sur un chariot frontal, ce sont les roues arrière qui orientent le chariot : l’arrière pivote largement vers l’extérieur du virage. Un piéton ou un obstacle proche peut être heurté par le contrepoids."
+  },
+  "en": {
+   "q": "Why does the rear of a counterbalance truck sweep a wide area in turns?",
+   "o": [
+    "Its steering wheels are at the front, under the mast",
+    "Its steering wheels are at the rear",
+    "Its mast swivels in turns",
+    "Its battery shifts in turns"
+   ],
+   "x": "On a counterbalance truck the rear wheels steer: the rear swings wide towards the outside of the turn. A pedestrian or obstacle nearby can be hit by the counterweight."
+  }
+ },
+ {
+  "id": "r489-115",
+  "points": {
+   "r489": "tech-mecanismes"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Que désigne la « levée libre » d’un mât ?",
+   "o": [
+    "La hauteur maximale que les fourches peuvent atteindre, mât entièrement déployé",
+    "La levée autorisée sans plaque de charge",
+    "La hauteur de levage possible sans que le mât dépasse sa hauteur repliée",
+    "La descente des fourches sans moteur"
+   ],
+   "x": "Pendant la levée libre, le tablier monte dans le mât sans que celui-ci s’allonge. C’est utile pour gerber dans un conteneur ou sous un plafond bas sans heurter le haut."
+  },
+  "en": {
+   "q": "What does a mast's 'free lift' mean?",
+   "o": [
+    "The maximum height the forks can reach with the mast fully extended",
+    "Lifting allowed without a load chart",
+    "The lift height available before the mast rises above its lowered height",
+    "Lowering the forks without the engine"
+   ],
+   "x": "During free lift (levée libre), the carriage rises inside the mast without the mast extending. This is useful for stacking in a container or under a low ceiling without striking the top."
+  }
+ },
+ {
+  "id": "r489-116",
+  "points": {
+   "r489": "tech-reglages"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Pourquoi régler la suspension du siège selon votre poids ?",
+   "o": [
+    "Pour augmenter la vitesse du chariot",
+    "Pour que le contacteur de présence se désactive",
+    "Pour faire baisser la consommation",
+    "Pour mieux amortir les vibrations et chocs transmis au dos"
+   ],
+   "x": "Un siège réglé au poids du conducteur absorbe mieux les secousses du sol. Les vibrations transmises au corps entier sont une cause de douleurs lombaires chez les caristes."
+  },
+  "en": {
+   "q": "Why adjust the seat suspension to your weight?",
+   "o": [
+    "To increase the truck's speed",
+    "To switch off the presence switch",
+    "To reduce consumption",
+    "To better absorb vibration and shocks to your back"
+   ],
+   "x": "A seat set to the driver's weight absorbs floor jolts better. Whole-body vibration is a cause of lower back pain in truck drivers."
+  }
+ },
+ {
+  "id": "r489-117",
+  "points": {
+   "r489": "tech-reglages"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Avant de démarrer, pourquoi régler la position du siège et du volant ?",
+   "o": [
+    "Pour atteindre commandes et pédales sans effort et bien voir",
+    "Pour respecter la couleur du chariot",
+    "Pour que le chariot avance plus vite",
+    "Ce réglage n’a d’utilité qu’en extérieur"
+   ],
+   "x": "Bien installé, le conducteur actionne les commandes avec précision, freine franchement et garde une bonne visibilité. Une mauvaise posture fatigue et ralentit les réactions."
+  },
+  "en": {
+   "q": "Before setting off, why adjust the seat and steering wheel position?",
+   "o": [
+    "To reach controls and pedals easily and see well",
+    "To match the truck's colour",
+    "To make the truck go faster",
+    "This adjustment only matters outdoors"
+   ],
+   "x": "When properly seated, the driver operates controls precisely, brakes firmly and keeps good visibility. Poor posture causes fatigue and slows reactions."
+  }
+ },
+ {
+  "id": "r489-118",
+  "points": {
+   "r489": "tech-reglages"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Quand faut-il régler les rétroviseurs de votre chariot ?",
+   "o": [
+    "Seulement en cas de marche arrière prolongée",
+    "À la prise de poste, avant de circuler",
+    "Uniquement lors de la vérification périodique",
+    "Ils ne se règlent jamais"
+   ],
+   "x": "Les rétroviseurs se règlent pour le conducteur en place, avant de partir. Ils aident à surveiller les côtés et l’arrière, mais ne remplacent pas le fait de tourner la tête dans le sens de la marche."
+  },
+  "en": {
+   "q": "When should you adjust your truck's mirrors?",
+   "o": [
+    "Only for long periods of reversing",
+    "At the start of the shift, before driving",
+    "Only during the periodic inspection",
+    "They are never adjusted"
+   ],
+   "x": "Mirrors are set for the driver in place, before setting off. They help watch the sides and rear, but do not replace turning your head in the direction of travel."
+  }
+ },
+ {
+  "id": "r489-119",
+  "points": {
+   "r489": "tech-frontal"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pourquoi éviter d’incliner le mât vers l’avant quand la charge est en hauteur ?",
+   "o": [
+    "Le mât risque de se rétracter",
+    "Les fourches vont s’écarter",
+    "Le centre de gravité avance et le chariot peut basculer vers l’avant",
+    "La batterie se décharge plus vite à cause de l’effort du vérin d’inclinaison"
+   ],
+   "x": "Incliner le mât vers l’avant, charge haute, éloigne le centre de gravité de la charge des roues avant et augmente son moment. On n’incline vers l’avant qu’au-dessus de l’emplacement de dépose, avec une très faible amplitude."
+  },
+  "en": {
+   "q": "Why avoid tilting the mast forward with the load raised high?",
+   "o": [
+    "The mast may retract",
+    "The forks will spread apart",
+    "The centre of gravity moves forward and the truck may tip forward",
+    "The battery drains faster because of the tilt cylinder's effort"
+   ],
+   "x": "Tilting the mast forward with a high load moves the load's centre of gravity away from the front wheels and increases its moment. Only tilt forward above the set-down position, and only slightly."
+  }
+ },
+ {
+  "id": "r489-120",
+  "points": {
+   "r489": "tech-frontal"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Une charge n’est engagée que sur le bout des fourches. Quel est le risque ?",
+   "o": [
+    "Aucun, si la charge est légère pour sa taille",
+    "Le chariot ne pourra pas reculer",
+    "Les freins seront moins efficaces",
+    "Le centre de gravité est trop loin et le chariot peut basculer"
+   ],
+   "x": "Une charge mal engagée a son centre de gravité loin du talon : la capacité réelle chute et la charge peut basculer ou glisser. On engage les fourches à fond sous la charge, contre le tablier."
+  },
+  "en": {
+   "q": "A load is only on the tips of the forks. What is the risk?",
+   "o": [
+    "None, if the load is light for its size",
+    "The truck will not be able to reverse",
+    "The brakes will be less effective",
+    "The centre of gravity is too far out and the truck may tip"
+   ],
+   "x": "With a load poorly engaged, its centre of gravity is far from the fork heel: real capacity drops and the load may tip or slide. Push the forks fully under the load, up against the carriage."
+  }
+ },
+ {
+  "id": "r489-121",
+  "points": {
+   "r489": "expl-heurts"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "La charge que vous transportez masque votre vue vers l’avant. Comment circulez-vous ?",
+   "o": [
+    "En marche arrière, en regardant dans le sens de la marche",
+    "En marche avant en penchant la tête sur le côté",
+    "En marche avant avec la charge levée au-dessus des yeux",
+    "En marche avant en suivant le bruit des autres engins"
+   ],
+   "x": "Le conducteur doit voir là où il va. Si la charge cache la vue, il circule en marche arrière en se retournant, ou se fait guider. Lever la charge pour voir dessous rend le chariot instable."
+  },
+  "en": {
+   "q": "The load you are carrying blocks your forward view. How do you drive?",
+   "o": [
+    "In reverse, looking in the direction of travel",
+    "Forwards, leaning your head to the side",
+    "Forwards with the load raised above eye level",
+    "Forwards, following the noise of other machines"
+   ],
+   "x": "The driver must see where they are going. If the load blocks the view, drive in reverse while turning round, or be guided. Raising the load to see underneath makes the truck unstable."
+  }
+ },
+ {
+  "id": "r489-122",
+  "points": {
+   "r489": "expl-heurts"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous devez passer sous une porte ou une poutre basse. Que vérifiez-vous ?",
+   "o": [
+    "Uniquement la largeur du passage, en ajoutant une marge de chaque côté du chariot",
+    "La hauteur de votre chariot, mât et protège-conducteur compris, et de sa charge",
+    "La couleur du marquage au sol",
+    "Rien, le mât se replie seul"
+   ],
+   "x": "Le mât, le protège-conducteur ou une charge haute peuvent heurter une poutre, une porte, un sprinkler ou un éclairage. Le conducteur connaît la hauteur hors tout de son chariot et abaisse la charge avant de passer."
+  },
+  "en": {
+   "q": "You must go under a doorway or a low beam. What do you check?",
+   "o": [
+    "Only the width of the passage, adding a margin on each side of the truck",
+    "The height of your truck, including mast, overhead guard and load",
+    "The colour of the floor markings",
+    "Nothing, the mast folds down by itself"
+   ],
+   "x": "The mast, overhead guard or a high load can strike a beam, door, sprinkler or light. The driver knows the overall height of the truck and lowers the load before going through."
+  }
+ },
+ {
+  "id": "r489-123",
+  "points": {
+   "r489": "expl-heurts"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pour reculer, comment surveillez-vous l’arrière ?",
+   "o": [
+    "En regardant uniquement les rétroviseurs",
+    "En regardant devant vous pour surveiller la charge et le mât pendant le recul",
+    "En tournant la tête et le corps vers l’arrière, rétroviseurs en appui",
+    "En faisant confiance à l’alarme de recul"
+   ],
+   "x": "Les rétroviseurs laissent des angles morts. Le conducteur se retourne pour voir directement la zone où il se dirige. L’alarme de recul prévient les piétons mais ne détecte rien à la place du conducteur."
+  },
+  "en": {
+   "q": "When reversing, how do you watch behind you?",
+   "o": [
+    "By looking only in the mirrors",
+    "By looking ahead to watch the load and the mast while reversing",
+    "By turning your head and body round, with the mirrors as support",
+    "By relying on the reversing alarm"
+   ],
+   "x": "Mirrors leave blind spots. The driver turns round to look directly where they are heading. The reversing alarm warns pedestrians but detects nothing on the driver's behalf."
+  }
+ },
+ {
+  "id": "r489-124",
+  "points": {
+   "r489": "expl-personnes"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Quel chariot de la R489 est conçu pour élever son conducteur avec la charge ?",
+   "o": [
+    "Le chariot frontal en porte-à-faux (catégorie 3)",
+    "Le chariot tracteur industriel (catégorie 2B)",
+    "Le chariot à plateau porteur (catégorie 2A)",
+    "Le chariot à poste de conduite élevable (catégorie 6)"
+   ],
+   "x": "Sur les chariots de catégorie 6, le poste de conduite monte avec la charge : il est conçu et protégé pour cela. Sur les autres catégories, élever une personne est interdit."
+  },
+  "en": {
+   "q": "Which R489 truck is designed to lift its driver along with the load?",
+   "o": [
+    "The counterbalance truck (category 3)",
+    "The industrial tow tractor (category 2B)",
+    "The platform truck (category 2A)",
+    "The elevating-cab truck (category 6)"
+   ],
+   "x": "On category 6 trucks the driving position rises with the load: it is designed and guarded for that. On other categories, lifting a person is forbidden."
+  }
+ },
+ {
+  "id": "r489-125",
+  "points": {
+   "r489": "expl-personnes"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "En hauteur sur un chariot à poste élevable, un colis est hors de portée. Que faites-vous ?",
+   "o": [
+    "Vous repositionnez le chariot, sans sortir du poste de conduite",
+    "Vous enjambez le garde-corps pour l’attraper",
+    "Vous montez sur la charge pour l’atteindre",
+    "Vous passez sur la lisse du rayonnage"
+   ],
+   "x": "Le poste élevable protège le conducteur seulement s’il y reste. Sortir, enjamber ou grimper expose à une chute de hauteur. On redescend ou on déplace le chariot pour amener le poste face au colis."
+  },
+  "en": {
+   "q": "Up high on an elevating-cab truck, a package is out of reach. What do you do?",
+   "o": [
+    "You reposition the truck without leaving the cab",
+    "You climb over the guardrail to grab it",
+    "You climb onto the load to reach it",
+    "You step onto the rack beam"
+   ],
+   "x": "The elevating cab only protects the driver who stays in it. Getting out, climbing over or up exposes you to a fall from height. Lower or move the truck to bring the cab level with the package."
+  }
+ },
+ {
+  "id": "r489-126",
+  "points": {
+   "r489": "expl-incendie"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi le monoxyde de carbone rejeté par un chariot thermique est-il particulièrement dangereux ?",
+   "o": [
+    "Il a une forte odeur piquante qui gêne la respiration et la conduite",
+    "Il est incolore et inodore et peut intoxiquer sans prévenir",
+    "Il n’est dangereux qu’à l’extérieur",
+    "Il rend les sols glissants"
+   ],
+   "x": "Le monoxyde de carbone ne se voit ni ne se sent. Dans un local mal ventilé, il provoque maux de tête, malaises puis perte de connaissance. Les moteurs thermiques n’ont leur place que dans des zones suffisamment aérées."
+  },
+  "en": {
+   "q": "Why is the carbon monoxide given off by a combustion truck especially dangerous?",
+   "o": [
+    "It has a strong, sharp smell that hinders breathing and driving",
+    "It is colourless and odourless and can poison without warning",
+    "It is only dangerous outdoors",
+    "It makes floors slippery"
+   ],
+   "x": "Carbon monoxide cannot be seen or smelt. In a poorly ventilated area it causes headaches, faintness and then loss of consciousness. Combustion engines belong only in well-ventilated areas."
+  }
+ },
+ {
+  "id": "r489-127",
+  "points": {
+   "r489": "expl-bruit"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Que signifie ce panneau ?",
+   "o": [
+    "Interdiction de faire du bruit",
+    "Zone de musique autorisée",
+    "Port de protections auditives obligatoire",
+    "Attention, alarme sonore"
+   ],
+   "x": "Panneau rond à fond bleu : c’est une obligation. Ici, il faut porter des bouchons ou un casque antibruit, car le niveau sonore de la zone peut abîmer l’audition."
+  },
+  "en": {
+   "q": "What does this sign mean?",
+   "o": [
+    "No noise allowed",
+    "Music allowed area",
+    "Hearing protection must be worn",
+    "Caution, audible alarm"
+   ],
+   "x": "A round sign with a blue background is mandatory. Here earplugs or ear defenders must be worn, because the noise level in the area can damage hearing."
+  },
+  "img": "obligation-auditive"
+ },
+ {
+  "id": "r489-128",
+  "points": {
+   "r489": "expl-bruit"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Une perte d’audition causée par le bruit au travail peut-elle se récupérer ?",
+   "o": [
+    "Oui, après une nuit de repos",
+    "Oui, avec des gouttes auriculaires",
+    "Oui, en changeant de poste un mois",
+    "Non, elle est définitive"
+   ],
+   "x": "Le bruit prolongé détruit des cellules de l’oreille interne qui ne se régénèrent pas : la surdité professionnelle est irréversible. Réduire le bruit à la source et porter ses protections est la seule défense."
+  },
+  "en": {
+   "q": "Can hearing loss caused by noise at work be recovered?",
+   "o": [
+    "Yes, after a night's rest",
+    "Yes, with ear drops",
+    "Yes, by changing job for a month",
+    "No, it is permanent"
+   ],
+   "x": "Prolonged noise destroys cells in the inner ear that do not regrow: occupational deafness is irreversible. Reducing noise at source and wearing hearing protection is the only defence."
+  }
+ },
+ {
+  "id": "r489-129",
+  "points": {
+   "r489": "expl-bruit"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Comment réduire les vibrations que reçoit le conducteur d’un chariot ?",
+   "o": [
+    "Siège réglé, sol en bon état, pneus corrects et vitesse adaptée",
+    "Rouler plus vite pour passer les défauts du sol",
+    "Dégonfler les pneus au maximum",
+    "Conduire debout plutôt qu’assis"
+   ],
+   "x": "Les vibrations transmises au corps entier proviennent surtout du sol et des bandages. Un sol entretenu, des roues en bon état, un siège bien réglé et une vitesse adaptée diminuent leur effet sur le dos."
+  },
+  "en": {
+   "q": "How can the vibration a truck driver receives be reduced?",
+   "o": [
+    "Seat adjusted, floor in good repair, sound tyres and suitable speed",
+    "Drive faster over floor defects",
+    "Deflate the tyres as much as possible",
+    "Drive standing rather than seated"
+   ],
+   "x": "Whole-body vibration comes mainly from the floor and tyres. A maintained floor, wheels in good condition, a well-adjusted seat and suitable speed reduce the effect on the back."
+  }
+ },
+ {
+  "id": "r489-130",
+  "points": {
+   "r489": "expl-freinage-distance"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Si vous roulez deux fois plus vite, comment évolue votre distance de freinage ?",
+   "o": [
+    "Elle est multipliée par deux",
+    "Elle est environ multipliée par quatre",
+    "Elle reste la même",
+    "Elle est divisée par deux"
+   ],
+   "x": "L’énergie à dissiper au freinage dépend du carré de la vitesse : doubler la vitesse multiplie environ par quatre la distance de freinage, à freins et sol égaux. Quelques km/h de plus coûtent beaucoup de mètres."
+  },
+  "en": {
+   "q": "If you drive twice as fast, how does your braking distance change?",
+   "o": [
+    "It is multiplied by two",
+    "It is roughly multiplied by four",
+    "It stays the same",
+    "It is halved"
+   ],
+   "x": "The energy to absorb when braking depends on the square of speed: doubling speed roughly quadruples braking distance, with the same brakes and floor. A few extra km/h cost many metres."
+  }
+ },
+ {
+  "id": "r489-131",
+  "points": {
+   "r489": "expl-freinage-distance"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "De quoi se compose la distance d’arrêt d’un chariot ?",
+   "o": [
+    "Uniquement de la distance de freinage",
+    "Uniquement du temps de réaction",
+    "De la distance de réaction et de la distance de freinage",
+    "De la longueur du chariot, de celle de sa charge et de la largeur de l’allée"
+   ],
+   "x": "Entre le moment où le conducteur voit le danger et celui où il freine, le chariot continue d’avancer : c’est la distance de réaction. S’y ajoute la distance parcourue pendant le freinage lui-même."
+  },
+  "en": {
+   "q": "What makes up a truck's stopping distance?",
+   "o": [
+    "Only the braking distance",
+    "Only the reaction time",
+    "Reaction distance plus braking distance",
+    "The length of the truck and its load, plus the aisle width"
+   ],
+   "x": "Between seeing the danger and braking, the truck keeps moving: that is the reaction distance. Add the distance covered while actually braking."
+  }
+ },
+ {
+  "id": "r489-132",
+  "points": {
+   "r489": "expl-freinage-distance"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "À 10 km/h, quelle distance parcourez-vous environ pendant une seconde de réaction ?",
+   "o": [
+    "Environ 10 m",
+    "Environ 30 cm",
+    "Environ 30 m",
+    "Près de 3 m"
+   ],
+   "x": "10 km/h, c’est 10 000 m en 3 600 s, soit environ 2,8 m par seconde. Pendant une seconde d’inattention ou de réaction, le chariot avance donc de près de 3 m avant même de commencer à freiner."
+  },
+  "en": {
+   "q": "At 10 km/h, roughly how far do you travel during one second of reaction?",
+   "o": [
+    "About 10 m",
+    "About 30 cm",
+    "About 30 m",
+    "Nearly 3 m"
+   ],
+   "x": "10 km/h is 10,000 m in 3,600 s, i.e. about 2.8 m per second. During one second of distraction or reaction, the truck travels nearly 3 m before it even starts braking."
+  }
+ },
+ {
+  "id": "r489-133",
+  "points": {
+   "r489": "expl-freinage-facteurs"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Quel facteur allonge la distance de freinage d’un chariot ?",
+   "o": [
+    "Un sol mouillé, gras ou poussiéreux",
+    "Un sol sec et propre",
+    "Une vitesse réduite",
+    "Un chariot à vide"
+   ],
+   "x": "Un sol humide, gras, poussiéreux ou verglacé réduit l’adhérence des roues : le chariot glisse plus longtemps avant de s’arrêter. Le conducteur réduit sa vitesse et augmente ses distances sur ces sols."
+  },
+  "en": {
+   "q": "Which factor lengthens a truck's braking distance?",
+   "o": [
+    "A wet, greasy or dusty floor",
+    "A dry, clean floor",
+    "A lower speed",
+    "An unladen truck"
+   ],
+   "x": "A damp, greasy, dusty or icy floor reduces wheel grip: the truck slides longer before stopping. The driver slows down and keeps more distance on such floors."
+  }
+ },
+ {
+  "id": "r489-134",
+  "points": {
+   "r489": "expl-freinage-facteurs"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Pourquoi un chariot chargé met-il plus de distance à s’arrêter qu’à vide ?",
+   "o": [
+    "Ses freins se desserrent en charge",
+    "Sa masse en mouvement est plus grande",
+    "Le conducteur voit moins bien les pédales",
+    "La charge fait accélérer le moteur"
+   ],
+   "x": "Plus la masse en mouvement est grande, plus l’énergie à dissiper est importante. Un chariot chargé freine donc sur une distance plus longue ; en plus, un freinage brusque risque de faire tomber la charge."
+  },
+  "en": {
+   "q": "Why does a loaded truck need more distance to stop than an empty one?",
+   "o": [
+    "Its brakes loosen under load",
+    "Its moving mass is greater",
+    "The driver sees the pedals less well",
+    "The load makes the engine speed up"
+   ],
+   "x": "The greater the moving mass, the more energy must be absorbed. A loaded truck therefore brakes over a longer distance, and harsh braking may also make the load fall."
+  }
+ },
+ {
+  "id": "r489-135",
+  "points": {
+   "r489": "expl-freinage-facteurs"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Quel état du conducteur allonge sa distance d’arrêt ?",
+   "o": [
+    "Le port de chaussures de sécurité à semelle épaisse sur les pédales",
+    "Le port de gants",
+    "La fatigue, qui augmente le temps de réaction",
+    "Le fait d’être bien assis"
+   ],
+   "x": "Fatigue, alcool, médicaments ou distraction retardent la réaction : le chariot parcourt plus de distance avant le début du freinage. La distance d’arrêt s’allonge alors même que les freins sont en parfait état."
+  },
+  "en": {
+   "q": "Which condition of the driver lengthens the stopping distance?",
+   "o": [
+    "Wearing thick-soled safety shoes on the pedals",
+    "Wearing gloves",
+    "Tiredness, which increases reaction time",
+    "Being properly seated"
+   ],
+   "x": "Tiredness, alcohol, medicines or distraction delay the reaction: the truck covers more ground before braking begins. Stopping distance gets longer even with brakes in perfect condition."
+  }
+ },
+ {
+  "id": "r489-136",
+  "points": {
+   "r489": "expl-circ-int"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Que signale ce panneau, devant lequel vous voulez stationner votre chariot ?",
+   "o": [
+    "Un emplacement réservé aux chariots",
+    "Un local de charge des batteries",
+    "Une zone de chargement des camions",
+    "Une sortie de secours, qui doit rester dégagée"
+   ],
+   "x": "Le panneau vert montrant une personne qui court vers une porte signale une issue de secours. Elle doit rester libre à tout moment pour permettre l’évacuation : on n’y stationne jamais, même brièvement."
+  },
+  "en": {
+   "q": "What does this sign indicate, in front of which you want to park your truck?",
+   "o": [
+    "A space reserved for trucks",
+    "A battery charging room",
+    "A lorry loading area",
+    "An emergency exit, which must be kept clear"
+   ],
+   "x": "The green sign showing a person running to a door marks an emergency exit. It must be clear at all times for evacuation: never park there, even briefly."
+  },
+  "img": "secours-sortie"
+ },
+ {
+  "id": "r489-137",
+  "points": {
+   "r489": "expl-circ-int"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Vous devez emprunter un monte-charge ou une passerelle avec votre chariot. Que vérifiez-vous ?",
+   "o": [
+    "Que sa charge admissible couvre le chariot et sa charge",
+    "Uniquement que la porte est ouverte",
+    "Que personne ne vous regarde",
+    "Que le chariot est en marche arrière"
+   ],
+   "x": "Le chariot lui-même pèse souvent bien plus que sa charge. Un monte-charge, un plancher ou une passerelle a une limite : on additionne la masse du chariot et celle de la charge avant de s’y engager."
+  },
+  "en": {
+   "q": "You need to use a goods lift or a walkway with your truck. What do you check?",
+   "o": [
+    "That its rated load covers both the truck and its load",
+    "Only that the door is open",
+    "That nobody is watching you",
+    "That the truck is in reverse"
+   ],
+   "x": "The truck itself often weighs far more than its load. A goods lift, floor or walkway has a limit: add the mass of the truck and the load before going onto it."
+  }
+ },
+ {
+  "id": "r489-138",
+  "points": {
+   "r489": "expl-circ-int"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous suivez un autre chariot dans une allée. Quelle règle appliquez-vous ?",
+   "o": [
+    "Rester au plus près pour ne pas perdre de temps",
+    "Garder une distance suffisante pour pouvoir s’arrêter",
+    "Le doubler dès que possible",
+    "Klaxonner pour qu’il accélère"
+   ],
+   "x": "Si le chariot de devant freine brusquement ou perd sa charge, il faut pouvoir s’arrêter sans le percuter. La distance tient compte de la vitesse, de la charge et de l’état du sol. Les dépassements se limitent aux zones prévues."
+  },
+  "en": {
+   "q": "You are following another truck along an aisle. Which rule do you apply?",
+   "o": [
+    "Stay as close as possible to save time",
+    "Keep enough distance to be able to stop",
+    "Overtake it as soon as you can",
+    "Sound your horn so it speeds up"
+   ],
+   "x": "If the truck ahead brakes sharply or drops its load, you must be able to stop without hitting it. The distance allows for speed, load and floor condition. Overtaking is limited to the areas provided."
+  }
+ },
+ {
+  "id": "r489-139",
+  "points": {
+   "r489": "expl-circ-ext"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Pour rouler sur la voie publique, votre chariot exige un permis de conduire. Ce permis est-il exigé pour le conduire sur un site privé ?",
+   "o": [
+    "Non, le CACES suffit sur un site privé",
+    "Non, uniquement l’autorisation de conduite",
+    "Oui, le Code de la route l’exige aussi sur voie privée",
+    "Oui, mais seulement la nuit"
+   ],
+   "x": "La recommandation rappelle l’article R221-1 du Code de la route : quand un véhicule demande un permis pour la voie publique, son conducteur doit aussi le détenir sur voie privée. Le CACES ne dispense pas de ce permis."
+  },
+  "en": {
+   "q": "Your truck requires a driving licence on public roads. Is that licence required to drive it on a private site?",
+   "o": [
+    "No, the CACES is enough on a private site",
+    "No, only the operating authorisation",
+    "Yes, the Highway Code also requires it on private roads",
+    "Yes, but only at night"
+   ],
+   "x": "The recommendation cites Article R221-1 of the Highway Code (Code de la route): when a vehicle needs a licence on public roads, its driver must also hold it on private roads. The CACES does not exempt you."
+  }
+ },
+ {
+  "id": "r489-140",
+  "points": {
+   "r489": "expl-circ-ext"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "À l’extérieur, vous devez traverser une cour en graviers avec des trous. Que faites-vous ?",
+   "o": [
+    "Vous gardez votre vitesse pour ne pas vous enliser",
+    "Vous levez la charge pour mieux voir les trous",
+    "Vous traversez en diagonale pour aller plus vite",
+    "Vous réduisez la vitesse et évitez les trous, charge basse"
+   ],
+   "x": "Les chariots industriels ont de petites roues et sont conçus pour des sols plats. Graviers, trous et bordures les déstabilisent. On ralentit, on garde la charge basse et on choisit le trajet le plus régulier."
+  },
+  "en": {
+   "q": "Outdoors you have to cross a gravel yard with potholes. What do you do?",
+   "o": [
+    "Keep your speed so as not to get stuck",
+    "Raise the load to see the holes better",
+    "Cross diagonally to go faster",
+    "Slow down and avoid the holes, load low"
+   ],
+   "x": "Industrial trucks have small wheels and are designed for flat floors. Gravel, holes and kerbs destabilise them. Slow down, keep the load low and choose the smoothest route."
+  }
+ },
+ {
+  "id": "r489-141",
+  "points": {
+   "r489": "expl-circ-ext"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Il pleut ou il gèle et vous devez circuler dehors. Quelle précaution prenez-vous ?",
+   "o": [
+    "Rouler plus lentement et freiner plus tôt",
+    "Rouler plus vite pour rester moins longtemps dehors",
+    "Freiner plus fort au dernier moment",
+    "Rien de particulier si le chariot est électrique"
+   ],
+   "x": "Pluie, verglas, feuilles ou boue réduisent fortement l’adhérence : le freinage s’allonge et les roues peuvent glisser en virage. On adapte la vitesse et on anticipe les arrêts."
+  },
+  "en": {
+   "q": "It is raining or freezing and you have to drive outside. What precaution do you take?",
+   "o": [
+    "Drive more slowly and brake earlier",
+    "Drive faster to spend less time outside",
+    "Brake harder at the last moment",
+    "Nothing special if the truck is electric"
+   ],
+   "x": "Rain, ice, leaves or mud greatly reduce grip: braking distance increases and wheels can slide in turns. Adapt your speed and anticipate stops."
+  }
+ },
+ {
+  "id": "r489-142",
+  "points": {
+   "r489": "expl-circ-ext"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "Vous arrivez devant ce panneau dans la cour du site. Que faites-vous ?",
+   "o": [
+    "Vous ralentissez sans vous arrêter si la voie semble libre",
+    "Vous marquez l’arrêt complet puis cédez le passage",
+    "Vous accélérez pour passer avant les autres",
+    "Vous l’ignorez, il ne vise que les camions"
+   ],
+   "x": "Le panneau STOP impose un arrêt total à la limite de la chaussée, puis de laisser passer les autres usagers. Sur un site, la signalisation routière s’applique à tous les véhicules, chariots compris."
+  },
+  "en": {
+   "q": "You reach this sign in the site yard. What do you do?",
+   "o": [
+    "You slow down without stopping if the way looks clear",
+    "You come to a complete stop, then give way",
+    "You speed up to get through before the others",
+    "You ignore it, it only applies to lorries"
+   ],
+   "x": "The STOP sign requires a full stop at the edge of the road, then giving way to other users. On a site, road signs apply to all vehicles, trucks included."
+  },
+  "img": "route-stop"
+ },
+ {
+  "id": "r489-143",
+  "points": {
+   "r489": "expl-circ-ext"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "Que vous impose ce panneau à l’entrée de la zone de stockage extérieure ?",
+   "o": [
+    "Rouler au moins à 10 km/h",
+    "Garder 10 m entre deux engins",
+    "Ne pas dépasser 10 km/h",
+    "Ne pas charger plus de 10 tonnes"
+   ],
+   "x": "Le panneau rond cerclé de rouge portant un nombre fixe une vitesse maximale. Ici, 10 km/h au plus. C’est une limite : selon la charge, le sol ou la visibilité, il faut souvent rouler moins vite."
+  },
+  "en": {
+   "q": "What does this sign at the entrance to the outdoor storage area require?",
+   "o": [
+    "Drive at least 10 km/h",
+    "Keep 10 m between machines",
+    "Do not exceed 10 km/h",
+    "Do not load more than 10 tonnes"
+   ],
+   "x": "A round red-ringed sign with a number sets a maximum speed, here 10 km/h. It is a limit: depending on load, floor or visibility you often need to go slower."
+  },
+  "img": "route-vitesse-10"
+ },
+ {
+  "id": "r489-144",
+  "points": {
+   "r489": "expl-chargement"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "Vous chargez un plateau de camion par le côté, depuis le sol. Comment répartissez-vous les charges ?",
+   "o": [
+    "En remplissant d’abord tout un côté",
+    "En posant toutes les charges au centre du plateau, empilées les unes sur les autres",
+    "Dans l’ordre d’arrivée, sans tenir compte du côté",
+    "En alternant les déposes de part et d’autre pour équilibrer le véhicule"
+   ],
+   "x": "Charger tout un côté déséquilibre le véhicule et peut le faire pencher ou basculer, ou faire bouger le plateau pendant la prise. Équilibrer les déposes des deux côtés garde le véhicule stable, selon le plan de chargement."
+  },
+  "en": {
+   "q": "You are loading a flatbed lorry from the side, from the ground. How do you spread the loads?",
+   "o": [
+    "By filling one whole side first",
+    "By putting all the loads in the centre of the bed, stacked on top of each other",
+    "In the order they arrive, regardless of side",
+    "By alternating drops on each side to balance the vehicle"
+   ],
+   "x": "Loading one whole side unbalances the vehicle, which may lean or tip, or the bed may move during handling. Balancing drops on both sides keeps the vehicle stable, following the loading plan."
+  }
+ },
+ {
+  "id": "r489-145",
+  "points": {
+   "r489": "expl-chargement"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "Comment entrez-vous dans une remorque à quai avec votre chariot ?",
+   "o": [
+    "Lentement, dans l’axe, en surveillant le pont et le plancher",
+    "Vite, pour franchir le pont d’un seul élan",
+    "En biais, pour gagner de la place",
+    "Fourches levées, pour voir l’intérieur"
+   ],
+   "x": "Le passage quai-remorque est une zone à risque : jonction, pente du pont, plancher plus ou moins solide. On roule lentement, droit, charge basse, en vérifiant que tout reste en place à chaque passage."
+  },
+  "en": {
+   "q": "How do you drive your truck into a trailer at the dock?",
+   "o": [
+    "Slowly, straight in, watching the dock plate and floor",
+    "Fast, to cross the plate in one go",
+    "At an angle, to save space",
+    "Forks raised, to see inside"
+   ],
+   "x": "The dock-to-trailer crossing is a risk zone: the joint, the plate's slope and a floor of variable strength. Drive slowly, straight, load low, checking everything stays in place each time."
+  }
+ },
+ {
+  "id": "r489-146",
+  "points": {
+   "r489": "abaque-capacite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "D’après cette plaque, quelle charge maximale pouvez-vous lever à 3,30 m avec un centre de gravité à 500 mm ?",
+   "o": [
+    "2 300 kg",
+    "2 500 kg",
+    "1 900 kg",
+    "1 750 kg"
+   ],
+   "x": "On lit la ligne 3,3 m et la colonne 500 mm : 2 500 kg. C’est la capacité nominale du chariot, valable seulement pour ce centre de gravité et jusqu’à cette hauteur."
+  },
+  "en": {
+   "q": "According to this chart, what maximum load can you lift to 3.30 m with the centre of gravity at 500 mm?",
+   "o": [
+    "2,300 kg",
+    "2,500 kg",
+    "1,900 kg",
+    "1,750 kg"
+   ],
+   "x": "Read the 3.3 m row and the 500 mm column: 2,500 kg. This is the truck's rated capacity, valid only for that load centre and up to that height."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-147",
+  "points": {
+   "r489": "abaque-capacite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "D’après cette plaque, quelle est la capacité à 4,50 m pour un centre de gravité à 700 mm ?",
+   "o": [
+    "1 950 kg",
+    "1 500 kg",
+    "1 800 kg",
+    "2 050 kg"
+   ],
+   "x": "Ligne 4,5 m, colonne 700 mm : 1 800 kg. À cette hauteur, la capacité est déjà inférieure à celle disponible à 3,30 m, car la charge haute réduit la stabilité."
+  },
+  "en": {
+   "q": "According to this chart, what is the capacity at 4.50 m with a load centre of 700 mm?",
+   "o": [
+    "1,950 kg",
+    "1,500 kg",
+    "1,800 kg",
+    "2,050 kg"
+   ],
+   "x": "Row 4.5 m, column 700 mm: 1,800 kg. At this height capacity is already lower than at 3.30 m, because a high load reduces stability."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-148",
+  "points": {
+   "r489": "abaque-capacite"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "D’après cette plaque, quelle charge maximale pouvez-vous stocker à 5 m avec un centre de gravité à 650 mm ?",
+   "o": [
+    "1 700 kg",
+    "1 800 kg",
+    "1 900 kg",
+    "1 500 kg"
+   ],
+   "x": "5 m n’existe pas : on prend la ligne 5,5 m. 650 mm non plus : on prend la colonne 700 mm. On lit 1 500 kg. Si la valeur exacte n’est pas dans le tableau, on prend la hauteur et la distance immédiatement supérieures."
+  },
+  "en": {
+   "q": "According to this chart, what maximum load can you store at 5 m with a load centre of 650 mm?",
+   "o": [
+    "1,700 kg",
+    "1,800 kg",
+    "1,900 kg",
+    "1,500 kg"
+   ],
+   "x": "5 m is not listed, so use the 5.5 m row. 650 mm is not listed either, so use the 700 mm column. It reads 1,500 kg. If the exact value is not in the chart, use the next higher height and distance."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-149",
+  "points": {
+   "r489": "abaque-capacite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’après cette plaque, pouvez-vous stocker à 5,50 m une palette de 1 900 kg dont le centre de gravité est à 600 mm ?",
+   "o": [
+    "Non, la capacité n’y est que de 1 700 kg",
+    "Oui, il reste 100 kg de marge",
+    "Oui, à condition de lever lentement",
+    "Oui, car la capacité nominale est de 2 500 kg"
+   ],
+   "x": "Ligne 5,5 m, colonne 600 mm : 1 700 kg. La palette dépasse de 200 kg. Lever doucement ne change rien à l’équilibre ; la capacité nominale ne vaut qu’à 500 mm et en bas du mât."
+  },
+  "en": {
+   "q": "According to this chart, can you store a 1,900 kg pallet with its centre of gravity at 600 mm at 5.50 m?",
+   "o": [
+    "No, capacity there is only 1,700 kg",
+    "Yes, there is 100 kg to spare",
+    "Yes, provided you lift slowly",
+    "Yes, because the rated capacity is 2,500 kg"
+   ],
+   "x": "Row 5.5 m, column 600 mm: 1,700 kg. The pallet is 200 kg over. Lifting slowly does not change the balance; the rated capacity only applies at 500 mm and low on the mast."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-150",
+  "points": {
+   "r489": "abaque-capacite"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "D’après cette plaque, quelle charge maximale pouvez-vous lever à 3,30 m avec un centre de gravité à 800 mm ?",
+   "o": [
+    "2 500 kg",
+    "1 750 kg",
+    "1 600 kg",
+    "1 350 kg"
+   ],
+   "x": "Ligne 3,3 m, colonne 800 mm : 1 750 kg. Même en bas du mât, éloigner le centre de gravité de 500 à 800 mm fait perdre 750 kg de capacité."
+  },
+  "en": {
+   "q": "According to this chart, what maximum load can you lift to 3.30 m with a load centre of 800 mm?",
+   "o": [
+    "2,500 kg",
+    "1,750 kg",
+    "1,600 kg",
+    "1,350 kg"
+   ],
+   "x": "Row 3.3 m, column 800 mm: 1,750 kg. Even low on the mast, moving the load centre from 500 to 800 mm costs 750 kg of capacity."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-151",
+  "points": {
+   "r489": "abaque-capacite"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "D’après la plaque de ce chariot à mât rétractable, quelle est la capacité à 8 m pour un centre de gravité à 800 mm ?",
+   "o": [
+    "1 250 kg",
+    "850 kg",
+    "1 100 kg",
+    "1 000 kg"
+   ],
+   "x": "Ligne 8,0 m, colonne 800 mm : 1 100 kg. Sur un chariot à mât rétractable, la capacité chute nettement avec la hauteur, d’où l’importance de vérifier chaque niveau du palettier."
+  },
+  "en": {
+   "q": "According to this reach truck's chart, what is the capacity at 8 m with a load centre of 800 mm?",
+   "o": [
+    "1,250 kg",
+    "850 kg",
+    "1,100 kg",
+    "1,000 kg"
+   ],
+   "x": "Row 8.0 m, column 800 mm: 1,100 kg. On a reach truck capacity drops sharply with height, so each rack level must be checked."
+  },
+  "plaque": "P2"
+ },
+ {
+  "id": "r489-152",
+  "points": {
+   "r489": "abaque-capacite"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "D’après cette plaque, quelle charge maximale pouvez-vous placer à 7 m avec un centre de gravité à 900 mm ?",
+   "o": [
+    "1 100 kg",
+    "750 kg",
+    "1 250 kg",
+    "1 000 kg"
+   ],
+   "x": "7 m n’est pas dans le tableau : on prend la ligne 8,0 m. Colonne 900 mm : 1 000 kg. Si la valeur exacte n’est pas dans le tableau, on prend la hauteur et la distance immédiatement supérieures."
+  },
+  "en": {
+   "q": "According to this chart, what maximum load can you place at 7 m with a load centre of 900 mm?",
+   "o": [
+    "1,100 kg",
+    "750 kg",
+    "1,250 kg",
+    "1,000 kg"
+   ],
+   "x": "7 m is not in the chart, so use the 8.0 m row. Column 900 mm: 1,000 kg. If the exact value is not in the chart, use the next higher height and distance."
+  },
+  "plaque": "P2"
+ },
+ {
+  "id": "r489-153",
+  "points": {
+   "r489": "abaque-capacite"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’après cette plaque, quelle est la capacité à 6 m pour un centre de gravité à 750 mm ?",
+   "o": [
+    "1 250 kg",
+    "1 400 kg",
+    "1 100 kg",
+    "1 600 kg"
+   ],
+   "x": "La ligne 6,0 m existe ; 750 mm n’existe pas, on prend la colonne 800 mm : 1 250 kg. Prendre la colonne 700 mm donnerait 1 400 kg, une valeur trop optimiste. Si la valeur exacte n’est pas dans le tableau, on prend la hauteur et la distance immédiatement supérieures."
+  },
+  "en": {
+   "q": "According to this chart, what is the capacity at 6 m with a load centre of 750 mm?",
+   "o": [
+    "1,250 kg",
+    "1,400 kg",
+    "1,100 kg",
+    "1,600 kg"
+   ],
+   "x": "The 6.0 m row exists; 750 mm does not, so use the 800 mm column: 1,250 kg. Using the 700 mm column would give 1,400 kg, which is too optimistic. If the exact value is not in the chart, use the next higher height and distance."
+  },
+  "plaque": "P2"
+ },
+ {
+  "id": "r489-154",
+  "points": {
+   "r489": "abaque-hauteur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur maximale pouvez-vous lever 1 800 kg dont le centre de gravité est à 700 mm ?",
+   "o": [
+    "5,50 m",
+    "4,50 m",
+    "3,30 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 700 mm : 1 950 kg à 3,3 m, 1 800 kg à 4,5 m, 1 500 kg à 5,5 m. 1 800 kg passe jusqu’à 4,5 m, pas au-delà, car à 5,5 m la capacité tombe à 1 500 kg."
+  },
+  "en": {
+   "q": "According to this chart, what is the maximum height you can lift 1,800 kg with a load centre of 700 mm?",
+   "o": [
+    "5.50 m",
+    "4.50 m",
+    "3.30 m",
+    "No height at all"
+   ],
+   "x": "Column 700 mm: 1,950 kg at 3.3 m, 1,800 kg at 4.5 m, 1,500 kg at 5.5 m. 1,800 kg is allowed up to 4.5 m, not higher, because at 5.5 m capacity falls to 1,500 kg."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-155",
+  "points": {
+   "r489": "abaque-hauteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 2 000 kg avec un centre de gravité à 600 mm ?",
+   "o": [
+    "3,30 m",
+    "5,50 m",
+    "4,50 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 600 mm : 2 200 kg à 3,3 m et 2 050 kg à 4,5 m conviennent ; à 5,5 m, 1 700 kg ne suffit pas. La hauteur maximale est donc 4,5 m."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 2,000 kg with a load centre of 600 mm?",
+   "o": [
+    "3.30 m",
+    "5.50 m",
+    "4.50 m",
+    "No height at all"
+   ],
+   "x": "Column 600 mm: 2,200 kg at 3.3 m and 2,050 kg at 4.5 m are enough; at 5.5 m, 1,700 kg is not. The maximum height is therefore 4.5 m."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-156",
+  "points": {
+   "r489": "abaque-hauteur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 1 400 kg avec un centre de gravité à 800 mm ?",
+   "o": [
+    "5,50 m",
+    "3,30 m",
+    "Aucune hauteur",
+    "4,50 m"
+   ],
+   "x": "Colonne 800 mm : 1 600 kg à 4,5 m suffit, mais 1 350 kg à 5,5 m est inférieur à 1 400 kg. On s’arrête donc à 4,5 m, même s’il ne manque que 50 kg."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 1,400 kg with a load centre of 800 mm?",
+   "o": [
+    "5.50 m",
+    "3.30 m",
+    "No height at all",
+    "4.50 m"
+   ],
+   "x": "Column 800 mm: 1,600 kg at 4.5 m is enough, but 1,350 kg at 5.5 m is less than 1,400 kg. So you stop at 4.5 m, even though only 50 kg is missing."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-157",
+  "points": {
+   "r489": "abaque-hauteur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 1 300 kg avec un centre de gravité à 800 mm ?",
+   "o": [
+    "5,50 m",
+    "4,50 m",
+    "3,30 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 800 mm, ligne 5,5 m : 1 350 kg, supérieur à 1 300 kg. La charge peut donc monter jusqu’à la hauteur maximale du tableau, 5,5 m."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 1,300 kg with a load centre of 800 mm?",
+   "o": [
+    "5.50 m",
+    "4.50 m",
+    "3.30 m",
+    "No height at all"
+   ],
+   "x": "Column 800 mm, row 5.5 m: 1,350 kg, which is more than 1,300 kg. The load can therefore go up to the highest height in the chart, 5.5 m."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-158",
+  "points": {
+   "r489": "abaque-hauteur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 2 400 kg avec un centre de gravité à 500 mm ?",
+   "o": [
+    "4,50 m",
+    "3,30 m",
+    "5,50 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 500 mm : 2 500 kg à 3,3 m convient, mais 2 300 kg à 4,5 m est insuffisant. La charge ne doit pas dépasser 3,3 m."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 2,400 kg with a load centre of 500 mm?",
+   "o": [
+    "4.50 m",
+    "3.30 m",
+    "5.50 m",
+    "No height at all"
+   ],
+   "x": "Column 500 mm: 2,500 kg at 3.3 m is enough, but 2,300 kg at 4.5 m is not. The load must not go above 3.3 m."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-159",
+  "points": {
+   "r489": "abaque-hauteur"
+  },
+  "answer": 2,
+  "fr": {
+   "q": "D’après cette plaque, à quelle hauteur pouvez-vous lever 2 000 kg avec un centre de gravité à 800 mm ?",
+   "o": [
+    "3,30 m",
+    "4,50 m",
+    "Aucune : la charge dépasse la capacité dès 3,30 m",
+    "5,50 m"
+   ],
+   "x": "Colonne 800 mm, la meilleure valeur est 1 750 kg à 3,3 m. 2 000 kg dépasse la capacité à toutes les hauteurs du tableau : la manutention est impossible avec ce chariot sans rapprocher le centre de gravité."
+  },
+  "en": {
+   "q": "According to this chart, to what height can you lift 2,000 kg with a load centre of 800 mm?",
+   "o": [
+    "3.30 m",
+    "4.50 m",
+    "None: the load exceeds capacity even at 3.30 m",
+    "5.50 m"
+   ],
+   "x": "In the 800 mm column, the best value is 1,750 kg at 3.3 m. 2,000 kg exceeds capacity at every height in the chart: the lift is impossible with this truck unless the load centre is brought closer."
+  },
+  "plaque": "P1"
+ },
+ {
+  "id": "r489-160",
+  "points": {
+   "r489": "abaque-hauteur"
+  },
+  "answer": 3,
+  "fr": {
+   "q": "D’après la plaque de ce chariot à mât rétractable, jusqu’à quelle hauteur pouvez-vous lever 1 200 kg avec un centre de gravité à 700 mm ?",
+   "o": [
+    "10 m",
+    "6 m",
+    "Aucune hauteur",
+    "8 m"
+   ],
+   "x": "Colonne 700 mm : 1 400 kg à 6 m et 1 250 kg à 8 m conviennent ; 950 kg à 10 m ne suffit pas. La hauteur maximale est 8 m."
+  },
+  "en": {
+   "q": "According to this reach truck's chart, up to what height can you lift 1,200 kg with a load centre of 700 mm?",
+   "o": [
+    "10 m",
+    "6 m",
+    "No height at all",
+    "8 m"
+   ],
+   "x": "Column 700 mm: 1,400 kg at 6 m and 1,250 kg at 8 m are enough; 950 kg at 10 m is not. The maximum height is 8 m."
+  },
+  "plaque": "P2"
+ },
+ {
+  "id": "r489-161",
+  "points": {
+   "r489": "abaque-hauteur"
+  },
+  "answer": 0,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 1 050 kg avec un centre de gravité à 900 mm ?",
+   "o": [
+    "6 m",
+    "8 m",
+    "10 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 900 mm : 1 100 kg à 6 m convient, mais 1 000 kg à 8 m est inférieur à 1 050 kg. Il faut s’arrêter à 6 m."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 1,050 kg with a load centre of 900 mm?",
+   "o": [
+    "6 m",
+    "8 m",
+    "10 m",
+    "No height at all"
+   ],
+   "x": "Column 900 mm: 1,100 kg at 6 m is enough, but 1,000 kg at 8 m is less than 1,050 kg. You must stop at 6 m."
+  },
+  "plaque": "P2"
+ },
+ {
+  "id": "r489-162",
+  "points": {
+   "r489": "abaque-hauteur"
+  },
+  "answer": 1,
+  "fr": {
+   "q": "D’après cette plaque, jusqu’à quelle hauteur pouvez-vous lever 800 kg avec un centre de gravité à 800 mm ?",
+   "o": [
+    "8 m",
+    "10 m",
+    "6 m",
+    "Aucune hauteur"
+   ],
+   "x": "Colonne 800 mm, ligne 10,0 m : 850 kg, supérieur à 800 kg. La charge peut être stockée jusqu’au niveau le plus haut du tableau."
+  },
+  "en": {
+   "q": "According to this chart, up to what height can you lift 800 kg with a load centre of 800 mm?",
+   "o": [
+    "8 m",
+    "10 m",
+    "6 m",
+    "No height at all"
+   ],
+   "x": "Column 800 mm, row 10.0 m: 850 kg, which is more than 800 kg. The load can be stored up to the highest level in the chart."
+  },
+  "plaque": "P2"
+ }
+]

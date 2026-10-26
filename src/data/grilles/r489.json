@@ -1,0 +1,269 @@
+{
+ "reco": "r489",
+ "titre": {
+  "fr": "Chariots de manutention automoteurs à conducteur porté",
+  "en": "Ride-on powered industrial trucks"
+ },
+ "themes": [
+  {
+   "key": "cg",
+   "fr": "Connaissances générales",
+   "en": "General knowledge",
+   "points": 15,
+   "items": [
+    {
+     "key": "cg-roles-employeur",
+     "fr": "Rôles du constructeur et de l’employeur",
+     "en": "Duties of the manufacturer and the employer",
+     "n": 2
+    },
+    {
+     "key": "cg-roles-conducteur",
+     "fr": "Rôle et responsabilités du conducteur",
+     "en": "Duties and responsibilities of the driver",
+     "n": 7
+    },
+    {
+     "key": "cg-acteurs",
+     "fr": "Acteurs de la prévention et leurs missions",
+     "en": "Occupational safety bodies and their missions",
+     "n": 1
+    },
+    {
+     "key": "cg-categories",
+     "fr": "Chariots concernés ou exclus, usages et catégories CACES",
+     "en": "Trucks covered or excluded, uses and CACES categories",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "key": "tech",
+   "fr": "Technologie et stabilité",
+   "en": "Ride-on truck technology and stability",
+   "points": 25,
+   "items": [
+    {
+     "key": "tech-energie-types",
+     "fr": "Sources d’énergie : types et repérage",
+     "en": "Power sources: types and identification",
+     "n": 1
+    },
+    {
+     "key": "tech-energie-usage",
+     "fr": "Sources d’énergie : particularités et conditions d’emploi",
+     "en": "Power sources: features and conditions of use",
+     "n": 2
+    },
+    {
+     "key": "tech-energie-charge",
+     "fr": "Plein de carburant et recharge des batteries",
+     "en": "Refuelling and battery charging",
+     "n": 1
+    },
+    {
+     "key": "tech-securite",
+     "fr": "Dispositifs de sécurité et leur utilité",
+     "en": "Safety devices and what they do",
+     "n": 3
+    },
+    {
+     "key": "tech-organes",
+     "fr": "Commandes du chariot et leur rôle",
+     "en": "Truck controls and their role",
+     "n": 1
+    },
+    {
+     "key": "tech-maintien",
+     "fr": "Retenue du conducteur à son poste",
+     "en": "Operator restraint systems",
+     "n": 2
+    },
+    {
+     "key": "tech-mecanismes",
+     "fr": "Composants, mécanismes et principe de fonctionnement",
+     "en": "Components, mechanisms and how they work",
+     "n": 2
+    },
+    {
+     "key": "tech-reglages",
+     "fr": "Réglages du poste de conduite et leur but",
+     "en": "Driving position adjustments and their purpose",
+     "n": 2
+    },
+    {
+     "key": "tech-masse",
+     "fr": "Estimer la masse de la charge",
+     "en": "Estimating the load mass",
+     "n": 2
+    },
+    {
+     "key": "tech-cdg",
+     "fr": "Situer le centre de gravité de la charge",
+     "en": "Locating the load centre of gravity",
+     "n": 2
+    },
+    {
+     "key": "tech-equilibre",
+     "fr": "Équilibre et stabilité de la charge",
+     "en": "Load balance and stability",
+     "n": 1
+    },
+    {
+     "key": "tech-lateral",
+     "fr": "Causes du renversement sur le côté",
+     "en": "Causes of sideways tip-over",
+     "n": 3
+    },
+    {
+     "key": "tech-frontal",
+     "fr": "Causes du basculement vers l’avant",
+     "en": "Causes of forward tip-over",
+     "n": 3
+    }
+   ]
+  },
+  {
+   "key": "abaque",
+   "fr": "Tableau et abaque de charges",
+   "en": "Load chart and capacity diagram",
+   "points": 10,
+   "items": [
+    {
+     "key": "abaque-capacite",
+     "fr": "Capacité selon hauteur et centre de gravité",
+     "en": "Capacity for a given height and load centre",
+     "n": 5
+    },
+    {
+     "key": "abaque-hauteur",
+     "fr": "Hauteur permise selon masse et centre de gravité",
+     "en": "Allowed height for a given mass and load centre",
+     "n": 5
+    }
+   ]
+  },
+  {
+   "key": "expl",
+   "fr": "Exploitation",
+   "en": "Operating ride-on trucks",
+   "points": 50,
+   "items": [
+    {
+     "key": "expl-causes",
+     "fr": "Principales causes d’accidents avec un chariot",
+     "en": "Main causes of lift truck accidents",
+     "n": 5
+    },
+    {
+     "key": "expl-renversement",
+     "fr": "Prévenir le renversement du chariot ou de la charge",
+     "en": "Preventing truck or load tip-over",
+     "n": 4
+    },
+    {
+     "key": "expl-heurts",
+     "fr": "Prévenir les heurts de personnes ou d’objets",
+     "en": "Preventing collisions with people or objects",
+     "n": 3
+    },
+    {
+     "key": "expl-personnes",
+     "fr": "Transport et élévation de personnes",
+     "en": "Carrying and lifting people",
+     "n": 3
+    },
+    {
+     "key": "expl-energies",
+     "fr": "Risques des énergies utilisées",
+     "en": "Hazards of the energies in use",
+     "n": 2
+    },
+    {
+     "key": "expl-substances",
+     "fr": "Alcool, drogues, médicaments et conduite",
+     "en": "Alcohol, drugs, medicines and driving",
+     "n": 2
+    },
+    {
+     "key": "expl-attention",
+     "fr": "Perte d’attention et téléphone au volant",
+     "en": "Distraction and phone use while driving",
+     "n": 2
+    },
+    {
+     "key": "expl-incendie",
+     "fr": "Incendie, explosion et gaz d’échappement",
+     "en": "Fire, explosion and exhaust fumes",
+     "n": 2
+    },
+    {
+     "key": "expl-bruit",
+     "fr": "Bruit et vibrations au poste",
+     "en": "Noise and vibration at the driving position",
+     "n": 2
+    },
+    {
+     "key": "expl-freinage-distance",
+     "fr": "Distance de freinage du chariot",
+     "en": "Truck braking distance",
+     "n": 2
+    },
+    {
+     "key": "expl-freinage-facteurs",
+     "fr": "Ce qui allonge ou raccourcit le freinage",
+     "en": "What lengthens or shortens braking",
+     "n": 2
+    },
+    {
+     "key": "expl-pictos",
+     "fr": "Panneaux et pictogrammes de signalisation",
+     "en": "Safety signs and pictograms",
+     "n": 2
+    },
+    {
+     "key": "expl-circ-int",
+     "fr": "Circuler et conduire dans les bâtiments",
+     "en": "Driving inside buildings",
+     "n": 3
+    },
+    {
+     "key": "expl-circ-ext",
+     "fr": "Circuler et conduire à l’extérieur",
+     "en": "Driving outdoors",
+     "n": 3
+    },
+    {
+     "key": "expl-chargement",
+     "fr": "Charger et décharger un véhicule, protocole de sécurité",
+     "en": "Loading and unloading vehicles, safety protocol",
+     "n": 5
+    },
+    {
+     "key": "expl-produits-pictos",
+     "fr": "Pictogrammes des produits dangereux",
+     "en": "Hazardous product pictograms",
+     "n": 2
+    },
+    {
+     "key": "expl-produits-risques",
+     "fr": "Manutention des produits dangereux",
+     "en": "Handling hazardous products",
+     "n": 2
+    },
+    {
+     "key": "expl-verif",
+     "fr": "Vérifications et entretien de fin de poste",
+     "en": "End-of-shift checks and daily maintenance",
+     "n": 2
+    },
+    {
+     "key": "expl-incident",
+     "fr": "Réagir à un incident ou une panne",
+     "en": "Responding to an incident or breakdown",
+     "n": 2
+    }
+   ]
+  }
+ ]
+}

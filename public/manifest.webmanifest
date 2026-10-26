@@ -1,0 +1,21 @@
+{
+ "name": "FR CACES",
+ "short_name": "FR CACES",
+ "description": "Test CACES gratuit : examen blanc théorique de 100 questions par recommandation (R489, R482, R486, R490, R485), seuil de 70/100, corrigé expliqué, sans compte.",
+ "start_url": "/fr/",
+ "display": "standalone",
+ "background_color": "#ffffff",
+ "theme_color": "#0B4F8A",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
